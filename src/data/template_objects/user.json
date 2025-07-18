@@ -1,0 +1,19 @@
+{
+    "uid": null,
+    "username": null,
+    "email": null,
+    "scores": {
+        "total": 0,
+        "today": 0,
+        "byCategory": {}
+    },
+    "badges": [],
+    "quizCompletes": 0,
+    "log": {
+        "lastPlayed": null
+    },
+    "analytics": {
+        "device": null
+    },
+    "settings": null
+}

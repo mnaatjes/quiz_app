@@ -1,0 +1,46 @@
+[
+    {
+        "id": "history",
+        "name": "History",
+        "description": "Explore the past, from ancient civilizations to modern events and influential figures.",
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "questionCount": null,
+        "tags": ["ancient", "medieval", "modern", "wars", "biographies"]
+    },
+    {
+        "id": "science_nature",
+        "name": "Science & Nature",
+        "description": "Test your knowledge of the natural world, scientific laws, and groundbreaking discoveries.",
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "questionCount": null,
+        "tags": ["biology", "chemistry", "physics", "astronomy", "environment"]
+    },
+    {
+        "id": "sports",
+        "name": "Sports",
+        "description": "Challenge your sports trivia knowledge across different disciplines and legendary moments.",
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "questionCount": null,
+        "tags": ["football", "basketball", "soccer", "olympics", "athletes"]
+    },
+    {
+        "id": "geography",
+        "name": "Geography",
+        "description": "Journey around the world and test your knowledge of countries, capitals, and natural wonders.",
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "questionCount": null,
+        "tags": ["countries", "capitals", "landmarks", "continents", "cities"]
+    }
+]

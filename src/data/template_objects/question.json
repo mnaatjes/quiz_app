@@ -1,0 +1,29 @@
+{
+  "QID": 0,
+  "text": "What is the capital of France?",
+  "type": "multiple_choice",
+  "category": "geography",
+  "difficulty": "easy",
+  "options": [
+    {
+      "OID": 1,
+      "text": "Berlin"
+    },
+    {
+      "OID": 2,
+      "text": "Madrid"
+    },
+    {
+      "OID": 3,
+      "text": "Paris"
+    },
+    {
+      "OID": 4,
+      "text": "Rome"
+    }
+  ],
+  "correctAnswer": 3,
+  "explanation": "Paris is the largest city and capital of France, and is famous for landmarks like the Eiffel Tower and the Louvre Museum.",
+  "hint": "",
+  "basePoints": 10
+}

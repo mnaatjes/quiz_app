@@ -1,0 +1,26 @@
+[
+    {
+      "level": "easy",
+      "questionLimit": 5,
+      "timerEnabled": false,
+      "timePerQuestion": null,
+      "answerRevealOnCorrect": true,
+      "shuffleQuestions": false
+    },
+    {
+      "level": "medium",
+      "questionLimit": 10,
+      "timerEnabled": true,
+      "timePerQuestion": 30,
+      "answerRevealOnCorrect": true,
+      "shuffleQuestions": true
+    },
+    {
+      "level": "hard",
+      "questionLimit": 20,
+      "timerEnabled": true,
+      "timePerQuestion": 15,
+      "answerRevealOnCorrect": false,
+      "shuffleQuestions": true
+    }
+]

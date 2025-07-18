@@ -1,0 +1,16 @@
+{
+    "bonuses": {
+        "streak": 100,
+        "time": 50
+    },
+    "penalties": {
+        "hintGiven": -10,
+        "incorrect": -20
+    },
+    "totals": {
+        "byCategory": {
+
+        },
+        "rawPonts": 99999
+    }
+}

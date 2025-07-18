@@ -1,0 +1,24 @@
+[
+    {
+        "id": "first-win",
+        "name": "First Win!",
+        "desc": "Here is a string...",
+        "icon": {
+            "src": "",
+            "alt": ""
+        },
+        "type": "milestone",
+        "tier": 1
+    },
+    {
+        "id": "",
+        "name": "",
+        "desc": "",
+        "icon": {
+            "src": "",
+            "alt": ""
+        },
+        "type": "",
+        "tier": 1
+    }
+]

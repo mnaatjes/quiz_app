@@ -1,0 +1,19 @@
+{
+    "sound": {
+        "enabled": true,
+        "volume": 50,
+        "sfx": true
+    },
+    "display": {
+        "darkMode": false,
+        "fullScreen": false
+    },
+    "notifications": {
+        "enabled": true,
+        "dailyReminderTime": "12:00"
+    },
+    "language": "english-us",
+    "gameplay": {
+        "difficulty": 0,
+    }
+}
