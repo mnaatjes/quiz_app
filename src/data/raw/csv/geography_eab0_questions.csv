@@ -1,0 +1,843 @@
+question,QID,answer,answer_OID
+"What is the capital of Afghanistan?",GEOGRAPHY_b891_0001,Kabul,GEOGRAPHY_OPT_9a21_000B
+"What is the capital of Australia?",GEOGRAPHY_d732_0002,Canberra,GEOGRAPHY_OPT_3bb1_000A
+"What is the capital of Belgium?",GEOGRAPHY_5695_0003,Brussels,GEOGRAPHY_OPT_7116_000C
+"What is the capital of Greece?",GEOGRAPHY_fab0_0004,Athens,GEOGRAPHY_OPT_5342_000B
+"What is the capital of Italy?",GEOGRAPHY_8527_0005,Rome,GEOGRAPHY_OPT_3a31_000B
+"What is the capital of Israel?",GEOGRAPHY_3e36_0006,Jerusalem,GEOGRAPHY_OPT_e29f_000C
+"What is the capital of Germany?",GEOGRAPHY_dd81_0007,Berlin,GEOGRAPHY_OPT_7095_000B
+"What is the capital of Norway?",GEOGRAPHY_54b7_0008,Oslo,GEOGRAPHY_OPT_7bb1_000C
+"What is the capital and largest city of Hawaii, the 50th US state?",GEOGRAPHY_add9_0009,Honolulu,GEOGRAPHY_OPT_3e50_000D
+"When the streams Biya and Katun join in Altai Krai, they form this mighty river. It is located in West Siberia, Russia and has many names- the Siberian Tatars call it Omar or Umar, the Samoyedes- Kolta or Kuay and to the Ostiaks it is known as the As, Yag, Kolta and Yema. It joins the Irtysh river, forming the longest river flow in Russia. What is its name?",GEOGRAPHY_c999_0010,Ob,GEOGRAPHY_OPT_f509_000C
+"Although the Amazon river is generally regarded as the second-longest in the world, it is the river with greatest total flow, carrying more than the Mississippi, Nile, and Yangtze rivers combined.  It ends in the Atlantic Ocean, but it is believed to begin its long journey from this mountain peak.",GEOGRAPHY_5fcc_0011,"Nevado Mismi",GEOGRAPHY_OPT_b908_000A
+"This is the longest river in Asia and its Chinese name, Chang Jiang, is literally translated to Long River. The critically endangered Chinese River Dolphin and Chinese paddlefish live only in this river. It takes its source in the Qinghai Province, flows for 6,380km (3964miles) and finally empties into the East China Sea. What is the name of this river?",GEOGRAPHY_ae6a_0012,Yangtze,GEOGRAPHY_OPT_7bf9_000C
+"Huang He is the second-longest river in China. Its source is in the Kunlun Mountains at 4,500m (14,764 feet) above sea level. Due to the silts that the river carries, the color of its waters becomes so unnatural that it gave the name of the river . What is the color of the waters of Huang He?",GEOGRAPHY_27d9_0013,Yellow,GEOGRAPHY_OPT_acd3_000C
+"It is the second-longest river in the United States. The longest one, Missouri, joins it to form the longest river flow in North America. This river flows through ten states- Minnesota, Wisconsin, Iowa, Illinois, Missouri, Kentucky, Arkansas, Tennessee, Mississippi and Louisiana and mouths into the Gulf of Mexico. I am not going to ask you about its name, but about its source. What is the origin of the Mississippi river?",GEOGRAPHY_8da8_0014,"Lake Itasca",GEOGRAPHY_OPT_0059_000C
+"This is the twelfth-longest river in the world. It runs through China, Myanmar, Thailand, Laos, Cambodia and Vietnam. There are various theories about the source and the exact length of the river because there are several effluents of it that are too difficult to explore. Due to the many rapids and waterfalls, as well as the extreme changes in the flow of the river, sailing is extremely difficult. What is the name of this river?",GEOGRAPHY_6ed5_0015,Mekong,GEOGRAPHY_OPT_7a83_000A
+"The longest river in Europe is Volga. But do you know which is the second longest one? It flows through several major European cities, such as Ulm, Vienna, Bratislava, Budapest and Belgrade. The river empties in the Black Sea on the terrirories of Romania and Ukraine.",GEOGRAPHY_07a9_0016,Danube,GEOGRAPHY_OPT_6233_000C
+"The Ganges river is considered to be a holy in India. There is a Hindu legend that the river was created from the sweat of the feet of Vishnu, collected by Brahma. According to Hindu beliefs, if you bathe in the waters of Ganges, it will wash away your sins. However this is not very hygienic, as the river is badly polluted by cremated corpses, carcasses, waste from factories and more.  Where does this river empty?",GEOGRAPHY_814e_0017,"The Bay of Bengal",GEOGRAPHY_OPT_00d4_000A
+"Victoria Falls is one of the most spectacular waterfalls in the world. The falls are named after Queen Victoria by David Livingstone, the explorer who visited them in 1855. The falls are 128 m (420 ft) high and are situated on this river.",GEOGRAPHY_2984_0018,Zambezi,GEOGRAPHY_OPT_f261_000A
+"The Nile is generally considered the longest river in the world.  The source of this mighty river remained unknown for centuries. Finally Lake Victoria was decided to be its source, although there are other theories. Lake Victoria is located on the territories of these three countries.",GEOGRAPHY_adb7_0019,"Uganda, Kenya and Tanzania",GEOGRAPHY_OPT_0cdf_000C
+"Name the line, which is the same distance from the North Pole and South Pole and runs horizontally around the world.",GEOGRAPHY_3f54_0020,Equator,GEOGRAPHY_OPT_d25c_000B
+"What term refers to the horizontal line, 23.5 degrees S, which passes through South America, Africa, and Australia?",GEOGRAPHY_3a62_0021,"Tropic of Capricorn",GEOGRAPHY_OPT_857e_000C
+"Which continents are entirely in the Southern Hemisphere?",GEOGRAPHY_13cd_0022,"Australia and Antarctica",GEOGRAPHY_OPT_ea16_000B
+"Which continents (landmasses, not peripheral islands) are entirely in the Northern Hemisphere?",GEOGRAPHY_295d_0023,"North America, Europe, and Asia",GEOGRAPHY_OPT_1e13_000D
+"Which continents are entirely in the Western Hemisphere?",GEOGRAPHY_613d_0024,"North America and South America",GEOGRAPHY_OPT_a557_000D
+"Which feature on a map helps determine direction?",GEOGRAPHY_a7c9_0025,"a compass rose",GEOGRAPHY_OPT_fe27_000C
+"Which of these is not a type of map projection?",GEOGRAPHY_62fc_0026,Crusoe,GEOGRAPHY_OPT_26a8_000B
+"Which of these continents is largest (by territory)?",GEOGRAPHY_369d_0027,"North America",GEOGRAPHY_OPT_cc77_000C
+"Which of these countries is smallest (by territory)?",GEOGRAPHY_d68f_0028,"San Marino",GEOGRAPHY_OPT_8816_000C
+"Which of these US cities is largest (by population)?",GEOGRAPHY_b493_0029,Houston,GEOGRAPHY_OPT_ef47_000A
+"Which of these mountains is highest?",GEOGRAPHY_3dfd_0030,"Mount McKinley",GEOGRAPHY_OPT_6cb9_000B
+"Which of these lakes is deepest?",GEOGRAPHY_80d5_0031,Tanganyika,GEOGRAPHY_OPT_3c38_000C
+"Which of these rivers is longest?",GEOGRAPHY_983a_0032,Huang,GEOGRAPHY_OPT_cad5_000B
+"Which of these seas is largest?",GEOGRAPHY_681f_0033,Mediterranean,GEOGRAPHY_OPT_d712_000C
+"Which of these deserts is largest?",GEOGRAPHY_92e5_0034,Syrian,GEOGRAPHY_OPT_72d9_000B
+"Which of these inhabited places is wettest?",GEOGRAPHY_b6a9_0035,Moulein,GEOGRAPHY_OPT_aff0_000A
+"Which of these oceans has the greatest depth?",GEOGRAPHY_e183_0036,"Pacific Ocean",GEOGRAPHY_OPT_c5b5_000A
+"The rivers - the Tajo, the Ebro, the Duero, and the Guadiana, are located in this country.",GEOGRAPHY_76be_0037,Spain,GEOGRAPHY_OPT_8bc3_000C
+"The volcanoes - Akan, Aso, Mount Fuji and Rausu are located in this country.",GEOGRAPHY_9ac3_0038,Japan,GEOGRAPHY_OPT_fa59_000A
+"Onega, Khanka and Chudskoye are three of the many lakes in this country.",GEOGRAPHY_9639_0039,Russia,GEOGRAPHY_OPT_a04b_000D
+"The valleys of the Yellow River and the Pearl River are two of the seven main national valleys in this country.",GEOGRAPHY_74f2_0040,China,GEOGRAPHY_OPT_aa68_000B
+"Pico da Bandeira, Pico do Cruzeiro and Pedra da Mina are three of the numerous mountains located in this South American country.",GEOGRAPHY_5879_0041,Brazil,GEOGRAPHY_OPT_74b9_000C
+"Chauvet Cave and Meyrieres Cave are two caves located in this European state.",GEOGRAPHY_de6a_0042,France,GEOGRAPHY_OPT_ee6b_000A
+"Kainji Lake and Lake Chad are considered lakes of this country.",GEOGRAPHY_ec19_0043,Nigeria,GEOGRAPHY_OPT_532d_000B
+"Mitchell, Jardine, Staaten, Flinders, Leichhardt, and Nicholson are just few of the rivers in this country.",GEOGRAPHY_9ef6_0044,Australia,GEOGRAPHY_OPT_b8e7_000B
+"Kaskaspakte, Akka and Sielmmacohkka are three mountains in this country.",GEOGRAPHY_3b0c_0045,Sweden,GEOGRAPHY_OPT_0cd6_000D
+"Dasht-e Kavir and Kavir-e Lut are deserts located in this Asian country.",GEOGRAPHY_bf6b_0046,Iran,GEOGRAPHY_OPT_c760_000B
+"Which two countries border the Dead Sea?",GEOGRAPHY_9b45_0047,"Jordan and Israel",GEOGRAPHY_OPT_b2a4_000A
+"Is it true that Yasseir Arafat became chairman of the Palestinian Liberation Organization in 2004?",GEOGRAPHY_88b2_0048,No,GEOGRAPHY_OPT_99f2_000B
+"What are the three Benelux countries?",GEOGRAPHY_fe20_0049,"Belgium, Netherlands and Luxembourg",GEOGRAPHY_OPT_349f_000A
+"Did the 13 colonies declare their independence in 1776?",GEOGRAPHY_f473_0050,Yes,GEOGRAPHY_OPT_5f7c_000B
+"Europe is the smallest continent.",GEOGRAPHY_18d2_0051,False,GEOGRAPHY_OPT_f2a2_000B
+"What are the Tropic of Cancer and the Tropic of Capricorn?",GEOGRAPHY_1bcd_0052,"Lines of latitude",GEOGRAPHY_OPT_23fc_000A
+"Which statement about the emu and the kangaroo is not true?",GEOGRAPHY_04e4_0053,"Both are indigenous only to Australia.",GEOGRAPHY_OPT_e34e_000A
+"What was the former name of the city of Istanbul ?",GEOGRAPHY_3607_0054,Constantinople,GEOGRAPHY_OPT_ab57_000A
+"Where would you find the shortest river in the world?",GEOGRAPHY_dea8_0055,Montana,GEOGRAPHY_OPT_4a38_000D
+"What major geographical feature is located at 23.5 degrees North latitude?",GEOGRAPHY_b1be_0056,"The Tropic of Cancer",GEOGRAPHY_OPT_d47f_000D
+"Which would be found at 39 degrees 43 minutes North latitude?",GEOGRAPHY_9de1_0057,"The majority of the Mason-Dixon Line.",GEOGRAPHY_OPT_0c74_000C
+"Which country held the record for the highest birth rate in the 2005 world statistics?",GEOGRAPHY_03bd_0058,Niger,GEOGRAPHY_OPT_54d1_000A
+"How many US states border the Gulf of Mexico?",GEOGRAPHY_c07a_0059,5,GEOGRAPHY_OPT_6f69_000C
+"Measuring at the Equator, what is the closest approximation of the Earths circumference?",GEOGRAPHY_c98d_0060,"24,900 miles",GEOGRAPHY_OPT_65a9_000B
+"The people of which country watched the most TV per week in 2005?",GEOGRAPHY_6738_0061,Thailand,GEOGRAPHY_OPT_03b7_000A
+"How many US states border the Pacific Ocean?",GEOGRAPHY_249b_0062,5,GEOGRAPHY_OPT_9d4b_000C
+"Which one of these ski resorts is not located in the Alps?",GEOGRAPHY_77be_0063,Mont-Tremblant,GEOGRAPHY_OPT_6a24_000C
+"The tallest mountain peak in the US is Mount McKinley. This is the second tallest.",GEOGRAPHY_829f_0064,"Mount Saint Elias",GEOGRAPHY_OPT_e4f5_000A
+"Which one of these mountains is not a volcano?",GEOGRAPHY_e6ea_0065,"Mount Aspiring",GEOGRAPHY_OPT_0310_000D
+"The highest mountain peak on our planet is Mount Everest. It was first climbed by Edmund Hillary and Tenzing Norgay on May 29, 1953. What is the home country of Sir Edmund Hillary?",GEOGRAPHY_aa96_0066,"New Zealand",GEOGRAPHY_OPT_688e_000D
+"Which saltwater lake, bordered on the west by Azerbaijan and Russia, is the largest inland body of water in the world?",GEOGRAPHY_d720_0067,"Caspian Sea",GEOGRAPHY_OPT_c813_000D
+"This country, situated in North Europe, has almost 200 000 lakes - more than any other country in the world.",GEOGRAPHY_a709_0068,Finland,GEOGRAPHY_OPT_d854_000A
+"Which body of water, situated in Southern Siberia, is the deepest and oldest freshwater lake on Earth?",GEOGRAPHY_cdd8_0069,Baikal,GEOGRAPHY_OPT_7259_000D
+"This water body, which is South Americas largest freshwater lake, is the highest commercially navigable lake.",GEOGRAPHY_e4f3_0070,Titicaca,GEOGRAPHY_OPT_7811_000C
+"This country has more than 60% of worlds lakes due to its special drainage system.",GEOGRAPHY_a1ed_0071,Canada,GEOGRAPHY_OPT_bf11_000C
+"This freshwater-lake island, with a surface area of 2,766 km², is the biggest on Earth.",GEOGRAPHY_7fc3_0072,"Manitoulin Island",GEOGRAPHY_OPT_138b_000C
+"What Canadian lake is the largest in the world, located on an island?",GEOGRAPHY_e0fa_0073,"Nettilling Lake",GEOGRAPHY_OPT_0b27_000A
+"This is the lowest lake on Earth, situated at about 400 meters below sea level on the border between Israel and Jordan.",GEOGRAPHY_988f_0074,"Dead Sea",GEOGRAPHY_OPT_35c8_000D
+"Which tiny lake located in Tibet is the highest lake on Earth?",GEOGRAPHY_ac10_0075,"Lhagba Pool",GEOGRAPHY_OPT_db2d_000A
+"With a surface area of about 82,000 km², this lake between Ontario and Minnesota is the largest single freshwater lake in the world.",GEOGRAPHY_d7a8_0076,"Lake Superior",GEOGRAPHY_OPT_7e35_000C
+"The word volcano comes from the name of the Roman god of fire, Vulcan. Who is the analogue of Vulcan in Greek mythology?",GEOGRAPHY_c826_0077,Hephaestus,GEOGRAPHY_OPT_4ad6_000A
+"If magma contains more than 65% silica, the lava is called this.",GEOGRAPHY_14c4_0078,"felsic or acidic",GEOGRAPHY_OPT_4a57_000A
+"Phreatic eruptions occur when the temperature of magma is relatively low and it solidifies very quickly, sometimes blocking the vent of the volcano.",GEOGRAPHY_45e1_0079,False,GEOGRAPHY_OPT_b120_000B
+"Yellowstone Caldera is considered a supervolcano because within the past two million years it has erupted extremely violently three times . The most recent eruption occurred this long ago, and spread volcanic ash over most of the North American continent.",GEOGRAPHY_766f_0080,"640,000 years",GEOGRAPHY_OPT_5e34_000C
+"Which of the following states of America is an inland one and has an official motto that does not come from Latin?",GEOGRAPHY_ea14_0081,Montana,GEOGRAPHY_OPT_463a_000A
+"Which of the following states has an official motto In God we trust, which is also the official motto of the United States of America?",GEOGRAPHY_45a2_0082,Florida,GEOGRAPHY_OPT_e8e4_000D
+"Three of these US states have an official motto related to liberty. Spot the odd one.",GEOGRAPHY_a709_0083,Oklahoma,GEOGRAPHY_OPT_4002_000B
+"This famous Latin maxim, which is the official motto of South Carolina, means While I breathe, I hope.",GEOGRAPHY_eb36_0084,"Dum spiro spero",GEOGRAPHY_OPT_a30e_000D
+"Three of the following US states have a motto consisting of one single word in English. Which one does not belong to the group?",GEOGRAPHY_424a_0085,"West Virginia",GEOGRAPHY_OPT_3202_000C
+"North to the Future is the official motto of this US state, which is the largest in area.",GEOGRAPHY_e69c_0086,Alaska,GEOGRAPHY_OPT_c65e_000B
+"Which of the following maxims, meaning The people rule, is the official state motto of Arkansas?",GEOGRAPHY_56f6_0087,"Regnat populus",GEOGRAPHY_OPT_8b63_000B
+"This famous exclamation, which has been attributed to ancient scientist Archimedes, is the official state motto of California.",GEOGRAPHY_deee_0088,Eureka,GEOGRAPHY_OPT_15dc_000D
+"The official motto of this state in the Pacific Northwest of the United States comes from Chinook Jargon.",GEOGRAPHY_afec_0089,Washington,GEOGRAPHY_OPT_8cfc_000B
+"Which of these states has an official motto that doesnt include the word rights in it?",GEOGRAPHY_72c8_0090,Indiana,GEOGRAPHY_OPT_4e46_000B
+"Which volcano, located on Ross Island, Antarctica, is the southernmost active volcano on Earth?",GEOGRAPHY_7733_0091,"Mount Erebus",GEOGRAPHY_OPT_cafa_000C
+"This volcano, which is the largest in Europe, is located on the largest island in the Mediterranean Sea.",GEOGRAPHY_bf34_0092,"Mount Etna",GEOGRAPHY_OPT_cb77_000A
+"Popocatépetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which American country?",GEOGRAPHY_3782_0093,Mexico,GEOGRAPHY_OPT_749c_000A
+"Mount Vesuvius, that is notorious for the destruction of two Roman cities in the year 79, was linked most closely to which hero and demigod?",GEOGRAPHY_b4e7_0094,Hercules,GEOGRAPHY_OPT_6965_000D
+"What is the biggest extinct volcano in Ecuador, situated in the Andes mountain.",GEOGRAPHY_07ff_0095,Chimborazo,GEOGRAPHY_OPT_fb15_000A
+"This dormant volcano, which is 66 km northeast of Tehran, is the symbol of Iranian resistance against foreign rule.",GEOGRAPHY_76ac_0096,"Mount Damavand",GEOGRAPHY_OPT_467e_000C
+"This active volcano, whose name means long mountain in Hawaiian, is one of the five peaks that form the Island of Hawaii.",GEOGRAPHY_69a1_0097,"Mauna Loa",GEOGRAPHY_OPT_c57a_000B
+"What volcano located on the island of Tenerife represents the highest mountain on Spanish territories?",GEOGRAPHY_8809_0098,Teide,GEOGRAPHY_OPT_5312_000A
+"The name of this volcano, located on the Alaska Peninsula, means new eruption.",GEOGRAPHY_3140_0099,Novarupta,GEOGRAPHY_OPT_4c55_000C
+"Which is the volcanically active region that is situated in a famous national US park and has a territory of 55 kilometers by 72 kilometers?",GEOGRAPHY_8db1_0100,"Yellowstone Caldera",GEOGRAPHY_OPT_0ee6_000B
+"Where is the southernmost point in all 50 states?",GEOGRAPHY_04fe_0101,Hawaii,GEOGRAPHY_OPT_3a0f_000B
+"And where is the lowest point in the USA, North America, and western hemisphere? I need the state and national park name.",GEOGRAPHY_1638_0102,"California, Death Valley NP",GEOGRAPHY_OPT_2ca9_000B
+"The state with the largest area in the lower 48 is?",GEOGRAPHY_e306_0103,Texas,GEOGRAPHY_OPT_1151_000B
+"England, Norway, Belgium and Denmark all border this sea.",GEOGRAPHY_85a6_0104,"North sea",GEOGRAPHY_OPT_6bbf_000C
+"Towards the beginning of the new millennium, three of these four countries had a population of approximately 32 million people. Which is the odd one?",GEOGRAPHY_7ee2_0105,Colombia,GEOGRAPHY_OPT_aeaa_000C
+"Canada, the United States and China are three countries whose total area is approximately 12 million sq km.",GEOGRAPHY_dc2a_0106,False,GEOGRAPHY_OPT_c0fb_000A
+"The US is one of the leading countries in the number plastic surgery procedures.",GEOGRAPHY_cb38_0107,True,GEOGRAPHY_OPT_9275_000B
+"In the beginning of the new millennium, Russias, Iraqs and Saudi Arabias oil reserves were above 100 billion bbl.",GEOGRAPHY_d484_0108,False,GEOGRAPHY_OPT_70b4_000B
+"USA is considered to be one of the most popular destinations, where thousands of immigrants come to seek asylum. Just one of these four states is similar in to USA in this respect.",GEOGRAPHY_f129_0109,France,GEOGRAPHY_OPT_fc69_000A
+"Ireland, Germany and Austria are famous for the high consumption of this alcohol.",GEOGRAPHY_9945_0110,Beer,GEOGRAPHY_OPT_b333_000B
+"Dominica, New Zealand and Finland are three countries with high crime rates.",GEOGRAPHY_15ea_0111,True,GEOGRAPHY_OPT_20a2_000B
+"All of these countries and commonwealth territories have a high divorce rate except one.",GEOGRAPHY_d607_0112,"Sri Lanka",GEOGRAPHY_OPT_672f_000C
+"This island is well known in scientific fields for being home of five percent of the worlds plant and animal species, with 80% of them unique to it. The island is also the fourth biggest on Earth, with population of about 17,500,000 people.",GEOGRAPHY_511d_0113,Madagascar,GEOGRAPHY_OPT_b489_000B
+"In Greek mythology, this island is the legendary birthplace of the goddess of beauty, love, and passion, the charming Aphrodite, where according to the legend, she emerged from the sea foam.",GEOGRAPHY_e207_0114,Cyprus,GEOGRAPHY_OPT_9ad9_000B
+"Because of its spectacular nature forms, one of this insular countrys islands has been a set for the filming of many movie productions, including the highly successful, Lord of the Rings and The Chronicles of Narnia.",GEOGRAPHY_559b_0115,"New Zealand",GEOGRAPHY_OPT_fc1a_000B
+"Despite being the largest in the world, this island is sparsely populated, due to its unfavourable climate.",GEOGRAPHY_1a88_0116,Greenland,GEOGRAPHY_OPT_16c9_000A
+"Being the most populous in the world, with bigger population than Australia and Antarctica, the density of this islands inhabitants forced the countrys government to start transmigration programs, aimed at resettling people to other, less-crowded parts of the country.",GEOGRAPHY_58d8_0117,Java,GEOGRAPHY_OPT_131e_000A
+"This is the largest island in the Mediterranean Sea, famous for one of the worlds most active volcanoes - Etna.",GEOGRAPHY_34f2_0118,Sicily,GEOGRAPHY_OPT_ce78_000A
+"Al Nakheel Properties, one of the leading real estate developers in Dubai and creator of the worldwide famous Palm Islands, is also the initiator of another grand project of artificial islands, which resembles the shape of what?",GEOGRAPHY_531e_0119,"The globe",GEOGRAPHY_OPT_b3d3_000B
+"Which of the following is a traditional Vietnamese clothing, worn primarily by women?",GEOGRAPHY_2264_0120,"Áo dài",GEOGRAPHY_OPT_839e_000B
+"The gowni is a typical national costume in which African country?",GEOGRAPHY_57df_0121,Tanzania,GEOGRAPHY_OPT_fc6c_000A
+"These knee-breeches made of leather are a traditional Bavarian garment.",GEOGRAPHY_6a40_0122,Lederhosen,GEOGRAPHY_OPT_e0cd_000B
+"Hijab, which is also a term meaning barrier, is worn as a traditional clothing in which countries?",GEOGRAPHY_34da_0123,Arabic,GEOGRAPHY_OPT_66aa_000C
+"Which of these national costumes is closely related to Sikhism - a religion that comes from 16th-century northern India?",GEOGRAPHY_9e7a_0124,Turban,GEOGRAPHY_OPT_0b7d_000C
+"Barong is the embroidered formal garment of which country in South-East Asia?",GEOGRAPHY_05e4_0125,"The Philippines",GEOGRAPHY_OPT_d3e8_000C
+"Which of these national costumes does not belong to a European nation?",GEOGRAPHY_727d_0126,Hanfu,GEOGRAPHY_OPT_fe1b_000A
+"Which one of the following national costumes is not Chinese?",GEOGRAPHY_2ca2_0127,"Kente cloth",GEOGRAPHY_OPT_923c_000A
+"Which of these pieces of clothing is worn on the head?",GEOGRAPHY_c704_0128,Fez,GEOGRAPHY_OPT_06f0_000A
+"Three of the enlisted national garments are African, while the fourth one is Norwegian. Which one?",GEOGRAPHY_42c4_0129,Bunad,GEOGRAPHY_OPT_e44a_000B
+"According to the legend, which of these is a part of the Three Fortunate Concealments that protect Britain from any danger coming from the sea?",GEOGRAPHY_9e21_0130,"The head of Bran the Blessed",GEOGRAPHY_OPT_20bd_000A
+"While driving or walking down Kings Cross Road and Farringdon Road in London few people are aware that unseen beneath them runs which river?",GEOGRAPHY_19e7_0131,"River Fleet",GEOGRAPHY_OPT_564a_000D
+"Who made the statue of King Richard I outside the Houses of Parliament in Old Palace Yard in London?",GEOGRAPHY_373c_0132,"Baron Carlo Marochetti",GEOGRAPHY_OPT_cd12_000B
+"The Great Pavement, a hidden, unknown to most tourists and seldom-displayed treasure, is located in which building in London?",GEOGRAPHY_0d34_0133,"Westminster Abbey",GEOGRAPHY_OPT_59ca_000D
+"The Jewel Tower, built in 1366, is physically separated from the Palace of Westminster in London.",GEOGRAPHY_e2d2_0134,True,GEOGRAPHY_OPT_59c9_000B
+"The famous department store Harrods that occupies an entire block is located on which road in London?",GEOGRAPHY_82cb_0135,"Brompton Road",GEOGRAPHY_OPT_e3de_000C
+"The Old Royal Observatory, which is a part of the National Maritime Museum in London, was built in what year?",GEOGRAPHY_3586_0136,1675,GEOGRAPHY_OPT_e621_000A
+"This famous writer, whose house was at 17 Gough Square in London, said: When a man is tired of London, he is tired of life, for there is in London all life can afford.",GEOGRAPHY_a57b_0137,"Dr Samuel Johnson",GEOGRAPHY_OPT_a4a0_000B
+"The Badwater basin, the lowest point in North America, is located in which US valley?",GEOGRAPHY_2a0a_0138,"Death Valley",GEOGRAPHY_OPT_6767_000B
+"The Big Smoky Valley, that runs between the Toiyabe Range and the Toquima Range, is located in which US state?",GEOGRAPHY_8ba3_0139,Nevada,GEOGRAPHY_OPT_22d9_000D
+"The Grand Valley is an extended populated agricultural valley located along which US river?",GEOGRAPHY_d5ba_0140,"Colorado River",GEOGRAPHY_OPT_870b_000C
+"Which scenic US valley was described by conservationist John Muir in the following way: (...) None can escape its charms. Its natural beauty cleans and warms like a fire, and you will be willing to stay forever in one place like a tree.?",GEOGRAPHY_c5b7_0141,"Yosemite Valley",GEOGRAPHY_OPT_bfac_000B
+"This densely populated valley in the state of Utah is enclosed by steep mountains in every direction except the northwest.",GEOGRAPHY_1240_0142,"Salt Lake Valley",GEOGRAPHY_OPT_436a_000D
+"The Shenandoah Valley in western Virginia derives its name from a Native American expression meaning what?",GEOGRAPHY_8fd5_0143,"Beautiful Daughter of the Stars",GEOGRAPHY_OPT_d558_000D
+"The Sonoma Valley in California is famous in the USA for its long-lived and high quality wine industry.",GEOGRAPHY_2cc3_0144,True,GEOGRAPHY_OPT_a30b_000A
+"The Menomonee Valley along the Menomonee River in Milwaukee, Wisconsin has what peculiar shape?",GEOGRAPHY_c4e8_0145,U-shape,GEOGRAPHY_OPT_cde8_000C
+"Owens Valley, the arid ranching valley of the Owens River, stretches for approximately 75 miles (120 km) on the territory of which US state?",GEOGRAPHY_4faa_0146,California,GEOGRAPHY_OPT_7f0d_000A
+"According to the 2000 Census, what is the approximate population of The Bronx, New York?",GEOGRAPHY_ab55_0147,"1.3 million",GEOGRAPHY_OPT_2983_000B
+"Who was the first European to see The Bronx, NY?",GEOGRAPHY_2132_0148,"Henry Hudson",GEOGRAPHY_OPT_1705_000C
+"Which one of these statements is true about The Bronx, NY?",GEOGRAPHY_5d07_0149,"The only borough that is not an island",GEOGRAPHY_OPT_6ff8_000C
+"In 1643, a Native American uprising killed this unauthorized Puritan preacher of a dissident church discussion group, and pioneer in Rhode Island and the Bronx.",GEOGRAPHY_d88a_0150,"Anne Hutchinson",GEOGRAPHY_OPT_940e_000C
+"This oldest house in The Bronx, build in 1748, is New York Citys first house museum, operated since 1897 as a public museum by The National Society of Colonial Dames in the State of New York.",GEOGRAPHY_bd4a_0151,"Van Cortlandt House",GEOGRAPHY_OPT_f740_000B
+"In 1776, 400 British and Hessian troops land in The Bronx.  A group of 400 American troops held them off while Washington got the main army away safely.  What was this battle called ?",GEOGRAPHY_f761_0152,"The Battle of Pells Point",GEOGRAPHY_OPT_4303_000A
+"The first college in The Bronx, known as this today, was built in 1884.",GEOGRAPHY_bca7_0153,"Fordham University",GEOGRAPHY_OPT_b18e_000C
+"Edgar Allen Poe wrote this famous poem in The Bronx in 1846.",GEOGRAPHY_09ef_0154,"Annabel Lee",GEOGRAPHY_OPT_dbc0_000C
+"In 1899, this  world famous institution was opened in The Bronx.",GEOGRAPHY_a9b0_0155,"The Bronx Zoo",GEOGRAPHY_OPT_c65f_000C
+"This world famous building opened in The Bronx in 1923.",GEOGRAPHY_ac53_0156,"Yankee Stadium",GEOGRAPHY_OPT_2166_000B
+"What are the colors on the flag of  The Bronx, NY?",GEOGRAPHY_d0c3_0157,"Blue, White, Orange",GEOGRAPHY_OPT_3686_000C
+"Little Rock is the capital and most populous city of this US state.",GEOGRAPHY_0829_0158,Arkansas,GEOGRAPHY_OPT_629c_000A
+"What US state borders the states of Virginia, Kentucky, Ohio, Pennsylvania and Maryland?",GEOGRAPHY_f30e_0159,"West Virginia",GEOGRAPHY_OPT_6650_000C
+"Which US state is nicknamed The Pine Tree State?",GEOGRAPHY_5b88_0160,Maine,GEOGRAPHY_OPT_57b4_000D
+"The southern region of what US state is known as Little Egypt?",GEOGRAPHY_a38d_0161,Illinois,GEOGRAPHY_OPT_0e18_000B
+"The capital city of this US state is Trenton, and its largest city is Newark.",GEOGRAPHY_6312_0162,"New Jersey",GEOGRAPHY_OPT_1e94_000D
+"The name of which American state means red people in the Choctaw language?",GEOGRAPHY_6a53_0163,Oklahoma,GEOGRAPHY_OPT_0dbf_000B
+"What US state is known as The Volunteer State?",GEOGRAPHY_fd01_0164,Tennessee,GEOGRAPHY_OPT_6261_000C
+"The flag of what US state features a gold torch and nineteen stars on a blue rectangular field?",GEOGRAPHY_bb28_0165,Indiana,GEOGRAPHY_OPT_39ca_000C
+"What US state is known as the Peach State?",GEOGRAPHY_081d_0166,Georgia,GEOGRAPHY_OPT_6113_000B
+"The name of this US state means flat water and is derived from the name of the Platte River that flows through the state.",GEOGRAPHY_be8d_0167,Nebraska,GEOGRAPHY_OPT_408c_000B
+"Which country is known as Österreich in their native language?",GEOGRAPHY_7406_0168,Austria,GEOGRAPHY_OPT_640b_000C
+"Which countrys capital city is considered de facto capital of the European Union?",GEOGRAPHY_c61a_0169,Belgiums,GEOGRAPHY_OPT_cd68_000C
+"Which country has the river Danube as most of its northern border?",GEOGRAPHY_9d1d_0170,Bulgaria,GEOGRAPHY_OPT_3b7d_000C
+"Which EU member is divided into a Greek and a Turkish part?",GEOGRAPHY_bd77_0171,Cyprus,GEOGRAPHY_OPT_0069_000C
+"Which countrys first president was Václav Havel, a writer and dramatist?",GEOGRAPHY_064d_0172,"Czech Republic",GEOGRAPHY_OPT_0de3_000C
+"Which Nordic country was first to enter the European Union?",GEOGRAPHY_293b_0173,Denmark,GEOGRAPHY_OPT_0033_000A
+"Which European Union member is home to Santa Claus?",GEOGRAPHY_7623_0174,Finland,GEOGRAPHY_OPT_ef83_000A
+"Which of the EU founding members is the country of Liberté, Égalité, Fraternité?",GEOGRAPHY_4b74_0175,France,GEOGRAPHY_OPT_7346_000A
+"Which European Union member has the greatest number of islands?",GEOGRAPHY_e6c2_0176,Greece,GEOGRAPHY_OPT_a61f_000A
+"Which country is the only member of the European Union that is partly located in Africa?",GEOGRAPHY_7c6c_0177,Spain,GEOGRAPHY_OPT_47d1_000C
+"Which EU member has a significant part of its territory below sea level?",GEOGRAPHY_d55d_0178,"The Netherlands",GEOGRAPHY_OPT_38b3_000B
+"This European Union member was once known for huge migration of its people, mainly to the US and UK. Nowadays, however, it attracts many immigrants from new EU members.",GEOGRAPHY_6650_0179,Ireland,GEOGRAPHY_OPT_8663_000B
+"Which EU member was the largest country in Europe in XIV century, but now has land area of just 65 000 sq. km?",GEOGRAPHY_6cab_0180,Lithuania,GEOGRAPHY_OPT_d0e8_000B
+"Which mini country was among the European Union founding members?",GEOGRAPHY_d5cd_0181,Luxembourg,GEOGRAPHY_OPT_8364_000A
+"In which European Union member the native people make up only 60% of the total population?",GEOGRAPHY_bafe_0182,Latvia,GEOGRAPHY_OPT_ee39_000C
+"Which former British colony joined the European Union in 2004?",GEOGRAPHY_d1b7_0183,Malta,GEOGRAPHY_OPT_2806_000D
+"Which country is the biggest contributor to the European Union budget?",GEOGRAPHY_a2d5_0184,Germany,GEOGRAPHY_OPT_3232_000B
+"Which country has twice rejected European Union membership in national referendums?",GEOGRAPHY_f9d1_0185,Norway,GEOGRAPHY_OPT_a7cb_000B
+"Which European Union member was the first country to reject communist rule and thus sparkle the liberation of so called Eastern Block?",GEOGRAPHY_6fc1_0186,Poland,GEOGRAPHY_OPT_1442_000D
+"Where is the European Unions westernmost point not counting overseas territories?",GEOGRAPHY_4ee7_0187,"In Portugals Azores islands",GEOGRAPHY_OPT_847c_000B
+"Which EU member state was known to the ancient Greeks and Romans as Dacia?",GEOGRAPHY_b025_0188,Romania,GEOGRAPHY_OPT_37b2_000C
+"Which country is the youngest independent state to be a member of the European Union? (It has been an independent country only since 1993.)",GEOGRAPHY_fa3c_0189,Slovakia,GEOGRAPHY_OPT_70b4_000C
+"In May 2004 the European Union accepted 10 new countries. Which of them was first to adopt the Euro as its national currency?",GEOGRAPHY_ea67_0190,Slovenia,GEOGRAPHY_OPT_39d2_000A
+"Which country associated with banking is not a member of the European Union?",GEOGRAPHY_27e5_0191,Switzerland,GEOGRAPHY_OPT_af5e_000D
+"In which country is the European Union’s biggest lake located?",GEOGRAPHY_66bb_0192,"In Sweden",GEOGRAPHY_OPT_c24c_000C
+"Which Muslim country was recognized as a candidate for accession in the EU on December 12th, 1999 at the Helsinki summit of the European Council?",GEOGRAPHY_a402_0193,Turkey,GEOGRAPHY_OPT_131e_000D
+"All but three European Union official languages are from the Indo-European family. They are Finnish, Estonian and which other language?",GEOGRAPHY_b0a3_0194,Hungarian,GEOGRAPHY_OPT_2508_000B
+"Most of the European Union members are also part of a Schengen Agreement that allows their citizens to travel without passports across the member states. Which EU member is outside of the Schengen group?",GEOGRAPHY_6dcd_0195,UK,GEOGRAPHY_OPT_6928_000B
+"Which member of the European Union completely surrounds two countries that are outside of the club?",GEOGRAPHY_e30c_0196,Italy,GEOGRAPHY_OPT_0102_000D
+"The head of John the Baptist can be seen in the Amiens Cathedral.",GEOGRAPHY_920a_0197,True,GEOGRAPHY_OPT_2d23_000A
+"Wat Chiang Man is a temple in Thailand. In it, fifteen of these animals represent a sea of unformed matter upon which the cosmos of the Chedi floats.",GEOGRAPHY_6960_0198,Elephants,GEOGRAPHY_OPT_6a9d_000D
+"The Shaolin temples are perhaps the Buddhist monasteries best known in the West. The word Shaolin means this.",GEOGRAPHY_0a45_0199,"Young Forest",GEOGRAPHY_OPT_04b7_000C
+"Which EU country or US state is not entirely situated on (an) island(s)?",GEOGRAPHY_88a0_0200,"Rhode Island",GEOGRAPHY_OPT_fce0_000C
+"Which country or state was the first to be attacked in WWII?",GEOGRAPHY_96aa_0201,Poland,GEOGRAPHY_OPT_fa39_000C
+"Where was the colonial settlement New Amsterdam located?",GEOGRAPHY_81eb_0202,"The state of New York",GEOGRAPHY_OPT_3a31_000D
+"Which of these is the largest in terms of area?",GEOGRAPHY_d37d_0203,Germany,GEOGRAPHY_OPT_b561_000C
+"Which of these peaks is the highest?",GEOGRAPHY_ef77_0204,"McKinley (Alaska)",GEOGRAPHY_OPT_041c_000B
+"Which of the following metropolitan areas is the largest in terms of population?",GEOGRAPHY_ec5d_0205,"New York City",GEOGRAPHY_OPT_8b18_000B
+"Which river, flowing entirely through a single country or state, is the longest?",GEOGRAPHY_5526_0206,"Vistula (Poland)",GEOGRAPHY_OPT_afd0_000A
+"What is the location of the worlds largest particle physics laboratory, established in 1954?",GEOGRAPHY_9e83_0207,"In neither of them",GEOGRAPHY_OPT_677f_000D
+"Which of the following countries and states shares its name with its capital city?",GEOGRAPHY_4269_0208,Luxembourg,GEOGRAPHY_OPT_4615_000C
+"Which of these cities was established first?",GEOGRAPHY_32fe_0209,"Madrid (Spain)",GEOGRAPHY_OPT_f357_000C
+"Which of the following flags doesnt include a cross?",GEOGRAPHY_1e80_0210,"the flag of Alaska",GEOGRAPHY_OPT_00cf_000D
+"Birmingham is the most populous city of which country or US state?",GEOGRAPHY_f07a_0211,Alabama,GEOGRAPHY_OPT_07d3_000B
+"Which one of these is not a Greek Mediterranean island?",GEOGRAPHY_58eb_0212,Minorca,GEOGRAPHY_OPT_55ad_000A
+"Which one of these Mediterranean islands is the smallest in area?",GEOGRAPHY_36c0_0213,Corfu,GEOGRAPHY_OPT_6ac9_000D
+"What two colors are featured on the flag and coat of arms of Malta, a country consisting of seven Mediterranean islands?",GEOGRAPHY_6ec4_0214,"White and red",GEOGRAPHY_OPT_6cf4_000C
+"Which one of these Mediterranean islands, belonging to Italy, is the largest in area?",GEOGRAPHY_caf5_0215,Sardinia,GEOGRAPHY_OPT_31a2_000A
+"This island, on which the volcano Etna is situated, is the largest Mediterranean island.",GEOGRAPHY_1b9b_0216,Sicily,GEOGRAPHY_OPT_626d_000A
+"Which French Mediterranean island is the birthplace of Napoléon Bonaparte?",GEOGRAPHY_28fa_0217,Corsica,GEOGRAPHY_OPT_9aaa_000C
+"Complete the lyrics of this 1999 hit single by the Vengaboys, referring to a Spanish island: Fly Me High .................Sky Whoah! Were Going To ............ Whoah! Back To The Island Whoah! Were Going To .......... Whoah! In The Mediterranean Sea Whoah! Were Gonna Have A Party",GEOGRAPHY_67fa_0218,Ibiza,GEOGRAPHY_OPT_e944_000A
+"On April 11, 2002, Al-Qaeda carried out a terrorist attack near a synagogue on which Tunisian island?",GEOGRAPHY_e1ca_0219,Djerba,GEOGRAPHY_OPT_816c_000A
+"Which one of these Mediterranean islands does not belong to the group of the Balearic Islands?",GEOGRAPHY_674f_0220,Capri,GEOGRAPHY_OPT_2c42_000C
+"Which of these Mediterranean islands belongs to Croatia and is home of the endangered Griffon Vulture?",GEOGRAPHY_98d1_0221,Cres,GEOGRAPHY_OPT_c3e0_000C
+"What motto do North Carolina license plates carry?",GEOGRAPHY_a255_0222,"First In Flight",GEOGRAPHY_OPT_01de_000B
+"North Carolina has been well represented on the American Idol TV series Which contestant from the state became Americas Idol in 2004?",GEOGRAPHY_03cc_0223,"Fantasia Barrino",GEOGRAPHY_OPT_fe4a_000A
+"In 1838 the Federal Indian Removal Policy was forced into effect by The Treaty of New Echota. Twenty Cherokee Indians, none elected officials of the Cherokee Nation, signed over all Cherokee Territory east of the Mississippi for five million dollars. The Cherokee Indians were then forced to march from their home in the mountain of North Carolina to Okalahoma. This journey became know by what name?",GEOGRAPHY_18e9_0224,"Trail of Tears",GEOGRAPHY_OPT_b949_000B
+"This military complex in North Carolina is one of the largest in the world and home to the 82 Airborne, the Golden Knights, and U.S. Army Special Operations Command.",GEOGRAPHY_f87f_0225,"Fort Bragg",GEOGRAPHY_OPT_6e9e_000A
+"Riga is the capital of which Baltic country?",GEOGRAPHY_4d0c_0226,Latvia,GEOGRAPHY_OPT_ee5d_000D
+"What country gained independence from the British Mandate for Palestine in 1948?",GEOGRAPHY_3c95_0227,Israel,GEOGRAPHY_OPT_5d1e_000D
+"What city is the capital of Madagascar?",GEOGRAPHY_ffa5_0228,Antananarivo,GEOGRAPHY_OPT_6c06_000A
+"What river encountered during the Lewis and Clark expedition (1804-1806) flows directly into the Pacific Ocean between Washington and Oregon?",GEOGRAPHY_9c9c_0229,Columbia,GEOGRAPHY_OPT_c9e1_000C
+"Which explorer was the first to reach the South Pole?",GEOGRAPHY_17ab_0230,"Roald Amundsen",GEOGRAPHY_OPT_5d17_000C
+"What sea captain claimed British possession of the eastern part of Australia in 1770 naming it New South Wales?",GEOGRAPHY_9e10_0231,"James Cook",GEOGRAPHY_OPT_264f_000A
+"In what South American country was Che Ernesto Guevara born?",GEOGRAPHY_d153_0232,Argentina,GEOGRAPHY_OPT_5d72_000B
+"Near what sea was the ancient city of Troy located ?",GEOGRAPHY_6529_0233,Aegean,GEOGRAPHY_OPT_5190_000A
+"Which of these rivers runs through the Czech Republic and Germany?",GEOGRAPHY_fb13_0234,"Elbe River",GEOGRAPHY_OPT_f9a0_000A
+"Name the European co-principality whose heads of state are the President of France and the Bishop of Urgel.",GEOGRAPHY_7984_0235,Andorra,GEOGRAPHY_OPT_9eed_000A
+"After World War II, this country was split into two states which were not reunited until 1990.",GEOGRAPHY_4382_0236,Germany,GEOGRAPHY_OPT_efa7_000D
+"Mount Erebus is a volcano located on this continent.",GEOGRAPHY_760b_0237,Antarctica,GEOGRAPHY_OPT_e459_000A
+"Rastafarianism is a religion that venerates Haile Selassie as a god. Haile Selassie was the emperor of the third most populous country in Africa. Name that country.",GEOGRAPHY_1906_0238,Ethiopia,GEOGRAPHY_OPT_6539_000B
+"Name Asias most densely populated country which has about three million people and an area of less than 250 square miles (402 km²).",GEOGRAPHY_2a06_0239,Singapore,GEOGRAPHY_OPT_8bf8_000D
+"In what city in Switzerland is the headquarters of the World Trade Organization (WTO) located?",GEOGRAPHY_2540_0240,Geneva,GEOGRAPHY_OPT_e8e0_000A
+"What is a ridge of coral in the sea called?",GEOGRAPHY_6a1e_0241,"Coral Reef",GEOGRAPHY_OPT_6988_000B
+"Jenin is the largest city in the West Bank.",GEOGRAPHY_0a19_0242,False,GEOGRAPHY_OPT_a964_000B
+"It has been found that the black mineral soil from the Dead Sea area of Israel helps maintain a good, young complexion. What is the name of the Israeli company that exports beauty products from the Dead Sea area?",GEOGRAPHY_e72a_0243,Ahava,GEOGRAPHY_OPT_a889_000D
+"The Dead Sea Scrolls, found in caves at Qumran, are believed to have been made by a group of people called what?",GEOGRAPHY_b9c0_0244,Essenes,GEOGRAPHY_OPT_ebb1_000C
+"It is practically impossible to drown unwillingly in the Dead Sea.",GEOGRAPHY_48a6_0245,True,GEOGRAPHY_OPT_d067_000B
+"To which countrys territory does the Dead Sea belong?",GEOGRAPHY_c82c_0246,"Israel and Jordan share ownership",GEOGRAPHY_OPT_02fe_000B
+"What is the average salinity of the Dead Sea?",GEOGRAPHY_d92a_0247,"30 %",GEOGRAPHY_OPT_ceb7_000B
+"What body of water feeds the Dead Sea?",GEOGRAPHY_57d5_0248,"The Jordan River",GEOGRAPHY_OPT_4918_000D
+"The Bible tells the story of a woman that was turned into a pillar of salt near the Dead Sea. Who was her famous husband?",GEOGRAPHY_1e31_0249,Lot,GEOGRAPHY_OPT_26c5_000D
+"The Dead Sea, the lowest point on Earth, is how far below sea level?",GEOGRAPHY_f637_0250,"418 meters",GEOGRAPHY_OPT_dcec_000B
+"What was the name of the great fortification built in 37-31 BC by Roman king Herod I on a high hill above the Dead Sea?",GEOGRAPHY_19f6_0251,Masada,GEOGRAPHY_OPT_868a_000A
+"The Dead Sea is part of the Great Rift Valley. How far does this valley extend in length?",GEOGRAPHY_02b1_0252,"3700 miles",GEOGRAPHY_OPT_b2aa_000D
+"No animals or plants live in the Dead Sea .",GEOGRAPHY_18ff_0253,False,GEOGRAPHY_OPT_5574_000B
+"What famous California prison was home to Charles Manson?",GEOGRAPHY_cc8e_0254,Folsom,GEOGRAPHY_OPT_698d_000D
+"American politician John McCain was incarcerated at the infamous Hoa Loa Prison, ironically called Hanoi Hilton.",GEOGRAPHY_6b99_0255,True,GEOGRAPHY_OPT_1cc0_000A
+"The Rosenbergs, who were convicted of conspiracy, were held at what prison?",GEOGRAPHY_b8a1_0256,"Sing Sing",GEOGRAPHY_OPT_84ee_000D
+"The Tower of London was built primarily to function as a fortress, a royal palace and a prison.",GEOGRAPHY_3afa_0257,True,GEOGRAPHY_OPT_8c77_000B
+"Attica Prison was the locale of a 1975 riot that resulted in 38 deaths.",GEOGRAPHY_03de_0258,False,GEOGRAPHY_OPT_6be5_000B
+"Nelsons Column, built to commemorate Admiral Horatio Nelsons death, is a monument in this famous London square.",GEOGRAPHY_722a_0259,"Trafalgar Square",GEOGRAPHY_OPT_80fb_000D
+"Tiananmen Square, which has been the site of a number of political events and student protests, is located in what Chinese city?",GEOGRAPHY_7c53_0260,Beijing,GEOGRAPHY_OPT_eb50_000A
+"The Kremlin, a historic fortified complex at the heart of Moscow, overlooks this square to the east.",GEOGRAPHY_2edd_0261,"Red Square",GEOGRAPHY_OPT_7a29_000D
+"What iconic world landmark, sometimes called the Crossroads of the World, was formerly named Longacre Square?",GEOGRAPHY_6d4f_0262,"Times Square",GEOGRAPHY_OPT_4560_000B
+"What famous square is located in Vatican City, the papal enclave within Rome?",GEOGRAPHY_8a7c_0263,"St. Peters Square",GEOGRAPHY_OPT_6b4b_000C
+"Grand Place, which is known for its large flower carpet, is the main square of this capital European city.",GEOGRAPHY_4be6_0264,Brussels,GEOGRAPHY_OPT_e55a_000D
+"Which square is not correctly matched with the capital city in which it is located?",GEOGRAPHY_946a_0265,"Azadi Square - Karachi",GEOGRAPHY_OPT_7442_000C
+"Piazza San Marco (St Marks Square), which Napoleon allegedly called The drawing room of Europe, is the principal square of this Italian city.",GEOGRAPHY_efcb_0266,Venice,GEOGRAPHY_OPT_6c4e_000B
+"What city in Eastern Europe, often associated with the story of Dracula, is also famous for Revolution Square, which was the site of a 1989 revolt?",GEOGRAPHY_af50_0267,Bucharest,GEOGRAPHY_OPT_64c4_000A
+"What former president has addressed more than a million people on many occasions on Plaza de la Revolución in Havana?",GEOGRAPHY_7798_0268,"Fidel Castro",GEOGRAPHY_OPT_ab42_000B
+"What is the name of the sea that borders the Netherlands?",GEOGRAPHY_c301_0269,"North Sea",GEOGRAPHY_OPT_b25d_000C
+"What are the three colours of the national flag of the Netherlands from top to bottom?",GEOGRAPHY_db55_0270,"Red, white, and blue",GEOGRAPHY_OPT_e6c3_000A
+"Rotterdam, located in the province of South Holland, is a major Dutch port.",GEOGRAPHY_d05f_0271,True,GEOGRAPHY_OPT_9426_000A
+"Gouda and Edam are famous types of Dutch cheeses.",GEOGRAPHY_917b_0272,True,GEOGRAPHY_OPT_6259_000B
+"What is the capital city of the Netherlands?",GEOGRAPHY_ddc1_0273,Amsterdam,GEOGRAPHY_OPT_d1f0_000A
+"What two countries border the Netherlands?",GEOGRAPHY_85a8_0274,"Belgium and Germany",GEOGRAPHY_OPT_ee75_000D
+"The name “Holland” is equivalent to the name the Netherlands.",GEOGRAPHY_1d70_0275,False,GEOGRAPHY_OPT_1837_000B
+"Dutch is the official language of the Netherlands. What is the second official language of the country?",GEOGRAPHY_6a06_0276,Frisian,GEOGRAPHY_OPT_fc00_000B
+"Demographically, the Netherlands matches which of this characteristics?",GEOGRAPHY_c72d_0277,"All of these",GEOGRAPHY_OPT_3880_000A
+"What Mediterranean island is divided between a Greek community and a Turkish community (although the latter is not internationally recognized as a separate entity)?",GEOGRAPHY_9517_0278,Cyprus,GEOGRAPHY_OPT_b83a_000A
+"What South American island is shared by Chile and Argentina?",GEOGRAPHY_d985_0279,"Tierra Del Fuego",GEOGRAPHY_OPT_158c_000B
+"What island is shared by Indonesia and the nation of East Timor?",GEOGRAPHY_6aef_0280,Timor,GEOGRAPHY_OPT_44c2_000A
+"What European island is partially occupied by a neighbouring island nation, which has led to centuries of dispute?",GEOGRAPHY_dce1_0281,Ireland,GEOGRAPHY_OPT_6e80_000D
+"Which of these islands is shared by three countries?",GEOGRAPHY_fc82_0282,Borneo,GEOGRAPHY_OPT_0c2a_000D
+"What is the name of the island shared by Haiti and the Dominican Republic?",GEOGRAPHY_8e75_0283,Hispaniola,GEOGRAPHY_OPT_d5f1_000B
+"What island is shared by the nations of Indonesia and Papua New Guinea?",GEOGRAPHY_f0be_0284,"New Guinea",GEOGRAPHY_OPT_460c_000B
+"This tiny Caribbean island is shared by France and the Netherlands.",GEOGRAPHY_0890_0285,"St. Martin",GEOGRAPHY_OPT_e010_000C
+"The tiny island of Märket / Märketin in the Baltic Sea is shared by these two nations.",GEOGRAPHY_bd10_0286,"Finland and Sweden",GEOGRAPHY_OPT_704a_000D
+"The island of Sebatik, located east of Borneo, is shared by Indonesia and what other nation?",GEOGRAPHY_1cc8_0287,Malaysia,GEOGRAPHY_OPT_86e2_000C
+"The word ‘ocean’ is of Greek origin.",GEOGRAPHY_46df_0288,True,GEOGRAPHY_OPT_b31e_000B
+"Which is the smallest ocean?",GEOGRAPHY_e350_0289,"The Arctic Ocean",GEOGRAPHY_OPT_a8d1_000D
+"What portion of the Earth’s surface do oceans cover?",GEOGRAPHY_b1ff_0290,"More than two thirds",GEOGRAPHY_OPT_b887_000A
+"The Marianas Trench, the deepest location on the surface of the Earths crust, lies in this ocean.",GEOGRAPHY_c6ec_0291,"The Pacific Ocean",GEOGRAPHY_OPT_afa2_000A
+"The Dead Sea is actually a lake.",GEOGRAPHY_350c_0292,True,GEOGRAPHY_OPT_c5ab_000B
+"The Pacific Ocean is the largest of the Earths oceanic divisions. Its name is derived from the Latin name Mare Pacificum which has the following meaning.",GEOGRAPHY_2eea_0293,"The Peaceful Sea",GEOGRAPHY_OPT_f0d3_000A
+"Which one of these Asian rivers does not flow into the Indian Ocean?",GEOGRAPHY_00c4_0294,Saigon,GEOGRAPHY_OPT_2679_000B
+"What sea is known to be the only sea without shores?",GEOGRAPHY_5de4_0295,"The Sargasso Sea",GEOGRAPHY_OPT_18e2_000A
+"The Bering Sea is a part of which ocean?",GEOGRAPHY_a548_0296,"The Pacific Ocean",GEOGRAPHY_OPT_239d_000B
+"The Mediterranean Sea is connected to the Atlantic Ocean by this strait.",GEOGRAPHY_3155_0297,"The Strait of Gibraltar",GEOGRAPHY_OPT_c486_000A
+"The famous Île Notre-Dame, an artificial island built from earth excavated for a metropolitan railway, is located in which country?",GEOGRAPHY_42d4_0298,Canada,GEOGRAPHY_OPT_096c_000B
+"What is the popular name of the artificial island in Tokyo Bay, whose name is Yume No Shima in Japanese?",GEOGRAPHY_ce54_0299,"Dream Island",GEOGRAPHY_OPT_16d2_000A
+"What is the name of the Peruvian floating islands, located in Lake Titicaca?",GEOGRAPHY_ef99_0300,Uros,GEOGRAPHY_OPT_1342_000C
+"Which man-made island, located to the southwest of Singapore, was created by joining several natural islands?",GEOGRAPHY_4ddc_0301,"Jurong Island",GEOGRAPHY_OPT_b2c9_000B
+"What is the name of the artificial island located in the Gatun Lake portion of the Panama Canal?",GEOGRAPHY_a131_0302,"Barro Colorado Island",GEOGRAPHY_OPT_4c50_000D
+"Which 20-kilometre artificial island, situated in the river Danube, was nicknamed the Copa Kagrana?",GEOGRAPHY_e1fb_0303,Donauinsel,GEOGRAPHY_OPT_a8aa_000D
+"Rokko island, constructed between 1973 and 1992, is an artificial island situated in which country?",GEOGRAPHY_fff2_0304,Japan,GEOGRAPHY_OPT_868a_000D
+"Which artificial island is situated in San Francisco Bay, between San Francisco and Oakland?",GEOGRAPHY_5d4c_0305,"Treasure Island",GEOGRAPHY_OPT_304a_000B
+"This artificial island, whose name literally means Pepper Islet, is part of the Oresund Bridge, connecting Denmark with Sweden.",GEOGRAPHY_15cc_0306,Peberholm,GEOGRAPHY_OPT_ac88_000A
+"Spiral Island, a small Mexican artificial floating island, was situated on the coast of which sea?",GEOGRAPHY_bea4_0307,"The Caribbean Sea",GEOGRAPHY_OPT_fde0_000B
+"The history of EU began on 25th of March 1957 when the European Economic Community was formed. What is the founding act called?",GEOGRAPHY_c026_0308,"Treaty of Rome",GEOGRAPHY_OPT_30aa_000D
+"Which country was not among the founding states of the European Economic Community (the European Union predecessor)?",GEOGRAPHY_fe91_0309,UK,GEOGRAPHY_OPT_09d5_000D
+"When did Ireland join the European Union?",GEOGRAPHY_645e_0310,1973,GEOGRAPHY_OPT_6a77_000B
+"The citizens of which country rejected the idea of joining the EU in 1972 and again in 1994?",GEOGRAPHY_8a2a_0311,Norway,GEOGRAPHY_OPT_76bc_000A
+"The EU has been a western club for most of its history. But which of these western countries has stayed out of the EU?",GEOGRAPHY_9156_0312,Switzerland,GEOGRAPHY_OPT_12ce_000C
+"Which former Yugoslavian republic was the first to be admitted to the European Union?",GEOGRAPHY_c3ae_0313,Slovenia,GEOGRAPHY_OPT_cf8a_000D
+"The 6th European Union enlargement took place on May 1 2004. How many countries were admitted then?",GEOGRAPHY_6803_0314,10,GEOGRAPHY_OPT_e63b_000C
+"Many countries held national referenda before joining the European Union. Which of the following nations showed the highest support for joining (92% in favour)?",GEOGRAPHY_e40f_0315,Slovakia,GEOGRAPHY_OPT_7dd5_000D
+"What kind of agreement is the Schengen Agreement?",GEOGRAPHY_5c21_0316,"It allows EU citizens to travel without passports within the EU borders.",GEOGRAPHY_OPT_c1c3_000B
+"When did the euro become the official currency of the Eurozone?",GEOGRAPHY_18c5_0317,2002,GEOGRAPHY_OPT_43e7_000C
+"The flag of which US state features a white American Bison on a blue field?",GEOGRAPHY_e837_0318,Wyoming,GEOGRAPHY_OPT_f2b8_000B
+"The name of which US state means large creek in the Seneca language?",GEOGRAPHY_5df8_0319,Ohio,GEOGRAPHY_OPT_0699_000B
+"Montgomery is the capital city of this US state, and its largest city is Birmingham.",GEOGRAPHY_e3e5_0320,Alabama,GEOGRAPHY_OPT_4c7d_000D
+"Everglades National Park is located in this US state.",GEOGRAPHY_9e78_0321,Florida,GEOGRAPHY_OPT_3c00_000D
+"The state drink of this US state is milk, its state bird is the Western Meadowlark, its state flower is the Wild Prairie Rose, and its state slogan is Legendary.",GEOGRAPHY_8a2a_0322,"North Dakota",GEOGRAPHY_OPT_29e9_000A
+"According to one theory, the name of this US state comes from the French word for hurricane.",GEOGRAPHY_c5b8_0323,Oregon,GEOGRAPHY_OPT_9457_000B
+"Baton Rouge is the capital of what US state?",GEOGRAPHY_e052_0324,Louisiana,GEOGRAPHY_OPT_94ec_000C
+"The largest city in what US state hosts Summerfest, or The Worlds Largest Music Festival?",GEOGRAPHY_61f7_0325,Wisconsin,GEOGRAPHY_OPT_2b81_000B
+"The name of this US state means great river and its symbol is the magnolia tree.",GEOGRAPHY_4ca7_0326,Mississippi,GEOGRAPHY_OPT_2947_000C
+"Which US state has been nicknamed The First State, The Small Wonder, Blue Hen State, and The Diamond State?",GEOGRAPHY_3eb4_0327,Delaware,GEOGRAPHY_OPT_a706_000C
+"The smallest monkey on earth is found in the Philippines.",GEOGRAPHY_f416_0328,True,GEOGRAPHY_OPT_6342_000B
+"The Ifugao Rice Terraces are  located in Luzon, in the Philippines. If it were possible to place them end to  end, how long would they extend?",GEOGRAPHY_4cdf_0329,"1,400 miles",GEOGRAPHY_OPT_21d2_000D
+"What are the largest cities in the Philippines in terms of land area?",GEOGRAPHY_5e8a_0330,"Davao City and Puerto Princesa City",GEOGRAPHY_OPT_673a_000D
+"The Philippines has the worlds largest deposit of heavy water which can be used for atomic energy, in spectroscopy, and as an automobile fuel. What makes heavy water different from water?",GEOGRAPHY_ec89_0331,"The presence of deuterium",GEOGRAPHY_OPT_61b2_000D
+"From 1888-1889, American traders Simon and Thomas Metcalfe brought some men from Manila to the Western Hemisphere. Which state did they bring them to?",GEOGRAPHY_df02_0332,Alaska,GEOGRAPHY_OPT_ef51_000D
+"Who was the first  female  President of the Philippines?",GEOGRAPHY_d51b_0333,"Corazon Aquino",GEOGRAPHY_OPT_ada0_000D
+"Who is the first Filipino-American to become Governor of a US state?",GEOGRAPHY_b3bc_0334,"Benjamin Cayetano",GEOGRAPHY_OPT_6629_000D
+"On December 7, 1941 the Japanese launched a sneak attack on Pearl Harbor. On that day they also launched a similar attack on this American airbase in the Philippines.",GEOGRAPHY_a055_0335,"Angeles, Pampanga, Philippines",GEOGRAPHY_OPT_5708_000C
+"Which best  describes the religious distribution of the populace of the Philippines?",GEOGRAPHY_d0f2_0336,"82% Catholic, 9% Protestant, 5% Muslim and  3 % Buddhist",GEOGRAPHY_OPT_8dbc_000A
+"This US President was born in South Carolina although he lived in Tennessee when he became president.",GEOGRAPHY_87ef_0337,"Andrew Jackson",GEOGRAPHY_OPT_8b32_000C
+"Which of the following states borders South Carolina?",GEOGRAPHY_90b2_0338,Georgia,GEOGRAPHY_OPT_aa4c_000D
+"In 1860 South Carolina became the first state to secede from the Union.",GEOGRAPHY_3679_0339,True,GEOGRAPHY_OPT_9d68_000A
+"South Carolina is the state whose shape most closely resembles a triangle.",GEOGRAPHY_f0f0_0340,True,GEOGRAPHY_OPT_edc1_000B
+"What South Carolina Senator lived to be one hundred years old while still holding office?",GEOGRAPHY_2fcf_0341,"Strom Thurmond",GEOGRAPHY_OPT_b9f0_000A
+"Francis Marion fought the British in the swamps of South Carolina during the Revolutionary War, using guerrilla tactics, that the communist Vietcong in Vietnam would have understood well. For this Marion was given the following nickname.",GEOGRAPHY_3297_0342,"The Swamp Fox",GEOGRAPHY_OPT_a18a_000A
+"The Grand Strand is a long stretch of sandy beach situated near which of the following?",GEOGRAPHY_2386_0343,"Myrtle Beach",GEOGRAPHY_OPT_1e03_000C
+"The city of Fargo is the largest city in which of these U.S. states?",GEOGRAPHY_dc15_0344,"North Dakota",GEOGRAPHY_OPT_c17a_000C
+"Name the capital city of the U.S. state of Washington.",GEOGRAPHY_2799_0345,Olympia,GEOGRAPHY_OPT_80f5_000B
+"Which U.S. state has been nicknamed The Cornhusker State?",GEOGRAPHY_7b4b_0346,Nebraska,GEOGRAPHY_OPT_2261_000C
+"Topeka is the capital city of which U.S. state?",GEOGRAPHY_65bc_0347,Kansas,GEOGRAPHY_OPT_62c5_000A
+"Which of these nicknames refers to the U.S. state of Idaho?",GEOGRAPHY_c247_0348,"Gem State",GEOGRAPHY_OPT_2096_000C
+"What does the name of the U.S. state of Utah mean in the Ute language?",GEOGRAPHY_b8d0_0349,"People of the mountains",GEOGRAPHY_OPT_0852_000C
+"Saint Paul is the capital city of what US state?",GEOGRAPHY_4807_0350,Minnesota,GEOGRAPHY_OPT_7bc9_000B
+"The Black Sea drains into the Atlantic Ocean via the Sea of Marmara and the Mediterranean Sea on the South West. On the other, North East side of the Black Sea, there is a small sea which is connected to the Black Sea via the Strait of Kerch. Name this sea.",GEOGRAPHY_8f20_0351,"The Sea of Azov",GEOGRAPHY_OPT_3ce9_000D
+"Six countries are located along the Black Sea border. Which one among them has the longest Black Sea coast line (not including the Sea of Azov coast line)?",GEOGRAPHY_3fa0_0352,Turkey,GEOGRAPHY_OPT_9048_000B
+"Not counting Istanbul, which of these cities is located on Bosphorus on the side of the Sea of Marmara and is the biggest city on the coast of the Black Sea?",GEOGRAPHY_6a2b_0353,"Odessa, Ukraine",GEOGRAPHY_OPT_6e96_000D
+"The names of three large rivers flowing into the Black Sea begin with a letter D. Danube, the largest of the three, flows through ten European countries and enters the Black Sea in Romania. The other two end their flow in this country.",GEOGRAPHY_cef9_0354,Ukraine,GEOGRAPHY_OPT_53c2_000C
+"The Black Sea city of Sukhumi is the capital of this republic that proclaimed its independence from Georgia in the 90s.",GEOGRAPHY_0434_0355,Abkhazia,GEOGRAPHY_OPT_1382_000D
+"The Black Sea, whose waters are known to be meromictic, is the largest water basin in the world where water layers do not intermix, and, thus, lack the dissolved form of what?",GEOGRAPHY_5eb7_0356,Oxygen,GEOGRAPHY_OPT_f28a_000C
+"The Crimean peninsula has been under the control of multiple powers over the centuries. Although it is considered to be an autonomous republic, it is a part of this nation.",GEOGRAPHY_2860_0357,Ukraine,GEOGRAPHY_OPT_79a9_000A
+"From the viewpoint of physical geography and ecology, the Ukrainian territories to the north of the Black Sea are known to contain what?",GEOGRAPHY_431b_0358,"Steppes or plains",GEOGRAPHY_OPT_1e9f_000B
+"The Black Sea reaches the maximum depth of 2,210 m. Its neighbor, the Sea of Azov, is unique in terms of sea depth for what reason?",GEOGRAPHY_ba9b_0359,"It is the shallowest sea in the world.",GEOGRAPHY_OPT_2241_000B
+"All these entities are located around the Black Sea except for one. Name the exception.",GEOGRAPHY_bf98_0360,"Ural mountains",GEOGRAPHY_OPT_f747_000A
+"The summit ridge of Mount Everest marks the border between which two Asian countries?",GEOGRAPHY_09e5_0361,"China and Nepal",GEOGRAPHY_OPT_dfae_000D
+"The locals of Nepal call the highest mount in the world - Mount Everest -  Sagarmatha. What is the meaning of this name in Sanskrit?",GEOGRAPHY_b089_0362,"Head of the Sky",GEOGRAPHY_OPT_5cb2_000D
+"The highest mountain in the world is named after Sir George Everest, a famous Welshman. What was his profession?",GEOGRAPHY_c6c3_0363,"Surveyor and geographer",GEOGRAPHY_OPT_6527_000C
+"The Himalayan range, part of which is Mount Everest, stretches across five different countries in Asia. Which of the following countries is not among them?",GEOGRAPHY_ed6f_0364,Israel,GEOGRAPHY_OPT_0ec6_000A
+"Edmund Hillary, the first mountaineer to reach mount Everest, was from what country?",GEOGRAPHY_83fa_0365,"New Zealand",GEOGRAPHY_OPT_f051_000D
+"What nationality was mathematician and surveyor Radhanath Sikdar, who was the first person to measure the height of Everest?",GEOGRAPHY_05c3_0366,Bengali-Indian,GEOGRAPHY_OPT_fb85_000A
+"Which of the following paths is one of the two most popular climbing routes to Mount Everest?",GEOGRAPHY_9ddd_0367,"The southeast ridge from Nepal",GEOGRAPHY_OPT_49c5_000D
+"What nationality was Junko Tabei - the first woman to reach the peak of Mount Everest?",GEOGRAPHY_fd42_0368,Japanese,GEOGRAPHY_OPT_df95_000A
+"This Italian climber, who was in the first expedition to reach Mount Everest without oxygen tanks, later became the first person to climb the summit alone.",GEOGRAPHY_e340_0369,"Reinhold Messner",GEOGRAPHY_OPT_65ac_000A
+"The term death zone refers to high altitudes, where the amount of oxygen cannot sustain human life and altitude acclimatization becomes impossible.  While this definition still applies, mount Everests death zone is significantly more difficult to survive.  Why?",GEOGRAPHY_b31b_0370,"Extremely low temperatures result in quick freezing of body parts",GEOGRAPHY_OPT_22dd_000B
+"What is the largest island on the planet in terms of territory?",GEOGRAPHY_b5b0_0371,Greenland,GEOGRAPHY_OPT_b6af_000C
+"This island, located north of Australia, is the second-largest island on the planet.",GEOGRAPHY_9b75_0372,"New Guinea",GEOGRAPHY_OPT_98d7_000B
+"This is the third-largest island on the planet, and it is also known as Kalimantan.",GEOGRAPHY_2309_0373,Borneo,GEOGRAPHY_OPT_6a92_000B
+"This is the fourth-largest island in the world, and it is home to 5% of the plant and animal species on the planet.",GEOGRAPHY_f634_0374,Madagascar,GEOGRAPHY_OPT_0d7e_000B
+"This is the largest European island, and the ninth-largest island on the planet.",GEOGRAPHY_9f0f_0375,"None of these",GEOGRAPHY_OPT_29b4_000C
+"What is the largest island of Canada, and the fifth-largest island in the world?",GEOGRAPHY_9f84_0376,"Baffin Island",GEOGRAPHY_OPT_c535_000B
+"What is the most populous island in the world?",GEOGRAPHY_75b3_0377,Java,GEOGRAPHY_OPT_c6ae_000A
+"This island is located in the Indian Ocean and is also known as Ceylon.",GEOGRAPHY_8cdd_0378,"Sri Lanka",GEOGRAPHY_OPT_24ce_000D
+"The capital of this island country is Kingston.",GEOGRAPHY_b704_0379,Jamaica,GEOGRAPHY_OPT_5d4d_000A
+"What is the largest island in the Mediterranean Sea?",GEOGRAPHY_4dba_0380,Sicily,GEOGRAPHY_OPT_6219_000C
+"The geographic North and South Poles are at fixed locations and have not moved.",GEOGRAPHY_601c_0381,False,GEOGRAPHY_OPT_b32c_000B
+"Which nation claims ownership of the South Pole?",GEOGRAPHY_7ad5_0382,"No nation does.",GEOGRAPHY_OPT_8cb7_000B
+"In 1728, he became the first person to sail into the Arctic Ocean and proved that Asia and North America are not joined by land.",GEOGRAPHY_7392_0383,Bering,GEOGRAPHY_OPT_db71_000B
+"Who is given credit  for being the first person to reach the North Pole?",GEOGRAPHY_6ea6_0384,Peary,GEOGRAPHY_OPT_16d0_000A
+"What happened at the North Pole on August 3, 1958?",GEOGRAPHY_a072_0385,"A submarine travelled underwater under the Pole.",GEOGRAPHY_OPT_e567_000C
+"The first time Antarctica was officially visited is a subject of controversy. Three people have claimed to have achieved this feat. Which of these is not one them?",GEOGRAPHY_8ede_0386,"James Cook",GEOGRAPHY_OPT_f0b3_000D
+"Which statement is true about the explorer and glaciologist Albert P. Crary?",GEOGRAPHY_9098_0387,"He was the first person to reach both the North and South Poles.",GEOGRAPHY_OPT_d33f_000D
+"Who was the first person to reach the South Pole?",GEOGRAPHY_b47e_0388,Amundsen,GEOGRAPHY_OPT_e87e_000B
+"The temperature at the North Pole is higher than the temperature at the South Pole.",GEOGRAPHY_f0af_0389,True,GEOGRAPHY_OPT_26c0_000B
+"Few animals inhabit the North Pole. Which of these types of animals can never be seen there?",GEOGRAPHY_e4c4_0390,Penguins,GEOGRAPHY_OPT_e9ee_000A
+"In 2000, microbes were found at the South Pole.",GEOGRAPHY_15f3_0391,True,GEOGRAPHY_OPT_2a28_000B
+"What river, draining into the Caspian Sea, is the longest in Europe?",GEOGRAPHY_3279_0392,Volga,GEOGRAPHY_OPT_61ef_000D
+"Where are the origins of the Rhine?",GEOGRAPHY_beed_0393,Switzerland,GEOGRAPHY_OPT_b7bf_000A
+"What is the longest river in France?",GEOGRAPHY_9d90_0394,Loire,GEOGRAPHY_OPT_32fc_000A
+"What river rises in the northwestern Czech Republic, flows through Germany and into the North Sea?",GEOGRAPHY_cce5_0395,Elbe,GEOGRAPHY_OPT_93d8_000A
+"What river named after a mythological figure is the longest river of Great Britain?",GEOGRAPHY_e78f_0396,Severn,GEOGRAPHY_OPT_6ca6_000D
+"What river flows through ten European countries and is the longest in the European Union?",GEOGRAPHY_a171_0397,Danube,GEOGRAPHY_OPT_9e95_000C
+"What river that flows through Spain and Portugal is the longest river on the Iberian Peninsula?",GEOGRAPHY_d186_0398,Tagus,GEOGRAPHY_OPT_8219_000D
+"What is the longest river in Poland and the ninth longest in Europe?",GEOGRAPHY_ec7a_0399,Vistula,GEOGRAPHY_OPT_f796_000C
+"In what country does the River Po rise?",GEOGRAPHY_dfaf_0400,Italy,GEOGRAPHY_OPT_7190_000B
+"This bridge, that spans the Tagus River, is the longest bridge in Europe.",GEOGRAPHY_e37f_0401,"Vasco da Gama Bridge",GEOGRAPHY_OPT_11ab_000C
+"How would you say What is your name? in Tagalog?",GEOGRAPHY_32d9_0402,"Ano ang pangalan mo?",GEOGRAPHY_OPT_6319_000C
+"The Filipino word Bulaklak means flower in English.",GEOGRAPHY_f2e4_0403,True,GEOGRAPHY_OPT_9fe5_000B
+"What does the Filipino word lungsod mean in English?",GEOGRAPHY_9a34_0404,city,GEOGRAPHY_OPT_6bdb_000B
+"The Filipino word pangalan means name in English. What does the word pangngalan mean?",GEOGRAPHY_a102_0405,noun,GEOGRAPHY_OPT_e9fd_000C
+"The Filipino word maganda means beautiful in English.",GEOGRAPHY_2e96_0406,True,GEOGRAPHY_OPT_7206_000A
+"What Filipino word means money in English?",GEOGRAPHY_55bf_0407,pera,GEOGRAPHY_OPT_afb9_000C
+"What does the Filipino word salita mean in English?",GEOGRAPHY_d3a4_0408,word,GEOGRAPHY_OPT_98f2_000A
+"How will you say I Love You in Filipino?",GEOGRAPHY_f9e0_0409,"Mahal Kita",GEOGRAPHY_OPT_6e4b_000A
+"Who is considered the Father of Filipino Language?",GEOGRAPHY_0737_0410,"Manuel Quezon",GEOGRAPHY_OPT_6c27_000D
+"This western half of this island is part of Indonesia, while the eastern half is a nation which gained independence in 2002, following hundreds of years of European colonialism and 25 years of Indonesian occupation.",GEOGRAPHY_6b8f_0411,Timor,GEOGRAPHY_OPT_438a_000C
+"Which Indonesian island is shared by four Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei?",GEOGRAPHY_a235_0412,Borneo,GEOGRAPHY_OPT_b24d_000C
+"These islands were the original spice islands, which have drawn traders from all over the world for thousands of years, and were a major factor in causing the European age of exploration, as explorers set out to find the fabled East Indies.",GEOGRAPHY_51ce_0413,"Ternate, Tidore and Banda",GEOGRAPHY_OPT_473d_000A
+"Which Indonesian island was in the news in 2003 when the remains of an extinct variety of small hominids (popularly referred to as Hobbits), measuring about 3 feet in height, were found there?",GEOGRAPHY_9fc1_0414,Flores,GEOGRAPHY_OPT_25cb_000D
+"This island, the second largest in the world, is shared by Indonesia and another country. Because of its impenetrable swamps, jungles and towering mountains, it wasnt explored by outsiders until the past 100 years, and new tribes of humans with stone-age societies are still being discovered in the interior.",GEOGRAPHY_2f5d_0415,"New Guinea",GEOGRAPHY_OPT_2811_000A
+"This island is the third largest in Indonesia, and is probably known for its coffee. It is also home to unique (and endangered) species of elephants, tigers, and rhinoceroses. It is also one of two islands which have indigenous orangutans.",GEOGRAPHY_80e0_0416,Sumatra,GEOGRAPHY_OPT_a5b6_000B
+"Which of these describes best the location of the volcanic island of Krakatau (sometimes erroneously called Krakatoa), which had a well-known and devastating eruption on August 23, 1883?",GEOGRAPHY_828a_0417,"Between Java and Sumatra",GEOGRAPHY_OPT_83b2_000C
+"This volcano, located on the island of Sumbawa, erupted in 1815, generally regarded as the largest volcanic eruption in recorded history. The eruption killed thousands, and changed global climatic patterns.",GEOGRAPHY_99b6_0418,Tambora,GEOGRAPHY_OPT_06da_000D
+"Wichita, the county seat of Sedgwick County, is nicknamed what?",GEOGRAPHY_dfce_0419,"Air Capital",GEOGRAPHY_OPT_5e6a_000A
+"Wichita, a major aircraft manufacturing hub and cultural center, is the capital of Kansas.",GEOGRAPHY_eff8_0420,False,GEOGRAPHY_OPT_2d3d_000B
+"This multifunctional facility is located at 225 West Douglas, Wichita, Kansas.",GEOGRAPHY_aa2a_0421,"Century II Convention center",GEOGRAPHY_OPT_e68e_000C
+"McConnell Air Force Base is a United States Air Force base located in Sedgwick County, near Wichita, Kansas.",GEOGRAPHY_5758_0422,True,GEOGRAPHY_OPT_39bf_000A
+"What is the name of the European peninsula on which Italy is located?",GEOGRAPHY_02fb_0423,"Italian Peninsula",GEOGRAPHY_OPT_4b59_000C
+"What is the capital and largest city of Italy?",GEOGRAPHY_7bbf_0424,Rome,GEOGRAPHY_OPT_ad01_000C
+"What large mountain range is located entirely within the territory of Italy?",GEOGRAPHY_5d68_0425,Apennines,GEOGRAPHY_OPT_cb65_000C
+"Italy is a major world exporter of which of the following?",GEOGRAPHY_22d9_0426,"All of these",GEOGRAPHY_OPT_f97e_000A
+"What is the meaning of the Italian word riavvolgere, from which the name of the popular Italian dish ravioli originated?",GEOGRAPHY_36d7_0427,"To wrap",GEOGRAPHY_OPT_42ff_000C
+"Which of these colors is not present on the national flag of the Italian Republic?",GEOGRAPHY_6250_0428,Blue,GEOGRAPHY_OPT_7c26_000C
+"What is the title of the national anthem of the Italian Republic?",GEOGRAPHY_5d28_0429,"The Song of the Italians",GEOGRAPHY_OPT_9424_000B
+"What is the meaning of the name of Italy according to scientists who have studied its origin?",GEOGRAPHY_13a5_0430,"Land of young cattle",GEOGRAPHY_OPT_c080_000C
+"What is the shape of the Italian Peninsula?",GEOGRAPHY_84bf_0431,Boot,GEOGRAPHY_OPT_6032_000B
+"In which of these years did the Italian national football team win the FIFA World Cup?",GEOGRAPHY_2cac_0432,"All of these",GEOGRAPHY_OPT_1f77_000C
+"The first European to explore the Chesapeake Bay surrounded by modern day Maryland and Virginia was the Italian Giovanni da Verrazzano.",GEOGRAPHY_5fd6_0433,False,GEOGRAPHY_OPT_ddc1_000B
+"Maryland is well known as a colony of religious tolerance.  It was the first American colony to fully accept practitioners of which religion?",GEOGRAPHY_f319_0434,Catholics,GEOGRAPHY_OPT_66c7_000C
+"Maryland Day is celebrated every year on what date?",GEOGRAPHY_4651_0435,"March 25th",GEOGRAPHY_OPT_c61c_000C
+"Which was the seat of colonial government in Maryland until 1708?",GEOGRAPHY_ef16_0436,"St. Mary’s City",GEOGRAPHY_OPT_4206_000D
+"The Mason Dixon Line is a demarcation line surveyed between 1763 and 1767 by Charles Mason and Jeremiah Dixon to determine what?",GEOGRAPHY_e640_0437,"The boundary between Maryland and Pennsylvania",GEOGRAPHY_OPT_0881_000C
+"What are Maryland’s two official state nicknames?",GEOGRAPHY_5792_0438,"“The Old Line State” and “The Free State”",GEOGRAPHY_OPT_6756_000A
+"Maryland derives its name from its Catholic founders, who named the state after which historic person?",GEOGRAPHY_d05b_0439,"Queen Henrietta Maria of France",GEOGRAPHY_OPT_599c_000D
+"What is the state sport of Maryland?",GEOGRAPHY_a37b_0440,Jousting,GEOGRAPHY_OPT_7d32_000B
+"Which of the following famous people is NOT a Marylander?",GEOGRAPHY_4753_0441,"Valerie Bertinelli",GEOGRAPHY_OPT_9d12_000D
+"Which is the state flower of Maryland?",GEOGRAPHY_363d_0442,"Black-eyed Susan",GEOGRAPHY_OPT_d5b9_000C
+"How tall is Mount Everest?",GEOGRAPHY_c15d_0443,"8,849 m",GEOGRAPHY_OPT_39a3_000B
+"What is the Tibetan name of Mt. Everest?",GEOGRAPHY_beeb_0444,Chomolungma,GEOGRAPHY_OPT_b5fc_000C
+"The Sanskrit name of Mt. Everest is Devgiri.",GEOGRAPHY_6e2b_0445,True,GEOGRAPHY_OPT_e4b4_000A
+"The easier and more frequently-used of the two main routes for climbing Mount Everest is the Northeast Ridge (or North Col Route).",GEOGRAPHY_0480_0446,False,GEOGRAPHY_OPT_8bd5_000A
+"The term Death Zone refers to what altitude?",GEOGRAPHY_b8df_0447,"above 8,000 m",GEOGRAPHY_OPT_bc3f_000B
+"What is considered to be the final major hurdle before reaching the summit of Mt. Everest from the South Col Route?",GEOGRAPHY_a4dd_0448,"Hillary Step",GEOGRAPHY_OPT_60a6_000A
+"Has anyone landed an aircraft or helicopter on the summit of Mt. Everest?",GEOGRAPHY_5b53_0449,Yes,GEOGRAPHY_OPT_31d5_000A
+"Part of the Southeast Ridge Route for climbing Mt. Everest is the Lhotse Face in which Camp III is established. There are 14 peaks over 8,000 meters. Where does Lhotse rank?",GEOGRAPHY_f12d_0450,4,GEOGRAPHY_OPT_314a_000A
+"Who is the first American to ascend all fourteen peaks over 8,000m without oxygen?",GEOGRAPHY_5ad2_0451,"Ed Viesturs",GEOGRAPHY_OPT_f4cc_000C
+"During Roman occupation, this city, popular nowadays as the Heaven of Romance, was called Lutetia.",GEOGRAPHY_1625_0452,Paris,GEOGRAPHY_OPT_413d_000B
+"In what European city are Piazza San Marco and Canale Grande located?",GEOGRAPHY_3cb5_0453,Venice,GEOGRAPHY_OPT_ea81_000A
+"In what country will you find the impressive Neuschwanstein Castle, which was the inspiration for Sleeping Beauty Castle at Disneyland Park?",GEOGRAPHY_42cf_0454,Germany,GEOGRAPHY_OPT_334c_000C
+"What is the birthplace of Johann Strauss II, also known as The Waltz King?",GEOGRAPHY_e484_0455,Vienna,GEOGRAPHY_OPT_8591_000B
+"What popular tourist destination stands at the foot of the Maritime Alps?",GEOGRAPHY_36da_0456,"Monte Carlo",GEOGRAPHY_OPT_7bc2_000A
+"This city, situated on the River Vltava, is sometimes called the mother of cities, the city of a hundred spires and the golden city.",GEOGRAPHY_808d_0457,Prague,GEOGRAPHY_OPT_fd6d_000C
+"What city is home of Broadway Theatre?",GEOGRAPHY_d3ba_0458,"New York",GEOGRAPHY_OPT_8ab6_000D
+"This island in the Pacific Ocean is surrounded by a lagoon and a barrier reef.",GEOGRAPHY_1576_0459,"Bora Bora",GEOGRAPHY_OPT_4d7c_000A
+"The city of Casablanca, which is the setting of the classic 1942 movie, starring Humphrey Bogart and Ingrid Bergman, is located in what African country?",GEOGRAPHY_ef63_0460,Morocco,GEOGRAPHY_OPT_b244_000B
+"What islands are knows as “The beautiful garland in the Indian Ocean”?",GEOGRAPHY_d9d2_0461,"Maldives Islands",GEOGRAPHY_OPT_78a7_000D
+"This island, located in the Caribbean Sea, is the largest island of an archipelago called Greater Antilles. The city of Havana is located on it.",GEOGRAPHY_356c_0462,Cuba,GEOGRAPHY_OPT_a0fe_000A
+"This island, also known as Formosa, is the largest island of the Republic of China.",GEOGRAPHY_b2a7_0463,Taiwan,GEOGRAPHY_OPT_3968_000B
+"What island, located in the North Pacific Ocean, is also known as the Big Island?",GEOGRAPHY_43e2_0464,Hawaii,GEOGRAPHY_OPT_09fd_000C
+"This island country whose capital is Nicosia is the third-largest Mediterranean island.",GEOGRAPHY_8634_0465,Cyprus,GEOGRAPHY_OPT_e3b8_000A
+"This island is one of Indonesias 33 provinces.",GEOGRAPHY_3518_0466,Bali,GEOGRAPHY_OPT_e138_000C
+"This European island is situated in the North Atlantic Ocean, south of the Arctic Circle. Its largest city is Reykjavik.",GEOGRAPHY_ccf6_0467,Iceland,GEOGRAPHY_OPT_c921_000A
+"This is the sixth largest island in the world, and the largest island that is entirely in Indonesia.",GEOGRAPHY_22ce_0468,Sumatra,GEOGRAPHY_OPT_78e8_000A
+"This island, sometimes called island of inspiration, is part of a very large country, and has a unique fauna.",GEOGRAPHY_8650_0469,Tasmania,GEOGRAPHY_OPT_591f_000B
+"Valletta is the capital city of this island country in the Mediterranean.",GEOGRAPHY_e7bf_0470,Malta,GEOGRAPHY_OPT_70bb_000B
+"Name the largest of the Canary Islands.",GEOGRAPHY_b3ce_0471,Tenerife,GEOGRAPHY_OPT_3854_000A
+"What is the name of the capital and largest city of Spain?",GEOGRAPHY_0aeb_0472,Madrid,GEOGRAPHY_OPT_f5b7_000A
+"What is the meaning of the name of Spain according to a popular theory?",GEOGRAPHY_0d74_0473,"All of these",GEOGRAPHY_OPT_3f96_000B
+"Spain does not share a border with which one of these countries?",GEOGRAPHY_a128_0474,Germany,GEOGRAPHY_OPT_78c6_000A
+"What is the official language spoken on the territory of Spain?",GEOGRAPHY_92ec_0475,Spanish,GEOGRAPHY_OPT_72f0_000D
+"When is the national holiday called Hispanic Day celebrated annually in Spain?",GEOGRAPHY_d2f5_0476,"October 12",GEOGRAPHY_OPT_33c5_000A
+"What is the title of the national anthem of Spain?",GEOGRAPHY_55cc_0477,"The Royal March",GEOGRAPHY_OPT_bb05_000D
+"What are the colors of the three vertical stripes on the national flag of Spain?",GEOGRAPHY_6a82_0478,"Red, yellow, red",GEOGRAPHY_OPT_4b2e_000C
+"What is the main ingredient of the traditional Spanish dish paella?",GEOGRAPHY_b4b5_0479,Rice,GEOGRAPHY_OPT_4dc7_000B
+"Which of these popular musicians was not born in Spain?",GEOGRAPHY_e8cf_0480,Shakira,GEOGRAPHY_OPT_1e55_000B
+"Spanish painter and sculptor Pablo Picasso is known for co-founding what art movement?",GEOGRAPHY_8e31_0481,Cubism,GEOGRAPHY_OPT_d441_000A
+"In which section of Israel is Eilat located?",GEOGRAPHY_a3bd_0482,South,GEOGRAPHY_OPT_a1e7_000C
+"When was the city of Eilat founded?",GEOGRAPHY_ec26_0483,1951,GEOGRAPHY_OPT_751c_000A
+"What is the population of Eilat according to the Israel Central Bureau of Statistics end of 2004 census?",GEOGRAPHY_c7b7_0484,"45,800",GEOGRAPHY_OPT_6dc5_000A
+"What best describes the climate of Eilat?",GEOGRAPHY_b5c8_0485,"Hot and dry all year",GEOGRAPHY_OPT_b5f7_000A
+"Which city is a sister city to Eilat?",GEOGRAPHY_2134_0486,"Los Angeles, California",GEOGRAPHY_OPT_d53b_000C
+"Which is the major source of revenue for the Eilat area?",GEOGRAPHY_7bbb_0487,Tourism,GEOGRAPHY_OPT_f438_000B
+"Israels major airport is located near Eilat.",GEOGRAPHY_d5e7_0488,False,GEOGRAPHY_OPT_4635_000B
+"Which four countries can be seen from Eilat?",GEOGRAPHY_bc0a_0489,"Israel, Egypt, Jordan, Saudi Arabia",GEOGRAPHY_OPT_263d_000B
+"In 1967, Egypt effectively blockaded Eilat by closing this area to Israel.",GEOGRAPHY_be1e_0490,"The Straits of Tiran",GEOGRAPHY_OPT_1f39_000C
+"The Peace Treaty between Jordan and Israel was signed near Eilat. In what year did this happen?",GEOGRAPHY_2044_0491,"October, 1994",GEOGRAPHY_OPT_e69a_000D
+"Where does the Freedom Trail begin and end?",GEOGRAPHY_e568_0492,"Boston Common, Charlestown Navy Yard",GEOGRAPHY_OPT_1f61_000D
+"On October 24, 1901, Annie Edson Taylor became the first person to go over the Niagara Falls in a barrel as a publicity stunt. How old was she at the time?",GEOGRAPHY_4338_0493,63,GEOGRAPHY_OPT_6e08_000A
+"What is the famous Niagara boat called?",GEOGRAPHY_b6ce_0494,"Maid of the Mist",GEOGRAPHY_OPT_6572_000C
+"Name the smallest of the three waterfalls that make up the Niagara Falls.",GEOGRAPHY_2928_0495,"Bridal Veil Falls",GEOGRAPHY_OPT_e942_000A
+"Approximately what percentage of the water of the Niagara River flows over the Horseshoe Falls?",GEOGRAPHY_a28e_0496,90%,GEOGRAPHY_OPT_a771_000B
+"The flow of the water over the American Falls was completely blocked from June to November in what year?",GEOGRAPHY_bd57_0497,1969,GEOGRAPHY_OPT_76f2_000B
+"How long is the crest of the American Falls if measured along the jagged lip of the falls?",GEOGRAPHY_3d7a_0498,"950  feet  (290 m)",GEOGRAPHY_OPT_77ed_000B
+"What event related to the Niagara Falls occurred on March 29th 1848?",GEOGRAPHY_d2a7_0499,"The flow of water over both falls stopped to the point where people could walk around the riverbed.",GEOGRAPHY_OPT_a5a1_000A
+"The cities of Niagara Falls, Ontario and Niagara Falls, New York are connected by three bridges. Which of them is the oldest one?",GEOGRAPHY_e9b7_0500,"Whirlpool Rapids Bridge",GEOGRAPHY_OPT_47de_000A
+"When was the Skylon Tower, Niagaras most famous landmark, built?",GEOGRAPHY_6ee4_0501,"in the 1960s",GEOGRAPHY_OPT_684a_000C
+"Around the year 1859, Jean-François Blondin crossed the gorge below Niagara Falls on a tightrope 1100 feet (335 m) long, 160 feet (50 m) above the water. He made this accomplishment several times including which of the following theatrical variations?",GEOGRAPHY_cdaa_0502,"All of these",GEOGRAPHY_OPT_7565_000A
+"Which U.S. state is nicknamed The Natural State?",GEOGRAPHY_987c_0503,Arkansas,GEOGRAPHY_OPT_7543_000D
+"What nickname has been given to the U.S. state of Oregon?",GEOGRAPHY_2060_0504,"Beaver State",GEOGRAPHY_OPT_2673_000C
+"What U.S. state is nicknamed Land of Infinite Variety?",GEOGRAPHY_dc17_0505,"South Dakota",GEOGRAPHY_OPT_7235_000D
+"Which of these nicknames has been given to the U.S. state of Colorado?",GEOGRAPHY_3cfa_0506,"Switzerland of America",GEOGRAPHY_OPT_c609_000D
+"Which of these nicknames has been given to the U.S. state of Illinois?",GEOGRAPHY_8898_0507,"Corn State",GEOGRAPHY_OPT_1036_000A
+"This U.S. state was nicknamed Vacationland, and the nickname is used on license plates.",GEOGRAPHY_1472_0508,Maine,GEOGRAPHY_OPT_0c92_000B
+"The Independence State is one of the nicknames of this U.S. state.",GEOGRAPHY_d477_0509,Pennsylvania,GEOGRAPHY_OPT_4020_000C
+"Which U.S. state is nicknamed The Cowboy State?",GEOGRAPHY_8866_0510,Wyoming,GEOGRAPHY_OPT_88f8_000C
+"What nickname has been given to the U.S. state of Rhode Island?",GEOGRAPHY_9e84_0511,"Ocean State",GEOGRAPHY_OPT_e5d9_000A
+"The nickname Queen State has been given to this U.S. state.",GEOGRAPHY_9987_0512,Maryland,GEOGRAPHY_OPT_630e_000D
+"Which country, Slovakia or Slovenia, used to be part of Yugoslavia?",GEOGRAPHY_106a_0513,Slovenia,GEOGRAPHY_OPT_19a5_000A
+"Which former empire were both Slovenia and Slovakia part of?",GEOGRAPHY_73a5_0514,Austria-Hungary,GEOGRAPHY_OPT_ca5a_000A
+"Slovakia and Slovenia joined the European Union on the same day (May 1, 2004). Which of them was first to accept the euro currency?",GEOGRAPHY_f189_0515,Slovenia,GEOGRAPHY_OPT_fe10_000D
+"What is the capital of Slovakia?",GEOGRAPHY_5e44_0516,Bratislava,GEOGRAPHY_OPT_72f5_000D
+"What is the capital of Slovenia?",GEOGRAPHY_136d_0517,Ljubljana,GEOGRAPHY_OPT_3758_000C
+"Which country borders both Slovenia and Slovakia?",GEOGRAPHY_c325_0518,Austria,GEOGRAPHY_OPT_2336_000B
+"Which statement concerning Slovakia and Slovenia is true?",GEOGRAPHY_5663_0519,"Slovenia has access to the Adriatic Sea.",GEOGRAPHY_OPT_2015_000B
+"The Danube river flows through many Central European countries. Which of these statements concerning Slovakia and Slovenia is true?",GEOGRAPHY_4a65_0520,"Of the two countries, only Slovakia has Danubian banks.",GEOGRAPHY_OPT_e3b3_000C
+"Which of these statements regarding Slovakia and Slovenia is true?",GEOGRAPHY_da85_0521,"Only Slovenia is an Alpine country.",GEOGRAPHY_OPT_c556_000B
+"Which country, Slovakia or Slovenia, borders a country that did not join the European Union in the period 1951-2007?",GEOGRAPHY_6d2f_0522,"Both share borders with countries that did not became EU members during this period.",GEOGRAPHY_OPT_6fe6_000C
+"What design is depicted on the national flag of Switzerland?",GEOGRAPHY_7eab_0523,Cross,GEOGRAPHY_OPT_fa52_000B
+"Switzerland is often associated with this product which is produced at the highest quality in the country.",GEOGRAPHY_7d8e_0524,"All of these",GEOGRAPHY_OPT_f6fc_000C
+"What is the unofficial national motto of Switzerland?",GEOGRAPHY_5ed7_0525,"One for all, all for one",GEOGRAPHY_OPT_645b_000C
+"What is the capital city of Switzerland?",GEOGRAPHY_c5c2_0526,Bern,GEOGRAPHY_OPT_0055_000B
+"What mountain covers about 65% of the territory of Switzerland?",GEOGRAPHY_4f4f_0527,"the Alps",GEOGRAPHY_OPT_dcc9_000D
+"What language is adopted as official for the territory of Switzerland?",GEOGRAPHY_4a92_0528,"All of these",GEOGRAPHY_OPT_c2ed_000D
+"What is the title of the national anthem of Switzerland?",GEOGRAPHY_1be5_0529,"Swiss Psalm",GEOGRAPHY_OPT_fd52_000D
+"What is the main ingredient of the traditional Swiss dish Rosti?",GEOGRAPHY_28e6_0530,Potatoes,GEOGRAPHY_OPT_b71a_000D
+"What is the largest city in Switzerland?",GEOGRAPHY_1bac_0531,Zurich,GEOGRAPHY_OPT_d03c_000B
+"Which of these famous philosophers was of Swiss descent?",GEOGRAPHY_67e6_0532,"Jean-Jacques Rousseau",GEOGRAPHY_OPT_c5af_000A
+"Which of these is the capital and the largest city in North Korea?",GEOGRAPHY_0cd3_0533,Pyongyang,GEOGRAPHY_OPT_ddad_000D
+"What type of climate does North Korea have?",GEOGRAPHY_5112_0534,Continental,GEOGRAPHY_OPT_6a76_000C
+"Which of these seas surrounds the Korean Peninsula, in the northern part of which North Korea is located?",GEOGRAPHY_0c2e_0535,"All of these",GEOGRAPHY_OPT_c3f6_000A
+"The establishment of the Democratic Peoples Republic of Korea in this year set the official beginning of North Koreas history.",GEOGRAPHY_a0cd_0536,1948,GEOGRAPHY_OPT_53fa_000C
+"Which of these statements is true about the division of Korea into two parts?",GEOGRAPHY_15b6_0537,"All of these",GEOGRAPHY_OPT_72b2_000C
+"Which of these natural disasters is known to hit the lands of North Korea on the regular?",GEOGRAPHY_bac6_0538,"All of these",GEOGRAPHY_OPT_5776_000A
+"What is the official language that is spoken in North Korea?",GEOGRAPHY_1f06_0539,Korean,GEOGRAPHY_OPT_5aee_000C
+"Which of these religious movements has many adherents among the people of North Korea?",GEOGRAPHY_4216_0540,"All of these",GEOGRAPHY_OPT_4259_000C
+"Which of these musicians became the first US musical group ever to perform in North Korea?",GEOGRAPHY_271e_0541,"The New York Philharmonic Orchestra",GEOGRAPHY_OPT_9c24_000B
+"Which of these events is regularly performed only in North Korea?",GEOGRAPHY_3f2e_0542,"Mass games",GEOGRAPHY_OPT_8502_000A
+"What other name is commonly used to refer to the Colorado River in North America?",GEOGRAPHY_f726_0543,"Red River",GEOGRAPHY_OPT_fc0e_000D
+"What is the name of the longest river in the United States of America?",GEOGRAPHY_acdf_0544,Missouri,GEOGRAPHY_OPT_3fc6_000B
+"The Ohio River does not flow though the territory of this American state.",GEOGRAPHY_5a20_0545,Virginia,GEOGRAPHY_OPT_39c9_000B
+"What is the longest river located entirely within the territory of the state of California?",GEOGRAPHY_7211_0546,"Sacramento River",GEOGRAPHY_OPT_eb9c_000D
+"What is the meaning of the name of the Mississippi River, which originated from the Ojibwe word misi-ziibi?",GEOGRAPHY_2b53_0547,"Great river",GEOGRAPHY_OPT_90a2_000D
+"What ocean fish migrates from the Pacific Ocean to the Columbia River to spawn at the end of their life cycles?",GEOGRAPHY_0e3d_0548,"All of these",GEOGRAPHY_OPT_9e1a_000B
+"What is the The Rio Grande river called in Mexico?",GEOGRAPHY_3282_0549,"Rio Bravo",GEOGRAPHY_OPT_0ad3_000B
+"What river in North America provides food for the largest wintering Bald Eagle population in the continental United States?",GEOGRAPHY_f6a9_0550,"Skagit River",GEOGRAPHY_OPT_c667_000D
+"What does the Mohawk name of the Saint Lawrence River, Kaniatarowanenneh, mean?",GEOGRAPHY_a8b9_0551,"Big waterway",GEOGRAPHY_OPT_6ee0_000D
+"More than half of the Yukon River is located within this American state.",GEOGRAPHY_c682_0552,Alaska,GEOGRAPHY_OPT_4e11_000C
+"What is the name of the capital and largest city of Norway?",GEOGRAPHY_ab1f_0553,Oslo,GEOGRAPHY_OPT_9a37_000C
+"According to some medieval texts, the name of Norway originated from the name of which of the following?",GEOGRAPHY_fcb2_0554,"The name of a king",GEOGRAPHY_OPT_e3cb_000B
+"What type of government does Norway have?",GEOGRAPHY_8a94_0555,"Constitutional monarchy",GEOGRAPHY_OPT_7edf_000B
+"What animal is depicted on the Coat of Arms of Norway?",GEOGRAPHY_4ce6_0556,Lion,GEOGRAPHY_OPT_a023_000A
+"What is the predominant form of Christianity in Norway?",GEOGRAPHY_db59_0557,Protestantism,GEOGRAPHY_OPT_88c5_000D
+"What is the official language adopted by the government of Norway?",GEOGRAPHY_8473_0558,Norwegian,GEOGRAPHY_OPT_da40_000D
+"What is the title of the national anthem of Norway?",GEOGRAPHY_9a55_0559,"Yes, We Love This Country",GEOGRAPHY_OPT_84ef_000D
+"What is Bunad?",GEOGRAPHY_7d66_0560,"A Norwegian costume",GEOGRAPHY_OPT_5215_000C
+"What is the popular Norwegian delicacy called Smalahove made from?",GEOGRAPHY_c80b_0561,"Lamb head",GEOGRAPHY_OPT_feef_000D
+"Which of the following is present on the national flag of Norway?",GEOGRAPHY_e542_0562,Cross,GEOGRAPHY_OPT_6db6_000B
+"What is the largest carnivorous mammal endemic to the island of Madagascar?",GEOGRAPHY_40e4_0563,Fossa,GEOGRAPHY_OPT_cd03_000D
+"Which of these statements is true about Madagascar?",GEOGRAPHY_9dfc_0564,"None of these",GEOGRAPHY_OPT_fd56_000C
+"What is the title of the national anthem of Madagascar, written by Norbert Raharisoa and composed by Rahajason?",GEOGRAPHY_60c2_0565,"Oh, Our Beloved Fatherland",GEOGRAPHY_OPT_8c5a_000C
+"What are the colors on the national flag of Madagascar, adopted on October 14, 1958?",GEOGRAPHY_923f_0566,"White, red and green",GEOGRAPHY_OPT_03a7_000D
+"What city is the capital and largest city of Madagascar?",GEOGRAPHY_47b7_0567,Antananarivo,GEOGRAPHY_OPT_6fb3_000C
+"What are the official languages spoken in Madagascar?",GEOGRAPHY_6639_0568,"Malagasy, French and English",GEOGRAPHY_OPT_78ba_000A
+"What is the name some ecologists use wen referring to Madagascar?",GEOGRAPHY_5eaf_0569,"The eight continent",GEOGRAPHY_OPT_8861_000A
+"What kind of traditional ritual is the Famadihana, practiced by the Malagasy people in Madagascar?",GEOGRAPHY_0730_0570,"Turning of the dead",GEOGRAPHY_OPT_258b_000C
+"What type of meal is the godro-godro, which is very popular in the Madagascar cuisine?",GEOGRAPHY_a310_0571,Pudding,GEOGRAPHY_OPT_8f5d_000C
+"This tree is a very important part of the Madagascar dry deciduous forests and six species of it are endemic to the island.",GEOGRAPHY_f8e9_0572,"All of these",GEOGRAPHY_OPT_3bcc_000A
+"In 1945 Borneo was the site of horrific acts of brutality. The Japanese forced over 6,000 POWs and island civilians to march to a new camp some 160 miles away. This became known as the Sandakan Death March, as only 200 marchers survived to the end of the war.",GEOGRAPHY_34b0_0573,False,GEOGRAPHY_OPT_14b4_000B
+"How many new species of animals and plants were discovered on Borneo between July 2005 and September 2006?",GEOGRAPHY_a80a_0574,52,GEOGRAPHY_OPT_a055_000D
+"Between the 1980s and 2006 Borneo lost approximately 45 % of its rain forests due to logging.",GEOGRAPHY_1de3_0575,False,GEOGRAPHY_OPT_7c7e_000A
+"Borneo is the 3rd largest island in the world.",GEOGRAPHY_8696_0576,True,GEOGRAPHY_OPT_23a3_000A
+"From the 1600s to the 1800s, the British and Dutch were interested in Borneo because they wanted control of this resource.",GEOGRAPHY_fc43_0577,Pepper,GEOGRAPHY_OPT_95cc_000A
+"Which of the characteristics below is typical for the buildings on the Greek archipelago of Santorini?",GEOGRAPHY_eec5_0578,"The white-and-blue colouring",GEOGRAPHY_OPT_5a74_000A
+"What is the biggest Greek island ?",GEOGRAPHY_e547_0579,Crete,GEOGRAPHY_OPT_527a_000D
+"The Navagio Bay (also known as the Shipwreck) is the most popular beach of which Greek island?",GEOGRAPHY_4879_0580,Zakynthos,GEOGRAPHY_OPT_40e6_000B
+"Halkidiki, one of the Greek peninsulas, has a peculiar form which resembles what?",GEOGRAPHY_1d45_0581,"A trident",GEOGRAPHY_OPT_24db_000B
+"Which medieval monument is an essential part of the archaeological sites of the Greek island Rhodes?",GEOGRAPHY_c335_0582,"The Palace of the Grand Master",GEOGRAPHY_OPT_f7b3_000A
+"Which island is NOT a part of Greece?",GEOGRAPHY_ad40_0583,Gozo,GEOGRAPHY_OPT_684a_000C
+"The Corinth Canal separates this Greek peninsula from the mainland of Greece.",GEOGRAPHY_f1b0_0584,Peloponnese,GEOGRAPHY_OPT_3f06_000D
+"Which is the largest group of Greek islands?",GEOGRAPHY_9fcb_0585,"The Cyclades",GEOGRAPHY_OPT_b7a2_000A
+"The Cave of Melissani is among the most popular geological landmarks of which Greek island?",GEOGRAPHY_8b36_0586,Kefallonia,GEOGRAPHY_OPT_7cb6_000A
+"Which of the following places in Greece is NOT an island?",GEOGRAPHY_b2fe_0587,Kavala,GEOGRAPHY_OPT_83fc_000C
+"The Shinsengumi group remained loyal to the Tokugawa shogunate until the end of the Bakamatsu.",GEOGRAPHY_17dc_0588,True,GEOGRAPHY_OPT_c0b7_000B
+"What is the name of the leader of the first squad of Shinsengumi?",GEOGRAPHY_ddc4_0589,"Okita Sōji",GEOGRAPHY_OPT_80ee_000A
+"At its peak, how many members did the Shinsengumi group have?",GEOGRAPHY_b101_0590,300+,GEOGRAPHY_OPT_ae9c_000B
+"According to the Shinsengumi rules, if the leader of a unit is mortally wounded in a fight, what should the rest of the group do?",GEOGRAPHY_a0f4_0591,"All members of the unit must fight and die on the spot.",GEOGRAPHY_OPT_7b87_000D
+"In which city was the Shinsengumi group founded?",GEOGRAPHY_d137_0592,Kyoto,GEOGRAPHY_OPT_3789_000A
+"Who was Shinsengumi Commander from 1863 to 1868?",GEOGRAPHY_804d_0593,"Kondō Isami",GEOGRAPHY_OPT_c8d9_000D
+"The code of Shinsengumi comprised five rules. What was the punishment for breaking these rules?",GEOGRAPHY_4e46_0594,Sepuku,GEOGRAPHY_OPT_3111_000A
+"What was the favorite weapon of Harada Sanosuke, the 10th unit captain of the Shinsengumi?",GEOGRAPHY_d3fa_0595,Spear,GEOGRAPHY_OPT_db0d_000B
+"This river flows through the southern part of England and passes through the capital of the country.",GEOGRAPHY_1c26_0596,"The Thames",GEOGRAPHY_OPT_36da_000C
+"What river is considered the longest river on the planet?",GEOGRAPHY_4104_0597,"The Nile",GEOGRAPHY_OPT_4559_000A
+"What is the name of the holy river of the Hindu people?",GEOGRAPHY_f273_0598,"The Ganges",GEOGRAPHY_OPT_56c3_000A
+"What river flows through the central part of the French capital, Paris?",GEOGRAPHY_0770_0599,Seine,GEOGRAPHY_OPT_d470_000A
+"What is the name of the longest river in Asia, and the third-longest in the world?",GEOGRAPHY_2029_0600,"The Yangtze",GEOGRAPHY_OPT_c0f9_000A
+"This river is the longest in the United States, and it gave its name to one of the states.",GEOGRAPHY_ceef_0601,"The Missouri River",GEOGRAPHY_OPT_c088_000A
+"What is the largest river on the planet by volume?",GEOGRAPHY_46a6_0602,"The Amazon",GEOGRAPHY_OPT_e956_000B
+"What is the name of the river in which Jesus Christ was baptized by John the Baptist?",GEOGRAPHY_27d6_0603,"The Jordan",GEOGRAPHY_OPT_a7ad_000B
+"This North American river is also called Kaniatarowanenneh, which means big waterway in Mohawk.",GEOGRAPHY_034c_0604,"Saint Lawrence River",GEOGRAPHY_OPT_e55e_000A
+"This European river originates in Germany and empties in the Black Sea via a delta.",GEOGRAPHY_d304_0605,"The Danube",GEOGRAPHY_OPT_7345_000B
+"There is a city in Oklahoma called Moon.",GEOGRAPHY_6033_0606,True,GEOGRAPHY_OPT_ea78_000A
+"Oklahoma has no cities and communities named after Presidents.",GEOGRAPHY_cf07_0607,False,GEOGRAPHY_OPT_babc_000B
+"In what Oklahoma city was the shopping cart invented?",GEOGRAPHY_0cb3_0608,Ardmore,GEOGRAPHY_OPT_4867_000A
+"How many of the astronauts who have flown in space between 1959 and 2009 were from Oklahoma?",GEOGRAPHY_1b6e_0609,6,GEOGRAPHY_OPT_f387_000A
+"There is a town in Oklahoma called IXL.",GEOGRAPHY_a0b3_0610,True,GEOGRAPHY_OPT_0a0d_000A
+"A windspeed of 100 feet above the ground was observed in 1999 in what Oklahoma city?",GEOGRAPHY_53ed_0611,Moore,GEOGRAPHY_OPT_5421_000C
+"Will Rogers World Airport and the Wiley Post Airport were named after people who died in 1935. How did they meet their demise?",GEOGRAPHY_7ccc_0612,"in a plane crash",GEOGRAPHY_OPT_538f_000A
+"Carl Albert High School was named after Carl Bert Albert, who was the Speaker of the House of Representatives from 1971 to 1977. What small Oklahoma town did he hail from?",GEOGRAPHY_dc82_0613,Bugtussle,GEOGRAPHY_OPT_8e49_000D
+"Oklahoma has more man-made lakes than any other state.",GEOGRAPHY_dffd_0614,True,GEOGRAPHY_OPT_5528_000A
+"Which of the following is NOT an Oklahoma city?",GEOGRAPHY_e01d_0615,Toledo,GEOGRAPHY_OPT_436d_000D
+"Boise City, Oklahoma was the only city within the continental United States to be bombed during World War II.",GEOGRAPHY_c2bd_0616,True,GEOGRAPHY_OPT_9fe0_000B
+"The national motto of the Republic of Botswana is Pula. What does this mean in English?",GEOGRAPHY_9a0e_0617,Rain,GEOGRAPHY_OPT_ac38_000A
+"The national motto of what country is A Mari Usque Ad Mare, meaning From Sea to Sea in Latin?",GEOGRAPHY_47b1_0618,Canada,GEOGRAPHY_OPT_c660_000C
+"What does the national motto of India, Satyameva Jayate, mean in Sanskrit?",GEOGRAPHY_0331_0619,"Truth Alone Triumphs",GEOGRAPHY_OPT_83b0_000B
+"The national motto of what country is Peace at Home, Peace in the World?",GEOGRAPHY_9d3c_0620,Turkey,GEOGRAPHY_OPT_c924_000D
+"The national motto of this South American country is Libertad o muerte, Spanish for Liberty or Death.",GEOGRAPHY_8871_0621,Uruguay,GEOGRAPHY_OPT_cd8e_000B
+"The national motto of the Republic of the Fiji Islands is Rerevaka na Kalou ka Doka na Tui. What does this mean?",GEOGRAPHY_53e5_0622,"Fear God and honor the Queen",GEOGRAPHY_OPT_d923_000A
+"The slogan Sub Umbra Floreo, or Under the Shade I Flourish is the national motto of what Central American country?",GEOGRAPHY_5899_0623,Belize,GEOGRAPHY_OPT_50df_000B
+"The national motto of what island country is Ever Conscious of God We Aspire, Build and Advance as One People?",GEOGRAPHY_0ead_0624,Grenada,GEOGRAPHY_OPT_47a2_000A
+"The national motto of this Arabic country is God is the greatest.",GEOGRAPHY_6123_0625,Iraq,GEOGRAPHY_OPT_0c4b_000D
+"What is the meaning of the national motto of the Republic of Indonesia, Bhinneka Tunggal Ika?",GEOGRAPHY_07c7_0626,"Unity in Diversity",GEOGRAPHY_OPT_cc26_000A
+"In what country is the Angel Falls, the highest waterfall on the planet, located?",GEOGRAPHY_4131_0627,Venezuela,GEOGRAPHY_OPT_23c6_000D
+"Which of these is a section of the famous Niagara Falls?",GEOGRAPHY_cfb7_0628,"Horseshoe Falls",GEOGRAPHY_OPT_e31f_000B
+"In what U.S. state is the famous Bridalveil Fall located?",GEOGRAPHY_0ccc_0629,California,GEOGRAPHY_OPT_0393_000A
+"What is the name of the tallest waterfall made by humans, which is located in Umbria, Italy?",GEOGRAPHY_5749_0630,"Cascata delle Marmore",GEOGRAPHY_OPT_9009_000A
+"Jog Falls is the highest plunge waterfall in this Asian country.",GEOGRAPHY_135b_0631,India,GEOGRAPHY_OPT_5253_000A
+"What is the name of the second-tallest waterfall on the planet?",GEOGRAPHY_989f_0632,"Tugela Falls",GEOGRAPHY_OPT_efd4_000B
+"In what European country are the Rhine Falls located?",GEOGRAPHY_4738_0633,Switzerland,GEOGRAPHY_OPT_5195_000B
+"In what U.S. state is the tallest waterfall in the country, Waihilau Falls, located?",GEOGRAPHY_62fa_0634,Hawaii,GEOGRAPHY_OPT_3004_000C
+"In what country is Jurong Falls, the tallest artificial waterfall in the world, located?",GEOGRAPHY_9a94_0635,Singapore,GEOGRAPHY_OPT_6e7e_000B
+"What is the name of the tallest waterfall in eastern North America?",GEOGRAPHY_c7b8_0636,"Pissing Mare Falls",GEOGRAPHY_OPT_1bb1_000A
+"What is the old name of the country of Madagascar?",GEOGRAPHY_0242_0637,"Malagasy Republic",GEOGRAPHY_OPT_149c_000D
+"Where is Madagascar?",GEOGRAPHY_86ca_0638,"Off the Southeast Coast of Africa",GEOGRAPHY_OPT_fb63_000D
+"What are the 2 main languages spoken in Madagascar?",GEOGRAPHY_be92_0639,"French and Malagasy",GEOGRAPHY_OPT_f139_000D
+"Madagascar is the worlds largest producer and exporter of what product?",GEOGRAPHY_e070_0640,Vanilla,GEOGRAPHY_OPT_d3b6_000B
+"Of the 10,000 plants native to Madagascar, what percent are found nowhere else in the world?",GEOGRAPHY_b899_0641,90%,GEOGRAPHY_OPT_fa90_000C
+"On what island is the country of Madagascar located?",GEOGRAPHY_ff0b_0642,"Madagascar Island",GEOGRAPHY_OPT_4eea_000A
+"Which of the following is NOT located in the country of Madagascar?",GEOGRAPHY_6d63_0643,Bodrum,GEOGRAPHY_OPT_b453_000D
+"I am a primate endemic to Madagascar. I have large, reflective eyes. I have a long tail. I have long toes, and opposable thumbs, useful for grasping tree branches. What am I?",GEOGRAPHY_1678_0644,"A lemur",GEOGRAPHY_OPT_96b1_000D
+"What Portuguese explorer was the first to sight the island of Madagascar?",GEOGRAPHY_66ab_0645,"Diego Dias",GEOGRAPHY_OPT_37c9_000B
+"The first people to settle Madagascar came from Africa.",GEOGRAPHY_67cb_0646,False,GEOGRAPHY_OPT_daf5_000B
+"Where is New Guinea ranked in terms of size, among the islands of the world?",GEOGRAPHY_9b91_0647,"New Guinea is the second largest island in the world.",GEOGRAPHY_OPT_5a07_000C
+"New Guinea is an island north of Australia. It is divided into 2 roughly equal halves. What are they?",GEOGRAPHY_4ae7_0648,"The western portion is part of Indonesia. The eastern portion is the country called Papua New Guinea.",GEOGRAPHY_OPT_770a_000B
+"New Guinea is the most linguistically diverse area in the world. Approximately how many separate languages are spoken there?",GEOGRAPHY_43e8_0649,1000,GEOGRAPHY_OPT_0c7b_000D
+"The island of New Guinea was named after the country of Guinea. Which is Guinea located?",GEOGRAPHY_0ba4_0650,Africa,GEOGRAPHY_OPT_3485_000A
+"The country of Papua New Guinea gained its independence from this country in 1975.",GEOGRAPHY_afa7_0651,Australia,GEOGRAPHY_OPT_8588_000B
+"The west half of the island of New Guinea is part of Indonesia, which comprises how many islands?",GEOGRAPHY_1875_0652,"17,508",GEOGRAPHY_OPT_b929_000C
+"Approximately what percentage of the population of the country of Papua New Guinea lives in rural areas?",GEOGRAPHY_3b86_0653,86%,GEOGRAPHY_OPT_29ee_000D
+"In the country of Papua New Guinea, how many children does the average woman give birth to during her lifetime according to 2006 estimates?",GEOGRAPHY_ad71_0654,4.6,GEOGRAPHY_OPT_6dd2_000C
+"What is the capital city of the country of Papua New Guinea?",GEOGRAPHY_ba63_0655,"Port Moresby",GEOGRAPHY_OPT_4992_000A
+"The islands of the Pacific are collectively termed Oceania. Oceania is divided into several sub-groupings. In which of these is New Guinea located?",GEOGRAPHY_673e_0656,Melanesia,GEOGRAPHY_OPT_795d_000C
+"What is the literal translation of the title of the national anthem of Egypt, Bilady, Bilady, Bilady?",GEOGRAPHY_6a1e_0657,"My country, my country, my country",GEOGRAPHY_OPT_558f_000C
+"What sea borders Egypt to the east?",GEOGRAPHY_8207_0658,"Red Sea",GEOGRAPHY_OPT_342f_000D
+"Why was Egypt called Kemet, or black land, back in the ancient times?",GEOGRAPHY_37de_0659,"Because of the black soils",GEOGRAPHY_OPT_8e8f_000B
+"What is the official language spoken in Egypt?",GEOGRAPHY_b13f_0660,Arabic,GEOGRAPHY_OPT_6162_000B
+"What Egyptian city is the largest city not only in Africa, but also in the whole Middle East?",GEOGRAPHY_9db9_0661,Cairo,GEOGRAPHY_OPT_a234_000A
+"What animal is depicted on Egypts national emblem, which is featured on the national flag of Egypt, adopted in 1984?",GEOGRAPHY_a649_0662,Eagle,GEOGRAPHY_OPT_bab9_000C
+"Where was Omar Sharif, one of the most famous Egyptian actors, born?",GEOGRAPHY_e8b7_0663,"Alexandria, Egypt",GEOGRAPHY_OPT_3c3b_000D
+"What sport is rated as the most popular sport among Egyptians?",GEOGRAPHY_3fc7_0664,"Football (soccer)",GEOGRAPHY_OPT_a432_000A
+"The Egyptian territory is calculated to be roughly twice as large as the territory of this European country.",GEOGRAPHY_710c_0665,Spain,GEOGRAPHY_OPT_11d9_000B
+"What expression is commonly used in Egypt to refer to the annual flooding of the river Nile, the longest river in the world?",GEOGRAPHY_0da5_0666,"The Gift of the Nile",GEOGRAPHY_OPT_bea6_000B
+"Luxembourg is bordered by all of the following nations except this one.",GEOGRAPHY_d0ac_0667,Netherlands,GEOGRAPHY_OPT_e4d5_000D
+"What languages are spoken in Luxembourg?",GEOGRAPHY_e21f_0668,"All of these",GEOGRAPHY_OPT_d5d3_000A
+"Luxembourg was not involved in any 20th century war.",GEOGRAPHY_e014_0669,False,GEOGRAPHY_OPT_d3fd_000B
+"Which of the following organizations is Luxembourg a member of?",GEOGRAPHY_cf97_0670,"All of these",GEOGRAPHY_OPT_c25c_000D
+"Luxembourg has a population of approximately how many people?",GEOGRAPHY_a68e_0671,"one half million",GEOGRAPHY_OPT_4459_000B
+"Why is Luxembourg City one of the wealthiest cities in the world?",GEOGRAPHY_a43c_0672,"It is a banking and administrative center.",GEOGRAPHY_OPT_7b11_000C
+"What is the official name of Luxembourg?",GEOGRAPHY_5a79_0673,"Grand Duchy of Luxembourg",GEOGRAPHY_OPT_c360_000B
+"How does Luxembourg, which is a member of NATO, contribute to NATO?",GEOGRAPHY_300b_0674,"by maintaining a small army",GEOGRAPHY_OPT_f45f_000B
+"What is the predominant religion in Luxembourg?",GEOGRAPHY_9e4c_0675,"Roman Catholic",GEOGRAPHY_OPT_3d8b_000D
+"The flag of Luxembourg consists of three vertical stripes of red, blue, green.",GEOGRAPHY_170e_0676,False,GEOGRAPHY_OPT_d90a_000B
+"In what country is Virginia Falls located?",GEOGRAPHY_c1e8_0677,Canada,GEOGRAPHY_OPT_4095_000D
+"What is the name of the tallest waterfall in Asia?",GEOGRAPHY_e1ab_0678,"Hannoki Falls",GEOGRAPHY_OPT_0322_000B
+"The Eas a Chual Aluinn is the highest waterfall in this country.",GEOGRAPHY_b04c_0679,"Great Britain",GEOGRAPHY_OPT_c6fc_000D
+"What is the English name of the Mosi-oa-Tunya waterfall located between Zambia and Zimbabwe?",GEOGRAPHY_599f_0680,"Victoria Falls",GEOGRAPHY_OPT_b96c_000D
+"In what country is Yumbilla Falls, the fifth-tallest waterfall on the planet, located?",GEOGRAPHY_8460_0681,Peru,GEOGRAPHY_OPT_846a_000B
+"Where is the third-tallest waterfall on the planet, Ramnefjellsfossen, located?",GEOGRAPHY_1490_0682,Norway,GEOGRAPHY_OPT_5fdc_000A
+"What does the name of the Iguazu Falls, located in South America, mean in English?",GEOGRAPHY_336a_0683,"Big water",GEOGRAPHY_OPT_9cc2_000D
+"In what country is Gocta Waterfall located?",GEOGRAPHY_cab3_0684,Peru,GEOGRAPHY_OPT_6309_000B
+"What is the name of the highest waterfall in North America?",GEOGRAPHY_11c7_0685,"James Bruce Falls",GEOGRAPHY_OPT_5b60_000C
+"In which U.S. state is the Multnomah Falls located?",GEOGRAPHY_3e8e_0686,Oregon,GEOGRAPHY_OPT_3916_000B
+"What is the name of the largest volcano on Earth in terms of area?",GEOGRAPHY_e16f_0687,"Mauna Loa",GEOGRAPHY_OPT_a4e3_000A
+"In what Asian country is the Mount Unzen volcanic group located?",GEOGRAPHY_b997_0688,Japan,GEOGRAPHY_OPT_80bd_000B
+"The area around what Italian volcano is the most densely populated volcanic region in the world, making the volcano one of the most dangerous on the planet?",GEOGRAPHY_cd2b_0689,"Mount Vesuvius",GEOGRAPHY_OPT_fa46_000A
+"This Andean stratovolcano in Colombia erupted in 1993, killing 9 people.",GEOGRAPHY_2386_0690,Galeras,GEOGRAPHY_OPT_5d6e_000A
+"The Santorini volcanic islands are part of what European country?",GEOGRAPHY_b91c_0691,Greece,GEOGRAPHY_OPT_8f3a_000D
+"This Russian volcano, located on the Kamchatka Peninsula, is one of the most active volcanoes on the planet.",GEOGRAPHY_f45e_0692,Avachinsky,GEOGRAPHY_OPT_f9ba_000D
+"What is the name of the dangerous active volcano located in the Western Highlands of Guatemala?",GEOGRAPHY_ce37_0693,"Santa Maria",GEOGRAPHY_OPT_000e_000D
+"On which of the Philippine islands is the active Taal Volcano located?",GEOGRAPHY_82bd_0694,Luzon,GEOGRAPHY_OPT_56ba_000C
+"On which of the Canary Islands is the Mount Teide volcano located?",GEOGRAPHY_b2f3_0695,Tenerife,GEOGRAPHY_OPT_3413_000D
+"This countrys national holidays include: - Independence Day, 10 December (date of independence from Spain, 1898) - 20 May (independence from US administration, 1902) - Rebellion Day 26 July (1953)",GEOGRAPHY_ede6_0696,Cuba,GEOGRAPHY_OPT_eb77_000B
+"None of these  could be found in Europe before the Great Geographical Discoveries: Potatoes, chocolate, cocoa, quinine, tobacco, cabbage, cane-sugar, furs, whale oil, indigo, tea, coffee, porcelain, and cotton silks .",GEOGRAPHY_aa86_0697,False,GEOGRAPHY_OPT_665e_000B
+"What is the highest point in the state of Illinois?",GEOGRAPHY_7471_0698,"Charles Mound",GEOGRAPHY_OPT_34b5_000C
+"Makawao is the capital of the State of Hawaii.",GEOGRAPHY_d604_0699,False,GEOGRAPHY_OPT_6c9b_000B
+"Who is the 16th president of the United States?",GEOGRAPHY_b9f4_0700,"Abraham Lincoln",GEOGRAPHY_OPT_81cb_000A
+"The city of Saint Louis, nicknamed Gateway to the West, is located in which state?",GEOGRAPHY_90a6_0701,Missouri,GEOGRAPHY_OPT_f879_000A
+"Malcolm X, the founder of the Organization of Afro-American Unity,  was born in what US city?",GEOGRAPHY_7352_0702,Omaha,GEOGRAPHY_OPT_1ecc_000B
+"President George W. Bush was inaugurated on January 20, 2000.",GEOGRAPHY_b19a_0703,False,GEOGRAPHY_OPT_1dc0_000A
+"What is the capital of Illinois, the 21st US State?",GEOGRAPHY_cae6_0704,Springfield,GEOGRAPHY_OPT_e7f9_000C
+"This city, located in Colorado, is the highest city in the United States.",GEOGRAPHY_1f70_0705,Leadville,GEOGRAPHY_OPT_be81_000B
+"Amelia Earhart, the first woman to fly solo across the Atlantic, was born in what city and state?",GEOGRAPHY_bb85_0706,"Atchison, Kansas",GEOGRAPHY_OPT_7596_000D
+"Arrange the following oceans by their total area, starting with the largest: 1)The Atlantic Ocean 2)The Pacific Ocean 3)The Indian Ocean 4)The Arctic Ocean 5)The Southern Ocean",GEOGRAPHY_a485_0707,"2, 1, 3, 5, 4",GEOGRAPHY_OPT_efae_000A
+"Finish the lyrics of the official state song of California, I Love You, California written by F. B. Silverwood: Where the snow crowned Golden Sierras Keep their watch oer the valleys bloom, It is there I would be in our land by the sea, Every breeze bearing rich perfume. It is here nature gives of her rarest .......................................................................",GEOGRAPHY_416c_0708,"It is home sweet home to me.",GEOGRAPHY_OPT_1296_000A
+"In geography, the term desert is used to refer to a region that receives little or no precipitation. Approximately one-third of Earths land surface is desert, with the largest such region being which of these?",GEOGRAPHY_0a96_0709,Antarctica,GEOGRAPHY_OPT_c450_000B
+"The Kalahari Desert, meaning great thirst translated from the local language, is a vast area of red-brown sands, taking up a considerable area of which of these regions?",GEOGRAPHY_783c_0710,"South Africa",GEOGRAPHY_OPT_2f74_000B
+"This African desert, famous for its enormous sand dunes, is considered the oldest desert in the world, having endured its current arid conditions for at least 80 million years.",GEOGRAPHY_e5ac_0711,"Namib Desert",GEOGRAPHY_OPT_fb09_000C
+"Rangipo Desert in the central part of New Zealands North Island, does not have its barren and lifeless appearance because of the lack of rain, but rather, due to which of these?",GEOGRAPHY_46fd_0712,"Soil structure",GEOGRAPHY_OPT_3870_000C
+"The Atacama Desert of Chile and Peru is one of the driest and most lifeless places on Earth. This virtually rainless plateau is made up of sand, lava flows, and what other substance?",GEOGRAPHY_e68b_0713,Salt,GEOGRAPHY_OPT_4054_000B
+"This Australian desert of nearly 600,000 square kilometres is famous for its spectacular land and rock formations, such as Uluru and Kata Tjuta, its estimated 1,100 parallel dunes running north-south, and the fresh water lake, Rainbow Valley.",GEOGRAPHY_b571_0714,"Simpson Desert",GEOGRAPHY_OPT_179f_000B
+"The largest natural karst crater on Earth - Ramon Crater, with a length of 40 km (25 miles) and width of 2 to 10 km (1.5 to 6 miles), is situated in the heart of this Middle East desert.",GEOGRAPHY_febc_0715,"Negev desert",GEOGRAPHY_OPT_a546_000B
+"Leonardo of Pisa or Leonardo Pisano, also known as Fibonacci, was an Italian mathematician and is best known for the discovery of the Fibonacci numbers, which form the following sequence. 0, 1, 1, 2, 3, 5, ... Do you know what the next number is?",GEOGRAPHY_c54f_0716,8,GEOGRAPHY_OPT_76c8_000C
+"Which one of these countries is largest in area?",GEOGRAPHY_5d0b_0717,Japan,GEOGRAPHY_OPT_f4f0_000A
+"Which of the following oceans is the worlds largest?",GEOGRAPHY_de4e_0718,"Pacific Ocean",GEOGRAPHY_OPT_ac75_000D
+"According to the United States Census Bureau in 2006, China was the most populated country in the world.",GEOGRAPHY_b1b3_0719,True,GEOGRAPHY_OPT_9996_000B
+"Which of the following countries is the worlds smallest continent, and can also be considered an island since it is surrounded by water?",GEOGRAPHY_274b_0720,Australia,GEOGRAPHY_OPT_2c69_000D
+"Russia is the worlds largest country, with a land area of 17,098,242 square kilometers.",GEOGRAPHY_1149_0721,True,GEOGRAPHY_OPT_c12e_000B
+"This is the worlds smallest independent state with a population in 2007 of approximately 821.",GEOGRAPHY_fcb3_0722,"Vatican City",GEOGRAPHY_OPT_4206_000A
+"Pittsburgh is home to many universities and research facilities. One of them is described here: It is a private research university. It houses the first computer science school and the first drama school in the nation as well as one of the best engineering schools, and its public policy and business schools are consistently ranked among the best in the nation.",GEOGRAPHY_4403_0723,"Carnegie Mellon University",GEOGRAPHY_OPT_ec70_000B
+"Which central European countrys all pre-1989 neighbors do not exist any more? The country is now bordered by 7 states.",GEOGRAPHY_4b4b_0724,Poland,GEOGRAPHY_OPT_79ff_000B
+"The African kingdom of Dahomey was powerful in the XVIII century. Which modern day country did it cover?",GEOGRAPHY_1439_0725,Benin,GEOGRAPHY_OPT_a999_000C
+"The Holy Roman Empire of the German Nation was a loosely coupled union of mostly German speaking principalities. Which part of the union was the driver of the 19th century unification of Germany?",GEOGRAPHY_2d1f_0726,Prussia,GEOGRAPHY_OPT_3859_000B
+"Where was the late medieval kingdom of Aragon situated?",GEOGRAPHY_47bb_0727,"Eastern Spain, major islands on the Mediterranean Sea and southern Italy",GEOGRAPHY_OPT_9337_000B
+"When Yugoslavia collapsed, one of its republics became an independent state known as FYROM. To which country does the acronym refer?",GEOGRAPHY_f902_0728,Macedonia,GEOGRAPHY_OPT_60f3_000D
+"By the end of the 16th century, a country called Commonwealth of Both Nations covered almost 1 million square kilometers of Europe. Which two countries formed it?",GEOGRAPHY_1cbb_0729,"Poland and Lithuania",GEOGRAPHY_OPT_8c09_000C
+"Phoenicia was an ancient civilization that spread maritime trade over the Mediterranean Sea. From where did the Phoenicians originate?",GEOGRAPHY_e4f6_0730,"Modern day Liban (Sidon, Tyre)",GEOGRAPHY_OPT_f647_000D
+"Myanmar is a south-eastern Asian country. Under which name was it known before a military junta took over?",GEOGRAPHY_5ed7_0731,Burma,GEOGRAPHY_OPT_bd5f_000B
+"The Ottoman Empire used to rule over North Africa, the Middle East and south-eastern Europe. Which modern day country is the successor of the empire?",GEOGRAPHY_0a37_0732,Turkey,GEOGRAPHY_OPT_8917_000C
+"Which independent country was not a Soviet republic?",GEOGRAPHY_7994_0733,Albania,GEOGRAPHY_OPT_38e7_000D
+"Where was the monastic state of the Teutonic Knights located?",GEOGRAPHY_f76a_0734,"Northern Poland, southern Lithuania, part of Latvia and the Russian enclave of Kaliningrad",GEOGRAPHY_OPT_1d48_000B
+"Where were the Boer Republics located?",GEOGRAPHY_9871_0735,"Across South Africa",GEOGRAPHY_OPT_488a_000B
+"Finish this Irish saying: A tune is more lasting than the song of birds. And a word is more lasting than ________.",GEOGRAPHY_54f1_0736,"the wealth of the world",GEOGRAPHY_OPT_7a3c_000B
+"What is the missing word in this Irish saying: Every dog is _____ at his own house door.?",GEOGRAPHY_5a22_0737,bold,GEOGRAPHY_OPT_e1b6_000C
+"Complete this Irish saying: The whole world cannot make a ________ out of a donkey.",GEOGRAPHY_c807_0738,"race horse",GEOGRAPHY_OPT_ae98_000B
+"Finish the following Irish saying: However long the day it ends with _______.",GEOGRAPHY_39ad_0739,night,GEOGRAPHY_OPT_0149_000C
+"Complete this Irish saying: Dont let your ______ cut your throat.",GEOGRAPHY_4c13_0740,tongue,GEOGRAPHY_OPT_cf70_000C
+"What is the missing word in this Irish saying: ______ is the poor mans doctor.?",GEOGRAPHY_8c35_0741,Death,GEOGRAPHY_OPT_f197_000C
+"Complete the following Irish saying: If you want ______, always carry the back tooth of a horse with you.",GEOGRAPHY_e75d_0742,money,GEOGRAPHY_OPT_ae5a_000C
+"Finish this Irish saying: If someone is sick turn his bed so that it faces _________.",GEOGRAPHY_7986_0743,north,GEOGRAPHY_OPT_893f_000C
+"Finish this Irish saying: The far off hills are _______.",GEOGRAPHY_d231_0744,"the greenest",GEOGRAPHY_OPT_24a7_000D
+"Finish this Irish saying: Often has the likely failed and the unlikely _________.",GEOGRAPHY_4df4_0745,succeeded,GEOGRAPHY_OPT_db03_000D
+"What is the capital and largest city of Jamaica?",GEOGRAPHY_a373_0746,Kingston,GEOGRAPHY_OPT_fa9a_000D
+"What is the name of the capital city of India?",GEOGRAPHY_3992_0747,"New Delhi",GEOGRAPHY_OPT_2944_000D
+"Tegucigalpa is the capital and largest city of this country.",GEOGRAPHY_9bf2_0748,Honduras,GEOGRAPHY_OPT_8028_000B
+"What is the capital and largest city of Romania?",GEOGRAPHY_cceb_0749,Bucharest,GEOGRAPHY_OPT_2ab9_000D
+"Addis Ababa is the capital of what country?",GEOGRAPHY_d510_0750,Ethiopia,GEOGRAPHY_OPT_d76c_000D
+"What is the capital and largest city of Lebanon?",GEOGRAPHY_6672_0751,Beirut,GEOGRAPHY_OPT_02cf_000D
+"Kathmandu is the capital city of what country?",GEOGRAPHY_075f_0752,Nepal,GEOGRAPHY_OPT_240c_000B
+"What is the name of the capital city of Latvia?",GEOGRAPHY_54ee_0753,Riga,GEOGRAPHY_OPT_38f0_000D
+"This city is the capital of the Kingdom of Morocco.",GEOGRAPHY_75bc_0754,Rabat,GEOGRAPHY_OPT_d2f3_000D
+"The capital city of what country is called Quito?",GEOGRAPHY_36f1_0755,Ecuador,GEOGRAPHY_OPT_f7b6_000C
+"Name Zimbabwes capital which is an independent city equivalent to a province.",GEOGRAPHY_f4e3_0756,Harare,GEOGRAPHY_OPT_693d_000A
+"Name Moroccos capital that is also the capital of the Rabat-Salé-Zemmour-Zaer region.",GEOGRAPHY_2d4e_0757,Rabat,GEOGRAPHY_OPT_bc59_000D
+"Bamako is the capital of Madagascar.",GEOGRAPHY_ef77_0758,False,GEOGRAPHY_OPT_e48d_000B
+"What is the capital and largest city of the Republic of the Congo?",GEOGRAPHY_dd62_0759,Brazzaville,GEOGRAPHY_OPT_4d2a_000A
+"Ethiopias capital is Addis Ababa.",GEOGRAPHY_d81e_0760,True,GEOGRAPHY_OPT_5212_000A
+"What port on the Atlantic Ocean is the capital and largest city of Guinea.",GEOGRAPHY_d3f6_0761,Conakry,GEOGRAPHY_OPT_6931_000C
+"What is the capital and largest commercial city of Libya?",GEOGRAPHY_0c27_0762,Tripoli,GEOGRAPHY_OPT_9d89_000D
+"This city is Kenyas capital and the most populous city in East Africa.",GEOGRAPHY_d1ab_0763,Nairobi,GEOGRAPHY_OPT_e573_000B
+"Victoria is the capital of the Republic of Seychelles.",GEOGRAPHY_b9f4_0764,True,GEOGRAPHY_OPT_bac2_000B
+"Alaska used to be part of Russia.",GEOGRAPHY_c292_0765,True,GEOGRAPHY_OPT_754b_000B
+"What is the currency of Russia?",GEOGRAPHY_2e59_0766,ruble,GEOGRAPHY_OPT_c86b_000B
+"How do you say hello in Russian?",GEOGRAPHY_6041_0767,Zdravstvuite,GEOGRAPHY_OPT_9332_000B
+"What phrase means I love you in Russian?",GEOGRAPHY_4168_0768,"Ya lyublyu tebya",GEOGRAPHY_OPT_2839_000B
+"Tetris, the popular falling-blocks video game, was invented in Russia.",GEOGRAPHY_fb47_0769,True,GEOGRAPHY_OPT_e5e5_000B
+"Who is the first President of the Russian Federation?",GEOGRAPHY_ff65_0770,"Boris Yeltsin",GEOGRAPHY_OPT_89fe_000C
+"The first person in space was Russian.",GEOGRAPHY_55b5_0771,True,GEOGRAPHY_OPT_6d60_000B
+"Who commissioned  the St. Basils Cathedral?",GEOGRAPHY_7773_0772,"Ivan the Terrible",GEOGRAPHY_OPT_99ae_000B
+"Name the capital city of the U.S. state of Wyoming.",GEOGRAPHY_ec9b_0773,Cheyenne,GEOGRAPHY_OPT_ae3d_000D
+"The U.S. state of Oregon has been nicknamed after this animal, which is the official state animal.",GEOGRAPHY_7d25_0774,Beaver,GEOGRAPHY_OPT_1bf4_000B
+"Which U.S. state has been nicknamed The Silver State?",GEOGRAPHY_967e_0775,Nevada,GEOGRAPHY_OPT_a2db_000A
+"Albuquerque is the largest city of which U.S. state?",GEOGRAPHY_1410_0776,"New Mexico",GEOGRAPHY_OPT_04bd_000D
+"Name the capital city of the U.S. state of Montana.",GEOGRAPHY_3667_0777,Helena,GEOGRAPHY_OPT_b240_000A
+"What does the name of the U.S. state of Texas literally mean in Caddo?",GEOGRAPHY_d185_0778,Friends,GEOGRAPHY_OPT_a0f3_000D
+"The state of Louisiana is bordered by the Gulf of Mexico on the south and three states. Which state does NOT border Louisiana?",GEOGRAPHY_6282_0779,Oklahoma,GEOGRAPHY_OPT_2241_000A
+"When René-Robert Cavelier, Sieur de La Salle (Yikes!) claimed the territory he named it La Louisiane, which means....",GEOGRAPHY_6967_0780,"Land of Louis or The Lousiana.",GEOGRAPHY_OPT_0ea4_000D
+"What is the closest definition of Santeria?",GEOGRAPHY_6d16_0781,"A Cuban based religion popular in Lousiana.",GEOGRAPHY_OPT_37fe_000C
+"The first recorded Euroregion, Gronau, was founded in 1958. What countries established it?",GEOGRAPHY_fc9e_0782,"Germany and Netherlands",GEOGRAPHY_OPT_33e6_000C
+"The Beskidy (Beskydy) Euroregion is located in the west part of the Carpathian mountain range. Which three countries does it span?",GEOGRAPHY_14c0_0783,"Czech Republic, Poland, Slovakia",GEOGRAPHY_OPT_f393_000B
+"Which country is not a member of the Adriatic Euroregion?",GEOGRAPHY_63b6_0784,Serbia,GEOGRAPHY_OPT_7c94_000C
+"The ore and coal rich region of Silesia (pol.: Ślask, ger.: Schliesien, cz.: Slezsko) was ruled by Germans, Poles, Czechs and Austrians. To which country does it mostly belong today?",GEOGRAPHY_fba4_0785,Poland,GEOGRAPHY_OPT_93f7_000C
+"Where would you find the Tornio River Valley Euroregion?",GEOGRAPHY_ce14_0786,"Sweden / Finland",GEOGRAPHY_OPT_6f0b_000A
+"The Cross Channel Euroregion includes France, the UK and what other country?",GEOGRAPHY_57bf_0787,Belgium,GEOGRAPHY_OPT_23d6_000A
+"The region of Pomerania (ger.: Pomern, pol.: Pomorze) is located in north Germany and Poland. Which river divides the region into two parts?",GEOGRAPHY_699f_0788,"Oder (Odra)",GEOGRAPHY_OPT_f527_000D
+"The TriRhena Euroregion is spans these three countries crossed by the Rhine River.",GEOGRAPHY_87af_0789,"France, Germany and Switzerland",GEOGRAPHY_OPT_d66a_000A
+"The Pyrenees-Mediterranean region is located along the border of which two countries?",GEOGRAPHY_1075_0790,"France - Spain",GEOGRAPHY_OPT_5134_000C
+"Where would you find the Ore Mountains Euroregion?",GEOGRAPHY_b681_0791,"Czech Republic and Germany",GEOGRAPHY_OPT_4250_000C
+"What is the state animal of Colorado and the symbol of Rocky Mountain National Park?",GEOGRAPHY_057f_0792,"Big Horned Sheep",GEOGRAPHY_OPT_adb1_000B
+"Was Isabella Bird the first woman to climb Longs Peak, the highest point in Rocky Mountain National Park?",GEOGRAPHY_4739_0793,No,GEOGRAPHY_OPT_2841_000A
+"Mesa Verde National Park in southern Colorado is best known for which of the following?",GEOGRAPHY_3e03_0794,"The best-preserved cliff dwellings in the U.S.",GEOGRAPHY_OPT_a6ce_000C
+"One the worlds largest silver nuggets was found in Colorado.",GEOGRAPHY_6bb4_0795,True,GEOGRAPHY_OPT_e11a_000A
+"The Colorado River, the major river of the American southwest, flows through which national landmark?",GEOGRAPHY_dc27_0796,"All of these",GEOGRAPHY_OPT_b163_000D
+"Located at the Peterson Air Force base in Colorado, NORAD is a military organization that tracks aircraft, missiles and space vehicles. It also tracks what fictional character?",GEOGRAPHY_d2dd_0797,Santa,GEOGRAPHY_OPT_8a73_000D
+"What U.S. interstate runs east and west through Colorado?",GEOGRAPHY_74e5_0798,I-70,GEOGRAPHY_OPT_cd89_000D
+"Today people visit Colorado to go skiing, hiking, mountain biking and to enjoy the scenery. But 100 years ago, tourists more often went to the mountains to do what?",GEOGRAPHY_e042_0799,"Soak in hot springs",GEOGRAPHY_OPT_71ff_000A
+"Early Colorado ranchers raised cattle, sheep, hogs, chickens, and turkeys, with the main focus on cattle.",GEOGRAPHY_3421_0800,True,GEOGRAPHY_OPT_0d8c_000A
+"The huge grain industry in Colorado gives rise to breweries. Which of the following owns the biggest single site brewery located in Golden, Colorado?",GEOGRAPHY_b9bd_0801,"Molson Coors Brewing Company",GEOGRAPHY_OPT_0894_000B
+"On May 5, 1920 two Italian-Americans, Nicola Sacco and Bartolomeo Vanzetti, were arrested, tried, and executed for the April 15, 1920 murders of a South Braintree paymaster and security guard and theft of the payroll. What did Sacco give as his alibi?",GEOGRAPHY_846a_0802,"He was at the Italian consulate in Boston.",GEOGRAPHY_OPT_c59d_000C
+"What is the state motto of Colorado?",GEOGRAPHY_b880_0803,"Nothing Without the Deity",GEOGRAPHY_OPT_04b3_000A
+"What does the word Colorado mean?",GEOGRAPHY_2906_0804,"Colored Red",GEOGRAPHY_OPT_e455_000A
+"What is the state fish of Colorado?",GEOGRAPHY_ccde_0805,"Greenback Cutthroat Trout",GEOGRAPHY_OPT_fe87_000B
+"What city in Colorado is known as the Richest Square Mile on Earth?",GEOGRAPHY_29b0_0806,"Central City, Colorado",GEOGRAPHY_OPT_b974_000A
+"What was the popular slogan of the Colorado Gold Rush?",GEOGRAPHY_6641_0807,"Pikes Peak or Bust",GEOGRAPHY_OPT_5ff2_000D
+"What year did Colorado become a state?",GEOGRAPHY_4ea4_0808,1876,GEOGRAPHY_OPT_f4d6_000A
+"What city boasts the most parks in the US?",GEOGRAPHY_8ea9_0809,"Denver, Colorado",GEOGRAPHY_OPT_daab_000C
+"What legendary American frontiersman commanded a major fort in Colorado?",GEOGRAPHY_be0d_0810,"Kit Carson",GEOGRAPHY_OPT_cd48_000B
+"Glenwood Springs, Colorado was known for its hot springs and hospital. What famous outlaw and gun slinger expired from Tuberculosis there?",GEOGRAPHY_b8d1_0811,"Doc Holliday",GEOGRAPHY_OPT_458a_000C
+"On which continent is the famous active volcano Mount Nyiragongo located?",GEOGRAPHY_9f2f_0812,Africa,GEOGRAPHY_OPT_28e6_000D
+"On which of the islands of Papua New Guinea is the active volcano Ulawun located?",GEOGRAPHY_960e_0813,"New Britain",GEOGRAPHY_OPT_4d1e_000A
+"The Arabic name of Mount Etna, the second-largest active volcano in Europe, was Jebel Utlamat. What does this mean in English?",GEOGRAPHY_aec0_0814,"Mountain of Fire",GEOGRAPHY_OPT_6386_000B
+"In what country is the active volcano Sakurajima located?",GEOGRAPHY_e3eb_0815,Japan,GEOGRAPHY_OPT_fee7_000C
+"What is the name of the most active volcano in Mexico, located mostly in the Mexican state of Jalisco?",GEOGRAPHY_4617_0816,Colima,GEOGRAPHY_OPT_46ac_000C
+"What does the Indonesian name of the Mount Merapi volcano, Gunung Merapi, mean in English?",GEOGRAPHY_2a44_0817,"Mountain of Fire",GEOGRAPHY_OPT_0178_000C
+"In what country is the active volcano Koryaksky located?",GEOGRAPHY_1fbe_0818,Russia,GEOGRAPHY_OPT_def5_000A
+"In what US state is the Fourpeaked Volcano, also known as Fourpeaked Mountain, situated?",GEOGRAPHY_e8a2_0819,Alaska,GEOGRAPHY_OPT_8496_000C
+"What is the name of the highest volcano in Asia, and the highest point in the Middle East?",GEOGRAPHY_2387_0820,"Mount Damavand",GEOGRAPHY_OPT_5cab_000D
+"What is the name of the active volcano situated in Skamania County, Washington, USA, 50 miles (80 km) northeast of Portland, Oregon?",GEOGRAPHY_fd5d_0821,"Mount St. Helens",GEOGRAPHY_OPT_af99_000D
+"The self-governed region of the Holy Mountain is considered part of the Greek state according to a decree passed in what year?",GEOGRAPHY_bd92_0822,1913,GEOGRAPHY_OPT_3436_000B
+"What type of government does Sweden have?",GEOGRAPHY_2d5c_0823,"Constitutional monarchy",GEOGRAPHY_OPT_655b_000B
+"Which of these European countries shares a land border with Sweden?",GEOGRAPHY_bf42_0824,Norway,GEOGRAPHY_OPT_95cc_000D
+"What are the colors of the national flag of Sweden?",GEOGRAPHY_8241_0825,"Blue and yellow",GEOGRAPHY_OPT_dabb_000A
+"What is the official language spoken by the citizens of Sweden?",GEOGRAPHY_4454_0826,Swedish,GEOGRAPHY_OPT_0e9b_000B
+"What is the name of the largest city and capital of Sweden?",GEOGRAPHY_f2e5_0827,Stockholm,GEOGRAPHY_OPT_70d8_000B
+"The Swedish name of Sweden is Sverige. What does this word literally mean?",GEOGRAPHY_029b_0828,"Kingdom of the Swedes",GEOGRAPHY_OPT_26b5_000B
+"Which of these celebrities is not Swedish?",GEOGRAPHY_d144_0829,"Lars Ulrich",GEOGRAPHY_OPT_930f_000B
+"What type of food is the popular Swedish dish called Surstromming?",GEOGRAPHY_0465_0830,Fish,GEOGRAPHY_OPT_14ba_000A
+"What song is used as a de facto anthem of Sweden?",GEOGRAPHY_ce4f_0831,"Thou Ancient, Thou Free",GEOGRAPHY_OPT_083b_000D
+"What is the prevailing religion in Sweden?",GEOGRAPHY_289f_0832,Lutheranism,GEOGRAPHY_OPT_1de5_000A
+"What is the capital city of the Federative Republic of Brazil?",GEOGRAPHY_9525_0833,Brasilia,GEOGRAPHY_OPT_e459_000D
+"What is the meaning of the Portuguese word brasa from which the name of Brazil possibly originated?",GEOGRAPHY_a06f_0834,Ember,GEOGRAPHY_OPT_b6cc_000D
+"Which of these statements is wrong about the wildlife of Brazil?",GEOGRAPHY_c157_0835,"Brazil is the country with the most endemic species in the world.",GEOGRAPHY_OPT_632e_000D
+"What are the colors of the national flag of the Federative Republic of Brazil?",GEOGRAPHY_e781_0836,"White, blue, green and yellow",GEOGRAPHY_OPT_7148_000B
+"What is the official language of the Federative Republic of Brazil?",GEOGRAPHY_6d64_0837,Portuguese,GEOGRAPHY_OPT_2a1f_000D
+"What is the most popular sport among the people living in Brazil?",GEOGRAPHY_1e9d_0838,Football,GEOGRAPHY_OPT_2cfd_000D
+"What is the largest and richest city in Brazil?",GEOGRAPHY_8bbc_0839,"Sao Paulo",GEOGRAPHY_OPT_822d_000A
+"What is the national motto of the Federative Republic of Brazil, also featured in the national flag of the country?",GEOGRAPHY_69d0_0840,"Order and Progress",GEOGRAPHY_OPT_1887_000C
+"What type of food is the traditional Brazilian dish called Moqueca?",GEOGRAPHY_dec0_0841,Stew,GEOGRAPHY_OPT_1a47_000D
+"On what day of the week does the parade of the famous Rio Carnival traditionally start?",GEOGRAPHY_9ec4_0842,Sunday,GEOGRAPHY_OPT_e6c1_000A

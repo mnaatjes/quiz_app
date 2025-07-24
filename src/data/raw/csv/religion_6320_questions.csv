@@ -1,0 +1,639 @@
+question,QID,answer,answer_OID
+"What Hollywood actor portrayed Casanova in the 2005 movie entitled Casanova, based on the life of the popular adventurer?",RELIGION_700b_0001,"Heath Ledger",RELIGION_OPT_efac_000C
+"Which of these is NOT a son of Adam and Eve?",RELIGION_4546_0002,Enoch,RELIGION_OPT_95a5_000A
+"Noah sent these two birds out of the ark to search for land:",RELIGION_0cd8_0003,"raven and dove",RELIGION_OPT_5f7a_000C
+"Jacob had 12 sons.  Which of his wives/maids bore the most babies?",RELIGION_9f9d_0004,Leah,RELIGION_OPT_3771_000B
+"Which of these animals did the Israelites worship while Moses was on the mountain?",RELIGION_1b46_0005,calf,RELIGION_OPT_6bc6_000B
+"Many of King Solomons wise sayings are recorded in Book 10 of Proverbs.  Which of these is NOT found there?",RELIGION_8a62_0006,"When you see trouble coming, dont be stupid and walk right into it--be smart and hide.",RELIGION_OPT_e9d7_000A
+"Mary was visited by this angel.",RELIGION_483a_0007,Gabriel,RELIGION_OPT_923f_000C
+"Jesus was fond of using parables to give his messages.  Which of these was NOT one he used?",RELIGION_38e7_0008,"The Parable of the Old Men and the Young",RELIGION_OPT_7cf9_000B
+"Which of the Horsemen of the Apocalypse is the first to be called out?",RELIGION_aa95_0009,"White Horse (Conquest )",RELIGION_OPT_9973_000C
+"Complete the following quote from Matthew 5:3: Blessed are the poor in spirit, for ________",RELIGION_e75a_0010,"theirs is the Kindgom of Heaven.",RELIGION_OPT_9cd9_000D
+"Who wrote the first five books of the Bible?",RELIGION_7031_0011,Moses,RELIGION_OPT_c938_000C
+"In the Bible, how many wives and concubines did Solomon have?",RELIGION_54c8_0012,1000,RELIGION_OPT_d080_000C
+"Who wrote most of the books in the New Testament?",RELIGION_ea32_0013,Paul,RELIGION_OPT_2369_000D
+"Who wrote the Book of Revelation while in exile?",RELIGION_a6d2_0014,John,RELIGION_OPT_a763_000D
+"According to the accepted theory, how old was Jesus when He was crucified?",RELIGION_efc3_0015,33,RELIGION_OPT_08e5_000A
+"How old was Jesus when He performed His first miracle (Biblical, not Apocriphal)?",RELIGION_a83e_0016,30,RELIGION_OPT_97b0_000D
+"David, the famous ancient King of Israel, was the oldest child in the family.",RELIGION_04ed_0017,False,RELIGION_OPT_c2a3_000B
+"It is stated in the Bible that God told Moses to build the Temple in Jerusalem.",RELIGION_f6ce_0018,False,RELIGION_OPT_2456_000B
+"According to the New Testament, who obtained permission to take Jesus Christs body down from the cross and place it in the tomb?",RELIGION_3420_0019,"Joseph of Arimathea",RELIGION_OPT_d1e4_000A
+"Apostle Paul was a kind, friendly and peace-loving man who always helped Christians even before his conversion to Christianity.",RELIGION_e6c7_0020,False,RELIGION_OPT_514b_000A
+"Seven people went on the ark with Noah according to the Bible, Genesis, chapters 6 to 9.",RELIGION_e1aa_0021,True,RELIGION_OPT_40bc_000A
+"What was the profession of Luke the Apostle according to the New Testament?",RELIGION_9178_0022,Physician,RELIGION_OPT_42ea_000C
+"Who committed the first murder in the Bible?",RELIGION_0a70_0023,Cain,RELIGION_OPT_98ff_000A
+"Who was Gods son according to the Bible?",RELIGION_ffc2_0024,Jesus,RELIGION_OPT_da78_000D
+"What is the name of the angel that God sent to tell Mary she was to conceive Jesus?",RELIGION_cb8e_0025,Gabriel,RELIGION_OPT_627c_000B
+"Who was Jesus earthly father according to the Bible?",RELIGION_1b1c_0026,Joseph,RELIGION_OPT_966d_000B
+"Which of the following is not generally considered one of the seven deadly sins?",RELIGION_9a5a_0027,obfuscation,RELIGION_OPT_f987_000A
+"According to Matthew and Luke, in what city was Jesus born?",RELIGION_7b64_0028,Bethlehem,RELIGION_OPT_7535_000B
+"Can a deacon get married?",RELIGION_22ad_0029,Yes,RELIGION_OPT_ad99_000B
+"You drink the coffee and turn the cup upside down.  The reader predicts the future, deciphering various patterns formed inside the cup.",RELIGION_2b80_0030,Tasseomancy,RELIGION_OPT_7ce1_000D
+"This is a deck of 78 cards with pictures and inscriptions on them. They are divided into several suits and the person extracts cards that the reader interprets.",RELIGION_ce3f_0031,Tarot,RELIGION_OPT_27e7_000A
+"This method of divination uses air and water. The person covers their head with a cloth, fill a vase with water and expose it to the air.  They whisper a wish over the vase. If bubbles show on the water surface, this is considered a positive sign and the wish will probably come true.",RELIGION_a3ab_0032,Eromancy,RELIGION_OPT_efe5_000D
+"This method includes hexagrams which consist of six lines either solid or broken. Solid lines are considered strong and active, and broken lines stand for weak and acquiescent. These lines define the meaning of the hexagrams. Each hexagram has a different meaning. You determine your own hexagram by tossing 3 coins 3 times.",RELIGION_bf3e_0033,"I Ching",RELIGION_OPT_c2c7_000B
+"This method of divination uses a set of 24 alphabet letters that are usually carved on small tiles, so that the person could extract one of all 24 and to interpret its meaning. They were also carved and drawn building walls for protection.",RELIGION_a8ec_0034,Runes,RELIGION_OPT_7de6_000A
+"This is the careful screening of your palm, its shapes and lines in order to guess some events from the past and see events in the future.",RELIGION_f474_0035,Palmistry,RELIGION_OPT_a3d7_000A
+"This method uses climate conditions to predict the future. It was considered that climate is the attitude of gods towards men, and that each atmospheric event had its own meaning.",RELIGION_aeb3_0036,Aeromancy,RELIGION_OPT_b477_000B
+"This method uses books for predicting ones future. The person should take a book, open to a random page and read a passage. Then he should interpret it.",RELIGION_165b_0037,Bibliomancy,RELIGION_OPT_1f85_000B
+"This way of divination uses onion sprouts. First a ritual is held in order to state what the divination is about. Then the onion sprouts are put on an altar. It is thought that onion sprouts can tell you about friends and relatives who are far away, give love advice and answer yes or no questions about the future.",RELIGION_a43a_0038,Cromniomancy,RELIGION_OPT_c8d7_000A
+"This method uses birds to predict the future. The divinator scatters grains and then he carefully observes the way the birds peck at the grain.",RELIGION_10e5_0039,Alectryomancy,RELIGION_OPT_fa0f_000D
+"In ancient times people thought that illnesses were caused by demons, possessing the soul of a person. So they cured those illnesses with exorcism. Exorcism is derived from the Greek word  exorkizein. What does this word mean?",RELIGION_e602_0040,"To bind by oath",RELIGION_OPT_3cff_000D
+"Ancient Babylonian priests were one of the first exorcists. They meant to destroy the evil spirit, possessing the victim, by performing this ritual.",RELIGION_b2d0_0041,"They destroyed a wax or clay image of a demon.",RELIGION_OPT_bd88_000B
+"Exorcism is not popular among religions nowadays.",RELIGION_f0fc_0042,False,RELIGION_OPT_e3b5_000A
+"Jesus Christ is considered to be an exorcist. One of the legends tells of Jesus casting out multiple demons from a madman. The spirits then entered the bodies of some animals. What kind of animals were they?",RELIGION_2af4_0043,Pigs,RELIGION_OPT_b2e3_000B
+"Jesus Christ gave the power to exorcise demons to his disciples.",RELIGION_9904_0044,True,RELIGION_OPT_8c8f_000A
+"In Judaism the evil spirit that possesses the soul of its victim is called dybbuk. It is exorcised through this part of the body.",RELIGION_b69f_0045,"Small toe",RELIGION_OPT_7514_000C
+"The exorcist must feel as free of sin as possible. Why?",RELIGION_087f_0046,"So demons cannot easily possess the exorcist",RELIGION_OPT_3fb8_000C
+"Exorcism is related to ASC. What does ASC stand for?",RELIGION_1bed_0047,"Altered State Of Consciousness",RELIGION_OPT_f16d_000D
+"During Christian exorcism, the victim is to hold a crucifix and the exorcist is encouraged to use holy water and relics. These  two other objects should also be present.",RELIGION_c438_0048,"Salt and Wine",RELIGION_OPT_9e14_000B
+"Although all exorcisms proceed differently, some stages are common. There are five common stages - The Presence, Break-point, The Voice, The Clash and this.",RELIGION_533a_0049,Expulsion,RELIGION_OPT_b8c0_000B
+"Adam was the first human made by God according to the Bible texts.",RELIGION_fa55_0050,True,RELIGION_OPT_b2e8_000A
+"The Ten Commandments can be found in the book of Exodus, New Testament.",RELIGION_04f1_0051,False,RELIGION_OPT_3d22_000B
+"According to the Bible, Gods laws were given to Moses on Mount Rushmore.",RELIGION_6fa8_0052,False,RELIGION_OPT_21a8_000B
+"Moses talked to God on the mountain and received the Ten Commandments in 40 days.",RELIGION_afa6_0053,True,RELIGION_OPT_3fce_000B
+"Moses broke the tablets on which the Ten Commandments were written when he slipped on the rocky mountainside.",RELIGION_1379_0054,False,RELIGION_OPT_c626_000B
+"According to the Bible texts, Jesus earthly father Joseph was sheep herder.",RELIGION_b32f_0055,False,RELIGION_OPT_417b_000A
+"In the Bible texts, “Am I my brother’s keeper?” was a question asked by Cain to God.",RELIGION_1280_0056,True,RELIGION_OPT_f6c0_000A
+"This line from the Bible is from an address by God to Noah: “And the bow shall be in the cloud and I will look upon it that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.”",RELIGION_90ea_0057,True,RELIGION_OPT_f402_000B
+"According to the Bible, Judas Iscariot was paid 30 pieces of gold to betray Jesus.",RELIGION_a445_0058,False,RELIGION_OPT_c88d_000B
+"In Genesis, we can read that Joseph was sold into slavery by his brothers.",RELIGION_67fc_0059,True,RELIGION_OPT_212a_000B
+"The magic wand is a must have accessory of every witch, if she wants to work wonders. What is the wand is made of?",RELIGION_7677_0060,Hazel,RELIGION_OPT_4e13_000D
+"Every new witch receives a special craft name, which they only disclose to coven members and keep a secret from everyone else.  Why?",RELIGION_3ddc_0061,"Knowing the craft name gives magical powers",RELIGION_OPT_8ddd_000D
+"Incense is often used in witchcraft.  What is the meaning of jasmine scented incense?",RELIGION_e89f_0062,"Luck in love",RELIGION_OPT_c61e_000B
+"This is one of the most widely used religious symbols. It is generally used for protection. Even though it is often associated with witchcraft, it was also used in Christianity, symbolizing the five wounds of Christ.",RELIGION_d1e1_0063,Pentagram,RELIGION_OPT_ef72_000C
+"This is when the spell casting powers are at their fullest.  It is the hour of midnight on a full moon.",RELIGION_89f4_0064,"The Witching Hour",RELIGION_OPT_884d_000C
+"It is  the magical power of this herb: In the event of some kind of troublesome misfortune, gather the root with care during the descent of the lions cub and hang it around your neck.  It will drive away cares and cause a merry heart. - Syrenius (1540 - 1611).",RELIGION_771d_0065,Angelica,RELIGION_OPT_c758_000D
+"An ancient tradition was to distinguish witches by their color. There were white, red, green, etc. witches. The tradition doesnt exist any more but the meaning of the colors is still applied in various practices. What is the color for these magical uses: divination, spirituality, protection, psychic powers, healing, truth, peace?",RELIGION_43fe_0066,White,RELIGION_OPT_373f_000C
+"When you collect flowers or herbs for magical purposes you should have in mind the hour at which you gather them. What are the magical hours?",RELIGION_54e3_0067,"3, 6, 9 and 12",RELIGION_OPT_0bfb_000A
+"This ancient pagan ritual was practiced in Scotland until the end of the 19th century. It allows a couple to make a commitment to each other within their own spiritual path. This commitment lasts for one year and a day. After that the couple can go their own way or renew their bond.",RELIGION_1e5a_0068,Handfasting,RELIGION_OPT_f6cb_000A
+"What is this spell used for?  Dear Father, tsar fire, be gentle and kind to me.  Burn away all my aches  pains, tears  worries.",RELIGION_4761_0069,Happiness,RELIGION_OPT_8c26_000B
+"Every Catholic can receive any of the seven sacraments, but no one can receive all seven.",RELIGION_4976_0070,False,RELIGION_OPT_c07a_000A
+"What is the Catholic term describing a place of purification after bodily death, but before the soul enters heaven?",RELIGION_654d_0071,purgatory,RELIGION_OPT_91b5_000C
+"This part of the Catholic mass, in which the priest asks God to change the bread and wine into Jesus body and blood, is called what?",RELIGION_240e_0072,consecration,RELIGION_OPT_6236_000B
+"The Hail Mary is a biblical prayer.",RELIGION_1000_0073,True,RELIGION_OPT_48a5_000A
+"What was the church council that revised the prayers used in the Catholic mass and authorized masses to be said in the language of the local people?",RELIGION_81b5_0074,"Vatican II",RELIGION_OPT_de35_000B
+"A schism in the Christian church culminated in two bishops excommunicating each other in 1054, resulting in what?",RELIGION_3bea_0075,"the division between Catholicism and Orthodoxy",RELIGION_OPT_d314_000A
+"There are ten holy days of obligation, days other than Sunday on which all the worlds Catholics are required to attend mass.",RELIGION_ca12_0076,False,RELIGION_OPT_6b6c_000A
+"What is the Catholic term for a person who, after death, goes to heaven?",RELIGION_4d23_0077,saint,RELIGION_OPT_389a_000A
+"What does the Catholic church teach about Mary, Jesus mother?",RELIGION_bd49_0078,"She was a virgin until her death.",RELIGION_OPT_f2a0_000D
+"According to the Bibles description of the creation of the world, on what day of the week were the sun, moon, and stars formed?",RELIGION_9b72_0079,Fourth,RELIGION_OPT_8fb2_000D
+"According to the Bible, Sarah and Abraham have a common relative by blood.",RELIGION_b554_0080,True,RELIGION_OPT_c73e_000B
+"Who begged for the body of Jesus to give it a proper burial?",RELIGION_a5b1_0081,"Joseph of Arimathaea",RELIGION_OPT_04dd_000A
+"What scripture of the King James Bible is most noted for the story of the birth of Jesus?",RELIGION_d71b_0082,"Luke, Chapter 2",RELIGION_OPT_51f5_000C
+"According to the biblical texts, whom do these words belong to: Thou shalt have no other gods before me!?",RELIGION_24dd_0083,God,RELIGION_OPT_63d6_000D
+"The first of the 10 commandments that also contains a promise was Honor thy Father and Mother.",RELIGION_94c0_0084,True,RELIGION_OPT_2653_000A
+"Who was Ruths mother-in-law according to biblical texts?",RELIGION_c947_0085,Naomi,RELIGION_OPT_9688_000B
+"According to the Bible, Ruth was the great grandmother of David.",RELIGION_1e71_0086,True,RELIGION_OPT_b676_000B
+"Who wrote Epistle to the Romans, included in the New Testament canon of the Christian Bible?",RELIGION_a9d2_0087,Paul,RELIGION_OPT_09f3_000B
+"According to Christian beliefs, what was the nature of the first sin man ever committed?",RELIGION_eec1_0088,Disobedience,RELIGION_OPT_7c0a_000C
+"According to the Bibles interpretation of Moses life, who ran along the bank to make sure that Moses was alright in his basket after he was set adrift on the Nile river?",RELIGION_1a06_0089,"His sister",RELIGION_OPT_5acd_000C
+"According to the Bible, did the Pharaoh’s wife find little Moses who was drifting along the Nile in a basket.",RELIGION_30a4_0090,No,RELIGION_OPT_b2ba_000A
+"What does the name Moses mean according to the Biblical texts?",RELIGION_05f3_0091,"Drawn out",RELIGION_OPT_82e4_000D
+"What was the name of Mosess brother according to the Bible?",RELIGION_4f8f_0092,Aaron,RELIGION_OPT_e2ca_000B
+"According to Exodus, what was the ninth plague that God inflicted on Egypt in order to convince Pharaoh to let the Israelite slaves leave?",RELIGION_3a95_0093,Darkness,RELIGION_OPT_5e16_000C
+"Why did Moses have to flee out of Egypt and settle on the Sinai Peninsula according to the Bible?",RELIGION_d0ea_0094,"He killed an Egyptian",RELIGION_OPT_89e4_000A
+"According to the last chapters of Exodus, what was the Tabernacle, which was built after the Israelites passed safely the Red Sea with Gods help?",RELIGION_160c_0095,"A portable place of worship",RELIGION_OPT_1618_000C
+"Who is the second oldest living man according to the Bible?",RELIGION_346d_0096,Jared,RELIGION_OPT_1b16_000C
+"What is the name of the only Archangel mentioned in the Bible?",RELIGION_2e60_0097,Michael,RELIGION_OPT_68d4_000C
+"Who was emperor of Rome at the time of Jesus death?",RELIGION_df65_0098,Tiberius,RELIGION_OPT_038e_000B
+"King Solomon had 300 wives and 700 concubines.",RELIGION_4971_0099,False,RELIGION_OPT_b885_000A
+"This tradition was founded in England in the 1960s by Alex Sanders, who referred to himself as the King of his Witches.",RELIGION_1d12_0100,Alexandrian,RELIGION_OPT_0324_000D
+"Caledonii tradition comes from this country.",RELIGION_99de_0101,Scotland,RELIGION_OPT_1e13_000D
+"This system is indigenous to South Central Pennsylvania, USA.",RELIGION_0f5b_0102,Pow-Wow,RELIGION_OPT_9e94_000C
+"This tradition was founded by Raymond Buckland in 1973.",RELIGION_7697_0103,Seax-Wica,RELIGION_OPT_6a78_000A
+"This tradtion is also know as the Nordic tradition.",RELIGION_0217_0104,Teutonic,RELIGION_OPT_9863_000D
+"The International Red Garters are an organization of British traditional witches.",RELIGION_4f95_0105,True,RELIGION_OPT_0665_000B
+"If I practice the Craft by myself,  not as part of a coven, I am said to be this.",RELIGION_b3db_0106,Solitary,RELIGION_OPT_5b29_000B
+"An eclectic witch strictly follows his or her chosen tradition.",RELIGION_a75a_0107,False,RELIGION_OPT_d810_000B
+"Voodoo is actually a religion, which originated in Africa. Voodoo comes from the West African word vodun. What does vodun mean?",RELIGION_6acc_0108,Spirit,RELIGION_OPT_87d1_000B
+"The structure of Voodoo, as we know it today, was developed after the Europeans started slavery. Where was Voodoo born?",RELIGION_ae7f_0109,Haiti,RELIGION_OPT_13de_000D
+"Voodoo rituals include animal sacrifice.",RELIGION_db03_0110,True,RELIGION_OPT_1a9e_000A
+"The French rulers persecuted Voodoo priests and practitioners. In 1791 a revolution exploded, which was led by the Voodoo priests. It ended in the year of Napoleons crowning.",RELIGION_11a5_0111,1804,RELIGION_OPT_1223_000B
+"The high Voodoo priest and priestess are often called this.",RELIGION_44a3_0112,"Papa and Maman",RELIGION_OPT_62fa_000A
+"Voodoo Dancing is just a prelude to sexual frenzy.",RELIGION_af00_0113,False,RELIGION_OPT_01d5_000B
+"In Voodoo, God is considered to be too distant for people to communicate with. Therefore, Voodoo priests communicate with God through Loa. What is Loa?",RELIGION_ce01_0114,"The spirits",RELIGION_OPT_9600_000A
+"Voodoo dolls are commonly used for voodoo.",RELIGION_2945_0115,False,RELIGION_OPT_7f21_000A
+"Voodoos equivalent in Cuba is Santeria. Do you know which the equivalent of Voodoo in Brazil is?",RELIGION_a8cb_0116,Macumba,RELIGION_OPT_7244_000C
+"Nowadays Voodoo is no longer a religion.",RELIGION_9939_0117,False,RELIGION_OPT_12bf_000B
+"How is New Year referred to in Judaism?",RELIGION_75d0_0118,"Rosh Hashannah",RELIGION_OPT_d63a_000B
+"At Passover, Jews eat a special meal done in a special order.  What is that meal called?",RELIGION_ca16_0119,"A seder",RELIGION_OPT_d039_000B
+"What is the traditional Jewish prayer book called?",RELIGION_11de_0120,Siddur,RELIGION_OPT_e9f4_000A
+"How many letters are in the hebrew alphabet?",RELIGION_07c5_0121,22,RELIGION_OPT_076f_000B
+"How many vowels are in the Hebrew alphabet ?",RELIGION_eb3c_0122,0,RELIGION_OPT_d176_000B
+"We consider there to be three Patriarchs in Judaism. Who were they?",RELIGION_b8d6_0123,"Abraham, Issac, Jacob",RELIGION_OPT_b7d7_000C
+"In Judaism, who was Joshuas father?",RELIGION_0308_0124,Nun,RELIGION_OPT_f612_000C
+"On the first day of which month do Jews celebrate New Year?",RELIGION_ca52_0125,Tishrei,RELIGION_OPT_8934_000C
+"Which Hebrew phrase is most commonly associated with the English expression Good Luck and/or Congratulations?",RELIGION_4e13_0126,"Mazel Tov",RELIGION_OPT_4da0_000D
+"Who was the Baal Shem Tov ?",RELIGION_adcc_0127,"The founder of Chassidism",RELIGION_OPT_a861_000C
+"According to the second half of the Acts of the Apostles, what was Pauls name before God changed it?",RELIGION_055e_0128,Saul,RELIGION_OPT_c487_000C
+"The second chapter of the Gospel of Luke, Luke 2, tells us the story of Christs birth.",RELIGION_054c_0129,True,RELIGION_OPT_103d_000A
+"In the Old Testament, a man is said to have lived to be 969 years old.",RELIGION_18d2_0130,True,RELIGION_OPT_587d_000B
+"There is a man in the Bible named Rehoboam who had 88 children.",RELIGION_d20b_0131,True,RELIGION_OPT_7750_000B
+"There was an army mentioned in the Old Testament that consisted of men who were all left-handed and numbered 700.",RELIGION_f6ca_0132,True,RELIGION_OPT_c614_000B
+"Does the Bible ever speak of the sun moving backwards?",RELIGION_b974_0133,Yes,RELIGION_OPT_d3a4_000B
+"Which line gives the correct order of the first 5 books of the Old Testament?",RELIGION_4632_0134,"Genesis, Exodus, Leviticus, Numbers, Deuteronomy",RELIGION_OPT_e747_000D
+"What tribe of Israel was Moses born into?",RELIGION_b7e0_0135,Levite,RELIGION_OPT_80e2_000D
+"Eye of newt and toe of frog Wool of bat and tongue of dog is one of the most famous spells in English literature. In what Shakespeare play do the three witches cast their evil spells?",RELIGION_85b0_0136,Macbeth,RELIGION_OPT_650b_000D
+"She held me spellbound in the night Dancing shadows and firelight Crazy laughter in another room And she drove herself to madness with a silver spoon. What group sings about a Witchy Woman with the moon in her eyes?",RELIGION_06de_0137,"The Eagles",RELIGION_OPT_8a45_000B
+"Do you think God knew what He was doing when he created woman? Or do you think it was another one of his minor mistakes like tidal waves, earthquakes or FLOODS!, asked Daryl Van Horne in The Witches of Eastwick. What actor played Daryl Van Horne, just your average horny little devil?",RELIGION_c304_0138,"Jack Nicholson",RELIGION_OPT_39f2_000D
+"Ding dong the witch is dead. Which old witch? The wicked witch. All you could see under the house was two shrivelled up legs and a pair of ruby slippers. Which wicked witchs demise brought forth such joy to the citizens of Oz in the book The Wizard of Oz?",RELIGION_6bde_0139,"The Wicked Witch of the East",RELIGION_OPT_f593_000D
+"The movie An American Haunting was based on one of the most famous hauntings in American folklore. A Tennessee farmer shot at a strange animal with the body of a dog and the head of a rabbit.  What name was given to the entity that haunted the family and was said to have murdered the Tennessee farmer?",RELIGION_fb4b_0140,"The Bell Witch",RELIGION_OPT_380c_000D
+"The works of this Jewish thinker formed the basis of the writings of Thomas Aquinas.",RELIGION_b94c_0141,Maimonides,RELIGION_OPT_6f92_000C
+"What is prayer shawl worn by Jews in the morning Jewish services, during the Torah service, on Yom Kippur, and other holidays called?",RELIGION_6aef_0142,"A tallit",RELIGION_OPT_0734_000D
+"Even when Jewish men are not reading Torah, they wear a garment with fringes with knots. It is worn under the shirt with the fringes exposed. What is this garment called ?",RELIGION_abea_0143,"Tallit katan",RELIGION_OPT_48c6_000C
+"The night before Yom Kippur, called this,  is the most important night service in Judaism.",RELIGION_2251_0144,"Kol Nidre",RELIGION_OPT_3c56_000D
+"The most important prayer in Judaism is called the Shema. What does it affirm?",RELIGION_cdf8_0145,"Our faith that there is one and only God.",RELIGION_OPT_f338_000B
+"What is the first letter of the Hebrew alphabet?",RELIGION_5480_0146,Aleph,RELIGION_OPT_accf_000D
+"What do Jews do when the case which houses the Torah is opened?",RELIGION_186a_0147,"Stand up",RELIGION_OPT_4e86_000D
+"On the Holy Day of Yom Kippur, Jews ask that all their sins be forgiven.",RELIGION_2553_0148,True,RELIGION_OPT_f9d7_000A
+"On which Holy Day do Jews feast on unleavened bread?",RELIGION_f22b_0149,Passover,RELIGION_OPT_12f1_000C
+"There are two ways to pronounce Hebrew words. One is called Ashkanazi and the other one, this",RELIGION_b9ed_0150,Sephardic,RELIGION_OPT_fe72_000D
+"These fundamental statements have led to the formulation of the Buddhist philosophy, and contain the basic principles of the spiritual teacher, Buddha.",RELIGION_1e42_0151,"The Four Noble Truths",RELIGION_OPT_d362_000D
+"What is the central theme of the teachings of religious teacher Buddha and of Buddhist philosophy as a whole?",RELIGION_dda1_0152,Suffering,RELIGION_OPT_1237_000D
+"What was the birth name of the historic figure known as Buddha, the founder of the Buddhist religion?",RELIGION_dda2_0153,"Siddhartha Gautama",RELIGION_OPT_ee75_000A
+"What is the formula to end or reduce suffering according to the principles of Buddhism?",RELIGION_841e_0154,"The Noble Eightfold Path",RELIGION_OPT_d64c_000C
+"After completing his religious reawakening, Buddha considered himself to be which of these?",RELIGION_9d5b_0155,"a man, who woke up to the nature of reality",RELIGION_OPT_e5d5_000A
+"The beginning of the Buddhist religion can be traced back to the fifth century BC in which country?",RELIGION_d149_0156,India,RELIGION_OPT_1730_000C
+"What is the Japanese variation of Buddhism, that emphasizes on the role of sitting meditation in pursuing enlightenment?",RELIGION_e537_0157,Zen,RELIGION_OPT_4e40_000C
+"What is the definition of Zen Koan, one of the important aspects of Buddhist religious practices?",RELIGION_f919_0158,"A question, meant to challenge rational thinking",RELIGION_OPT_2df3_000A
+"Creating complex, radial, and symbolic sand paintings is a practice typical for which branch of Buddhism?",RELIGION_3663_0159,"Tibetan Buddhism",RELIGION_OPT_b13c_000B
+"Which of the following statements best describes the essence of Buddhism?",RELIGION_f136_0160,"It is a means for people to save themselves.",RELIGION_OPT_d66c_000A
+"Son of a Jewish immigrant from Breslau, Prussia, Lucius Nathan Littauer was born in Gloversville, Upstate New York, in 1859. Being a politician wasnt his only occupation; what is Lucius Littauers other achievement with which he remained in history?",RELIGION_4068_0161,"The first Jewish football coach at Harvard",RELIGION_OPT_3e22_000C
+"Julius Vogel, a London born Jew, who first became involved in politics in 1862, was the first Jew to be on this political post.",RELIGION_ecb6_0162,"Prime Minister of New Zealand",RELIGION_OPT_582c_000C
+"During the 1968 presidential campaign, Rabbi Baruch Korff developed a personal relationship with this American president, who even referred to Korff as My Rabbi.",RELIGION_296c_0163,"Richard Nixon",RELIGION_OPT_6cad_000C
+"In 1927 Charles A. Levine was the first Jew to do what?",RELIGION_cec4_0164,"Fly the Atlantic",RELIGION_OPT_253c_000A
+"In what business did John M. Brunswick and his two half brothers, David and Emmanuel, make their fortune?",RELIGION_ff75_0165,"Billiard table business",RELIGION_OPT_ea93_000C
+"The music for Somewhere Over the Rainbow, one of the most famous and beloved songs of the late 1930s, was based on a Jewish Cantorial theme.",RELIGION_74c2_0166,True,RELIGION_OPT_1c9d_000A
+"Isachar Zacharie, an English born Jew, who was related to important American politicians, worked as what?",RELIGION_1620_0167,"Lincolns podiatrist",RELIGION_OPT_b113_000A
+"Why was Rabbi David Einhorn, a German rabbi and later leader of the Jewish reform movement in the United States, forced to leave Baltimore in 1861, during the Civil War?",RELIGION_fdde_0168,"He preached against slavery",RELIGION_OPT_1491_000D
+"A famous and talented composer was almost bankrupt when he wrote one of his best-known works, Judas Maccabaeus - an oratorio based on a Jewish theme. Who was this classical composer?",RELIGION_4936_0169,Handel,RELIGION_OPT_12e1_000B
+"Marty Glickman and Sam Stoller were great 100-yard runners in the 1930s. They were to be on the 4x100 meter relay race team for the USA in the 1936 Olympics, but eventually did not take part in the race. What was the reason?",RELIGION_2e66_0170,"Hitler demanded their exclusion",RELIGION_OPT_ec70_000D
+"Bodhisattva is consciously seeking what?",RELIGION_80ad_0171,Enlightenment,RELIGION_OPT_1f84_000B
+"What is Dharma?",RELIGION_f11f_0172,"The cosmic principles of existence",RELIGION_OPT_cfec_000A
+"Buddhist believe that this depends on the actions that we have taken in the past.",RELIGION_949c_0173,"Our births",RELIGION_OPT_cd22_000C
+"In Buddhism the cycle of rebirths is known as what?",RELIGION_7e99_0174,Samsara,RELIGION_OPT_2186_000C
+"Which saint is known as the patron of children?",RELIGION_3383_0175,Nicholas,RELIGION_OPT_29d3_000B
+"Who is known as the patron of India?",RELIGION_92f0_0176,"Francis Xavier",RELIGION_OPT_3724_000A
+"St. Benedict is known as the patron of which of these groups of people?",RELIGION_356a_0177,Monks,RELIGION_OPT_5783_000A
+"Who was the first Italian-American woman to be canonized as a saint of the Catholic Church?",RELIGION_f10e_0178,"Frances Cabrini",RELIGION_OPT_dc81_000C
+"Which saint is referred to as the patron of fishermen?",RELIGION_4c83_0179,"Andrew the Apostle",RELIGION_OPT_7c61_000A
+"Which  saint is most often invoked for the recovery of a lost object?",RELIGION_f70d_0180,Anthony,RELIGION_OPT_e50e_000C
+"Who used to be the patron saint of travelers?",RELIGION_b519_0181,"St. Christopher",RELIGION_OPT_1664_000B
+"Which saint is the patron of all animals and living creatures?",RELIGION_7bd3_0182,"Francsis of Asissi",RELIGION_OPT_6cda_000A
+"Who is the patron saint of writers and librarians?",RELIGION_39c6_0183,Jerome,RELIGION_OPT_e034_000A
+"To which saint does one pray for healthy eyes?",RELIGION_7ad1_0184,"St. Lucy, Virgin",RELIGION_OPT_dbad_000B
+"What is the Hindu Trinity?",RELIGION_85a6_0185,"Vishnu, Brahma, Shiva",RELIGION_OPT_c3b6_000C
+"Hinduism is a monotheistic religion.",RELIGION_69ef_0186,False,RELIGION_OPT_7cb1_000B
+"What is the most sacred river for Hindus?",RELIGION_4050_0187,Gange,RELIGION_OPT_5c3b_000B
+"How many women-followers did the Hindu deity Lord Krishna have?",RELIGION_bbbd_0188,108,RELIGION_OPT_e970_000A
+"What are the main characters of the ancient Sanskrit epic Ramayana?",RELIGION_4f52_0189,"Rama and Sita",RELIGION_OPT_e8ef_000C
+"Who is the founder of the International Society for Krishna Consciousness, known as the Hare Krishna?",RELIGION_8f8a_0190,Prabhupada,RELIGION_OPT_d1d4_000A
+"Lord Ganesh, one of the most worshipped divinities in Hinduism, has the head of what animal?",RELIGION_eae6_0191,elephant,RELIGION_OPT_534a_000D
+"Which of these belonged to the highest-ranking Hindu caste?",RELIGION_f1b3_0192,priests,RELIGION_OPT_6d4e_000C
+"Krishna is an incarnation of which Hindu god?",RELIGION_b946_0193,Vishnu,RELIGION_OPT_91d8_000A
+"The Swastika is a solar symbol for Hindus.",RELIGION_7554_0194,True,RELIGION_OPT_9878_000B
+"According to the Book of Esther, Esther replaced this disobedient Biblical queen.",RELIGION_71f0_0195,"Queen Vashti",RELIGION_OPT_bba5_000B
+"This brave Biblical woman led the Israelites to victory in the battle against Sisera.",RELIGION_7c28_0196,Deborah,RELIGION_OPT_c154_000D
+"According to the Bible, King David saw this beautiful woman bathing, and immediately desired her, but she was married.",RELIGION_549e_0197,Bathsheba,RELIGION_OPT_dbf9_000D
+"This Biblical woman couldnt have children, but finally God granted her a son, who was to be named Samuel and become one of the Bibles most prolific prophets of all time.",RELIGION_d78a_0198,Hannah,RELIGION_OPT_7a7f_000A
+"According to the New Testament, this woman had a son called John the Baptist.",RELIGION_0625_0199,Elizabeth,RELIGION_OPT_83a1_000B
+"According to the Book of Exodus, this brave mother hid her young baby son, Moses, in a basket along the Nile River, so that no one could kill him.",RELIGION_ba11_0200,Jochebed,RELIGION_OPT_0ca6_000A
+"This biblical heroine hid two Israelite spies in her house under stalks of flax.",RELIGION_8641_0201,Rehab,RELIGION_OPT_7248_000B
+"In the Bible, this woman gave birth to male twins and as she was in labor the twins jostled each other, one babys hand grasping the heel of the other infants foot.",RELIGION_6adc_0202,Rebekah,RELIGION_OPT_5794_000B
+"This Biblical woman poured perfume on Jesus feet and wiped them with her hair.",RELIGION_e46e_0203,Mary,RELIGION_OPT_583d_000A
+"According to the Bible, this woman became a widow and decided to live with her mother-in-law instead of going home to her family. She then married Boaz.",RELIGION_ca3a_0204,Ruth,RELIGION_OPT_aba5_000A
+"Which of these architects designed St. Peters Basilica in Rome?",RELIGION_3aa4_0205,"Carlo Marchionni",RELIGION_OPT_36fe_000A
+"Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a father.",RELIGION_d01b_0206,False,RELIGION_OPT_55c2_000A
+"St. Peters Basilica is both the Popes principal church and his official ecclesiastical seat.",RELIGION_889f_0207,False,RELIGION_OPT_c31f_000A
+"The Temple of Vespasian was begun by Titus after whose death?",RELIGION_e064_0208,"his father, Vespasian",RELIGION_OPT_d0b1_000B
+"Following Michelangelos death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo Farnese.",RELIGION_e1c2_0209,True,RELIGION_OPT_cb63_000B
+"Did Leonardo Da Vinci design the facade for the church of Santa Bibiana.",RELIGION_0e3f_0210,No,RELIGION_OPT_ac95_000A
+"When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an ancient Roman original. What was the name of the original statue?",RELIGION_94b2_0211,"Il Putto Dormiente",RELIGION_OPT_9792_000C
+"All originals of Leonardo da Vincis Leda and the Swan have been either lost or destroyed.",RELIGION_2c2d_0212,True,RELIGION_OPT_1c95_000B
+"How  many books are in the Torah?",RELIGION_b1fb_0213,5,RELIGION_OPT_15eb_000B
+"Jason Marquis (Cardinals), Shawn Green (Arizona),and Brad Asmus (Houston) are all Jewish.",RELIGION_7d04_0214,True,RELIGION_OPT_7ea0_000A
+"What was the only automobile brand named after a Jew?",RELIGION_86b0_0215,Citroen,RELIGION_OPT_7cd5_000B
+"Which of these great home run hitters was Jewish?",RELIGION_1322_0216,"Hank Greenberg",RELIGION_OPT_e2f9_000B
+"Except for Saturday, how many times a day must an Orthodox Jew pray?",RELIGION_d2cf_0217,3,RELIGION_OPT_c4f3_000B
+"On front of the home of every Jew, there is a special decoration or religious symbol. It is also found inside the home at very doorpost and every gate. In each one, there are three sections of the (Old) Testament.  What do we call these religious objects?",RELIGION_bd97_0218,Mezzuzas,RELIGION_OPT_0b05_000C
+"On Columbus first trip to the new world, many Jews were employed by Columbus. What was the highest job held by a Jew?",RELIGION_2db3_0219,Translator,RELIGION_OPT_7f3a_000B
+"What religious article must every unmarried Jewish woman wear?",RELIGION_7a47_0220,None,RELIGION_OPT_088e_000C
+"In Judaism locusts are kosher, which means that they are allowed to be eaten.",RELIGION_72a2_0221,True,RELIGION_OPT_46e7_000A
+"In every synagogue, in every country in the world, there are the same number of statues. How many?",RELIGION_b395_0222,0,RELIGION_OPT_0291_000C
+"According to the Bible, God forbade Adam and Eve to eat the fruit of the apple tree.",RELIGION_94e1_0223,False,RELIGION_OPT_173b_000A
+"Who is the first human who murdered a human according to the Bible?",RELIGION_e943_0224,Cain,RELIGION_OPT_99f5_000B
+"According to the Book of Revelation, there are angels of the Devil.",RELIGION_58ea_0225,True,RELIGION_OPT_ba11_000A
+"It is written in the Bible, that false Christs and prophets will arise and will show great signs and wonders.",RELIGION_b9d8_0226,True,RELIGION_OPT_2b3c_000B
+"According to Christian theology, Jesus Christ is a person with an entirely human nature.",RELIGION_1000_0227,False,RELIGION_OPT_c997_000A
+"What Biblical figure built an ark on top of a mountain?",RELIGION_7a8a_0228,Noah,RELIGION_OPT_780f_000C
+"What Biblical hero split the sea so that he and his people could go across?",RELIGION_2596_0229,Moses,RELIGION_OPT_864b_000D
+"What does the name Moses mean according to the Bible?",RELIGION_f140_0230,"taken from the water",RELIGION_OPT_8c8e_000B
+"How many books are there in the Bible?",RELIGION_e98d_0231,66,RELIGION_OPT_b558_000D
+"How many times a year is a healthy, adult Jew required to fast?",RELIGION_fb91_0232,6,RELIGION_OPT_c2cd_000C
+"Historically, Golda Meir was the first female Jewish leader.",RELIGION_32dc_0233,False,RELIGION_OPT_3b6b_000A
+"What is the subject of the first Book of the  Talmud ?",RELIGION_81ca_0234,Blessings,RELIGION_OPT_dcb6_000B
+"It is considered that the Jewish Golden Age occurred in this country.",RELIGION_1c8d_0235,Spain,RELIGION_OPT_9c37_000A
+"In 1776, when we Jews declared themselves free from England, which British colony had the most Jews?",RELIGION_2a0d_0236,Jamaica,RELIGION_OPT_02d0_000C
+"On the holy day, Simchat Torah, Jews finish reading the five books of the Torah and do what immediately after?",RELIGION_d49a_0237,"Start again",RELIGION_OPT_ba19_000B
+"Jews build temporary huts for this holy day.",RELIGION_74e9_0238,Sukkot,RELIGION_OPT_36be_000C
+"What does the Hebrew expression Mazel Tov mean?",RELIGION_dcc8_0239,"Good luck",RELIGION_OPT_b960_000D
+"The Jewish calender is a lunar calender.",RELIGION_f2c0_0240,True,RELIGION_OPT_352d_000B
+"Judaism divides The Old Testament into three parts, called this in English.",RELIGION_239f_0241,"Torah, Prophets, Wisdom Literature",RELIGION_OPT_9884_000C
+"In what book of The New Testament was John the Baptist beheaded?",RELIGION_b5fa_0242,Matthew,RELIGION_OPT_bd25_000D
+"In The New Testament, Romans was written by the apostle Paul.",RELIGION_f58b_0243,True,RELIGION_OPT_796a_000A
+"How many books are in the New Testament?",RELIGION_7e79_0244,27,RELIGION_OPT_fb72_000B
+"It is believed by many that the Gospel of Luke is the most beautiful book ever written.",RELIGION_4c5e_0245,True,RELIGION_OPT_d635_000B
+"Which of the laws in  the Ten Commandments of the New Testament is conceived to be the greatest one?",RELIGION_5b2c_0246,"Love the Lord with all your heart, soul and mind",RELIGION_OPT_a247_000C
+"In the New Testament, Acts is the next book after Romans.",RELIGION_388a_0247,False,RELIGION_OPT_c3be_000A
+"What is the third book of the New Testament?",RELIGION_42e5_0248,Luke,RELIGION_OPT_57b7_000D
+"What did Jesus do to the man with leprosy, according to The New Testament?",RELIGION_e60b_0249,"touched him and cured him",RELIGION_OPT_504c_000D
+"Paul is acknowledged as the author of  First Epistle to the Corinthians book in The New Testament.",RELIGION_318c_0250,True,RELIGION_OPT_f941_000A
+"In which book of The New Testament is the following passage found Ask and it will be given to you;seek and you will find;knock and the door will be opened to you?",RELIGION_e160_0251,Matthew,RELIGION_OPT_278c_000B
+"What was the name of Abrahams wife according to the book of Genesis?",RELIGION_373a_0252,Sarah,RELIGION_OPT_10c9_000D
+"In the book of Genesis, how old was Abraham when Isaac was born?",RELIGION_79d3_0253,"100 years old",RELIGION_OPT_e0fb_000C
+"Isaac was Abrahams first son according to the Torah.",RELIGION_e493_0254,False,RELIGION_OPT_4276_000A
+"What was the name of Isaacs wife according to the book of Genesis?",RELIGION_ecdb_0255,Rebekah,RELIGION_OPT_7f53_000D
+"The book of Genesis tells that when Esau and Jacob were born, Jacob grabbed hold of what?",RELIGION_1428_0256,"Esaus heel",RELIGION_OPT_f2c1_000C
+"According to the Torah, what did Esau trade his birthright with Jacob for?",RELIGION_8b2c_0257,"Bread and lentil stew",RELIGION_OPT_159e_000C
+"Who was Jacobs first wife in the book of Genesis?",RELIGION_fece_0258,Leah,RELIGION_OPT_505e_000A
+"How many years did Jacob have to work for each of his wives according to the Torah?",RELIGION_92a0_0259,"7 years each",RELIGION_OPT_5b5b_000B
+"Who founded the Scientology philosophy and religion?",RELIGION_ab20_0260,"L. Ron Hubbard",RELIGION_OPT_08bc_000A
+"This actor, who made it big as a high school gang member, delivering paint and flying airplanes, is one of the most famous Scientologists.",RELIGION_f882_0261,"John Travolta",RELIGION_OPT_de69_000B
+"Which of these voice actors/actresses from The Simpsons series, is a Scientologist?",RELIGION_de85_0262,"Nancy Cartwright",RELIGION_OPT_8c00_000B
+"These two brothers are Scientologists who acted on famous comedy sitcoms. One was on That 70s Show and the other one was the oldest brother on Malcolm in the Middle. What is their last name?",RELIGION_ee20_0263,Masterson,RELIGION_OPT_d2bf_000B
+"Which Scientologist played the wife of “The King of Queens?",RELIGION_5f86_0264,"Leah Remini",RELIGION_OPT_991e_000D
+"Lisa Marie Presley and her mother Priscilla Presley are both Scientologists.",RELIGION_b055_0265,True,RELIGION_OPT_dfb0_000A
+"Which of these musicians is not a Scientologist?",RELIGION_e61f_0266,"Michael Bolton",RELIGION_OPT_b113_000D
+"What Scientologist started the EST movement?",RELIGION_f51c_0267,"Werner Erhard",RELIGION_OPT_4ffd_000B
+"What was Operation Snow White?",RELIGION_c13a_0268,"An attempt by Scientology to infiltrate the US government",RELIGION_OPT_5efd_000B
+"The title of what book in the Bible means departure?",RELIGION_8b40_0269,Exodus,RELIGION_OPT_94b9_000B
+"Deuteronomy, the title of the fifth book of the Hebrew Bible, means second law.",RELIGION_7cab_0270,True,RELIGION_OPT_d719_000A
+"What is the meaning of the book title Genesis?",RELIGION_c7c8_0271,beginning,RELIGION_OPT_6d23_000C
+"Does The Book of Numbers from the Old Testament begin with the numbering of the people in Sinai?",RELIGION_b06b_0272,Yes,RELIGION_OPT_d3c3_000B
+"What book in the Bible was named after the successor of Moses?",RELIGION_2363_0273,Joshua,RELIGION_OPT_474d_000C
+"Where can you find the story of Adam and Eve?",RELIGION_8e3f_0274,"Book of Genesis",RELIGION_OPT_0a0a_000B
+"The story of Moses birth can be found in the Book of Deuteronomy.",RELIGION_f119_0275,False,RELIGION_OPT_73f4_000B
+"Was Moses still alive in the Book of Numbers?",RELIGION_51e2_0276,Yes,RELIGION_OPT_f13f_000A
+"What was the age of Joshua (Moses successor) when he died?",RELIGION_6f03_0277,"110 years old",RELIGION_OPT_5c3b_000C
+"Which 10th century Ashkenazi Rabbi outlawed polygamy?",RELIGION_d7e7_0278,"Rabbi Gershom",RELIGION_OPT_678c_000C
+"The first international Jewish athletic competition, known as Maccabiah Games, was held in what year?",RELIGION_4409_0279,1932,RELIGION_OPT_fbff_000C
+"What is the name of the collection of stories, legends, and allegorical interpretations of the Hebrew Bible Tanach?",RELIGION_302f_0280,Midrash,RELIGION_OPT_0fc6_000B
+"The first day of the Jewish New Year, Rosh Hashanah, can only occur on which of these days?",RELIGION_7026_0281,"Monday, Tuesday, Thursday or Saturday",RELIGION_OPT_eab6_000C
+"The first female Rabbi, Berlin-born Regina Jonas, was ordained in what year?",RELIGION_c464_0282,1935,RELIGION_OPT_0b0f_000A
+"Four Jewish jobs require ordination (or Smeecha). Which of these is not one of them?",RELIGION_b675_0283,Cantor,RELIGION_OPT_2868_000A
+"Jewish American Sidney Franklin was greatly admired by Ernest Hemingway, as he was the first American to become successful in what occupation?",RELIGION_f561_0284,Bullfighter,RELIGION_OPT_c87c_000B
+"One of the most important prayers in Jewish liturgy is the the Shemoneh Esreh (The Eighteen) This prayer, which must be said every day at almost every service, is also known by what other name?",RELIGION_9184_0285,"The Amidah",RELIGION_OPT_c8bd_000B
+"Mike Epstein, Norm Sherry, Larry Sherry, and Barry Latman were all Jewish baseball players. What do they have in common?",RELIGION_b7e7_0286,"They all went to the same high school.",RELIGION_OPT_d7d0_000C
+"When did the Six Day War between Israel and the Arab states of Egypt, Jordan, and Syria begin?",RELIGION_c2a7_0287,"June 5, 1967",RELIGION_OPT_6311_000B
+"In 1825, Jewish American diplomat and journalist Mordecai Manuel Noah tried to found what Jewish institution in the United States?",RELIGION_dde4_0288,"A Jewish homeland in the United States",RELIGION_OPT_5eab_000B
+"Who was the first Jewish player in the United States National Hockey League?",RELIGION_d153_0289,"Sam Rothschild",RELIGION_OPT_f9be_000A
+"Which of these terms is used by Jews to refer to the Old Testament?",RELIGION_553a_0290,Tanakh,RELIGION_OPT_6ff3_000C
+"The most important religious document for the Jews, Torah, is written in what language?",RELIGION_1610_0291,Hebrew,RELIGION_OPT_7f2b_000D
+"How many commandments are there in the central document of Judaism, Torah?",RELIGION_e5e9_0292,613,RELIGION_OPT_f149_000C
+"According to Judaism, even non-Jews are morally bound to observe how many laws from the Torah?",RELIGION_21cc_0293,7,RELIGION_OPT_20af_000B
+"Which of these prayers is traditionally sung before sunset on Yom Kippur, the Jewish Day of Atonement?",RELIGION_b5db_0294,"Kol Nidre",RELIGION_OPT_f73d_000C
+"Every morning and evening, Jews must recite a prayer, which is also said at  the moment before death. What is the name of this prayer?",RELIGION_1c0a_0295,"The Shema Yisrael",RELIGION_OPT_5ac2_000D
+"This is the holiest city in Judaism and the spiritual center of the Jewish people. It also plays an important role in Christianity and Islam.",RELIGION_a85c_0296,Jerusalem,RELIGION_OPT_2e80_000B
+"The Temple Mount, the Church of Holy Sepulchre and the Western Wall are landmarks found in this city.",RELIGION_bc74_0297,Jerusalem,RELIGION_OPT_83f0_000C
+"Who built the Temple of Jerusalem also known as the Holy Temple?",RELIGION_1fab_0298,"King Solomon",RELIGION_OPT_b19c_000D
+"When was Jerusalem conquered by the Islamic Caliphate?",RELIGION_e223_0299,"In 638",RELIGION_OPT_b699_000D
+"After the Arabic-Israeli War (1948-1949) Jerusalem was divided between Israel (West part) and Jordan (East part).",RELIGION_6778_0300,True,RELIGION_OPT_e9a0_000B
+"What is Jesus birthplace according to the Bible?",RELIGION_394c_0301,Bethlehem,RELIGION_OPT_7348_000A
+"Where is The Milk Grotto Church of Virgin Mary located?",RELIGION_eb1f_0302,Bethlehem,RELIGION_OPT_19ac_000A
+"In Bethlehem, Christmas ceremonies are held on three different dates.",RELIGION_c120_0303,True,RELIGION_OPT_1b01_000B
+"According to New Testament, the home of Joseph and Mary was in Jerusalem.",RELIGION_d897_0304,False,RELIGION_OPT_b38e_000A
+"The Church of the Annunciation was built in Nazareth.",RELIGION_90ca_0305,True,RELIGION_OPT_276c_000A
+"According to the Book of Matthew, Jacob was the father of Issac.",RELIGION_62a0_0306,False,RELIGION_OPT_7ecf_000B
+"Who was king when Jesus was born?",RELIGION_f207_0307,"King Herod",RELIGION_OPT_bd03_000C
+"Jesus was baptized by John the Baptist.",RELIGION_4792_0308,True,RELIGION_OPT_6201_000B
+"In the Book of Matthew, what did Jesus say to the man with leprosy when he touched him?",RELIGION_14db_0309,"Be Clean!",RELIGION_OPT_48d0_000B
+"Whose mother-in-law was lying in bed with a fever in the Book of Matthew?",RELIGION_bfa6_0310,Peter,RELIGION_OPT_ce1e_000A
+"According to the Book of Matthew, how many disciples did Jesus give authority to heal the sick and drive out evil spirits?",RELIGION_b018_0311,12,RELIGION_OPT_c93d_000C
+"Which of the apostles betrayed Jesus?",RELIGION_d0d8_0312,"Judas Iscariot",RELIGION_OPT_8cbd_000D
+"Where did Ruth live when she met her first husband according to the Book of Ruth?",RELIGION_5b64_0313,Moab,RELIGION_OPT_603e_000B
+"In the Book of Ruth, who was Ruths mother-in-law that she would not abandon?",RELIGION_dbd0_0314,Naomi,RELIGION_OPT_cc13_000A
+"Who was Ruths sister-in-law according to the Book of Ruth?",RELIGION_7e6d_0315,Orpah,RELIGION_OPT_dc9d_000C
+"In the Book of Ruth, after the deaths of Naomis husband and her two sons, Naomi wanted to leave Moab. Where did she go?",RELIGION_b6b7_0316,Bethlehem,RELIGION_OPT_29b3_000A
+"In the Book of Ruth, what did Ruth do to indicate that she wanted to be redeemed?",RELIGION_435a_0317,"Sleep at Boaz feet.",RELIGION_OPT_e8dc_000D
+"In the Book of Ruth, Boaz was the closest relative thats why he came forward as the kinsman-redeemer.",RELIGION_9c1f_0318,False,RELIGION_OPT_17da_000B
+"According to the Book of Ruth, what did the kinsman-redeemer give to Boaz to indicate that Boaz would be the redeemer of Ruth?",RELIGION_ff36_0319,"His sandal",RELIGION_OPT_cb80_000D
+"What was the name of Ruth and Boazs son in the Book of Ruth?",RELIGION_671a_0320,Obed,RELIGION_OPT_6706_000D
+"The Book of Ruth comes after this book.",RELIGION_c260_0321,Judges,RELIGION_OPT_1265_000D
+"How many books are there in the Old Testament of the Bible?",RELIGION_66a9_0322,39,RELIGION_OPT_b1db_000A
+"Finish the title of this book of the Old Testament: The Song of _____",RELIGION_1eca_0323,Solomon,RELIGION_OPT_753e_000A
+"Which book of the Old Testament of the Bible has the least number of chapters?",RELIGION_eaf1_0324,Obadiah,RELIGION_OPT_7afe_000A
+"Which book of the Old Testament has the most chapters?",RELIGION_f5cb_0325,Psalms,RELIGION_OPT_c6fe_000A
+"The first two books in the Old Testament are Genesis and Exodus. What is the name of the third book?",RELIGION_189f_0326,Leviticus,RELIGION_OPT_36a4_000D
+"What is the title of the last book of the Old Testament?",RELIGION_130f_0327,Malachi,RELIGION_OPT_b341_000B
+"Which of these books doesnt belong with the others?",RELIGION_d7fb_0328,Jude,RELIGION_OPT_5e89_000C
+"Amos is the first book of the Old Testament alphabetically.",RELIGION_a9c7_0329,True,RELIGION_OPT_b492_000A
+"Which of these books of the Old Testament is not divided into parts I and II?",RELIGION_1665_0330,Numbers,RELIGION_OPT_6df2_000B
+"There are 32 chapters in the Book of Proverbs.",RELIGION_1a47_0331,False,RELIGION_OPT_25f2_000B
+"Who was the first US President whose name appeared on the charter of a synagogue?",RELIGION_26ec_0332,"Franklin Pierce",RELIGION_OPT_8104_000C
+"Who was the  first Jew to serve as a  diplomat for the USA?",RELIGION_6cd4_0333,"Mordechai Noah",RELIGION_OPT_3117_000B
+"Who was the first Jew to be offered a position on the US Supreme Court?",RELIGION_ab5f_0334,"Judah Benjamin",RELIGION_OPT_cae7_000D
+"Who was the  first Jew to serve as US Minister to The Hague?",RELIGION_1a1d_0335,"August Belmont",RELIGION_OPT_e3de_000B
+"What was the approximate Jewish population of the United States in 1790?",RELIGION_324e_0336,1300-1500,RELIGION_OPT_60a9_000C
+"During the Revolutionary War many Jews volunteered to fight the British and there was even a Jew Company. Where were the members of this company  from?",RELIGION_e23d_0337,"Charleston, S.C.",RELIGION_OPT_a42a_000C
+"How many years did Golda Meir serve as President of Israel?",RELIGION_b56e_0338,0,RELIGION_OPT_d171_000A
+"Who was the first President of Israel?",RELIGION_c675_0339,"Chaim Weizmann",RELIGION_OPT_3f97_000B
+"Who was famous for saying We will fight the War [WWII] as if there were no White Paper and the White paper as if there were no war.?",RELIGION_2cdd_0340,"David Ben-Gurion",RELIGION_OPT_fb6b_000D
+"Which successful Israeli General lost an eye and was famous for wearing an eye patch?",RELIGION_32a8_0341,"Moshe Dayan",RELIGION_OPT_ca5d_000D
+"What does the term Chabad, as in Chabad Hasidism, mean?",RELIGION_dbaf_0342,"It stands for wisdaom, understanding and knowledge.",RELIGION_OPT_4f04_000C
+"This great American Army officer helped form the Israeli Army. He was responsible for organizing the army along modern lines and for leading the effort  to save Jerusalem in the 1948 war.",RELIGION_19c6_0343,"Mickey Marcus",RELIGION_OPT_d8b5_000D
+"What king of Babylon took over Jerusalem in the first chapter of the Book of Daniel?",RELIGION_3ee8_0344,Nebuchadnezzar,RELIGION_OPT_6cc5_000A
+"According to the Book of Daniel, upon his arrival in Babylon, what was Daniels name changed to?",RELIGION_b932_0345,Belteshazzar,RELIGION_OPT_7bd8_000C
+"What were the Hebrew names of Shadrach, Meshach and Abednego according to the Book of Daniel?",RELIGION_bf22_0346,"Hananiah, Mishael and Azariah",RELIGION_OPT_56da_000D
+"In the second chapter of the Book of Daniel, what did King Nebuchadnezzar have a dream about?",RELIGION_473c_0347,"A statue",RELIGION_OPT_6fe9_000D
+"In King Nebuchadnezzars dream from the second chapter of the Book of Daniel, what kingdom does the head of gold represent?",RELIGION_7b48_0348,"Babylonian Empire",RELIGION_OPT_e43d_000B
+"What kingdom do the legs of iron represent in King Nebuchadnezzars dream in the second chapter of the Book of Daniel?",RELIGION_2409_0349,"Roman Empire",RELIGION_OPT_7b41_000A
+"In the Book of Daniel, in King Nebuchadnezzars dream, the Greek Empire was represented by the chest and arms of silver.",RELIGION_297c_0350,False,RELIGION_OPT_2962_000B
+"In the Book of Daniel, what would Shadrach, Meshach and Abednego not bow down to?",RELIGION_7c9d_0351,"An image of gold",RELIGION_OPT_462b_000A
+"Since they did not bow down, as King Nebuchadnezzar commanded, what happened to Shadrach, Meshach and Abednego in the Book of Daniel?",RELIGION_c5fd_0352,"They were thrown into a fiery furnace.",RELIGION_OPT_8b34_000C
+"Who was king of Babylon when Darius the Mede took over?",RELIGION_be10_0353,Belshazzar,RELIGION_OPT_be21_000B
+"In the Book of Daniel, what did King Darius decree would happen if anyone prayed to any god or person, except for him for a period of 30 days?",RELIGION_66f9_0354,"They would be thrown into the lions den.",RELIGION_OPT_b3e3_000B
+"What period was marked by the Great Jewish Revolt against the Roman Empire?",RELIGION_7ae6_0355,66-70,RELIGION_OPT_f920_000C
+"Who led the Jewish revolt against the Roman Empire in the period from 132 to 135?",RELIGION_f8d6_0356,"Bar Kochba and Rabbi Akiva",RELIGION_OPT_9469_000C
+"What does the number 613 refer to in Judaism?",RELIGION_2f4a_0357,"The number of commandments in the Torah",RELIGION_OPT_ded4_000B
+"What distinction does Moses Alexander hold?",RELIGION_529c_0358,"He was the first Jewish governor in the USA.",RELIGION_OPT_dfc3_000A
+"What distinction does Frank Wolf hold?",RELIGION_066c_0359,"He produced the first Yiddish play in then USA.",RELIGION_OPT_272c_000D
+"What was the name of the first union for actors in the US?",RELIGION_c00e_0360,"The Hebrew Actors Union",RELIGION_OPT_b48b_000D
+"What did Rose and Morris Michtom create in 1902?",RELIGION_52d8_0361,"The Teddy Bear",RELIGION_OPT_08dd_000A
+"What is Victor David Brenner remembered for?",RELIGION_d603_0362,"He made the portrait of Lincoln found on the US penny.",RELIGION_OPT_a9bd_000D
+"Which settlement is famous as the location of one of the most spectacular craters in Israel?",RELIGION_49ad_0363,"Mitzpeh Ramon",RELIGION_OPT_46e4_000B
+"Which organization was founded by Rabbi Ben Frankel in 1923?",RELIGION_1850_0364,"The Hillel Foundation",RELIGION_OPT_22fa_000C
+"The circled-U symbol found on the labels of certain products shows that the Union of Orthodox Congregations have found the food is kosher. What was the first food product to have this symbol?",RELIGION_5d8d_0365,"Heinz ketchup",RELIGION_OPT_39e5_000B
+"Which Israeli city is a sister city of New York City?",RELIGION_a790_0366,"Tel Aviv",RELIGION_OPT_902e_000C
+"Can an egg laid on a holy day (a Yom Tov) be eaten?",RELIGION_340c_0367,"Rabbi Hillel says no, but Rabbi Shammai says yes.",RELIGION_OPT_27aa_000B
+"An Israeli has invented a gun that can shoot around corners.",RELIGION_2dda_0368,True,RELIGION_OPT_45a1_000B
+"This Jewish woman is often considered the First Lady in Television  News.",RELIGION_f79c_0369,"Dorothy Fuldheim",RELIGION_OPT_015d_000C
+"This man and his partner, Mort Shuman, wrote almost 1,500 songs. His writings include: Viva Las Vegas, Prisoner of Love, Sweets for My Sweets, This Magic Moment, and Suspicion.",RELIGION_6584_0370,"Doc Pomus",RELIGION_OPT_388c_000D
+"What is strange about the edible vegetable Salicornia, which Israel exports to Europe?",RELIGION_2477_0371,"The vegetable is also used in glass-making.",RELIGION_OPT_4792_000D
+"What city is called The capital of the Negev (desert)?",RELIGION_4f6d_0372,"Beer Sheva",RELIGION_OPT_adba_000A
+"Who is Gal Friedman?",RELIGION_6dac_0373,"He was the first Israeli to win an Olympic gold  medal.",RELIGION_OPT_d680_000C
+"This Israeli city, which features many beautiful beaches and beautiful seashore views, is also the site of the first IKEA in Israel.",RELIGION_48b5_0374,Netanya,RELIGION_OPT_fa79_000B
+"You can go snow skiing in the area of which Israeli mountain?",RELIGION_8e10_0375,"Mt. Hermon",RELIGION_OPT_b82d_000B
+"The Knesset is the Israeli parliament. In the Knesset building there is a tapestry by this famous artist.",RELIGION_7d8d_0376,Chagal,RELIGION_OPT_3426_000D
+"This great proponent for peace and understanding, who was Mayor of Jerusalem for 28 years, died in January , 2007.",RELIGION_405e_0377,"Teddy  Kollek",RELIGION_OPT_1a54_000B
+"Which of these holidays does not have a fast associated with it?",RELIGION_facc_0378,Sukkot,RELIGION_OPT_4bc3_000A
+"Who was Ilon Ramon?",RELIGION_d9b0_0379,"The first Israeli astronaut",RELIGION_OPT_2a1c_000A
+"What did these six people have in common: Roderigo De Trianna, Luis De Torres, Maestre Bernal, Alfonso De La Calle, Marco the Surgeon, and Roderigo Sanchez De Segovia?",RELIGION_a4c2_0380,"They all sailed with Columbus.",RELIGION_OPT_e710_000C
+"Jewish women often wear a piece of jewelry with the shape of human hand and sometimes writings on it. What is it called?",RELIGION_0cc9_0381,Hamsa,RELIGION_OPT_1400_000B
+"In Jewish traditions, what is the ceremony for the naming of a female baby on the evening of her fifth day?",RELIGION_c20a_0382,"The Eve of the Sixth",RELIGION_OPT_7938_000D
+"During Jewish wedding ceremonies, the bride and groom stay under a canopy. What is this canopy called?",RELIGION_74eb_0383,Chupah,RELIGION_OPT_c239_000D
+"The word Channukah, which refers to a Jewish tradition, means what in Hebrew?",RELIGION_3cee_0384,Dedication,RELIGION_OPT_11df_000A
+"What meals are typically eaten during the celebrations of the Channukah holiday?",RELIGION_be80_0385,"Potato pancakes and jelly doughnuts",RELIGION_OPT_fd38_000B
+"What is the traditional food for Shavuot, a major festival in Judaism?",RELIGION_753c_0386,"Dairy products",RELIGION_OPT_05c9_000D
+"Which line contains the correct names of the three Pilgrimage Festivals in Judaism?",RELIGION_1f44_0387,"Sukkot, Passover, and Shavuot",RELIGION_OPT_a0fa_000D
+"Which line represents the correct beginning of the Shema prayer?",RELIGION_0794_0388,"Hear, O Israel! The Lord is our God! The Lord is One!",RELIGION_OPT_bd7b_000B
+"Which of these people do Jews consider to be their historical religious Patriarchs?",RELIGION_5ec9_0389,"Abraham, Issac, and Jacob",RELIGION_OPT_dd48_000B
+"Who is considered the father of the Jewish political movement and ideology of Zionism?",RELIGION_6f70_0390,"Theodor Herzl",RELIGION_OPT_596c_000A
+"Jewish children are considered  grown up enough to be responsible for their actions at what age?",RELIGION_7c17_0391,"Boys at 13, girls at 12",RELIGION_OPT_cda6_000B
+"What is the meaning of the Hebrew toast lChaim!?",RELIGION_bba1_0392,"To life!",RELIGION_OPT_8cf0_000A
+"According to the Bible, God commanded this prophet to anoint David as king.",RELIGION_6002_0393,Samuel,RELIGION_OPT_fc51_000B
+"According to the Bible, David played this instrument to Israels first king, Saul.",RELIGION_d6a6_0394,Harp,RELIGION_OPT_0a48_000B
+"Who was Davids father according to the Bible?",RELIGION_8996_0395,Jesse,RELIGION_OPT_31ce_000A
+"In the Bible, David fought the giant Goliath of Gath with a staff in his hand, a sling, and a shepherds bag which contained this number of stones.",RELIGION_7d8a_0396,5,RELIGION_OPT_20a9_000C
+"According to the Bible, David was very close friends with this son of King Saul.",RELIGION_59e6_0397,Jonathan,RELIGION_OPT_0259_000B
+"The Biblical king Saul became jealous of David because he was victorious in battle and was loved by all Israel. One day when David was playing the harp for him, Saul did which of the following in an attempt to kill him?",RELIGION_b07a_0398,"Hurled a spear",RELIGION_OPT_d8ca_000A
+"According to the Bible, David married this daughter of Saul.",RELIGION_4290_0399,Michal,RELIGION_OPT_24b0_000A
+"In the Bible, David once killed a lion and a bear.",RELIGION_ef37_0400,True,RELIGION_OPT_3ac4_000B
+"What Jewish tribe did David belong to?",RELIGION_fd21_0401,Judah,RELIGION_OPT_9b8e_000A
+"How many years did David reign as king of Israel?",RELIGION_27f9_0402,40,RELIGION_OPT_6c99_000D
+"How long has Tel Aviv been the capital of Israel?",RELIGION_2f9f_0403,"None of these",RELIGION_OPT_b526_000C
+"Who named Tel Aviv?",RELIGION_26c0_0404,"Nahum Sokolow",RELIGION_OPT_85b2_000B
+"What was the approximate population of Tel Aviv according to the Israel Central Bureau of Statistics as of June 2006?",RELIGION_a190_0405,"380,600",RELIGION_OPT_9814_000D
+"What is the Arabic name for Tel Aviv?",RELIGION_be8e_0406,"Tal al-rabey",RELIGION_OPT_ae61_000A
+"What type of stone was used to build the Western or Wailing Wall in Jerusalem?",RELIGION_a280_0407,Limestone,RELIGION_OPT_0a48_000C
+"Who was the first mayor of Tel Aviv?",RELIGION_3645_0408,"Meir Dizengoff",RELIGION_OPT_1d3c_000C
+"What is the name of the Israeli National Theater?",RELIGION_9cbd_0409,Habima,RELIGION_OPT_1428_000C
+"In what language do Ethiopian Jews read Torah?",RELIGION_1304_0410,Gez,RELIGION_OPT_fb9f_000A
+"What is Israels number one agricultural export?",RELIGION_b542_0411,flowers,RELIGION_OPT_3869_000B
+"What term is used to describe a persons return to live in Israel?",RELIGION_7d50_0412,aliyah,RELIGION_OPT_dfdf_000B
+"What is the name of the organization that promotes a return to Israel?",RELIGION_11a1_0413,"The Jewish Agency",RELIGION_OPT_ffab_000D
+"What kind of museum is the Batey Haosef Museum in Tel Aviv?",RELIGION_00c1_0414,military,RELIGION_OPT_332f_000D
+"Which part of Israel is famous fro producing wine?",RELIGION_2d95_0415,"Golan Heights",RELIGION_OPT_b4e8_000C
+"Who is given credit  for reviving the Hebrew language?",RELIGION_7dc8_0416,"Eliezer Ben Yehuda",RELIGION_OPT_51ca_000A
+"What poem written by Chaim Nachman Bialik inspired many people to immigrate to Israel?",RELIGION_a4b4_0417,"The City of the Killings",RELIGION_OPT_c3f6_000D
+"Arthur Loomis Harmon, who helped design the Empire State Building, designed what building in Jerusalem?",RELIGION_8d98_0418,"The YMCA",RELIGION_OPT_94ca_000C
+"Hannukah (or Channukah) is the Jewish equivalent of Christmas.",RELIGION_610d_0419,False,RELIGION_OPT_9e02_000A
+"Where in Israel was the Mishna written?",RELIGION_b8bd_0420,"The Galilee",RELIGION_OPT_f49d_000A
+"Who wrote Psalm 23?",RELIGION_ac63_0421,David,RELIGION_OPT_6178_000B
+"How many books is the Book of Psalms divided into?",RELIGION_4f16_0422,Five,RELIGION_OPT_7ef7_000B
+"What are Psalms 120 to 134 referred to as?",RELIGION_878c_0423,"Psalms of Ascent",RELIGION_OPT_e48f_000C
+"Who was the earliest author of a psalm?",RELIGION_1668_0424,Moses,RELIGION_OPT_0ec2_000B
+"In Psalm 23, the Lord is referred to as what?",RELIGION_6742_0425,"My Shepherd",RELIGION_OPT_8546_000B
+"The following lines are from which psalm? For You formed my inward parts; You wove me in my mothers womb. I will give thanks to You, for I am fearfully and wonderfully made.",RELIGION_1643_0426,"Psalm 139",RELIGION_OPT_7f8f_000B
+"The Book of Psalms is classified as what type of book in the Bible?",RELIGION_567c_0427,Poetic,RELIGION_OPT_c6de_000A
+"During her testimony at her trial, Joan of Arc stated she preferred which of the following to the sword?",RELIGION_bd87_0428,Banner,RELIGION_OPT_55ee_000C
+"Where was Joan of Arc captured by Burgundian forces?",RELIGION_573c_0429,Compiegne,RELIGION_OPT_77d9_000C
+"What was Joan of Arc accused of at her trial?",RELIGION_e580_0430,Heresy,RELIGION_OPT_012e_000C
+"To what kind of capital punishment was Joan of Arc condemned?",RELIGION_c72f_0431,"Burning at the stake",RELIGION_OPT_0d8a_000C
+"What extremely brave attempt to escape did Joan of Arc make while she was imprisoned in Rouen?",RELIGION_3b6c_0432,"She jumped from the tower where she was held prisoner.",RELIGION_OPT_fea6_000B
+"Joan of Arc lived during the first half of what century?",RELIGION_7d08_0433,"15th century",RELIGION_OPT_db94_000A
+"What is the name of the famous sci-fi author that created Scientology?",RELIGION_f612_0434,"L. Ron Hubbard",RELIGION_OPT_bdcb_000B
+"What is the name of the book, that states points of the scientologic doctrine for the first time?",RELIGION_9213_0435,"Dianetics: The Modern Science of Mental Health",RELIGION_OPT_6d30_000D
+"What is the name of the evil alien dictator who, according to Scientologists, placed millions of people on earth and killed them, using hydrogen bombs?",RELIGION_1ddf_0436,Xenu,RELIGION_OPT_31dc_000C
+"Which of these celebrities is not a scientologist?",RELIGION_e833_0437,"Jack Nicholson",RELIGION_OPT_9445_000A
+"What is the term that scientologists use to describe traumatic recordings that cause mental and psychosomatic physical problems?",RELIGION_9bb3_0438,engrams,RELIGION_OPT_677d_000A
+"What do the eight corners of the Scientology cross symbolize?",RELIGION_6d7a_0439,"the eight dynamics of life",RELIGION_OPT_de63_000A
+"Which of these countries does not recognize Scientology as an official religion?",RELIGION_7048_0440,Germany,RELIGION_OPT_7194_000C
+"What is the literal meaning of the word scientology?",RELIGION_d173_0441,"The Study of Knowledge",RELIGION_OPT_c721_000D
+"In the 1970s, members of The Church of Scientology committed infiltration of United States federal agencies in order to eliminate unfavorable reports on Scientology. What was the code name for the operation?",RELIGION_1450_0442,"Operation Snow White",RELIGION_OPT_bddc_000A
+"What is the term scientologists use to describe an immortal spiritual being?",RELIGION_272d_0443,"a thetan",RELIGION_OPT_d56b_000A
+"What is Rosh Chodesh?",RELIGION_809b_0444,"Celebration of the new month",RELIGION_OPT_5924_000A
+"What is Yom Sheni shel Galuyot?",RELIGION_ca31_0445,"The extra day of observance of  some holidays in the Diaspora",RELIGION_OPT_6857_000A
+"What is Yichuss?",RELIGION_5c23_0446,"Special honor you get from family members",RELIGION_OPT_475b_000A
+"What does Yom Yerusalyim celebrate?",RELIGION_2fa7_0447,"The unification of the City of Jerusalem after the Six Days War",RELIGION_OPT_0f04_000D
+"What do we call the  first written book of the Kabbalah?",RELIGION_feab_0448,Zohar,RELIGION_OPT_e708_000A
+"What are the two major pronunciations of Hebrew?",RELIGION_29d1_0449,"Ashkenazi and Sephardeet",RELIGION_OPT_70f3_000D
+"What are Dam, Tzefardea, Kinim?",RELIGION_b5c5_0450,"The first three plagues G-D put upon the Egyptians",RELIGION_OPT_99fd_000B
+"What do we call the language spoken by Jews in Spain and Portugal, which consisted of mainly Spanish and Hebrew  words written in Hebrew letters?",RELIGION_c10b_0451,Ladino,RELIGION_OPT_bb51_000C
+"The Hebrew term for the Old Testament is Tanach. How many books are in the Tanach?",RELIGION_cc70_0452,24,RELIGION_OPT_3773_000D
+"What does Aygel Hah Zahav refer to?",RELIGION_acb6_0453,"The golden calf built by Aaron.",RELIGION_OPT_3deb_000D
+"Which Hebrew term means genius?",RELIGION_07c8_0454,gaon,RELIGION_OPT_ba39_000D
+"Who is considered the first Chassidic Rabbi?",RELIGION_7d51_0455,"the Baal Shem Tov",RELIGION_OPT_0460_000A
+"The esoteric tradition known as Tantra originated in Tibet and is unique to Tibetan Buddhism.",RELIGION_5b8a_0456,False,RELIGION_OPT_f114_000A
+"Which of the following is not one of the four main forms of Tibetan Buddhism?",RELIGION_6bd7_0457,Chan,RELIGION_OPT_03ae_000B
+"What is the title of the leader of the Kagyu, one of the four major schools of Tibetan Buddhism?",RELIGION_1bbf_0458,Karmapa,RELIGION_OPT_2194_000B
+"What is the name of the Tibetan King who is said to have brought and solidified Buddhism in Tibet?",RELIGION_7b21_0459,"Songtsen Gampo",RELIGION_OPT_c730_000B
+"Which word refers to a Tibetan Buddhist lama or other religious figure, who has consciously decided to be reborn, in order to continue his/her religious pursuits?",RELIGION_8b8a_0460,Tulku,RELIGION_OPT_a678_000B
+"Who was the founder of the first Tibetan Buddhist Dharma center in the West?",RELIGION_8dae_0461,"Chogyam Trungpa",RELIGION_OPT_ec14_000A
+"Who is the second highest lama in the Gelugpa lineage of Tibetan Buddhism?",RELIGION_0987_0462,"Panchen Lama",RELIGION_OPT_ffd9_000A
+"What year did the XIVth Dalai Lama escape Tibet?",RELIGION_aaa3_0463,1959,RELIGION_OPT_f26a_000B
+"The Potala is traditionally the summer palace of the Dalai Lama in Tibet.",RELIGION_57c2_0464,False,RELIGION_OPT_bc3a_000B
+"Padmasambhava, a widely revered Indian Buddhist master who founded the Tantric school of Buddhism in the 8th century, is known by what other name?",RELIGION_67eb_0465,"Guru Rinpoche",RELIGION_OPT_fa40_000D
+"The Dalai Lama and the Karmapa are believed to be emanations of what deity?",RELIGION_2780_0466,Chenrenzig,RELIGION_OPT_4fa5_000C
+"The Holy Grail is sometimes associated with which magical object in Celtic mythology?",RELIGION_d3b3_0467,"The cauldron of Bran",RELIGION_OPT_aca2_000C
+"Who wrote Joseph dArimathie, the first literary work to link the Holy Grail with the Last Supper of Jesus and Joseph of Arimathea?",RELIGION_390e_0468,"Robert de Boron",RELIGION_OPT_48eb_000D
+"In Arthurian legend Percival first saw the Holy Grail in the castle of the Fisher King, who was badly wounded in this part of the body.",RELIGION_21ad_0469,"in the groin",RELIGION_OPT_8f24_000B
+"Percival was the first knight in Arthurian legend to see the Holy Grail in the castle of the Fisher King. He could not heal the King’s wound, though. Why?",RELIGION_d7b6_0470,"He did not ask the right question.",RELIGION_OPT_5bb1_000A
+"Three Knights of the Round Table get to see the Holy Grail. First Percival, then Bors and next who of the following?",RELIGION_9c94_0471,Galahad,RELIGION_OPT_bfd3_000D
+"The book ‘Holy Blood, Holy Grail’ by Michael Baigent, Richard Leigh, and Henry Lincoln proposes the hypothesis that Jesus and Mary Magdalene were actually married and upon Jesus’ death she fled to France, carrying his child.",RELIGION_15a9_0472,True,RELIGION_OPT_6587_000A
+"In the mystery novel The Da Vinci Code by Dan Brown the secrets of the Holy Grail are kept by this secret society.",RELIGION_29b5_0473,"The priory of Sion",RELIGION_OPT_72c0_000B
+"In the 1991 movie The Fisher King, Robin Williams’ character is obsessed with the legend of the Fisher King and tries to get the Holy Grail. He believes that this object is actually the Grail.",RELIGION_3675_0474,"а sport trophy",RELIGION_OPT_2035_000C
+"The Holy Grail was a popular theme in many literary works from the 19th century such as the Arthurian cycle The Idylls of the King. Who was its author?",RELIGION_1ba5_0475,"Alfred, Lord Tennyson",RELIGION_OPT_58ed_000D
+"The Holy Grail is usually presented as a large beautiful cup or dish. But medieval author Wolfram von Eschenbach claimed in his poem Perzival that the Grail was actually a crown given by God.",RELIGION_965e_0476,False,RELIGION_OPT_256a_000B
+"The search for The Holy Grail is one of the central themes in the opera Persifal by this German composer.",RELIGION_75cb_0477,"Richard Wagner",RELIGION_OPT_bb1b_000A
+"At Christmas, Christians celebrates the Nativity or birth of Jesus Christ in which city?",RELIGION_d4d7_0478,Bethlehem,RELIGION_OPT_4dd5_000B
+"Which Christian saint, regarded as the first martyr of Christianity, is commemorated on December 27 or 26?",RELIGION_3656_0479,"Saint Stephen",RELIGION_OPT_4494_000D
+"On September 8 or September 21, Eastern Orthodox Christians celebrate the birth of this important biblical figure to parents Joachim and Anna.",RELIGION_35a7_0480,"Virgin Mary",RELIGION_OPT_8d88_000C
+"Which event is regarded as the greatest feast in the Christian calendar?",RELIGION_3d3e_0481,"Resurrection of Jesus",RELIGION_OPT_84ae_000A
+"He is considered to be the first Jew  to set foot on land that would become part of the USA.",RELIGION_fbe3_0482,"Joachim Gaunse",RELIGION_OPT_0a2f_000B
+"In 1649 he was warned out of trying to settle in Boston.",RELIGION_bb29_0483,"Solomon Franco",RELIGION_OPT_e29e_000B
+"In 1656 the first Jewish cemetery in the USA was founded in this city.",RELIGION_4261_0484,"New  York City, NY",RELIGION_OPT_b176_000C
+"He is considered the first Jew on American land to get the right  to serve in a militia.",RELIGION_c29c_0485,"Asser Levy",RELIGION_OPT_6771_000D
+"In 1665, Abraham de Lucena was arrested and fined for selling goods at retail prices.",RELIGION_bdfa_0486,True,RELIGION_OPT_10cc_000B
+"The funds to build the first Lutheran church were advanced by a Jew.",RELIGION_2e4e_0487,True,RELIGION_OPT_9288_000A
+"The British Plantation Act gave Jews the right to become naturalized citizens with rights to trade within the colonies. In what year was it enacted?",RELIGION_f35f_0488,1740,RELIGION_OPT_abdc_000A
+"This was the first colony to give Jews full political rights.",RELIGION_05a5_0489,"New York",RELIGION_OPT_f86d_000C
+"This offered Jews full equality in all future US territories and states.",RELIGION_df9f_0490,"The Northwest Territory Act",RELIGION_OPT_d158_000A
+"He was the first Jew to serve in a state legislature.",RELIGION_674c_0491,"Dr. Levi Myers",RELIGION_OPT_dc70_000B
+"This famous pirate, who was a marrano, played a significant role in American history.",RELIGION_f371_0492,"Jean Lafitte",RELIGION_OPT_e87c_000A
+"He was the first Jewish Commodore in the US Navy. He ended the practice of flogging which used to be an accepted form of punishment in the US Navy.",RELIGION_f760_0493,"Uriah Phillip Levy",RELIGION_OPT_2674_000A
+"The Bnai Brit , a well known social welfare organization, was formed to help people who suffered in this American tragedy.",RELIGION_6c21_0494,"The great Chicago fire.",RELIGION_OPT_3c49_000D
+"Morris Raphall, a Rabbi from New York City, was the first to open a session of Congress with a prayer. In what year did he do this?",RELIGION_7c4c_0495,1860,RELIGION_OPT_185f_000C
+"The  first Yiddish play was produced in New York in this year.",RELIGION_49c7_0496,1882,RELIGION_OPT_954a_000C
+"He was the first American-born Rabbi to lead a Chassidic group.",RELIGION_7969_0497,"Rabbi Levi Yitzach Halevi Horowitz",RELIGION_OPT_1318_000D
+"Which of the following may save sinners according to the King James version of the Bible?",RELIGION_5c7d_0498,"personal relationship with God through His Son Jesus Christ",RELIGION_OPT_8b5e_000B
+"What is the punishment for human sins as it is written according to the Bible?",RELIGION_19ac_0499,"second or spiritual death",RELIGION_OPT_c471_000D
+"According to the Bible, is there anything that humans can do to be saved from Hell, the bottomless pit where worms dieth not?",RELIGION_4ea6_0500,Yes,RELIGION_OPT_6220_000A
+"At Nazareth, this Biblical figure grew and waxed in spirit. His name means the anointed one.",RELIGION_80e2_0501,"Jesus Christ",RELIGION_OPT_463f_000B
+"According to the Bible, people are reconciled with God because of His Sons death at the cross in Mount Golgotha.",RELIGION_3280_0502,True,RELIGION_OPT_bd73_000B
+"According to the Bible, Jesus turned water to wine in this wedding feast that He had attended in Cana. Which of His miracles was this?",RELIGION_68b6_0503,"first miracle",RELIGION_OPT_2147_000D
+"According to the Bible, who should believers use as mediator between them and God when they pray?",RELIGION_d0fd_0504,"Jesus Christ",RELIGION_OPT_5322_000C
+"Which epistle states that there is one mediator between God and men?",RELIGION_e824_0505,Timothy,RELIGION_OPT_49f0_000D
+"According to the King James Version of the Bible, what did God command people to do always, day and night?",RELIGION_65d7_0506,praying,RELIGION_OPT_3d5c_000D
+"In the Bible, are there any verses that strictly mention “trinity” as a term?",RELIGION_fe94_0507,No,RELIGION_OPT_e309_000B
+"What three things does the religious concept of the Trimurti represent?",RELIGION_19fd_0508,"Creator, Protector, and Destructor",RELIGION_OPT_0710_000D
+"Biology divides cellular life forms into three basic life domains. What are they?",RELIGION_df2c_0509,"Archaea, Bacteria, and Eucaryota",RELIGION_OPT_ceb2_000C
+"Is Nona the goddess of death in the Roman myth of the triple spinning fate goddesses?",RELIGION_0b51_0510,No,RELIGION_OPT_67b9_000B
+"In biology, is the Great Apes family a species trinity comprising of chimpanzees, gorillas, and orangutans?",RELIGION_e3f8_0511,No,RELIGION_OPT_fc5b_000B
+"Which one of these three basic chemical compounds can turn the blue litmus into red?",RELIGION_6675_0512,Acid,RELIGION_OPT_c2d3_000D
+"St. Nicholas the Wonderworker is the patron saint of which of the following?",RELIGION_fcc8_0513,"All of these",RELIGION_OPT_53d0_000B
+"St. Nicholas is revered by both Orthodox and Catholic Christians.",RELIGION_723b_0514,True,RELIGION_OPT_470e_000A
+"Saint Nicholas is one of the sources of the holiday figure of Santa Claus.",RELIGION_96da_0515,True,RELIGION_OPT_f859_000A
+"Where was the historical Saint Nicholas born?",RELIGION_68a5_0516,"Asia Minor",RELIGION_OPT_0c84_000A
+"St. Nicholas is believed to have made a pilgrimage to the Holy Land.",RELIGION_30fd_0517,True,RELIGION_OPT_94a3_000B
+"Saint Nicholas was released from prison in 313, after this emperor issued the Edict of Milan, extending official tolerance to Christianity.",RELIGION_e4ef_0518,"Constantine the Great",RELIGION_OPT_e077_000C
+"Saint Nicholas died on 6 December.",RELIGION_bbad_0519,True,RELIGION_OPT_e6a9_000B
+"The splendid Basilica di San Nicola (Basilica of Saint Nicholas) is in Rome.",RELIGION_e8b4_0520,False,RELIGION_OPT_d069_000B
+"The historical Saint Nocholas was a Greek Bishop of what ancient town?",RELIGION_d885_0521,Myra,RELIGION_OPT_20e6_000A
+"According to legend Saint Nicholas provided dowries to three young women who could not afford to marry.",RELIGION_e887_0522,True,RELIGION_OPT_a962_000A
+"Saint Brigitta was a Swedish nun and founder of the Bridgettine Order.",RELIGION_a114_0523,True,RELIGION_OPT_396d_000B
+"Nicknamed Black Angel, he was a prominent commander in the Chechen separatist movement against Russia.",RELIGION_34de_0524,"Ruslan Gelayev",RELIGION_OPT_8ef9_000B
+"His name means King of Kings and he ruled the Malian Empire for over twenty years.",RELIGION_d01c_0525,"Mansa Musa",RELIGION_OPT_ac6c_000A
+"What statement is true about Saint Godric of Finchale?",RELIGION_5de3_0526,"Both of these",RELIGION_OPT_45ee_000D
+"He was an African-American Muslim minister and an advocate for the rights of African Americans.",RELIGION_4a6e_0527,"Malcolm X",RELIGION_OPT_75c7_000B
+"James, one of the Twelve Apostles of Jesus, was known by which of these names?",RELIGION_b0b4_0528,"All of these",RELIGION_OPT_ab76_000A
+"Junichiro Koizumi is a politician who served as Prime Minister of Japan.",RELIGION_602b_0529,True,RELIGION_OPT_f3b0_000B
+"He was a Supreme Pontiff of the Roman Catholic Church and Sovereign of Vatican City from 1978 until his death in 2005.",RELIGION_d866_0530,"Pope John Paul II",RELIGION_OPT_4d6d_000B
+"Margery Kempe was an English religious mystic whose autobiography is one of the earliest in English literature.",RELIGION_8c63_0531,True,RELIGION_OPT_8077_000A
+"This Spanish knight founded the Society of Jesus in 1534.",RELIGION_8f4c_0532,"Ignatius of Loyola",RELIGION_OPT_cee9_000B
+"He wrote the third Gospel and the Acts of the Apostles.",RELIGION_e221_0533,"Luke the Evangelist",RELIGION_OPT_f858_000A
+"He was a Christian saint from Egypt and a prominent leader among the Desert Fathers.",RELIGION_21c4_0534,"Anthony the Great",RELIGION_OPT_b1a6_000B
+"What statement is true about Ignatius Loyola, a Spanish knight from a Basque noble family?",RELIGION_4f29_0535,"All of these",RELIGION_OPT_82ae_000D
+"St Anicetus was the first Roman Bishop to forbid Montanism.",RELIGION_d620_0536,True,RELIGION_OPT_ed3c_000B
+"Leo IX launched a dispute regarding celibacy of the clergy.",RELIGION_9d92_0537,True,RELIGION_OPT_c14f_000B
+"Mary Faustina Kowalska was a Russian nun and mystic, venerated by the Roman Catholic Church as a saint.",RELIGION_1916_0538,False,RELIGION_OPT_28fe_000B
+"According to Christian tradition, this saint attached a silver hand to the icon of Theotokos, which has since then been known as Three-handed?",RELIGION_5249_0539,"John of Damascus",RELIGION_OPT_6ac0_000C
+"Vladimir the Great converted to Christianity and baptised all of Kievan Rus.",RELIGION_1905_0540,True,RELIGION_OPT_95af_000B
+"Saint Stephen is often depicted with a crown for martyrdom.",RELIGION_b623_0541,True,RELIGION_OPT_5147_000A
+"Saint Helena was Roman empress and the mother of Emperor Constantine the Great.",RELIGION_15dd_0542,True,RELIGION_OPT_773a_000B
+"What is the earliest identified Christian house church?",RELIGION_f8da_0543,"Dura-Europos church",RELIGION_OPT_a3d6_000A
+"Megiddo church, one of the oldest church buildings discovered by archaeologists, is located in Israel.",RELIGION_bbfa_0544,True,RELIGION_OPT_69e0_000A
+"This Coptic Orthodox monastery is located in an oasis in the Eastern Desert of Egypt.",RELIGION_8cb4_0545,"St. Anthony Monastery",RELIGION_OPT_48bf_000B
+"Which statement is true about Saint-Pierre-aux-Nonnains basilica in Metz, France?",RELIGION_c538_0546,"All of these",RELIGION_OPT_eb6e_000D
+"The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Church.",RELIGION_84ef_0547,True,RELIGION_OPT_2701_000B
+"What is the oldest cathedral in Germany?",RELIGION_3f07_0548,"Cathedral of Trier",RELIGION_OPT_8529_000B
+"The Church of Saint Simeon Stylites is located in Syria.",RELIGION_1b0c_0549,True,RELIGION_OPT_fbc1_000A
+"Which of these churches was designed by Isidore of Miletus and Anthemius of Tralles, who were professors of geometry at the University of Constantinople?",RELIGION_9aac_0550,"Hagia Sophia",RELIGION_OPT_3a98_000D
+"Which monastery lies at the foot of Mount Sinai, where, according to the Hebrew Bible, Moses received the Ten Commandments from God?",RELIGION_a7ee_0551,"Saint Catherine’s Monastery",RELIGION_OPT_3ba6_000D
+"What church was built over the cave that tradition marks as the birthplace of Jesus of Nazareth?",RELIGION_c6e2_0552,"Church of the Nativity, Bethlehem",RELIGION_OPT_5d42_000C
+"Emanuel Swedenborg is a Dutch scientist, philosopher, mystic and theologian.",RELIGION_f970_0553,False,RELIGION_OPT_6e17_000B
+"What did Emanuel Swedenborg claim?",RELIGION_2586_0554,"all of these",RELIGION_OPT_18c0_000A
+"Emanuel Swedenborg claimed that he could talk with angels, demons and other spirits.",RELIGION_03c1_0555,True,RELIGION_OPT_d563_000B
+"What prominent Swedish author called Emanuel Swedenborg nothing but a fool?",RELIGION_9061_0556,"Johan Henrik Kellgren",RELIGION_OPT_1b9e_000D
+"In 1710, Emanuel Swedenborg made a grand tour through the Netherlands, France, and Germany.",RELIGION_3303_0557,True,RELIGION_OPT_2f18_000A
+"Emanuel Swedenborg lived in the 19th century.",RELIGION_495b_0558,False,RELIGION_OPT_6717_000A
+"Emanuel Swedenborg supported the Christian doctrine of the Trinity.",RELIGION_a05f_0559,False,RELIGION_OPT_991b_000A
+"Which of these is a work by Emanuel Swedenborg?",RELIGION_93df_0560,"All of these",RELIGION_OPT_9737_000B
+"What happened in April 1745, when Emanuel Swedenborg was having dinner in a private room at a London tavern.",RELIGION_9b15_0561,"All of these",RELIGION_OPT_931a_000C
+"How many saints are recognized in Judaism ?",RELIGION_79aa_0562,0,RELIGION_OPT_a6e0_000D
+"The first five books of the Old Testament are referred to as what?",RELIGION_79fa_0563,"The Torah",RELIGION_OPT_1036_000A
+"In Judaism, who is considered to be the first Jew ?",RELIGION_12aa_0564,Abraham,RELIGION_OPT_527d_000A
+"Why is the city of Hebron so important to Judaism ?",RELIGION_b4f4_0565,"It is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there",RELIGION_OPT_a2cb_000B
+"In the context of Judaism, who was Abrahams wife ?",RELIGION_fac6_0566,Sarah,RELIGION_OPT_ab98_000C
+"How many laws are in the first five books of the Old Testament?",RELIGION_f216_0567,613,RELIGION_OPT_cfbb_000C
+"Why will Jews not eat pork?",RELIGION_e861_0568,"Pigs do not chew their cud and they do not have cloven hoofs",RELIGION_OPT_71c0_000C
+"In Judaism, what do we call food that is permissible to be eaten?",RELIGION_d3cc_0569,Kosher,RELIGION_OPT_00d1_000B
+"According to Judaism, what work is permissible on Sunday?",RELIGION_596b_0570,"Any work",RELIGION_OPT_d8ad_000D
+"What does the word Rabbi mean?",RELIGION_1074_0571,"My teacher",RELIGION_OPT_0e3d_000D
+"The witch hunts started as a result of the superstitions of some Catholic Monks. This Dominican monk is considered to be the initiator of the witch hunts as he prepared a detailed manual of deviltry for the Church.  It did not take long before women in Southern France were sent to the stake, condemned for cohabitation with the devil.",RELIGION_7950_0572,"Thomas Aquinas",RELIGION_OPT_5edc_000A
+"The first woman accused of witchcraft was burned around 1275. This was the reason for her condemnation.",RELIGION_a877_0573,"Having intercourse with the devil",RELIGION_OPT_4585_000D
+"Many of witchcraft confessions were extorted by means of torture, called ordeal. This method of torture was not used during the process of the ordeal.",RELIGION_0a10_0574,"The sound of trickling water",RELIGION_OPT_cd18_000C
+"Burning women who were supposedly witches was a common practice on the European continent. In England, however, they punished witches in this way.",RELIGION_0cc4_0575,"Hanged them",RELIGION_OPT_cc4c_000B
+"Most of the victims of the witch hunts were women. However, there were some men also burned, accused of being witches. This is why.",RELIGION_7981_0576,"They tried to protect women accused of witchcraft",RELIGION_OPT_08ba_000C
+"As the witch hunts expanded, any woman could be tried as a witch, but in the beginning these were the most common victims of the Holy Inquisition.",RELIGION_65e4_0577,"Old, lonely women",RELIGION_OPT_85a9_000C
+"It was a common conception that the number of people involved in the witchcraft activities could be boundless. For example, in 1609 the witch hunting French official Pierre de Lancre stated that all 30,000 dwellers of the French region Labourd were witches, including  these people.",RELIGION_bc23_0578,Priests,RELIGION_OPT_079e_000C
+"The famous Salem Witch trial started with an incident in January, 1692. A Caribbean-born slave was accused of initiating the witch phenomenon. Twenty more people were killed as no one of them confessed to being a witch. What was the reason that triggered the Salem witch craze?",RELIGION_d82d_0579,"Eight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states",RELIGION_OPT_838f_000D
+"This was a common torture method used in Scotland, which made the accused witch confess her deeds. The method caused hallucinations and made it easy for the inquisitors to extort confessions to flying, turning into animals, meeting the devil and taking part in witches’ Sabbaths.",RELIGION_2133_0580,"Sleep deprivation",RELIGION_OPT_119b_000C
+"Witch hunts still exist today. In 1981 a woman was killed by the mob, throwing stones at her as they believed she was a witch. This was the reason for stoning her to death.",RELIGION_2106_0581,"Her sorcery incited the attack upon Pope John Paul II",RELIGION_OPT_d595_000A
+"According to the Old Testament, the prophet Hosea was instructed by God to marry a prostitute.",RELIGION_c0b2_0582,True,RELIGION_OPT_50c0_000B
+"Psalm 119 is the longest psalm in the Bible. How many verses does it contain?",RELIGION_0676_0583,176,RELIGION_OPT_9ab0_000A
+"According to the Old Testament, Moses was 105 years old when he died.",RELIGION_fb3f_0584,False,RELIGION_OPT_e886_000B
+"It is stated in the Old Testament that Jeremiah, Hosea, Jonah, and Job were prophets.",RELIGION_c16a_0585,False,RELIGION_OPT_12e1_000A
+"According to The Old Testament, the prophet Jonah was sent to which city to warn its inhabitants of the coming judgment on them?",RELIGION_54f9_0586,Ninevah,RELIGION_OPT_a47f_000A
+"The prophet Haggai is mentioned in the book of Ezra.",RELIGION_2f29_0587,True,RELIGION_OPT_990f_000A
+"According to the Book of Genesis, what did G-D  create last, on the sixth day, as almost an afterthought?",RELIGION_005c_0588,Adam,RELIGION_OPT_bb25_000B
+"What was the name of Abrahams first wife?",RELIGION_b5b2_0589,Sarah,RELIGION_OPT_dd65_000A
+"Who was Issacs wife according to Genesis?",RELIGION_8e11_0590,Rebecca,RELIGION_OPT_1498_000B
+"Judaism has three  Patriarchs -Abraham, Issac, and Jacob. Who are the four Matriarchs?",RELIGION_c615_0591,"Sarah, Rebecca, Leah, Rachel",RELIGION_OPT_a024_000C
+"Which of these is not one of Jacobs twelve sons?",RELIGION_cbe4_0592,Ephraim,RELIGION_OPT_bbc8_000C
+"What is the name of Jacobs only daughter according to Genesis?",RELIGION_a158_0593,Dina,RELIGION_OPT_3b7d_000A
+"The  Book of Genesis contains the first Biblical reference to someone being put into prison. Who was  put into prison?",RELIGION_5cfa_0594,Joseph,RELIGION_OPT_82b6_000D
+"Who was the third son of Adam and Eve, sometimes described as the quiet one?",RELIGION_790b_0595,Seth,RELIGION_OPT_452d_000A
+"The Hebrew people lived in the first ghetto when they were in Egypt. Where was this place?",RELIGION_6680_0596,Goshen,RELIGION_OPT_ddf4_000D
+"According to the genealogy of Jesus, who was the father of Jesse?",RELIGION_2dd1_0597,Obed,RELIGION_OPT_037c_000B
+"In which of the following lands did Job live when he was first mentioned in the book of Job?",RELIGION_d312_0598,Uz,RELIGION_OPT_2a10_000B
+"Who was king of Judaea during the birth of Jesus?",RELIGION_0bf8_0599,"King Herod",RELIGION_OPT_e9f2_000C
+"According to the Bible, how old was Joseph when he was put in charge of the whole land of Egypt, as Pharaoh had ordered.",RELIGION_65ee_0600,"30 years old",RELIGION_OPT_aacd_000B
+"According to the Bible after Sarahs death, Abraham married another woman. What was her name?",RELIGION_8ac6_0601,Keturah,RELIGION_OPT_4942_000A
+"From what tribe of Israel was Samson according to the Bible?",RELIGION_ee27_0602,Dan,RELIGION_OPT_3bbf_000C
+"This Biblical character is Jacobs father-in-law as well as father of Rachel and Leah.",RELIGION_beab_0603,Laban,RELIGION_OPT_8d63_000A
+"Which is the sixth book of the New Testament?",RELIGION_55e9_0604,Romans,RELIGION_OPT_1f02_000B
+"According to the Bible, when Naomi told her two daughters-in-law to leave her and go to their homes, which daughter-in-law decided to stay?",RELIGION_505c_0605,Ruth,RELIGION_OPT_612a_000D
+"Which of the following did Jesus call first to be his disciple?",RELIGION_a2e4_0606,Simon,RELIGION_OPT_5762_000C
+"What kind of person may you call Judas?",RELIGION_aaf1_0607,"A friend who betrayed you",RELIGION_OPT_88ca_000C
+"Which of the following events can be referred to as an Armageddon?",RELIGION_a928_0608,"The last and completely destructive battle",RELIGION_OPT_287a_000D
+"Which use of Goliath is correct?",RELIGION_2d80_0609,"The local grocery successfully competed against the nearby Goliath supermaket",RELIGION_OPT_45c9_000C
+"How would you describe a Samaritan?",RELIGION_b22f_0610,"A person who helps people in need",RELIGION_OPT_8af0_000A
+"Who is the salt of the earth?",RELIGION_5ce9_0611,"Decent, reliable people",RELIGION_OPT_aad8_000B
+"Who can be best described as doubting Thomas?",RELIGION_00ef_0612,"Someone who believes only what he sees",RELIGION_OPT_4d9a_000A
+"Which of the following can be described as a prodigal son?",RELIGION_ccac_0613,"A young man who wastes his parents money on parties",RELIGION_OPT_f842_000B
+"What does the sentence Ann was the apple of Marks eye tell us about the relation between those two?",RELIGION_5b07_0614,"Mark is deeply in love with Ann.",RELIGION_OPT_fd87_000B
+"What characteristic is commonly attributed to King Solomon?",RELIGION_d95b_0615,Wisdom,RELIGION_OPT_9561_000D
+"What message am I conveying, if I say I dont know him from Adam?",RELIGION_4d5e_0616,"The person is completely unknown to me.",RELIGION_OPT_032e_000C
+"What does the phrase of biblical proportions mean?",RELIGION_7643_0617,"of a vast, enormous scale",RELIGION_OPT_4984_000A
+"If John knows Mary in the biblical sense, what can we say about the pair?",RELIGION_bdbe_0618,"They have had sex.",RELIGION_OPT_474c_000B
+"What Biblical character said the following? My petition and my request is this:If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet  I will prepare for them. Then I will answer the kings question.",RELIGION_41cc_0619,Esther,RELIGION_OPT_6511_000A
+"The following words belong to this biblical figure: May the day of my birth perish, and the night it was said,A boy is born! That day-may it turn to darkness; may the God above not care about it; may no light shine upon it.",RELIGION_f1b5_0620,Job,RELIGION_OPT_a3cd_000D
+"What Biblical hero delivered these words? Out of the eater, something to eat; out of the strong, something sweet.",RELIGION_81b8_0621,Samson,RELIGION_OPT_4052_000A
+"What Biblical character asked the following question? Am I leading a rebellion, that you have come out with swords and clubs to capture me?",RELIGION_2f63_0622,Jesus,RELIGION_OPT_7a65_000C
+"What character from the Bible said the following? Get rid of that slave woman and her son, for that slave womans son will never share in the inheritance with my son Isaac.",RELIGION_4d5d_0623,Sarah,RELIGION_OPT_c18b_000B
+"Who said the following: It is not the healthy who need a doctor, but the sick. But go and learn what this means: I desire mercy, not sacrifice. For I have not come to call the righteous, but sinners.",RELIGION_9a74_0624,Jesus,RELIGION_OPT_b824_000B
+"What Biblical figure said this? I am now an old man and dont know the day of my death. Now then, get your weapons-your quiver and bow-and go out to the open country to hunt some wild game for me. Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my  blessing before I die.",RELIGION_6ef5_0625,Issac,RELIGION_OPT_20c6_000D
+"Name the Biblical character who delivered these words: Pick me up and throw me into the sea, and it will become calm, I know that is is my fault that this great storm has come upon you.",RELIGION_9166_0626,Jonah,RELIGION_OPT_23cb_000D
+"What character from the Bible said this? Lord dont you care that my sister has left me to do the work by myself? Tell her to help me!",RELIGION_e31e_0627,Martha,RELIGION_OPT_4666_000B
+"Who delivered these words: Suppose I go to the Israelites and say to them, The God of your fathers has sent me to you, and they ask me, ‘What is his name? Then what shall I tell them?",RELIGION_eb9f_0628,Moses,RELIGION_OPT_1278_000C
+"What is the symbol of the dhamma (dharma)?",RELIGION_ed19_0629,wheel,RELIGION_OPT_38d5_000B
+"What Buddhist term refers to the cycle of reincarnation or rebirth?",RELIGION_6414_0630,Samsara,RELIGION_OPT_7c5c_000B
+"What does the word buddha mean?",RELIGION_182d_0631,awake,RELIGION_OPT_d225_000D
+"What is the path to happiness in Buddhism?",RELIGION_6aec_0632,"middle way",RELIGION_OPT_5a0f_000D
+"According to Buddhism what are the3 evil roots/defilements that hide the truth from us?",RELIGION_5c1c_0633,"delusion, hatred, greed",RELIGION_OPT_55a2_000D
+"In Buddhism which of these beings inhabit Hells?",RELIGION_f488_0634,"Naraka beings",RELIGION_OPT_3bcc_000C
+"According to Buddhism, life is or leads to suffering in one way or another.",RELIGION_9376_0635,True,RELIGION_OPT_f9b3_000B
+"It is generally accepted that the last words of the Buddha were: All component things are transient, work out your salvation with diligence.",RELIGION_babc_0636,True,RELIGION_OPT_be1c_000A
+"Kamma is only one of the 5 natural laws that Buddha spoke about.",RELIGION_8547_0637,True,RELIGION_OPT_46e6_000B
+"According to Buddhism there are realms of existences other than human and animal realm.",RELIGION_3fc0_0638,True,RELIGION_OPT_43c7_000A

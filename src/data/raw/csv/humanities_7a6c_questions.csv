@@ -1,0 +1,1097 @@
+question,QID,answer,answer_OID
+"Which vegetables are considered taboo food in Buddhist tradition?",HUMANITIES_ae1c_0001,"Garlic and onion",HUMANITIES_OPT_8e52_000B
+"Is this the correct usage of the word inferring? By saying that I look good today, are you inferring that I did not look good yesterday?",HUMANITIES_4b95_0002,No,HUMANITIES_OPT_667c_000A
+"Is this the correct usage of the word continually? Professor Smith gave a speech yesterday. He spoke continually for 3 hours.",HUMANITIES_cfc4_0003,No,HUMANITIES_OPT_371d_000A
+"Which of these sentences is correct?",HUMANITIES_3180_0004,"Whence did he come?",HUMANITIES_OPT_b635_000B
+"Which of these is correct?",HUMANITIES_8bca_0005,"The capitol building is located in the capital.",HUMANITIES_OPT_13f8_000C
+"In the following sentence, which word is incorrect? The schools unprincipled principal understands the principle of the argument.",HUMANITIES_72bf_0006,"None of the words is incorrect; the sentence is correct as is.",HUMANITIES_OPT_2542_000D
+"Which of the following is NOT a synonym of the word reticent?",HUMANITIES_1c56_0007,"These are all synonyms of the word reticent.",HUMANITIES_OPT_0fd3_000A
+"Which of the following is incorrect?",HUMANITIES_6061_0008,"These are all correct usages of the word comprised.",HUMANITIES_OPT_6cb4_000C
+"Which of these is incorrect?",HUMANITIES_cade_0009,"All of these sentences are correct.",HUMANITIES_OPT_0c77_000B
+"Which of these sentences means I love you in Spanish?",HUMANITIES_2cc6_0010,"Te amo.",HUMANITIES_OPT_99e6_000A
+"Rakastan sinua is one of the ways to say I love you in which European language?",HUMANITIES_742e_0011,Finnish,HUMANITIES_OPT_6bb1_000C
+"Which expression would you use to say I love you in Danish?",HUMANITIES_af72_0012,"Jeg elsker dig.",HUMANITIES_OPT_f1da_000A
+"In what European language does Je taime mean I love you?",HUMANITIES_4ea5_0013,French,HUMANITIES_OPT_ba41_000D
+"Which of the following sentences means I love you in German?",HUMANITIES_3b9e_0014,"Ich liebe Dich.",HUMANITIES_OPT_b19e_000A
+"Volim te means I love you in three of these European languages. Which is the odd one?",HUMANITIES_b9d8_0015,Italian,HUMANITIES_OPT_3aed_000C
+"What is the Swahili expression for I love you?",HUMANITIES_9265_0016,Nakupenda,HUMANITIES_OPT_1544_000B
+"In which Turkic language does Seni seviyorum mean I love you?",HUMANITIES_42c6_0017,Turkish,HUMANITIES_OPT_637b_000D
+"Name this artificially-constructed international language, in which Mi amas vin means I love you.",HUMANITIES_18de_0018,Esperanto,HUMANITIES_OPT_9b0b_000D
+"Which of these sentences means I love you in Dutch?",HUMANITIES_1551_0019,"Ik hou van jou.",HUMANITIES_OPT_fbf9_000B
+"The implement, used to extinguish the flame of a candle, is called this.",HUMANITIES_fbe2_0020,Candlesnuffer,HUMANITIES_OPT_778a_000D
+"When something contains or yields an acid, it is this.",HUMANITIES_cf4c_0021,Acidiferous,HUMANITIES_OPT_3adc_000A
+"The monitoring, recording, and measuring of a living organisms basic physiological functions is known as this.",HUMANITIES_c0c3_0022,Biotelemetry,HUMANITIES_OPT_e83d_000D
+"Enterokinase is this.",HUMANITIES_f4ec_0023,Enzyme,HUMANITIES_OPT_f1fb_000C
+"Copious perspiration is known as this.",HUMANITIES_a015_0024,Diaphoresis,HUMANITIES_OPT_3572_000A
+"Gerontology is the branch of medical science that deals with diseases and problems specific to these people.",HUMANITIES_1612_0025,Elderly,HUMANITIES_OPT_4d95_000B
+"One of these terms means preserving the mutual relations of parts, especially as to size and form; maintaining relative proportion.",HUMANITIES_e677_0026,Homolographic,HUMANITIES_OPT_5dde_000D
+"Hyperplasia is the abnormal increase in the number of these.",HUMANITIES_866f_0027,Cells,HUMANITIES_OPT_53d5_000D
+"The authority to teach religious doctrine is referred to as this.",HUMANITIES_40ca_0028,Magisterium,HUMANITIES_OPT_0514_000D
+"The word vampire is a very controversial one, when it comes to its etymology. There are many theories about its origin and meaning. According to one of these theories, vampire comes from the Magyar words vam, meaning blood, and pir. What does pir mean in Magyar?",HUMANITIES_2ad4_0029,Monster,HUMANITIES_OPT_436d_000D
+"One of the most famous vampires is Dracula (some believe that he was the first vampire). In Romanian Dracul means either Dragon or Devil and therefore Dracula is translated as Son of the Dragon or Son of the Devil. Due to his favorite sadistic punishment, Vlad Dracula was nicknamed Tepes.  He preferred to kill those who opposed him in this manner.",HUMANITIES_7dfa_0030,Impalement,HUMANITIES_OPT_ff3a_000C
+"Vlad Tepes was one of the major allies of the Ottoman Empire, therefore Romania was never put under Ottoman rule.",HUMANITIES_e69e_0031,False,HUMANITIES_OPT_7f18_000B
+"Of course everybody knows about the Blood Vampires. They feed on the blood of their victims and prefer sucking it from the neck, the wrist or the groin. But there is another, less known, kind of vampires.  What do they feed on?",HUMANITIES_f90b_0032,Aura,HUMANITIES_OPT_e72b_000D
+"Vampires are common to the folklore of many countries. The Civatateo is an Aztec vampire, created when a noblewoman died at childbirth. In aboriginal mythology, vampires had suckers on their fingers. What are the Yakshis (sort of Indian vampires) like?",HUMANITIES_a43c_0033,"Beautiful women",HUMANITIES_OPT_6d13_000A
+"It is believed that you can stop a vampire, by throwing rice or marbles on the floor.",HUMANITIES_743e_0034,True,HUMANITIES_OPT_e0ab_000B
+"One of the most popular ways of killing a vampire (apart from the trivial sharp wooden stick in the heart), is to expose the creature to sunlight. However, there is a disease, that has similar symptoms. People who suffer from it are very sensitive to sunlight and avoid going out during the day. What is this horrible disease?",HUMANITIES_98d4_0035,Porphyria,HUMANITIES_OPT_dbe5_000D
+"This woman was believed to be a vampire. She was obsessed with her beauty and youth, and slaughtered as many as six hundred innocent women in an attempt to maintain her vitality. Although her guilt has never been proven, she is still one of the most famous serial killers in Hungarian and Slovak history.",HUMANITIES_585f_0036,"Elizabeth Bathory",HUMANITIES_OPT_561e_000D
+"Silver doesnt harm vampires.",HUMANITIES_fca5_0037,False,HUMANITIES_OPT_fef5_000A
+"Peter Kurten was called a vampire, because he consumed the blood of some of his victims. He was accused of nine murders and seven attempted murders and was sentenced to death. He was guillotined on 2 June 1932. What was his nationality?",HUMANITIES_0889_0038,German,HUMANITIES_OPT_f027_000D
+"The great circle on the celestial sphere, midway between the celestial poles is called this.",HUMANITIES_59d4_0039,Equinoctial,HUMANITIES_OPT_dd96_000D
+"If I am famous for my steadiness of mind under stress, then I am famous for this.",HUMANITIES_a9b0_0040,Equanimity,HUMANITIES_OPT_d296_000C
+"If a statement is ambiguous, it is said to be this.",HUMANITIES_e49b_0041,Equivocal,HUMANITIES_OPT_6025_000C
+"One of the four pairs of words below contains two synonyms.",HUMANITIES_c566_0042,"Equal - Equivalent",HUMANITIES_OPT_7a2a_000A
+"Do the words equivoke and equivoque mean the same?",HUMANITIES_2564_0043,Yes,HUMANITIES_OPT_aa47_000B
+"Gilgamesh is a character from the Sumerian mythology.",HUMANITIES_4caa_0044,True,HUMANITIES_OPT_684d_000A
+"Athena was the Greek equivalent of the goddess Minerva.",HUMANITIES_5852_0045,True,HUMANITIES_OPT_0703_000A
+"Nike was a goddess, who personified triumph and victory (Greek mythology). Ironically, she was paralyzed and could not move her legs.",HUMANITIES_56e6_0046,False,HUMANITIES_OPT_113a_000A
+"Helicon is the name of an ancient lake, where the Muses were born.",HUMANITIES_015b_0047,False,HUMANITIES_OPT_b47d_000B
+"Calliope was the muse for music.",HUMANITIES_55fa_0048,False,HUMANITIES_OPT_29ae_000B
+"Marduk was a Mesopotamian deity.",HUMANITIES_e0fb_0049,True,HUMANITIES_OPT_b59c_000B
+"Svarog is the highest god of the pantheon (Slavic mythology) and the god of thunder and lightning.",HUMANITIES_7860_0050,False,HUMANITIES_OPT_fd65_000B
+"The creature from Slavic mythology known as Zmey actually resembles a dragon.",HUMANITIES_4756_0051,True,HUMANITIES_OPT_179e_000B
+"Loki is the god of mischief of Norse mythology.",HUMANITIES_078d_0052,True,HUMANITIES_OPT_d625_000A
+"One of these words has mid-17th century Latin origins and is a synonym of the word, wavy.",HUMANITIES_d9ed_0053,Undulate,HUMANITIES_OPT_86e3_000D
+"Which of these definitions does not describe a present day meaning of the word sesquipedalian?",HUMANITIES_e2c9_0054,"Having a lot of feet",HUMANITIES_OPT_2163_000B
+"The archaic word wittol, already out of use and found mostly in old books, stands for a person who is very wise.",HUMANITIES_11f5_0055,False,HUMANITIES_OPT_bf5b_000B
+"Which of these words is used to describe something with a yellow color or tending toward a yellow color?",HUMANITIES_5495_0056,Xanthic,HUMANITIES_OPT_f5b1_000D
+"The word “promiscuous�? is used in physical description to refer to someone with exclusive charm and sex appeal.",HUMANITIES_4644_0057,False,HUMANITIES_OPT_4765_000A
+"We all know purple and its numerous variations, but can you name the odd one in this synonymic order dedicated to the shade of purple?",HUMANITIES_7df2_0058,Indigo,HUMANITIES_OPT_a8d6_000B
+"Having in mind the words meaning, does it  fit in the following analogy: Juvenile is to young as *geriatric* is to aged.",HUMANITIES_2b17_0059,Yes,HUMANITIES_OPT_51c8_000B
+"The amarok, which is typical for the mythology of the Eskimos, is what kind of an animal?",HUMANITIES_37fd_0060,wolf,HUMANITIES_OPT_1f56_000D
+"The banshee, a female spirit in Irish mythology, is known for doing what?",HUMANITIES_28a3_0061,Wailing,HUMANITIES_OPT_0c7b_000D
+"The hippocampus, a mythical monster with the head of a horse and body of a fish, pulled the chariot of which god?",HUMANITIES_22a9_0062,Poseidon,HUMANITIES_OPT_08ef_000B
+"Anubis was the jackal-headed judge of the dead from what mythology?",HUMANITIES_928b_0063,Egyptian,HUMANITIES_OPT_c623_000A
+"The Kraken from seafaring lore was a monster often described as what?",HUMANITIES_b2b5_0064,"Giant squid",HUMANITIES_OPT_b960_000D
+"A brownie is a legendary elf popular in the folklore of which two countries?",HUMANITIES_44ba_0065,"England  Scotland",HUMANITIES_OPT_a42e_000B
+"A cuero is a mythical giant octopus of which continent?",HUMANITIES_a7bd_0066,"South America",HUMANITIES_OPT_7f53_000A
+"A dwarf is a little humanoid creature with a large head and a long beard, typical for what mythology?",HUMANITIES_e284_0067,Scandinavian,HUMANITIES_OPT_bf6b_000D
+"A ghul is an evil spirit encountered by travelers in what area of the world?",HUMANITIES_af06_0068,"Arabian Dessert",HUMANITIES_OPT_4398_000A
+"The wodewose is a club-wielding ogre with green hair who suffers from what malady?",HUMANITIES_e7cb_0069,"He was mute",HUMANITIES_OPT_907c_000A
+"The gods Atum and Ra merged.  The dominant of the two was Ra.",HUMANITIES_54a2_0070,True,HUMANITIES_OPT_1adb_000A
+"Priests often wore a mask of this god during mummification ceremonies.",HUMANITIES_2295_0071,Anubis,HUMANITIES_OPT_0652_000D
+"God Bes was depicted as this.",HUMANITIES_10bb_0072,"Dwarf with lion and human features",HUMANITIES_OPT_1266_000A
+"Osiris had an equivalent in Greek mythology.  Who was this counterpart of his?",HUMANITIES_cedb_0073,Hades,HUMANITIES_OPT_2a0f_000C
+"Tefnut had the body of a lioness.",HUMANITIES_9dfa_0074,False,HUMANITIES_OPT_fdde_000A
+"The name of god Amen means this.",HUMANITIES_544b_0075,"The Hidden One",HUMANITIES_OPT_6d6b_000D
+"At first, there was only this god. He was the dark waters of chaos.",HUMANITIES_7c19_0076,Nun,HUMANITIES_OPT_6e92_000A
+"The word tycoon means a wealthy businessperson.  What language does it come from?",HUMANITIES_478a_0077,Chinese,HUMANITIES_OPT_729e_000D
+"Apart from being the name of a well-known rock group, placebo also means an innocuous medicine, prescribed only for psychological effect over the patient or for experimentations. But what is its true meaning in Latin?",HUMANITIES_68a1_0078,"I shall please",HUMANITIES_OPT_3e99_000C
+"The original meaning of the word grotesque was very different from the one we know. What was it?",HUMANITIES_58ab_0079,Fantastic,HUMANITIES_OPT_c7bc_000D
+"The Amazon estuary is truly magnificent. The word estuary comes from this language.",HUMANITIES_ec42_0080,Latin,HUMANITIES_OPT_d3c9_000A
+"The word devil is derived from the Greek word diabolos. What does diabolos mean?",HUMANITIES_83d2_0081,Accuser,HUMANITIES_OPT_47fd_000B
+"After a divorce, the court might order one of the sides to pay an alimony. What are the origins of the word alimony?",HUMANITIES_a271_0082,Latin,HUMANITIES_OPT_991b_000C
+"The Greek word kome means hair of the head. Which one of these words derives from it?",HUMANITIES_3c6c_0083,Comet,HUMANITIES_OPT_e170_000C
+"The name of the flower dandelion comes from this language.",HUMANITIES_b529_0084,French,HUMANITIES_OPT_36ac_000C
+"A good sense of humor is highly valued everywhere. The original meaning of the word humor in Latin (more accurately umor) is this.",HUMANITIES_c059_0085,"Body fluid",HUMANITIES_OPT_5000_000B
+"The word nice is very popular nowadays, but its original meaning in Latin is not as nice.",HUMANITIES_e282_0086,Ignorant,HUMANITIES_OPT_334f_000C
+"The longest word in the English language is pneumonoultramicroscopicsilicovolcanoconiosis. It consists of 45 letters and stands for this.",HUMANITIES_ab2b_0087,Disease,HUMANITIES_OPT_1c18_000C
+"One of the following words is a synonym of the word cognoscente.",HUMANITIES_6127_0088,Connoisseur,HUMANITIES_OPT_b81f_000D
+"The word razzmatazz means this.",HUMANITIES_2d6c_0089,"Ambiguous language",HUMANITIES_OPT_a1c3_000A
+"A nap in the early afternoon is called by this word taken from Spanish.",HUMANITIES_e08c_0090,Siesta,HUMANITIES_OPT_05da_000D
+"Crwth is a fascinating word. It has no vowels. This is what it means.",HUMANITIES_d451_0091,"Musical instrument",HUMANITIES_OPT_b593_000B
+"The she-goat Amalthea, which nursed baby Zeus, is represented by what constellation?",HUMANITIES_4817_0092,Capra,HUMANITIES_OPT_b886_000C
+"This constellation was named after a Greek goddess. She was beautiful, but conceited. In order to punish her for that, Poseidon sent her figure to the skies upside down.",HUMANITIES_b903_0093,Cassiopeia,HUMANITIES_OPT_20bd_000D
+"There are many myths about this constellation. The earliest one, however, comes from a Sumerian legend about a female dragon, who ruled over the primordial ocean before the creation. But new gods rebelled against her and sent her to the skies.",HUMANITIES_9258_0094,Draco,HUMANITIES_OPT_ec53_000B
+"Although it is a galaxy, the story about its creation is not less intriguing. Many legends associate its formation with milk spilled in one way or another. However, a Mesopotamian legend explains another thing. After the deluge the ark of Utnapishtim, the Sumerian Noah, was stuck on Mount Ararat. He then made a sacrifice to the gods and this galaxy was created out of the smoke of the fire.",HUMANITIES_a676_0095,"The Milky Way",HUMANITIES_OPT_841d_000D
+"This constellation was named after a creature from the Greek mythology which is a combination between a human and a horse. Such creatures were of violent nature but there was one exception - Chiron, who was the tutor of Hercules.",HUMANITIES_0ebe_0096,Centaur,HUMANITIES_OPT_7563_000D
+"This is a star group in Taurus. It was called after the seven daughters of the Titan Atlas and the Nymph Plieone - Alcyone, Maia, Electra, Merope, Taygeta, Celaeno, and Sterope.",HUMANITIES_8b1b_0097,Pleiades,HUMANITIES_OPT_5a61_000C
+"This constellation was named after a Greek hero who bragged to be the greatest hunter. Goddess Hera heard that and sent a scorpion after him to test his skills. The hero was stung to death by the scorpion. Zeus felt sorry and sent him to the sky.",HUMANITIES_0855_0098,Orion,HUMANITIES_OPT_8fd8_000D
+"This constellation is often associated with Ganymede, who was a beautiful Phrygian youngster. Jupiter once saw him, fell in love with the lad and came to the earth as a bird, which took him to the skies. Since then he has served as the cup bearer of the gods.",HUMANITIES_65ae_0099,Aquarius,HUMANITIES_OPT_dcbd_000B
+"This was the instrument that Orpheus played so well that his music enchanted even the wild beasts, the rocks, and the trees. After he lost his beloved one - Eurydice, Zeus placed Orpheuss musical instrument on the sky.",HUMANITIES_defe_0100,Lyre,HUMANITIES_OPT_4dbc_000C
+"This constellation represents the twin brothers Castor and Pollux. They were born by one mother, Leda, but had different fathers. Leda got pregnant simultaneously by Jupiter and the king Tyndarus of Sparta. When Castor died, Pollux felt so sorry that he begged Jupiter to unite them again, so Jupiter reunited the brothers in the sky.",HUMANITIES_33d2_0101,Gemini,HUMANITIES_OPT_5ba6_000A
+"What does the verb to dub mean?",HUMANITIES_099e_0102,"To give a name",HUMANITIES_OPT_c427_000C
+"If you command a horse to gee, what do you expect him to do?",HUMANITIES_e218_0103,"Turn right",HUMANITIES_OPT_81a3_000D
+"If you put a hex on someone, what have you done?",HUMANITIES_6682_0104,"Put him or her under a spell",HUMANITIES_OPT_feb4_000D
+"Which of the following terms means to search for fun?",HUMANITIES_b88c_0105,Gad,HUMANITIES_OPT_76fe_000C
+"What does to vex mean?",HUMANITIES_ba82_0106,"To annoy",HUMANITIES_OPT_99bc_000A
+"What does to sup refer to?",HUMANITIES_80d6_0107,"Eat an evening meal",HUMANITIES_OPT_0b4f_000C
+"What does the verb hew mean?",HUMANITIES_ef9d_0108,"To cut",HUMANITIES_OPT_8116_000A
+"Which of the following terms means to recede?",HUMANITIES_9b95_0109,Ebb,HUMANITIES_OPT_c3ef_000D
+"What does to hie mean?",HUMANITIES_9082_0110,"To hurry",HUMANITIES_OPT_dccf_000A
+"What is the meaning of the verb to jam?",HUMANITIES_b859_0111,"To interfer with a radio signal",HUMANITIES_OPT_f02a_000A
+"Which of the following fictional or legendary hybrids is not half-human?",HUMANITIES_ea34_0112,Baku,HUMANITIES_OPT_dc0a_000D
+"Which of the following is a legendary creature with a lion body and eagle head and wings?",HUMANITIES_727a_0113,Griffin,HUMANITIES_OPT_8bd3_000D
+"What is the name of the monstrous creature from Greek Mythology, that is the offspring of Typhon and Echidna?",HUMANITIES_190c_0114,Chimera,HUMANITIES_OPT_17a0_000A
+"What kind of creature was the African mythological hybrid Jengu?",HUMANITIES_10ac_0115,"A water spirit",HUMANITIES_OPT_dfaf_000A
+"This hybrid is an Egyptian sacred baboon with the head of a dog.",HUMANITIES_397d_0116,Cynocephalus,HUMANITIES_OPT_6c1c_000D
+"What is the name of the legendary half-man and half-goat (or half-horse) creature often associated with male sexuality in Greek mythology?",HUMANITIES_d6bc_0117,Satyr,HUMANITIES_OPT_a4b7_000D
+"The sphinxes, the popular legendary creatures of the Ancient Egyptians, could be depicted with three different heads. Which head that was not typical for the sphinx?",HUMANITIES_19eb_0118,"Snake head",HUMANITIES_OPT_150b_000A
+"The legendary creature Peryton, that was said to come from the lost continent Atlantis, is a hybrid of what two animals?",HUMANITIES_5935_0119,"Stag and bird",HUMANITIES_OPT_a7f7_000A
+"Which of the following is an evil mythological hybrid of a woman and a bird?",HUMANITIES_8772_0120,Harpy,HUMANITIES_OPT_3fe4_000B
+"The world sirena refers to this mythical or folklore hybrid of a woman and an animal?",HUMANITIES_2701_0121,Mermaid,HUMANITIES_OPT_299e_000A
+"In which musical does Curly sing Surrey With the Fringe on Top to entice his girlfriend to accompany him to a party?",HUMANITIES_43e1_0122,Oklahoma,HUMANITIES_OPT_bf47_000A
+"The hit song If I Were a Rich Man, which reflected the dreams of a poor milkman, came from which musical of the 60s?",HUMANITIES_3070_0123,"Fiddler on the Roof",HUMANITIES_OPT_a0e5_000A
+"All That Jazz is the opening number of which 1975 Bob Fosse musical?",HUMANITIES_4906_0124,Chicago,HUMANITIES_OPT_9d7a_000B
+"The moving song I Am What I Am is sung at the end of Act I of which Jerry Herman hit show?",HUMANITIES_8f55_0125,"La Cage aux Folles",HUMANITIES_OPT_b040_000B
+"Which musical of the 50s featured the song Some Enchanted Evening?",HUMANITIES_7b7e_0126,"South Pacific",HUMANITIES_OPT_2de0_000C
+"Whatever Lola Wants is performed by the sultry Lola trying to tempt a faithful husband in which  Bob Fosse show?",HUMANITIES_7844_0127,"Damn Yankees",HUMANITIES_OPT_21e5_000D
+"In which show does Eliza sing The Rain in Spain?",HUMANITIES_4bbe_0128,"My Fair Lady",HUMANITIES_OPT_da9d_000D
+"Fill in the blank with the correct word: It would be as well to let it go, ___ too far out. Quote from A New Hope",HUMANITIES_6c4c_0129,its,HUMANITIES_OPT_ed7e_000B
+"The word catholic means the same whether capitalized or not.",HUMANITIES_d0f9_0130,False,HUMANITIES_OPT_a9ca_000A
+"Stationery means fixed, not moveable.",HUMANITIES_220c_0131,False,HUMANITIES_OPT_123b_000B
+"Stationary is fancy writing paper.",HUMANITIES_6441_0132,False,HUMANITIES_OPT_0e86_000A
+"What is the meaning of the adverb altogether?",HUMANITIES_bfcf_0133,Entirely,HUMANITIES_OPT_b846_000A
+"What does the collocation all together mean?",HUMANITIES_f85b_0134,"In the same place",HUMANITIES_OPT_632b_000A
+"What does the word principal mean?",HUMANITIES_aa7c_0135,Main,HUMANITIES_OPT_ed01_000B
+"Is counsel the correct word for a group called together for a purpose?",HUMANITIES_5dc7_0136,No,HUMANITIES_OPT_82f7_000A
+"Counsel is giving of advice.",HUMANITIES_2e5c_0137,True,HUMANITIES_OPT_b4d2_000B
+"These creatures ruled the world until they were overthrown by the Twelve Olympians, led by Zeus.",HUMANITIES_1414_0138,Titans,HUMANITIES_OPT_9511_000B
+"Cronus learned he was destined to be overcome by his own son as he had overthrown his own father, thats why he wanted to kill Zeus.",HUMANITIES_b750_0139,True,HUMANITIES_OPT_8fde_000A
+"The Cyclopes gave Zeus fire.",HUMANITIES_296f_0140,False,HUMANITIES_OPT_54f8_000B
+"Hermes is the highest ranking and most powerful god in Greek mythology.",HUMANITIES_7326_0141,False,HUMANITIES_OPT_b819_000B
+"What was Rembrandts last name?",HUMANITIES_d818_0142,"Van Rijn",HUMANITIES_OPT_5207_000D
+"What was the first name of Van Goghs brother?",HUMANITIES_ceec_0143,Theo,HUMANITIES_OPT_1d34_000A
+"For which opera did Gershwin become posthumously famous?",HUMANITIES_2dd2_0144,"Porgy and Bess",HUMANITIES_OPT_09a3_000D
+"The music for Swan Lake, one of the most critically-acclaimed ballets, was written by this composer.",HUMANITIES_d482_0145,"Pyotr Ilyich Tchaikovsky",HUMANITIES_OPT_4d90_000B
+"Violin virtuoso Itzach Perlman is a cousin of this entertainer.",HUMANITIES_c050_0146,"Howie Mandel",HUMANITIES_OPT_3a0c_000B
+"How many reeds does an oboe have?",HUMANITIES_a987_0147,2,HUMANITIES_OPT_2669_000B
+"In what country was composer and pianist, Frederic Chopin born?",HUMANITIES_b8a0_0148,Poland,HUMANITIES_OPT_833a_000B
+"Which of the following is a type of plaster used to paint on?",HUMANITIES_9ede_0149,Gesso,HUMANITIES_OPT_de4e_000C
+"Which painter and founder of cubism would not divorce his first wife, Olga Khoklova, so she would not get half his wealth?",HUMANITIES_33e0_0150,Picasso,HUMANITIES_OPT_f918_000A
+"This photographer, who taught at MIT for 10 years, developed the Zone System.",HUMANITIES_e727_0151,"Minor White",HUMANITIES_OPT_9577_000A
+"Which of the following group of animals is not referred to as a herd?",HUMANITIES_bc45_0152,Rhinoceroses,HUMANITIES_OPT_9b63_000A
+"Which prefix means under?",HUMANITIES_8ebb_0153,Sub-,HUMANITIES_OPT_10d7_000B
+"Which suffix means fear?",HUMANITIES_5e31_0154,-phobia,HUMANITIES_OPT_b553_000B
+"Which prefix means within?",HUMANITIES_4fb0_0155,intra-,HUMANITIES_OPT_0cb0_000A
+"When prefix means high?",HUMANITIES_f257_0156,Alti-,HUMANITIES_OPT_b3db_000C
+"All but one of the following suffixes changes the word from an adjective or a verb into a noun.  Which is the odd one?",HUMANITIES_7f97_0157,-ous,HUMANITIES_OPT_75ee_000A
+"Which suffix means foot?",HUMANITIES_c6e8_0158,-pus,HUMANITIES_OPT_e697_000C
+"Which suffix means one who?",HUMANITIES_838a_0159,-er,HUMANITIES_OPT_2f05_000D
+"Which prefix means across a distance?",HUMANITIES_9892_0160,TELE-,HUMANITIES_OPT_62c8_000A
+"Which of the following prefixes does not mean not?",HUMANITIES_c30b_0161,Pan,HUMANITIES_OPT_2dca_000D
+"Which prefix means together?",HUMANITIES_0b52_0162,CO-,HUMANITIES_OPT_1160_000A
+"Freya was the goddess of this.",HUMANITIES_86ae_0163,"Love and beauty",HUMANITIES_OPT_8fcb_000C
+"There were two major clans of Norse gods - Vanir and �sir.",HUMANITIES_0165_0164,True,HUMANITIES_OPT_8472_000B
+"Odins favorite pets were these creatures.",HUMANITIES_7838_0165,Ravens,HUMANITIES_OPT_257f_000A
+"What did god Tyr sacrifice in order to bind the evil Fenris wolf?",HUMANITIES_696b_0166,"His hand",HUMANITIES_OPT_94c1_000A
+"Which of the following gods was famous for his talent to quickly transform his appearance?",HUMANITIES_7ae0_0167,Loki,HUMANITIES_OPT_4b40_000B
+"God Ori was a giant.",HUMANITIES_0697_0168,False,HUMANITIES_OPT_6359_000A
+"Goddess Skadi was not permitted to look at the gods faces, while choosing her husband among them.",HUMANITIES_4810_0169,True,HUMANITIES_OPT_e63f_000A
+"Norse mythology associates the aurora with this beautiful goddess.",HUMANITIES_427c_0170,Freya,HUMANITIES_OPT_ca7f_000B
+"He was the first man, according to Norse mythology.",HUMANITIES_28bb_0171,Ask,HUMANITIES_OPT_0367_000B
+"In what movie does a character say,  Yo, Adrian.?",HUMANITIES_7944_0172,Rocky,HUMANITIES_OPT_881d_000B
+"Yo-Yo Ma is considered by most to be the best musician in the world to play this instrument. Yo-Yo Mas nickname for his instrument is Petunia. What type of instrument is Petunia?",HUMANITIES_24ca_0173,Cello,HUMANITIES_OPT_3fb9_000D
+"If a person is downright, then he is this.",HUMANITIES_ead0_0174,Candid,HUMANITIES_OPT_ff1d_000A
+"A playwright is someone who writes for the theatre. One of the following famous Greeks was not a playwright.",HUMANITIES_c49d_0175,Tyrtaeus,HUMANITIES_OPT_790d_000D
+"One of these is not a spright.",HUMANITIES_a910_0176,"A dwarf.",HUMANITIES_OPT_025f_000A
+"If he denied the charges outright, then his denial cannot be described as this.",HUMANITIES_f2b7_0177,Kind,HUMANITIES_OPT_18f6_000D
+"In the UK one of these parties is not considered right-winged.",HUMANITIES_5ae0_0178,"Scottish National Party",HUMANITIES_OPT_7080_000B
+"Dexter from Dexters Lab was right-handed.",HUMANITIES_7b38_0179,False,HUMANITIES_OPT_def5_000B
+"Which of these languages is not an official national language in a South American country?",HUMANITIES_60e1_0180,German,HUMANITIES_OPT_c609_000C
+"What language has the most native speakers in the world?",HUMANITIES_9050_0181,Mandarin,HUMANITIES_OPT_9287_000D
+"What movie features an actor speaking one of the Khoisan languages of southwestern Africa, which have a range of click sounds (sounds which are not found outside this region)?",HUMANITIES_0e9a_0182,"The Gods Must Be Crazy",HUMANITIES_OPT_b52b_000B
+"The largest language family (a group of historically related languages) is the Indo-European family, which includes well-known European languages such as English, French and Russian. Which of the following languages is NOT a member of this family?",HUMANITIES_c71e_0183,Hebrew,HUMANITIES_OPT_8e75_000B
+"What European language is not related to any other language in the world?",HUMANITIES_a8fd_0184,Basque,HUMANITIES_OPT_d68c_000D
+"The Romance languages are all descended from Latin, and form a branch of the Indo-European family. It is common knowledge that languages such as French, Spanish, Italian and Portuguese are related and are Romance languages. There is another major European language which is also a member of this branch. What is it?",HUMANITIES_9bd1_0185,Romanian,HUMANITIES_OPT_4d4c_000A
+"The Chinese language is related to Japanese.",HUMANITIES_dbb4_0186,False,HUMANITIES_OPT_20d3_000A
+"What language has contributed the following words to the English language: ketchup, gong, orangutan, amok, bamboo, cockatoo, mango, paddy, gingham, compound (as in military compound) and cooties?",HUMANITIES_5148_0187,Malay,HUMANITIES_OPT_6109_000C
+"What language has contributed the following words to English: bungalow, jungle, thug, khaki, cot, loot, sentry, shampoo, and bangle?",HUMANITIES_8295_0188,Hindi,HUMANITIES_OPT_d58a_000D
+"The nation of Singapore has four official languages. However, all education is conducted in this language, by law.",HUMANITIES_73ee_0189,English,HUMANITIES_OPT_6a7a_000D
+"Zeus, Hades, and Poseidon are brothers.",HUMANITIES_5cd7_0190,True,HUMANITIES_OPT_0feb_000B
+"Which goddess was Apollos sister?",HUMANITIES_b08d_0191,Artemis,HUMANITIES_OPT_f610_000D
+"Zeus was married to this goddess.",HUMANITIES_6590_0192,Hera,HUMANITIES_OPT_2ddf_000C
+"Hades is considered one of the Twelve Olympians.",HUMANITIES_8ca7_0193,No,HUMANITIES_OPT_efb8_000B
+"What is the name of the daughter of the goddess, Demeter?",HUMANITIES_e98f_0194,Persephone,HUMANITIES_OPT_466d_000D
+"What is the name of the 3 headed dog that guards the Underworld?",HUMANITIES_c34d_0195,Cerberus,HUMANITIES_OPT_4ccd_000B
+"The city of Athens was almost named after Poseidon, rather than Athena.",HUMANITIES_dca8_0196,True,HUMANITIES_OPT_c400_000A
+"Hermes is the Greek god of shepards, land travel, weights and measures, oratory, literature, merchants and athletics. His Roman equivalent however, is usually considered to be just the god of trade, profit and travel. Who is the Roman god in question?",HUMANITIES_3bd6_0197,Mercury,HUMANITIES_OPT_a956_000A
+"Dionysus is the Greek god of wine. Who is the Roman god of wine?",HUMANITIES_fb4f_0198,Bacchus,HUMANITIES_OPT_b514_000D
+"Cupid is the Roman counterpart of Aphrodite, the Greek goddess of love.",HUMANITIES_d8e0_0199,False,HUMANITIES_OPT_b555_000B
+"Hephaestus is the Greek God of fire and the patron of blacksmiths. Who is the Roman god of fire and craftsmanship?",HUMANITIES_1125_0200,Vulcan,HUMANITIES_OPT_9477_000A
+"The Greek goddess of flowers is Chloris. Who is the Roman goddess of flowers, the personification of spring?",HUMANITIES_892f_0201,Flora,HUMANITIES_OPT_1d80_000B
+"Poseidon, the Greek god of the sea, was very popular and powerful among Greek sailors. His Roman equivalent was inferior in power and popularity. Who was the Roman god of the sea?",HUMANITIES_0d17_0202,Neptune,HUMANITIES_OPT_0453_000B
+"Hades, the Greek god of the Underworld, is known as Pluto in Roman mythology.",HUMANITIES_b24f_0203,True,HUMANITIES_OPT_5a1e_000B
+"Eros is the Greek personification of the dawn and his siblings are the sun (Helios) and the moon (Selene). Who is the Roman personification of the dawn, whose siblings are Sol (sun) and Luna (moon).",HUMANITIES_787e_0204,Aurora,HUMANITIES_OPT_0a95_000A
+"Which one of these words means sooty or murky; having a dark or dusky color?",HUMANITIES_5206_0205,Fuliginous,HUMANITIES_OPT_2b95_000A
+"Hemidemisemiquaver is a musical time meaning 1/64 of a note.",HUMANITIES_dedb_0206,True,HUMANITIES_OPT_acd7_000B
+"Which word means a group of unofficial often secret and scheming advisers?",HUMANITIES_5fc8_0207,Camarilla,HUMANITIES_OPT_deeb_000D
+"The word thimblerig means to play by the rules, to be fair.",HUMANITIES_4b42_0208,False,HUMANITIES_OPT_98a0_000B
+"What word means to be not reputable or decent?",HUMANITIES_5188_0209,Louche,HUMANITIES_OPT_8376_000A
+"Prothalamion is a funeral song.",HUMANITIES_a5b0_0210,False,HUMANITIES_OPT_83bd_000A
+"What word means melancholy, gloomy, or having a peevish temperament?",HUMANITIES_40c2_0211,Atrabilious,HUMANITIES_OPT_767d_000D
+"Aparatchik is a blindly devoted official, follower or member of an organization.",HUMANITIES_497e_0212,True,HUMANITIES_OPT_9d16_000B
+"What word means a defamatory falsehood published for political effect?",HUMANITIES_31f9_0213,Roorback,HUMANITIES_OPT_c690_000A
+"The word henotheism means denial of the existence of gods other than ones own.",HUMANITIES_bb42_0214,False,HUMANITIES_OPT_16e2_000A
+"It is estimated that this country has more English speakers than the United States.",HUMANITIES_1c60_0215,China,HUMANITIES_OPT_904a_000C
+"The Mazateco language is the native language of the Mazatec peoples of Oaxaca, Mexico. Besides by words, messages in this language can be conveyed by what other means?",HUMANITIES_ee78_0216,"By whistling",HUMANITIES_OPT_aacf_000C
+"The creator of the most widely used constructed international language, Esperanto, philologist L. L. Zamenhof, had what other profession?",HUMANITIES_8bec_0217,Ophthalmologist,HUMANITIES_OPT_2532_000C
+"Which of the following languages does not use a definite article?",HUMANITIES_6986_0218,Russian,HUMANITIES_OPT_3dfc_000D
+"In which country should you be careful with any objects labelled gift (when the word is used as a noun)?",HUMANITIES_0772_0219,Germany,HUMANITIES_OPT_10f1_000B
+"Which of these words begins with one and the same sound in a great percentage of the languages in the world?",HUMANITIES_9047_0220,Mother,HUMANITIES_OPT_c5dc_000C
+"Which is the only South American country that uses English as its official language?",HUMANITIES_72bd_0221,Guyana,HUMANITIES_OPT_f00f_000C
+"Most of the traditional Indo-European languages capitalise I, the pronoun denoting the first person singular.",HUMANITIES_46b4_0222,False,HUMANITIES_OPT_57ee_000A
+"Which is the common official language of Austria, Liechtenstein, and Switzerland?",HUMANITIES_cd29_0223,German,HUMANITIES_OPT_465d_000A
+"What is the country with the greatest number of official languages?",HUMANITIES_81f0_0224,India,HUMANITIES_OPT_e38a_000A
+"Which Broadway show features the character of Billy Bigelow as the male lead?",HUMANITIES_38b4_0225,Carousel,HUMANITIES_OPT_31b6_000A
+"Which Rogers and Hammerstein musical features the comic character Ado Annie?",HUMANITIES_052d_0226,Oklahoma,HUMANITIES_OPT_9463_000D
+"The character of Professor Harold Hill was created by composer Meredith Willson for which musical about Mid-West small town life in the turn of the 20th century?",HUMANITIES_dbe4_0227,"The Music Man",HUMANITIES_OPT_acd2_000B
+"Carrie Pepperidge is the comic relief in which Rogers and Hammerstein show?",HUMANITIES_39a0_0228,Carousel,HUMANITIES_OPT_9fc7_000C
+"Shoeless Joe Hardy sold his soul to the devil in which 50s musical revised in the 1990s?",HUMANITIES_9c5b_0229,"Damn Yankees",HUMANITIES_OPT_20b7_000A
+"Charlemange of the Holy Roman Empire was a character in which Fosse musical?",HUMANITIES_dcc4_0230,Pippin,HUMANITIES_OPT_864a_000A
+"Marian the Librarian is the main love interest in which show?",HUMANITIES_d37f_0231,"The Music Man",HUMANITIES_OPT_794c_000C
+"Sportin Life is the likable villain in which Gershwin show?",HUMANITIES_4f55_0232,"Porgy and Bess",HUMANITIES_OPT_8200_000A
+"The beautiful Belle changes everyones fate in which Broadway musical?",HUMANITIES_9347_0233,"Beauty and the Beast",HUMANITIES_OPT_c3a6_000D
+"Nicely-Nicely Johnson is a second banana character in which Frank Lessor musical?",HUMANITIES_792f_0234,"Guys and Dolls",HUMANITIES_OPT_19ac_000D
+"Often called the Father of American Anthropology, he established the first PhD program in anthropology in America.",HUMANITIES_9f7b_0235,"Franz Boas",HUMANITIES_OPT_dbe3_000C
+"This fossil, first discovered in 1924, proved that the human race really had a natural history.",HUMANITIES_d197_0236,"Taung Child",HUMANITIES_OPT_1b12_000A
+"The name of of which extinct species means working man in Greek?",HUMANITIES_fb75_0237,"Homo ergaster",HUMANITIES_OPT_aa1c_000B
+"This diminutive species was nicknamed hobbits after J.R.R Tolkiens fictional race of similar size.",HUMANITIES_d20c_0238,"Homo floresiensis",HUMANITIES_OPT_567f_000C
+"The discovery site of which species was listed by UNESCO as a World Heritage Site in 1987?",HUMANITIES_daaf_0239,"Peking Man",HUMANITIES_OPT_77f2_000D
+"Turkana boy, a fossil famous for being almost a complete skeleton, was discovered in Kenya in which year?",HUMANITIES_65f4_0240,1984,HUMANITIES_OPT_0dea_000B
+"What is the meaning of the anthropology term Pithecanthropus in Greek?",HUMANITIES_c724_0241,"ape man",HUMANITIES_OPT_a918_000A
+"This anatomist is famous for his discovery of the first specimen of early hominid remains ever found outside Europe.",HUMANITIES_48ba_0242,"Eugene Dubois",HUMANITIES_OPT_7e6e_000D
+"The Cro-Magnons, considered virtually identical to contemporary humans, were discovered in France in which year?",HUMANITIES_cb03_0243,1868,HUMANITIES_OPT_0e0a_000B
+"Name the remains of a prehistoric man, whose discovery in 1996 raised sensitive political issues, related to the Native Americans rights.",HUMANITIES_e63e_0244,"Kennewick Man",HUMANITIES_OPT_8cdc_000B
+"This double-letter word is used to describe many items and is even the last name of some very famous people and fictional characters.",HUMANITIES_c0f1_0245,Little,HUMANITIES_OPT_3fa0_000C
+"This is an activity you usually do on snow but sometimes it is done on water.",HUMANITIES_d855_0246,Skiing,HUMANITIES_OPT_6594_000C
+"This double-letter word refers to a yummy baked dish that can be delivered to your house hot and ready to eat.",HUMANITIES_b966_0247,Pizza,HUMANITIES_OPT_95da_000C
+"The word savvy means intelligence or common sense.",HUMANITIES_eece_0248,True,HUMANITIES_OPT_e580_000A
+"The word vacuum means a space entirely devoid of matter.",HUMANITIES_3b79_0249,True,HUMANITIES_OPT_ff0d_000B
+"These furry bundles of joy sometimes cause severe allergies in people.",HUMANITIES_708a_0250,kittens,HUMANITIES_OPT_b5a8_000D
+"Which of the following words best fits this sentence: The next ____ will be out soon for everyone to read.?",HUMANITIES_d8c8_0251,issue,HUMANITIES_OPT_003f_000C
+"A bubble is a period of intense speculation in a market, causing prices to rise quickly to irrational levels and then fall even more quickly as the bubble bursts.",HUMANITIES_20f6_0252,True,HUMANITIES_OPT_4326_000A
+"Sometimes people who hike  very long distances hide supplies in boxes along their route. What are these boxes called?",HUMANITIES_8a43_0253,"bounce boxes",HUMANITIES_OPT_6abb_000C
+"In 2007 this expression was introduced to describe an economy that is in a real frenzy.",HUMANITIES_c2bb_0254,"cappuccino economy",HUMANITIES_OPT_0cc8_000B
+"Someone who did not like the hardware made by Apple might use this expression.",HUMANITIES_1cf6_0255,MacIntrash,HUMANITIES_OPT_3bf4_000A
+"Because of the high cost of medical care, some older adults are abandoned by their caretakers. What is this called?",HUMANITIES_5506_0256,"granny dumping",HUMANITIES_OPT_6bae_000D
+"Sometimes people can get so many e-mails that they cannot deal with them. They might just delete them all and start again. What is this action called?",HUMANITIES_19b3_0257,"e-mail bankruptcy",HUMANITIES_OPT_9f9a_000A
+"This new form of exercise which combines step aerobics with soul music.",HUMANITIES_ec40_0258,Funkinetics,HUMANITIES_OPT_3216_000D
+"Which of these words describes movies that contain extreme and unnecessary violence.",HUMANITIES_1c11_0259,gorno,HUMANITIES_OPT_f4f3_000B
+"In computer messaging punctuation marks are sometimes used to show human emotion. What do we call a series of such marks?",HUMANITIES_fabe_0260,emoticons,HUMANITIES_OPT_c5d2_000A
+"The mentoring system is all the rage. Which word refers to a person being mentored?",HUMANITIES_f38e_0261,mentee,HUMANITIES_OPT_2ed9_000C
+"This word refers to a newly wed man who was a bachelor for many years.",HUMANITIES_68d7_0262,"a Benedict",HUMANITIES_OPT_e999_000A
+"Which word refers to a very long-winded person?",HUMANITIES_ebd9_0263,"A.S.S. Graduate",HUMANITIES_OPT_5218_000C
+"This is a Navaho legend, explaining the formation of a constellation. According to this myth there was a girl who married a bear. Her younger sister told their father and he got so furious, he killed the bear. In order to revenge, the bigger sister turned into a bear and began chasing her siblings. She killed her seven brothers who flew up in the sky and formed this constellation.",HUMANITIES_4e0f_0264,"Ursa Major",HUMANITIES_OPT_283c_000B
+"This Navajo god of rains, whose name means water sprinkler, often played waggish tricks on mankind, but he never harmed anyone.",HUMANITIES_df0a_0265,Tonenili,HUMANITIES_OPT_829e_000D
+"When evoked to cure an illness, this spirit could take the form of either a woman or a man, depending on the gender of the patient.",HUMANITIES_e8b7_0266,"Asgaya Gigagei",HUMANITIES_OPT_f1ef_000D
+"This military practice was widespread among American Indian tribes well before the European colonists came to the New World. It provided warriors with proof of his courage and a war trophy.",HUMANITIES_5c66_0267,Scalping,HUMANITIES_OPT_341a_000D
+"These items, taken from birds, were usually accepted as marks of honor or sources of ideas. They were also symbols of the Creative Force.",HUMANITIES_3853_0268,Feathers,HUMANITIES_OPT_2eb2_000C
+"This animal was considered an important spirit among most of the Northern tribes. It was responsible for sorrow and death, and was an omen of impending evil.",HUMANITIES_d2e5_0269,Coyote,HUMANITIES_OPT_9744_000A
+"According to the Iroquois, this woman fell from a hole in the sky and brought light to the world.",HUMANITIES_517d_0270,Skywoman,HUMANITIES_OPT_8be5_000B
+"According to the Iroquois these demon gods flew during storms and ate people as humans were very delicious to them.",HUMANITIES_6463_0271,"Big heads",HUMANITIES_OPT_d9fd_000D
+"This bird is considered to be the master of the sky. It is the carrier of prayers, venerated for its courage and wisdom.",HUMANITIES_4def_0272,Eagle,HUMANITIES_OPT_b68f_000A
+"According to the Pawnees this star was evil, since it had driven the Sun out of the sky.",HUMANITIES_7904_0273,"Evening star",HUMANITIES_OPT_c3e9_000C
+"Which one of these Renaissance artists was at first apprenticed to a goldsmith?",HUMANITIES_db0f_0274,"Alessandro Botticelli",HUMANITIES_OPT_7637_000D
+"The Birth of Venus, The Annunciation, Medusa, and Flora are four artworks that all have this in common.",HUMANITIES_26c3_0275,"They are exposed in the same gallery",HUMANITIES_OPT_bace_000A
+"Michelangelos marble sculpture, Moses, was originally intended for the tomb of Pope Julius II in St. Peters Basilica, but after the popes death the sculpture was placed in a church on this hill -- one of the famous seven hills in Rome.",HUMANITIES_df8b_0276,Esquiline,HUMANITIES_OPT_dfe0_000A
+"Which Medici family member commissioned the great Florentine architect Brunelleschi to reconstruct the Church of San Lorenzo in 1419?",HUMANITIES_611a_0277,"Cosimo the Elder",HUMANITIES_OPT_0ebd_000B
+"This one of Donatellos bronze statues was notable as the first unsupported standing work in bronze cast, since classical times.",HUMANITIES_5731_0278,David,HUMANITIES_OPT_5d98_000B
+"Caravaggio was a Baroque painter, and this was the main subject in most of his artwork.",HUMANITIES_57a2_0279,"Young men",HUMANITIES_OPT_9b86_000B
+"Only one of these sculptures is not a work of Antonio Canova, famous for his ability to delicately render nude flesh in his statues.",HUMANITIES_b12f_0280,"The Virgin",HUMANITIES_OPT_2b12_000D
+"Typical of the baroque architecture, this was the paradigm of the basilica, mainly in Italy and France.",HUMANITIES_6fef_0281,"Crossed dome and nave",HUMANITIES_OPT_d596_000C
+"Which of these words means to be transitory or perishable?",HUMANITIES_46f5_0282,Caducity,HUMANITIES_OPT_7c8d_000C
+"Indomitable means unconquerable.",HUMANITIES_5a10_0283,True,HUMANITIES_OPT_e647_000A
+"Which of these words is defined as indifferent or nonchalant?",HUMANITIES_3be4_0284,Pococurante,HUMANITIES_OPT_a7fc_000C
+"The term waddy is a noun that means sailor.",HUMANITIES_2367_0285,False,HUMANITIES_OPT_ec34_000B
+"What word defines a person who lives in seclusion for religious reasons?",HUMANITIES_58a4_0286,Anchorite,HUMANITIES_OPT_42ab_000D
+"Panoptic means having a panoramic view.",HUMANITIES_e788_0287,True,HUMANITIES_OPT_5925_000A
+"What noun refers to a bald-headed man or a man that is looked at with humor or mock pity?",HUMANITIES_691b_0288,Pilgarlic,HUMANITIES_OPT_a851_000B
+"The word palmy means poor or underfunded.",HUMANITIES_b703_0289,False,HUMANITIES_OPT_8826_000B
+"What word means either cheerful and optimistic or having good digestion?",HUMANITIES_7fdd_0290,Eupeptic,HUMANITIES_OPT_23e0_000A
+"Jocose means somber or depressed.",HUMANITIES_ce84_0291,False,HUMANITIES_OPT_bac3_000B
+"What is a privet?",HUMANITIES_27ba_0292,"a type of shrub",HUMANITIES_OPT_7927_000D
+"Which of these words means loose hemp or jute fiber, occasionally treated with pitch or tar?",HUMANITIES_ecb3_0293,oakum,HUMANITIES_OPT_5784_000B
+"Can you define the word nimbus?",HUMANITIES_4c98_0294,"a halo or bright light",HUMANITIES_OPT_6b38_000B
+"Milch is an adjective that can be put before which of the following words?",HUMANITIES_de77_0295,cow,HUMANITIES_OPT_1106_000A
+"What word refers to an emperor of Japan?",HUMANITIES_a7b8_0296,Mikado,HUMANITIES_OPT_4443_000C
+"Which one of these words denotes a type of shade tree?",HUMANITIES_f37e_0297,Linden,HUMANITIES_OPT_585a_000D
+"What is a killdeer?",HUMANITIES_9a75_0298,"a bird",HUMANITIES_OPT_e6d1_000C
+"Where would you find a jalousie?",HUMANITIES_a47c_0299,"in a home or building",HUMANITIES_OPT_172d_000A
+"What color is the Iridium?",HUMANITIES_1ec7_0300,yellow,HUMANITIES_OPT_1680_000A
+"Where would find a half track?",HUMANITIES_080b_0301,"in the military",HUMANITIES_OPT_556b_000B
+"What character does Beyonce Knowles portray in the 2006 movie Dreamgirls?",HUMANITIES_659b_0302,"Deena Jones",HUMANITIES_OPT_b595_000C
+"What is Jamie Foxxs role in the movie Dreamgirls?",HUMANITIES_1b7d_0303,"Curtis Taylor, Jr.",HUMANITIES_OPT_b96f_000A
+"In which city does the movie Dreamgirls begin?",HUMANITIES_1ac9_0304,Detroit,HUMANITIES_OPT_7237_000D
+"In the movie Dreamgirls, this actress portrays Lorrell Robinson, the only original member of the group  who was never the lead singer.",HUMANITIES_4c18_0305,"Anika Noni Rose",HUMANITIES_OPT_d817_000B
+"Who does Eddie Murphy portray in the film Dreamgirls?",HUMANITIES_4dca_0306,"James Thunder Early",HUMANITIES_OPT_6453_000C
+"Who portrays Effie Melody  White in the 2006 movie Dreamgirls?",HUMANITIES_a7f6_0307,"Jennifer Hudson",HUMANITIES_OPT_0b98_000B
+"In the movie Dreamgirls, who is the only  singer to have a child?",HUMANITIES_e358_0308,Effie,HUMANITIES_OPT_273b_000D
+"In the movie Dreamgirls, this actor plays Marty Madison, an old time manager, who is pushed out  of business by Curtis.",HUMANITIES_7c9a_0309,"Danny Glover",HUMANITIES_OPT_1574_000A
+"Who directed the movie Dreamgirls?",HUMANITIES_b251_0310,"Bill Condon",HUMANITIES_OPT_1848_000B
+"Jamie Foxx, who stars in the movie Dreamgirls, sang the theme song for what 1999 movie?",HUMANITIES_6776_0311,"Any Given Sunday",HUMANITIES_OPT_5a74_000A
+"Jamie Foxx, Jessica Lange, Julianne Moore, Holly Hunter, Al Pacino, Sigourney Weaver, Barry Fitzgerald, Teresa Wright and Faye Bainter share what distinction?",HUMANITIES_d2ae_0312,"They were nominated for both a lead actor/actress and supporting actor/actress Oscar in the same year.",HUMANITIES_OPT_a6e2_000A
+"This star from Boston Public is the only actress from the original Broadway cast of Dreamgirls who appeared (and sang) in the 2006 movie adaptation.",HUMANITIES_1596_0313,"Loretta Devine",HUMANITIES_OPT_7b68_000B
+"Who originated the role of Deena Jones in the Broadway play Dreamgirls?",HUMANITIES_03b3_0314,"Sheryl Lee Ralph",HUMANITIES_OPT_d550_000B
+"Who originated the role of Effie on the Broadway production Dreamgirls?",HUMANITIES_4c8f_0315,"Jennifer Holliday",HUMANITIES_OPT_f964_000B
+"How was the movie Dreamgirls rated?",HUMANITIES_98fd_0316,PG-13,HUMANITIES_OPT_c050_000B
+"The original Broadway play Dreamgirls was designed to feature which actress/singer?",HUMANITIES_fcba_0317,"Nell Carter",HUMANITIES_OPT_7d62_000D
+"Which word means extravagance in cooking and/or serving?",HUMANITIES_4a46_0318,abliguration,HUMANITIES_OPT_f7a1_000D
+"Which word means leave hurriedly or secretly?",HUMANITIES_9ca2_0319,absquatulate,HUMANITIES_OPT_5d94_000A
+"What does abactor mean?",HUMANITIES_d043_0320,"a cattle thief",HUMANITIES_OPT_3fb0_000A
+"What does the word axilla mean?",HUMANITIES_a6ae_0321,"an armpit",HUMANITIES_OPT_1a17_000C
+"Which word means fear of solitude?",HUMANITIES_7d5c_0322,autophobia,HUMANITIES_OPT_2f0e_000A
+"Which word means pertaining to grandparents?",HUMANITIES_1b20_0323,aval,HUMANITIES_OPT_f504_000A
+"What does anatine mean?",HUMANITIES_3f0a_0324,duck-like,HUMANITIES_OPT_b47e_000A
+"What is the definition of the word acoushla?",HUMANITIES_17f5_0325,"a term of endearment",HUMANITIES_OPT_7af1_000A
+"Which word means a person learning the alphabet?",HUMANITIES_5d56_0326,abecedarian,HUMANITIES_OPT_4d61_000D
+"What does acronyal mean?",HUMANITIES_95d2_0327,"occurring at sunset",HUMANITIES_OPT_efa7_000C
+"Select the correct spelling.",HUMANITIES_99e3_0328,bellwether,HUMANITIES_OPT_f007_000C
+"Hestia is the goddess of the hearth in Greek mythology.",HUMANITIES_5462_0329,True,HUMANITIES_OPT_8105_000A
+"Apollo is the Greek god of the hunt.",HUMANITIES_ca53_0330,False,HUMANITIES_OPT_dcd1_000B
+"Goddess Demeter taught the human beings what according to Greek mythology?",HUMANITIES_2036_0331,Farming,HUMANITIES_OPT_c727_000B
+"What is Poseidon god of in Greek mythology?",HUMANITIES_6989_0332,"Nature and the seas",HUMANITIES_OPT_d018_000A
+"When drawing the human form, the entire figure is generally how many heads tall?",HUMANITIES_0821_0333,8,HUMANITIES_OPT_cce6_000C
+"While tempera paint rarely includes this ingredient nowadays, it was prevalent with the Byzantine artists of the thirteenth and fourteenth centuries.",HUMANITIES_a8db_0334,"Egg yolk",HUMANITIES_OPT_b75f_000B
+"Which of the following is not a type of pottery?",HUMANITIES_d5d6_0335,Glazeware,HUMANITIES_OPT_cd9c_000D
+"Which of the following is not a movement in art history?",HUMANITIES_6005_0336,Subrealism,HUMANITIES_OPT_c3d2_000D
+"When creating a woodcut or linoleum print, you would generally carve out (or remove) which of these?",HUMANITIES_192a_0337,"Negative space",HUMANITIES_OPT_d7ff_000D
+"Which of these qualities represents the major difference between watercolor and acrylic paints?",HUMANITIES_95d9_0338,"Level of opacity",HUMANITIES_OPT_986f_000B
+"What style of art breaks from traditional perspective and depicts the subject matter from multiple points of view, fragmenting a three-dimensional form in order to depict it on the two-dimensional surface?",HUMANITIES_09ec_0339,Cubism,HUMANITIES_OPT_bbd1_000B
+"Which of the following is not an ingredient in typical camera film?",HUMANITIES_c0d6_0340,Sucrose,HUMANITIES_OPT_cc85_000C
+"A drawing in which one continuous line is used to trace the outlines of the subject matter, using more or less pressure to suggest shadow, is called what?",HUMANITIES_3e99_0341,Contour,HUMANITIES_OPT_40c0_000C
+"The method of watercolor painting in which paper, crumpled plastic wrap, or other items are applied to the paint when wet and removed after drying is called decalcomania.",HUMANITIES_66e2_0342,True,HUMANITIES_OPT_4782_000A
+"Tango is a complicated dance with even more complicated origins. Angel Villoldo was the first to ever record a Tango. This is the home of Tango (and Angel Villoldo ).",HUMANITIES_332b_0343,Argentina,HUMANITIES_OPT_6cd6_000D
+"One of the most popular Latin American dances is cha-cha-cha. It became popular in the United States in the 1950s and its music was derived from the music of this dance.",HUMANITIES_0d03_0344,Mambo,HUMANITIES_OPT_c667_000A
+"The home country of Salsa is Brazil.",HUMANITIES_c06b_0345,False,HUMANITIES_OPT_c2e2_000B
+"One of the best (some say he was the best ever) tango dancers was Josе Ovidio Bianquet. His story is as mysterious as tango itself and his nickname is one of the most legendary in the history of this great dance. What is it?",HUMANITIES_35bf_0346,"El Cachafaz",HUMANITIES_OPT_ab55_000C
+"The word samba is probably derived from the Angolan semba, meaning a religious rhythm. The dance and its music were born in the black ghettos of this city. The biggest samba carnival is also held in this city.",HUMANITIES_0c2d_0347,"Rio de Janeiro",HUMANITIES_OPT_9c60_000A
+"Merengue was born in Portugal in the 16th century as part of an important ritual.",HUMANITIES_920e_0348,False,HUMANITIES_OPT_951a_000A
+"Probably the most famous and influential ballroom dance is Waltz. Its closed position became an example for many other dances and made it very fashionable. Waltz first became popular in this city and then spread all over the world.",HUMANITIES_eb39_0349,Vienna,HUMANITIES_OPT_9a7d_000C
+"One of the symbols of the Spanish culture is the Flamenco (Flamenco originally meant Flemish in Spanish). At first Flamenco consisted only of unaccompanied singing, but later came the other essential ingredients, such as the dance and the guitar. What is the name of the flamenco guitar?",HUMANITIES_815b_0350,Toque,HUMANITIES_OPT_2e98_000C
+"Quadrille was born as part of military parades in the 17th century and was performed by 4 horsemen and their horses.",HUMANITIES_8d9e_0351,True,HUMANITIES_OPT_5806_000A
+"This is a Polish folk dance which became quite popular at ballrooms. It is in triple time and its tempo is usually moderate. It has spread all over the world in countries such as the United States, Russia and France.",HUMANITIES_0d08_0352,Mazurka,HUMANITIES_OPT_9946_000B
+"This Latin phrase means to a sickening or tiresome degree.",HUMANITIES_f56f_0353,"ad nauseam",HUMANITIES_OPT_a55d_000D
+"In debating, this term refers to an argument that attacks a persons character, as opposed to the subject of debate.",HUMANITIES_c40b_0354,"ad hominem",HUMANITIES_OPT_9605_000B
+"This is a label inside a book that bears the owners name.",HUMANITIES_1278_0355,"ex libris",HUMANITIES_OPT_548f_000B
+"In England, names of places ending in chester, like Manchester and Winchester come from a Latin word meaning what?",HUMANITIES_b497_0356,camp,HUMANITIES_OPT_9b51_000C
+"Argentina comes from the Latin word Argentum which means silver.",HUMANITIES_651a_0357,True,HUMANITIES_OPT_7b8d_000A
+"A corrupted version of the Arabic word wadi, meaning watercourse, gives us this Spanish toponym.",HUMANITIES_1586_0358,Guadalajara,HUMANITIES_OPT_c503_000D
+"The Native Americans knew this place as Mesconsing, Lewis and Clark recorded it as Quisconsing. Its name was further distorted. What do we know it today as?",HUMANITIES_653c_0359,Wisconsin,HUMANITIES_OPT_8b4a_000A
+"What do the toponyms Rio Grande, Mississippi and Ta Ho mean in their native tongues?",HUMANITIES_3dc3_0360,"Big River",HUMANITIES_OPT_29cd_000B
+"Cairo means happiness in Arabic.",HUMANITIES_81b0_0361,False,HUMANITIES_OPT_2afa_000B
+"What place in New York was named Vlissigen by the Dutch?",HUMANITIES_6f9c_0362,Flushing,HUMANITIES_OPT_07fd_000C
+"Omaha is a distorted Native American tribal name.",HUMANITIES_e0f3_0363,True,HUMANITIES_OPT_d7d0_000A
+"What does Sahara mean in Arabic?",HUMANITIES_63ab_0364,wasteland,HUMANITIES_OPT_ec83_000C
+"For which monarch was the state of Virginia named?",HUMANITIES_5ac1_0365,"Queen Elizabeth I of England",HUMANITIES_OPT_5724_000D
+"Which one of these words means an ornamental clasp or pin?",HUMANITIES_e2cc_0366,brooch,HUMANITIES_OPT_0d1d_000D
+"Pick the B word that does NOT mean to nag or intimidate.",HUMANITIES_44b7_0367,befuddle,HUMANITIES_OPT_462a_000B
+"Which one of these words means to soil or defile?",HUMANITIES_b419_0368,besmirch,HUMANITIES_OPT_f46f_000A
+"Which of the following words does NOT mean a blessing?",HUMANITIES_016b_0369,blight,HUMANITIES_OPT_e294_000C
+"What does the word blithe mean?",HUMANITIES_f232_0370,"joyous and lighthearted",HUMANITIES_OPT_9280_000A
+"Choose the B word that means rough or noisy.",HUMANITIES_196a_0371,boisterous,HUMANITIES_OPT_106c_000B
+"Which of these word means a large group?",HUMANITIES_11ec_0372,bevy,HUMANITIES_OPT_c587_000C
+"Which of these B words means shortness of duration?",HUMANITIES_9bcc_0373,brevity,HUMANITIES_OPT_6094_000C
+"Which one of these words means cheerful and optimistic?",HUMANITIES_8724_0374,buoyant,HUMANITIES_OPT_991a_000A
+"Which of these words means highly ornate?",HUMANITIES_3569_0375,baroque,HUMANITIES_OPT_07af_000A
+"Is it true that the figures of Cupid throughout history have had two different sides?",HUMANITIES_adc6_0376,Yes,HUMANITIES_OPT_aa92_000A
+"There are several different stories about Cupids parentage and the most popular is that his mother is Venus and his father - Mars.",HUMANITIES_2a75_0377,True,HUMANITIES_OPT_2f09_000A
+"The typical Christian depiction of a cherub is often compared to Cupid.",HUMANITIES_d78b_0378,True,HUMANITIES_OPT_4fe0_000B
+"Cupid appears in the movie Toothless and is portrayed by actor Richard Chamberlain.",HUMANITIES_509a_0379,False,HUMANITIES_OPT_cf5d_000B
+"According to Greek mythology, this god is responsible for lust, love and sex.",HUMANITIES_74db_0380,Eros,HUMANITIES_OPT_3553_000A
+"In ancient Athens, one day per week was sacred to Eros.",HUMANITIES_676a_0381,False,HUMANITIES_OPT_d3e4_000A
+"February 14 is the day set aside for Valentines Day, the day celebrating love.",HUMANITIES_4e88_0382,True,HUMANITIES_OPT_a3fe_000B
+"100 million valentines are estimated to be given out in February in honor of Valentines Day.",HUMANITIES_9b89_0383,False,HUMANITIES_OPT_8a39_000A
+"What kind of creature is the leprechaun in Irish mythology?",HUMANITIES_08d0_0384,Fairy,HUMANITIES_OPT_215a_000A
+"Which popular NBA team has a logo, featuring a leprechaun?",HUMANITIES_c8be_0385,"Boston Celtics",HUMANITIES_OPT_aba6_000C
+"Once leprechauns were described as creatures dressed in red.",HUMANITIES_f5ac_0386,True,HUMANITIES_OPT_e191_000B
+"What is the traditional craft practiced by leprechauns according to Irish mythology?",HUMANITIES_5412_0387,"making shoes",HUMANITIES_OPT_3010_000A
+"According to legend, a leprechaun must tell the truth if looked directly in the eye.",HUMANITIES_0871_0388,True,HUMANITIES_OPT_d86b_000A
+"In the old days, in order to keep leprechauns content, Irish people used to leave out a dish of what?",HUMANITIES_2434_0389,Milk,HUMANITIES_OPT_57b4_000A
+"There are female leprechauns.",HUMANITIES_d07f_0390,False,HUMANITIES_OPT_a891_000B
+"A quorum has to do with a group of  which of these?",HUMANITIES_b610_0391,people,HUMANITIES_OPT_f97d_000D
+"Which of these words is associated with clothing?",HUMANITIES_1580_0392,raiment,HUMANITIES_OPT_5f5d_000B
+"Pick out the word that means a type of person.",HUMANITIES_e380_0393,sybarite,HUMANITIES_OPT_7c71_000B
+"Tellurium is a metallic element of this color combination.",HUMANITIES_3ca4_0394,silvery/white,HUMANITIES_OPT_46ef_000B
+"The word umbilicus refers to what part of the human body?",HUMANITIES_0347_0395,"the navel",HUMANITIES_OPT_50bb_000D
+"Which of these words means having an insatiable appetite?",HUMANITIES_58f9_0396,voracious,HUMANITIES_OPT_e89b_000D
+"Which of these animals can be a wrasse?",HUMANITIES_772b_0397,fish,HUMANITIES_OPT_1299_000D
+"Pick out the name of the king of Persia from either 519-465 B.C. or 486-465 B.C.?",HUMANITIES_9967_0398,Xerxes,HUMANITIES_OPT_6435_000C
+"The word yurt is similar in meaning to which of these words?",HUMANITIES_1090_0399,tent,HUMANITIES_OPT_9510_000D
+"Which of these words means to guess?",HUMANITIES_bd35_0400,conjecture,HUMANITIES_OPT_2625_000A
+"Does the word clemency mean the state of being a huge Mark Twain fan?",HUMANITIES_2a84_0401,No,HUMANITIES_OPT_81c1_000B
+"Pick the word that does NOT mean conversation.",HUMANITIES_7f6a_0402,concordance,HUMANITIES_OPT_39d6_000C
+"Which of these words can be defined as an expert critical judge of art?",HUMANITIES_034e_0403,connoisseur,HUMANITIES_OPT_4039_000B
+"Which one of these words means pleased or satisfied with oneself?",HUMANITIES_940d_0404,complacent,HUMANITIES_OPT_494b_000B
+"Which of these words means panic?",HUMANITIES_17db_0405,consternation,HUMANITIES_OPT_1661_000D
+"Pick the word that means annoyance at ones own failures or errors.",HUMANITIES_dd08_0406,chagrin,HUMANITIES_OPT_f2ed_000C
+"Which one of these words means to recover after a sickness?",HUMANITIES_157b_0407,convalesce,HUMANITIES_OPT_a051_000B
+"The word centimeter means one hundred meters.",HUMANITIES_02d0_0408,False,HUMANITIES_OPT_6659_000A
+"Find the word that does NOT mean to hold back.",HUMANITIES_a525_0409,conduce,HUMANITIES_OPT_efe3_000D
+"For which culture does a Sinophile have an obsessive love?",HUMANITIES_d645_0410,China,HUMANITIES_OPT_1f9e_000B
+"Philhellenism is an obsessive love of which culture?",HUMANITIES_35fb_0411,Greek,HUMANITIES_OPT_bfc3_000C
+"What is cyberphilia?",HUMANITIES_3011_0412,"An obsessive love of the Internet",HUMANITIES_OPT_51d4_000A
+"This is an obsessive love of  clowns.",HUMANITIES_2cf8_0413,Coulrophilia,HUMANITIES_OPT_44b6_000C
+"Of course there is a word for an obsessive love of peanut butter sticking to the roof of your mouth. Which one is it?",HUMANITIES_45ee_0414,Arachibutyrophilia,HUMANITIES_OPT_b210_000C
+"This is an obsessive love of walking.",HUMANITIES_e741_0415,Ambulophilia,HUMANITIES_OPT_688e_000C
+"For what does a lygophile have an obsessive love?",HUMANITIES_04bb_0416,Darkness,HUMANITIES_OPT_58eb_000C
+"This is an obsessive love of cats.",HUMANITIES_d2ba_0417,Ailurophilia,HUMANITIES_OPT_b1eb_000D
+"Trichophilia is an obsessive love of what ?",HUMANITIES_d7c1_0418,Hair,HUMANITIES_OPT_8959_000C
+"What do we call an obsessive love of being ridiculed?",HUMANITIES_14b9_0419,Catagelophilia,HUMANITIES_OPT_d63b_000C
+"What is the term for obsessive love of wild animals?",HUMANITIES_a1f3_0420,Agriozoophilia,HUMANITIES_OPT_bead_000A
+"What is  cenophilia ?",HUMANITIES_ac81_0421,"An obsessive love of empty spaces",HUMANITIES_OPT_cc20_000B
+"Which of these phrases can mean fashionable?",HUMANITIES_a3ca_0422,"a la mode",HUMANITIES_OPT_0dc3_000D
+"Literally (not figuratively), what does the word adieu mean?",HUMANITIES_709d_0423,"to God",HUMANITIES_OPT_c248_000A
+"What is an aperitif?",HUMANITIES_518c_0424,"a before meal drink",HUMANITIES_OPT_d135_000B
+"What does blase mean?",HUMANITIES_5d9e_0425,unimpressed,HUMANITIES_OPT_1d0c_000B
+"Cafe au lait is an outdoor cafe.",HUMANITIES_b63a_0426,False,HUMANITIES_OPT_65e4_000B
+"What does the word coquette mean?",HUMANITIES_f830_0427,"a flirtatious girl",HUMANITIES_OPT_9105_000A
+"Which phrase refers to love of life?",HUMANITIES_d007_0428,"joie de vivre",HUMANITIES_OPT_4f29_000B
+"The definition of the phrase, cause celebre, is an issue arousing widespread controversy or heated public debate.",HUMANITIES_a69e_0429,True,HUMANITIES_OPT_1d57_000A
+"What is the literal translation of vis-a-vis?",HUMANITIES_7d12_0430,"face to face",HUMANITIES_OPT_e375_000A
+"Which phrase can mean feat of strength?",HUMANITIES_60ea_0431,"tour de force",HUMANITIES_OPT_3d9a_000D
+"Suppose you wanted to study law and become a lawyer.   The word for lawyer in Spanish is _______________.",HUMANITIES_b580_0432,abogado,HUMANITIES_OPT_bb71_000B
+"In Spanish, what would you be called if you were a fireman?",HUMANITIES_faae_0433,bombero,HUMANITIES_OPT_e08a_000D
+"What if you wanted to be the mayor of your town?   What would that profession be called in Spanish?",HUMANITIES_7afd_0434,alcalde,HUMANITIES_OPT_c3d5_000C
+"How about if you become a baker?  In Spanish, you would be called a what?",HUMANITIES_d00a_0435,panadero,HUMANITIES_OPT_cd1a_000A
+"Youre 5 years old.   Your mommy asks you what you want to be when you grow up.  You say I wanna be a cowboy.  How would you say cowboy in Spanish?",HUMANITIES_c363_0436,vaquero,HUMANITIES_OPT_73af_000C
+"My dad is an avid fisherman.  If he were a Spanish fisherman, what would his profession be called?",HUMANITIES_439e_0437,pescador,HUMANITIES_OPT_afaf_000C
+"If you wanted to be a clown in a Spanish circus, you would be called a payaso.",HUMANITIES_b452_0438,True,HUMANITIES_OPT_0619_000A
+"Your father was a cobbler. Your grandfather was a cobbler. Your great grandfather was a cobbler.  Chances are you may become a cobbler too.  What would the Spanish word for cobbler be?",HUMANITIES_29ff_0439,zapatero,HUMANITIES_OPT_2076_000B
+"Okay, so you want to be a judge in Madrid.  What word would you be called?",HUMANITIES_d7ba_0440,juez,HUMANITIES_OPT_8bec_000A
+"My brother lives in Mexico City.  He wants to be a trainer.  What would his job be called in Spanish?",HUMANITIES_0693_0441,entrenador,HUMANITIES_OPT_a9b2_000C
+"What is the English word for the Spanish word fiesta ?",HUMANITIES_58e7_0442,party,HUMANITIES_OPT_9178_000D
+"How do you translate the Spanish word pescado into English?",HUMANITIES_2775_0443,fish,HUMANITIES_OPT_ba96_000B
+"What is the English word for the Spanish paloma?",HUMANITIES_673f_0444,pigeon,HUMANITIES_OPT_000c_000D
+"The English word for the Spanish word corazón is what?",HUMANITIES_ff10_0445,heart,HUMANITIES_OPT_3954_000C
+"Give me the English word for the Spanish word hermano.",HUMANITIES_cdcf_0446,brother,HUMANITIES_OPT_c024_000D
+"How does one say the word naranja from Spanish into English?",HUMANITIES_59a8_0447,orange,HUMANITIES_OPT_c9a2_000B
+"Now give me the English word for the Spanish word espejo.",HUMANITIES_4a62_0448,mirror,HUMANITIES_OPT_3a4e_000A
+"Give me the English variant for the Spanish first name Guillermo.",HUMANITIES_42cc_0449,William,HUMANITIES_OPT_0113_000D
+"What is the translation of the Spanish word miércoles in English?",HUMANITIES_dfaf_0450,Wednesday,HUMANITIES_OPT_240d_000A
+"How do you translate cuchara from Spanish to English?",HUMANITIES_c67c_0451,spoon,HUMANITIES_OPT_9ac5_000A
+"What is a Tombola?",HUMANITIES_7704_0452,"A type of lottery",HUMANITIES_OPT_40e1_000A
+"Tomentum is a word describing the increase in speed of a rolling object which is then accelerated e.g. kicking a soccer ball",HUMANITIES_8545_0453,False,HUMANITIES_OPT_8c3e_000B
+"What is another word for tome?",HUMANITIES_e699_0454,work,HUMANITIES_OPT_8d3c_000C
+"Which Tom played Dr Who in the cult BBC television series?",HUMANITIES_e476_0455,"Tom Baker",HUMANITIES_OPT_e98d_000A
+"Which musician(s) created the rock opera Tommy?",HUMANITIES_783b_0456,"The Who",HUMANITIES_OPT_0557_000D
+"A Tom Collins is a long drink consisting of vodka, lime or lemon juice, sugar and soda water.",HUMANITIES_c6aa_0457,False,HUMANITIES_OPT_a969_000A
+"In Greek mythology, Sirens often led sailors to their deaths with their beautiful songs.",HUMANITIES_26be_0458,True,HUMANITIES_OPT_f352_000B
+"In Greek mythology, a minotaur was made up of what two creatures?",HUMANITIES_eda1_0459,"man and bull",HUMANITIES_OPT_c2c2_000C
+"This 3-headed beast guarded the gates to Hades.",HUMANITIES_f75a_0460,Cerberus,HUMANITIES_OPT_3bb2_000C
+"How do we call a person who initiates an attack?",HUMANITIES_d3be_0461,aggressor,HUMANITIES_OPT_920b_000A
+"This is how we refer to a person who writes any type of literary products.",HUMANITIES_40f3_0462,author,HUMANITIES_OPT_3b42_000D
+"What is the term for a person responsible for devising a new machine or a new process of doing something?",HUMANITIES_c056_0463,inventor,HUMANITIES_OPT_ae1c_000D
+"How do we call a person who takes on a new identity in order to deceive?",HUMANITIES_f196_0464,impostor,HUMANITIES_OPT_efe3_000A
+"Someone who entertains by pretending to be someone else, usually either in a play or through film products.",HUMANITIES_b873_0465,actor,HUMANITIES_OPT_eac4_000A
+"A university or college teacher is known as a professor.",HUMANITIES_8e11_0466,True,HUMANITIES_OPT_50b5_000A
+"How do we call someone that does detective work?",HUMANITIES_f2d4_0467,investigator,HUMANITIES_OPT_0898_000A
+"A tailor is someone who only makes new clothes.",HUMANITIES_4e7d_0468,False,HUMANITIES_OPT_a9ca_000B
+"A spectator is someone who participates in activities or sporting events.",HUMANITIES_b6b5_0469,False,HUMANITIES_OPT_dec4_000B
+"Which of these terms are used for a person who is responsible for or oversees the work done by others?",HUMANITIES_5fe4_0470,"all of these",HUMANITIES_OPT_599b_000D
+"This god, representing everything that threatened harmony in Egypt, was the brother of Osiris and Isis. He murdered Osiris, then battled with his nephew Horus to be the ruler of the living.",HUMANITIES_8e20_0471,Seth,HUMANITIES_OPT_ce61_000B
+"Since jackals were often seen in cemeteries, the ancient Egyptians believed that Anubis, a god with human body and jackal head, watched over the process of embalming.",HUMANITIES_9ae8_0472,True,HUMANITIES_OPT_6682_000A
+"Tawaret was a goddess who protected women during pregnancy and childbirth. She was most often depicted with the head of a hippopotamus, arms and legs of a lion, back and tail of a crocodile, and breasts and stomach of a pregnant woman.",HUMANITIES_6ad5_0473,True,HUMANITIES_OPT_8fc2_000A
+"The goddess Anekantin was Isis’ sister and Anubis’ wife.",HUMANITIES_5399_0474,False,HUMANITIES_OPT_d5ff_000B
+"This center is associated with intuition and sensory perception.",HUMANITIES_775b_0475,"Center of brow",HUMANITIES_OPT_ca0d_000A
+"Location of the spiritual center.",HUMANITIES_e453_0476,Throat,HUMANITIES_OPT_1ae3_000D
+"What color would you use to heal the etheric (root) center?",HUMANITIES_83ca_0477,Red,HUMANITIES_OPT_7703_000C
+"What color would we nedd to heal the soul?",HUMANITIES_b079_0478,Violet,HUMANITIES_OPT_565d_000D
+"The hara, located approximately three inches below the navel, also know as this chakra.",HUMANITIES_5bd4_0479,Orange,HUMANITIES_OPT_b72f_000A
+"The heart center located at the center of the chest is this color and controls the circulatory system, heart, lungs and entire chest area.",HUMANITIES_976e_0480,"Emerald Green",HUMANITIES_OPT_8733_000B
+"The brow center is associated with a persons extra-sensory perception and inner vision.  It is represented by this color.",HUMANITIES_6d49_0481,Indigo,HUMANITIES_OPT_1784_000B
+"This color is used to heal the solar-plexus, also known as the power center.",HUMANITIES_eea7_0482,Yellow,HUMANITIES_OPT_8675_000C
+"How many major chakras are there?",HUMANITIES_9dad_0483,7,HUMANITIES_OPT_b2ac_000A
+"Chakras are centers for this intangible quality.",HUMANITIES_7989_0484,Energy,HUMANITIES_OPT_89a5_000C
+"Which German word means knowledge in English?",HUMANITIES_9bb6_0485,Kenntniss,HUMANITIES_OPT_8b61_000B
+"The German noun Frage means question in English.",HUMANITIES_e5ef_0486,True,HUMANITIES_OPT_e49f_000B
+"How is the German word Arztin translated into English?",HUMANITIES_b8c4_0487,Doctor,HUMANITIES_OPT_3bad_000A
+"What is the English equivalent of the German phrase Woher kommen Sie?",HUMANITIES_7b5b_0488,"Where do you come from?",HUMANITIES_OPT_ed1e_000B
+"German and English have a lot in common, because they both belong to the group of Germanic languages. How is the question Wie alt sind Sie? translated into English?",HUMANITIES_3234_0489,"How old are you?",HUMANITIES_OPT_2544_000D
+"What is the word for table in French?",HUMANITIES_d2ee_0490,table,HUMANITIES_OPT_2734_000A
+"How do you say cat in French?",HUMANITIES_c30d_0491,chat,HUMANITIES_OPT_127f_000B
+"If I wanted to say the word pencil in French, what would I say?",HUMANITIES_37ad_0492,crayon,HUMANITIES_OPT_2a79_000D
+"Count to five in French: un, deux, trois, quatre, ____. What is the missing number?",HUMANITIES_461c_0493,cinq,HUMANITIES_OPT_4d3d_000C
+"What is the French word for snow?",HUMANITIES_8e84_0494,neige,HUMANITIES_OPT_03a0_000C
+"Which of these is the French word for peace?",HUMANITIES_de84_0495,paix,HUMANITIES_OPT_565f_000C
+"What is the word for egg in French?",HUMANITIES_a74f_0496,oeuf,HUMANITIES_OPT_72b9_000A
+"How does one say cup in French?",HUMANITIES_1d7b_0497,tasse,HUMANITIES_OPT_fed5_000C
+"You’re in France and you want to tell someone that he has a nice tie. What is the word for “tie?”",HUMANITIES_9336_0498,cravate,HUMANITIES_OPT_a5bb_000A
+"What is the French word for sea?",HUMANITIES_3026_0499,mer,HUMANITIES_OPT_6d25_000D
+"Watch out! The road is under _____________.",HUMANITIES_4d39_0500,Construction,HUMANITIES_OPT_0c61_000A
+"What does the Latin phrase Quidquid latine dictum sit, altum videtur mean?",HUMANITIES_1a5b_0501,"Anything said in Latin sounds profound",HUMANITIES_OPT_4564_000C
+"What does Ad astra per aspera mean in English?",HUMANITIES_aacb_0502,"To the stars through hardships",HUMANITIES_OPT_8e3f_000D
+"Julius Caesar once said veni, vidi, vici. What did he mean?",HUMANITIES_4cb6_0503,"I came, I saw, I conquered",HUMANITIES_OPT_67e1_000D
+"What is vir in Latin?",HUMANITIES_9aed_0504,"A man",HUMANITIES_OPT_5cc7_000A
+"What does Vae Victis mean?",HUMANITIES_c390_0505,"Woe to the conquered",HUMANITIES_OPT_cb9a_000B
+"If your business partner says pacta sunt servanda, what does he/she mean?",HUMANITIES_1f3d_0506,"Agreements must be honoured.",HUMANITIES_OPT_30e9_000B
+"To whom can you say Cura te ipsum!?",HUMANITIES_00d4_0507,"To a doctor, when you do not agree with his/her diagnosis",HUMANITIES_OPT_7820_000D
+"When they refer to future events in writing, some people use DV which stands for Deo volente. What does it mean?",HUMANITIES_6397_0508,"By Gods will",HUMANITIES_OPT_abd8_000D
+"When is it proper to say Nunc est bibendum?",HUMANITIES_ad58_0509,"At a party",HUMANITIES_OPT_4720_000B
+"What does Roma locuta, causa finita est mean?",HUMANITIES_4bd1_0510,"Rome has spoken, the discussion is finished.",HUMANITIES_OPT_bc87_000B
+"What is the meaning of sapiens?",HUMANITIES_8092_0511,"wise, reasonable",HUMANITIES_OPT_286e_000B
+"How can Nemo sine vitio est be translated into English?",HUMANITIES_0c6e_0512,"No one is without fault",HUMANITIES_OPT_8d7c_000A
+"What is the missing part of the proverb Hatred is as blind as ...?",HUMANITIES_2628_0513,Love,HUMANITIES_OPT_0df1_000C
+"Finish the proverb: Blood is thicker than ...",HUMANITIES_bbbc_0514,Water,HUMANITIES_OPT_fe45_000D
+"What is the missing word in the popular proverb A stitch in time saves ...?",HUMANITIES_69be_0515,Nine,HUMANITIES_OPT_aac6_000A
+"Complete the popular proverb: Tall oaks grow from ...",HUMANITIES_0392_0516,"Little acorns",HUMANITIES_OPT_621c_000D
+"What is the missing part of the proverb, The ... wounds more than a lance?",HUMANITIES_9c76_0517,Tongue,HUMANITIES_OPT_4c2e_000B
+"What is the end of the proverb Two wrongs dont make ...?",HUMANITIES_3bb1_0518,"A right",HUMANITIES_OPT_bb05_000C
+"What is the missing part of the saying Make a silk purse out of a ...?",HUMANITIES_c0e1_0519,"Sows ear",HUMANITIES_OPT_2611_000C
+"What is the missing word of the proverb: A loaded ... makes no noise?",HUMANITIES_7edb_0520,Wagon,HUMANITIES_OPT_2d64_000B
+"What is the missing word from the popular saying A burnt child dreads the ...?",HUMANITIES_3ceb_0521,Fire,HUMANITIES_OPT_a206_000B
+"Complete the following proverb: Learn to walk before you ...",HUMANITIES_7a8e_0522,Run,HUMANITIES_OPT_0ce7_000A
+"Which word refers to the ancient Greek songs, performed by a chorus in honor of the Greek god, Dionysus?",HUMANITIES_1a2b_0523,dithyramb,HUMANITIES_OPT_10e3_000B
+"Within the Olympian tradition, Dionysos was said to be the son of Zeus and which mortal woman?",HUMANITIES_4f36_0524,Semele,HUMANITIES_OPT_40ed_000A
+"In both Greek and Roman mythology Dionysus is known by what other name?",HUMANITIES_709c_0525,Bacchus,HUMANITIES_OPT_519f_000A
+"Which word refers to the ecstatic female worshippers of god Dionysos?",HUMANITIES_0c76_0526,maenads,HUMANITIES_OPT_164b_000A
+"Dendrites is one of the epithets used for god Dionysus.",HUMANITIES_7468_0527,True,HUMANITIES_OPT_9dcb_000B
+"God Dionysus is viewed as the promoter of civilization, a lawgiver, and lover of peace.",HUMANITIES_707d_0528,True,HUMANITIES_OPT_8b5d_000A
+"Which word refers to the eating of raw flesh, a common practice in Dionysian worship?",HUMANITIES_bb9a_0529,omophagia,HUMANITIES_OPT_050f_000D
+"These mythological half-man and half-goat creatures, which roamed the woods and mountains, were companions of Dionysus.",HUMANITIES_913b_0530,satyrs,HUMANITIES_OPT_f582_000A
+"Worshippers of god Dionysus often wore what type of attire over their shoulders?",HUMANITIES_84dd_0531,"fawn skin",HUMANITIES_OPT_53c0_000C
+"Anthesteria, a festival in honour of Dionysus, celebrated the maturing of the wine stored at the previous vintage, and the beginning of spring.",HUMANITIES_0f64_0532,True,HUMANITIES_OPT_4b0b_000B
+"Which one of these goddesses is NOT similar to Aphrodite in some way?",HUMANITIES_409a_0533,Saraswati,HUMANITIES_OPT_f306_000A
+"Was the lime tree goddess Aphrodites sacred tree?",HUMANITIES_08b4_0534,Yes,HUMANITIES_OPT_98b8_000B
+"Which one of these animals was NOT sacred for Aphrodite?",HUMANITIES_979a_0535,Peacock,HUMANITIES_OPT_27eb_000D
+"Which one of these names is not one of goddess Aphrodites surnames?",HUMANITIES_68fc_0536,Telaia,HUMANITIES_OPT_d31c_000D
+"According to Greek mythology, who was Adonia?",HUMANITIES_06af_0537,"The name of a festival to celebrate Adonis and Aphrodite",HUMANITIES_OPT_4052_000C
+"Born in Barrow, Suffolk she studied to become one of the most important portrait painters in the 17th century.",HUMANITIES_0221_0538,"Mary Beale",HUMANITIES_OPT_812f_000B
+"In her twenties, this Dutch painter became the only female member of the Haarlem painters guild and quickly adopted students of her own.",HUMANITIES_09e9_0539,"Judith Leyster",HUMANITIES_OPT_ce24_000B
+"She is the only Flemish woman to have specialized in still-life painting as early as the beginning of the 17th century.",HUMANITIES_6341_0540,"Clara Peeters",HUMANITIES_OPT_e867_000D
+"She was arguably the most educated and most famous woman of the 17th century. She spoke Latin, modern European languages, Greek, Hebrew, Arabic, Syriac, Aramaic, and Ethiopian.  She also excelled in art, music and literature.",HUMANITIES_8799_0541,"Anna Maria van Schurman",HUMANITIES_OPT_4874_000C
+"This Swiss Neoclassicist painter was chosen to paint the portrait of Monsignor Nevroni, bishop of Como, before she turned 12.  Later, she became a distinguished portrait painter.",HUMANITIES_f9a6_0542,"Angelica Kauffmann",HUMANITIES_OPT_39a8_000B
+"Born in London, she became the most important woman in the silver trade.  She and her husband made their reputation with silver in the popular French rococo style.",HUMANITIES_37bb_0543,"Louisa Courtauld",HUMANITIES_OPT_0cb6_000A
+"This woman is referred to as the the most outstanding woman goldsmith of her generation . But this was not by chance - she was the daughter of the famous English silversmith Simon Pantin.",HUMANITIES_0cbe_0544,"Elizabeth Godfrey",HUMANITIES_OPT_cd1c_000B
+"She was the predecessor of Madame Tussaud. She modelled wax figures of famous people.",HUMANITIES_f866_0545,"Patience Wright",HUMANITIES_OPT_2510_000C
+"Although she was very young in 1876,  she had great success painting the portrait of Sarah Bernhardt.",HUMANITIES_aed5_0546,"Louise Abbema",HUMANITIES_OPT_b63b_000C
+"The themes of this artist are feminist and political, depicting literary-historical figure groups and decorative female heads.",HUMANITIES_f588_0547,"Marie Spartali Stillman",HUMANITIES_OPT_f45a_000A
+"In Greek mythology the Cyclopes were the so called Olympians masons. They built the marvellous palace of the gods at the top of the highest mountain in Greece - Mount Olympus.",HUMANITIES_73ad_0548,True,HUMANITIES_OPT_7e84_000B
+"Why did Phaethon take Apollos chariot and ride off across the sky?",HUMANITIES_32a9_0549,"He was taunted about his origin by Epaphus, a son of Zeus.",HUMANITIES_OPT_d4f0_000D
+"What was the name of the mythological statue in which Pygmalion fell in love and eventually the statue became a woman?",HUMANITIES_4ee5_0550,Galatea,HUMANITIES_OPT_d79d_000B
+"What was the name of the Lithuanian god of the sky, earth, sea and all living creatures who decided to punish mankind and sent to the Earth the Spirit of water and the Spirit of wind?",HUMANITIES_1407_0551,Praamzius,HUMANITIES_OPT_e100_000A
+"What was the name of the Lithuanian god that can be compared to the Creek god of underworld, Hades?",HUMANITIES_66c7_0552,Pikulas,HUMANITIES_OPT_73d0_000B
+"According to Greek myths, this was the first robot which was made by Hephaestus to protect Crete.",HUMANITIES_4d12_0553,Talos,HUMANITIES_OPT_dc22_000B
+"In Finnish myths the Sampo was a magic artifact made by the blacksmith IImarinen for the sorceress Louhi of Pohjola. What kind of object was this artifact?",HUMANITIES_9dbe_0554,"a mill",HUMANITIES_OPT_fbc1_000B
+"According to Scandinavian mythology, the chaos will defeat the guardians of good and this catastrophe will bring the world to an end. What is the name of this final battle between evil and good, in which the gods will be outnumbered?",HUMANITIES_a2ab_0555,Ragnarok,HUMANITIES_OPT_7aee_000B
+"This is the goddess of eternal youth, the guardian of the golden apples of youth in the Scandinavian mythology.",HUMANITIES_e48f_0556,Idun,HUMANITIES_OPT_b196_000B
+"According to a Polish legend, which city in Poland was named after a hero who defeated a fearful dragon?",HUMANITIES_58de_0557,Cracow,HUMANITIES_OPT_7723_000D
+"What state in the U.S. is commonly believed to have Spanish as an official language?",HUMANITIES_1270_0558,"New Mexico",HUMANITIES_OPT_50a7_000A
+"In what country in Africa is Spanish the official language?",HUMANITIES_751a_0559,"Equatorial Guinea",HUMANITIES_OPT_14f1_000D
+"What language is regarded as the biggest contributor to the Spanish language after English and Latin?",HUMANITIES_cc3a_0560,Arabic,HUMANITIES_OPT_b7f8_000C
+"Besides Espanol, Spanish language is also called Castellano.",HUMANITIES_0d70_0561,True,HUMANITIES_OPT_2b2c_000A
+"This language, spoken by the Sephardic Jews, is a combination of Hebrew and Spanish.",HUMANITIES_a282_0562,Ladino,HUMANITIES_OPT_8f70_000B
+"Spanish is one of the six official languages of the U.N.",HUMANITIES_36a6_0563,True,HUMANITIES_OPT_1874_000B
+"What is the name of the institution responsible for regulating the Spanish language?",HUMANITIES_ef86_0564,"Royal Spanish Academy",HUMANITIES_OPT_a7cc_000B
+"What did the Royal Spanish Academy rule in 1994?",HUMANITIES_51fc_0565,"The consonants CH and LL would not be considered separate letters.",HUMANITIES_OPT_48c5_000B
+"The official languages of Haiti are Spanish and French.",HUMANITIES_b87f_0566,False,HUMANITIES_OPT_ca00_000A
+"In how many countries is Spanish the official language?",HUMANITIES_e10e_0567,21,HUMANITIES_OPT_7972_000A
+"In the movie Rent which 4 of the 8 main characters have AIDS?",HUMANITIES_2feb_0568,"Roger, Mimi, Collins, Angel",HUMANITIES_OPT_7d09_000D
+"What drug is Rent character Mimi addicted to?",HUMANITIES_321e_0569,Heroin,HUMANITIES_OPT_9151_000C
+"What is the name of this song, featured in the movie Rent: Compassion, to fashion, to passion when its new.  To Sontag.  To Sondheim. To anything taboo. Ginsberg, Dylan, Cunningham and Cage. Lenny Bruce. Langston Hughes. To the stage. To Uta. To Buddha. Pablo Neruda, too. Why Dorothy and Toto went over the rainbow To blow off Auntie Em...?",HUMANITIES_b305_0570,"La Vie Boheme",HUMANITIES_OPT_c2b5_000C
+"What is the name of the song that Maureen and Joanne sing to each other at their commitment ceremony in the film Rent?",HUMANITIES_7dba_0571,"Take Me or Leave Me",HUMANITIES_OPT_65e8_000B
+"In the movie Rent, what is Marks relation to Maureen?",HUMANITIES_b5f0_0572,"They used to date.",HUMANITIES_OPT_7c54_000A
+"What actor gained 55 pounds and learned how to box to bring the real-life story of boxer Jake La Motta to the screen?",HUMANITIES_a5ee_0573,"Robert De Niro",HUMANITIES_OPT_0088_000A
+"In order to play insomniac Trevor Reznik in The Machinist, this actor lost 60 pounds in just a few months. Later he went from 130 pounds to 230 pounds in six months to play Bruce Wayne.",HUMANITIES_0ffd_0574,"Christian Bale",HUMANITIES_OPT_96fb_000A
+"This actress gave you goose pimples when her character, Annie Wilkes, told writer Paul Sheldon, Im your number one fan. There is nothing to worry about. You are going to be just fine. Im your number one fan.",HUMANITIES_e2af_0575,"Kathy Bates",HUMANITIES_OPT_a804_000C
+"Paul Newman has starred in Cat on a Hot Tin Roof, Butch Cassidy and the Sundance Kid, Cool Hand Luke and The Sting. In what movie did Newmans character praise Fat Man, you shoot a great game of pool.?",HUMANITIES_edf1_0576,"The Hustler",HUMANITIES_OPT_0ac1_000A
+"What is grammaticalization?",HUMANITIES_6749_0577,"The conversion of a substantive word into an auxiliary word",HUMANITIES_OPT_20cb_000D
+"Approximately how many spoken languages are there in the world today?",HUMANITIES_229d_0578,6000,HUMANITIES_OPT_9af3_000B
+"What does the linguistics term creole mean?",HUMANITIES_4432_0579,"A language which is adopted from a pidgin language, but is more complex, with its own grammatical rules.",HUMANITIES_OPT_7978_000B
+"What is Ebonics (also known as African American Vernacular and Black English)?",HUMANITIES_9877_0580,"A dialect of English",HUMANITIES_OPT_2689_000A
+"Of all the languages in the world today, how many are written languages?",HUMANITIES_caad_0581,200,HUMANITIES_OPT_26cd_000D
+"Which statement about English is true?",HUMANITIES_4380_0582,"It is a language related to German in structure, but with a great deal of French vocabulary.",HUMANITIES_OPT_d0e8_000A
+"Which one of the following languages is not in the same language family as the others?",HUMANITIES_a33f_0583,Finnish,HUMANITIES_OPT_e0fe_000D
+"Which of the following languages is a highly inflected language?",HUMANITIES_4b1d_0584,Russian,HUMANITIES_OPT_3342_000D
+"Sentence structure can be described in the following way: S=Subject. O=Object. V=Verb. There are 6 possible sentence structures: SVO (as English is), SOV (as German is), OSV, OVS, VSO, and VOS. Of these 6 possible sentence structures, which one has never been found to exist?",HUMANITIES_69c8_0585,"None of these. All 6 have been found.",HUMANITIES_OPT_7035_000B
+"The word gargantuan is an eponym derived from a character, depicted by this 16th century French author.",HUMANITIES_70d4_0586,"François Rabelais",HUMANITIES_OPT_3d3b_000D
+"The term Quizling, which means a traitor, is derived from the name of Vidkun Quisling, who assisted Nazi Germany while serving as Minister-President of this country.",HUMANITIES_0d38_0587,Norway,HUMANITIES_OPT_1f57_000B
+"The name of the famous womanizer Giacomo Casanova has become synonymous with the art of seduction. Who wrote the book Histoire de ma vie which covers part of Casanovas life?",HUMANITIES_9ab1_0588,"Giacomo Casanova",HUMANITIES_OPT_dbb9_000D
+"Which of these musical instruments was named after a person?",HUMANITIES_3f93_0589,saxophone,HUMANITIES_OPT_b51f_000A
+"What Ancient Greek lyric poet was born on the island of Lesbos from which the term lesbian is derived?",HUMANITIES_b2fc_0590,Sappho,HUMANITIES_OPT_691e_000B
+"The word shylock, which refers to a ruthless moneylender, is derived from the name of a character appearing in what Shakespearean play?",HUMANITIES_4a43_0591,"The Merchant of Venice",HUMANITIES_OPT_35d9_000D
+"The phrase Herculean task, meaning a difficult task that requires great effort, originates from the stories of the Twelve Labors of the divine hero Hercules. Which of these is not one of the labors Hercules had to perform?",HUMANITIES_859a_0592,"Take fire from Mount Olympus",HUMANITIES_OPT_2fa7_000B
+"The modern sandwich is possibly named after the 4th Earl of Sandwich, who allegedly ordered his servant to bring him meat tucked between two pieces of bread, as he was unwilling to leave this activity.",HUMANITIES_426f_0593,gambling,HUMANITIES_OPT_ee71_000B
+"What is the origin of the word maverick, which refers for a person of independent views?",HUMANITIES_ff52_0594,"It is derived from the name of Samuel Maverick, a Texan who lived in the 19th century.",HUMANITIES_OPT_9aae_000C
+"Which of these weapons, named after people, is colloquially known as The Gun That Won the West?",HUMANITIES_ebb7_0595,"Winchester rifle",HUMANITIES_OPT_2f20_000D
+"Yogic postures are know as this.",HUMANITIES_b14f_0596,Asanas,HUMANITIES_OPT_bb75_000C
+"Yoga originates from this country.",HUMANITIES_4665_0597,India,HUMANITIES_OPT_722b_000A
+"The breathing exercises, pranayama help with this.",HUMANITIES_82e4_0598,"All of the above",HUMANITIES_OPT_4892_000D
+"Yoga literally means this.",HUMANITIES_3a31_0599,Union,HUMANITIES_OPT_6bf9_000B
+"Each Yoga path is suited to a different temperament or approach to life.  How many different main paths are there in Yoga?",HUMANITIES_8122_0600,4,HUMANITIES_OPT_54b2_000C
+"Bhakti Yoga is the path of this.",HUMANITIES_8778_0601,"Devotion or Divine Love",HUMANITIES_OPT_1e11_000C
+"That which enters the body is called Prana and that which leaves it is called Apana.  What does Prana mean?",HUMANITIES_a23b_0602,"Life force",HUMANITIES_OPT_2550_000B
+"Which of these is a principle of Yoga",HUMANITIES_f747_0603,"All of the above",HUMANITIES_OPT_c97b_000A
+"Although in western culture she is known for the Dance of the Seven Veils, the Bible only says she danced for Herod. Her dancing pleased Herod so much that he promised her anything she wanted. What famous dancer asked for the head of John the Baptist?",HUMANITIES_2162_0604,Salome,HUMANITIES_OPT_2468_000A
+"Considered by many to be one of the greatest American dancers, this Kirov Ballet dancer defected while touring in Canada in 1974. He became the Principle Dancer for the American Ballet Theatre. Which dancer played Carrie Bradshaws Russian boyfriend in Sex in the City?",HUMANITIES_74b8_0605,"Mikhail Baryshnikov",HUMANITIES_OPT_ba94_000D
+"Blue jean baby, LA lady, seamstress for the band is the beginning line in this Elton John song. Who is the Ballerina, you must have seen dancing in the sand?",HUMANITIES_3583_0606,"Tiny Dancer",HUMANITIES_OPT_c96a_000A
+"This American woman is often called the Mother of Modern Dance. She was a hit in Europe but many Americans disapproved of her life style and politics. Whose last words were reported to be Goodbye my friends, I am off to glory.",HUMANITIES_cd66_0607,"Isadora Duncan",HUMANITIES_OPT_2b0f_000D
+"What is the name of the dancer described in the following lyrics? He would dance for you in worn out shoes with silver hair, a ragged shirt, and baggy pants the old soft shoe He jumped so high, jumped so high Then he lightly touched down.",HUMANITIES_b0ac_0608,"Mr. Bojangles",HUMANITIES_OPT_3f2e_000A
+"She was the prima ballerina for the New York City Ballet from 1947 to 1960. She was married to George Balanchine, one of the greatest ballet choreographers of the 20th century, who wrote some of his most famous works for her. What famous ballerina danced Balanchines The Firebird and originated the role of the Sugar Plum Fairy in Balanchines The Nutcracker?",HUMANITIES_6466_0609,"Marie Tallchief",HUMANITIES_OPT_8cb4_000B
+"She came out strutting wearing only a button and a bow. But it was the grand finale that got the audience every time. She did a triple somersault and when she hit the ground, she winked at the audience and then she turned around. Who had a tattoo of a cowboy pictured on her spine that said Phoenix,  Arizona 1949?",HUMANITIES_c8db_0610,"Little Egypt",HUMANITIES_OPT_93f6_000D
+"What is the name of the dwelling place of the Norse gods?",HUMANITIES_58fd_0611,Asgard,HUMANITIES_OPT_c7e2_000C
+"In Norse mythology, what kind of animals are Odins two companions that kept him informed of various events?",HUMANITIES_79d9_0612,ravens,HUMANITIES_OPT_253f_000C
+"What is Bifrost in North mythology?",HUMANITIES_40e3_0613,"the rainbow bridge that leads to Asgard",HUMANITIES_OPT_74f4_000A
+"The word Friday is derived from Frigg, the Norse goddess who was wife of Odin.",HUMANITIES_7ea6_0614,True,HUMANITIES_OPT_d63a_000A
+"The main difference between Norse gods and gods of other cultures is that Norse gods are not immortal.",HUMANITIES_251e_0615,True,HUMANITIES_OPT_6d7f_000A
+"What does the Latin word spiro mean?",HUMANITIES_1cc9_0616,Breathe,HUMANITIES_OPT_e005_000D
+"What is the translation of the Latin saying Finis vitae sed non amoris?",HUMANITIES_b7da_0617,"The end of life is not the end of love.",HUMANITIES_OPT_eae1_000A
+"What does the Latin word bellum mean?",HUMANITIES_4ab8_0618,War,HUMANITIES_OPT_7568_000C
+"What is the meaning of the proverb Aquila non captat muscas?",HUMANITIES_e567_0619,"The eagle doesnt capture flies.",HUMANITIES_OPT_e0d1_000B
+"What does the word lupus mean?",HUMANITIES_56ce_0620,Wolf,HUMANITIES_OPT_d269_000D
+"What does the Latin word felicitas mean?",HUMANITIES_7d37_0621,Happiness,HUMANITIES_OPT_6961_000A
+"What is the translation of the saying Cui peccare licet peccat minus?",HUMANITIES_5ef1_0622,"One who is allowed to sin, sins less.",HUMANITIES_OPT_9709_000B
+"What does the Latin word copia mean?",HUMANITIES_1d57_0623,Abundance,HUMANITIES_OPT_9644_000A
+"What does the Latin word nemo mean?",HUMANITIES_6b2e_0624,Nobody,HUMANITIES_OPT_1b99_000A
+"What does the Latin phrase Dum spiro spero mean?",HUMANITIES_05bc_0625,"While I breathe, I hope.",HUMANITIES_OPT_9c0f_000C
+"According to the legends, how many dogs did Artemis take with her while hunting?",HUMANITIES_c9e4_0626,7,HUMANITIES_OPT_4fa6_000D
+"The palm tree was sacred for Artemis because it is connected with her and her twin brother Apollos birth.",HUMANITIES_73a0_0627,True,HUMANITIES_OPT_cb61_000B
+"According to legends why did Artemis transform the hunter Actaeon into a stag?",HUMANITIES_8ef6_0628,"Because he spied her when she bathed and saw her naked.",HUMANITIES_OPT_0d33_000D
+"The Temple of Artemis is one of Worlds Seven Wonders. Where is it located?",HUMANITIES_ad10_0629,Ephesus,HUMANITIES_OPT_c41a_000A
+"What is the meaning of goddess Artemis title Elaphebolus?",HUMANITIES_0d2c_0630,"Deer shooting",HUMANITIES_OPT_30de_000B
+"Was Aeginaea the name given to Artemis by her worshippers in Sparta?",HUMANITIES_f26e_0631,Yes,HUMANITIES_OPT_38bb_000A
+"Which one of these names was given to Artemis by her worshipers in Athens?",HUMANITIES_adb7_0632,Agrotera,HUMANITIES_OPT_34ee_000B
+"What did the archaic term strumpet refer to?",HUMANITIES_5426_0633,"A prostitute",HUMANITIES_OPT_0c17_000A
+"What does the word sylvan mean as an adjective?",HUMANITIES_69d8_0634,"Of or pertaining to the woods",HUMANITIES_OPT_306f_000D
+"What does the term wench refer to?",HUMANITIES_bf5c_0635,"A young peasant girl",HUMANITIES_OPT_9c6d_000D
+"What did the archaic term prithee mean?",HUMANITIES_410d_0636,"An interjection used to express a polite request",HUMANITIES_OPT_16bc_000A
+"Which of these words is an adverb meaning away?",HUMANITIES_0e86_0637,avaunt,HUMANITIES_OPT_3952_000A
+"What did the name Albion refer to?",HUMANITIES_75fe_0638,"Great Britain",HUMANITIES_OPT_ddc6_000B
+"What did the term phlogiston originally refer to?",HUMANITIES_32b0_0639,"None of these",HUMANITIES_OPT_9425_000D
+"What did the archaic adjective anile mean?",HUMANITIES_9e6d_0640,"Of or like a senile old woman",HUMANITIES_OPT_5f87_000D
+"What is the meaning of the archaic word betwixt?",HUMANITIES_8ed0_0641,Between,HUMANITIES_OPT_f41d_000B
+"The archaic term puissant meant weak or wimpy.",HUMANITIES_39f3_0642,False,HUMANITIES_OPT_0617_000B
+"What is the missing word in the popular saying: All is fair in love and ...?",HUMANITIES_3592_0643,War,HUMANITIES_OPT_f606_000D
+"Finish the popular proverb: A good example is the best ....",HUMANITIES_fb95_0644,Sermon,HUMANITIES_OPT_a56e_000C
+"What is the missing word in the popular proverb Dogs of the same street ... alike?",HUMANITIES_9543_0645,Bark,HUMANITIES_OPT_fb0a_000B
+"What is the missing first word in the popular saying ... is the father of wisdom?",HUMANITIES_11bf_0646,Experience,HUMANITIES_OPT_0d4d_000A
+"What is the missing part from the popular saying, ... are not made by sitting in the shade?",HUMANITIES_cb5d_0647,Gardens,HUMANITIES_OPT_4494_000C
+"Finish the popular proverb: Necessity is the mother of ....",HUMANITIES_84b7_0648,Invention,HUMANITIES_OPT_638c_000D
+"What is the meaning of the popular saying, One good turn deserves another?",HUMANITIES_5c8a_0649,"Always return a favor.",HUMANITIES_OPT_c744_000D
+"How does the popular saying end: Pride comes before ...?",HUMANITIES_1d20_0650,"A fall",HUMANITIES_OPT_4c14_000D
+"What is the meaning of the popular proverb, Stolen fruit is the sweetest?",HUMANITIES_b311_0651,"One craves things that are forbidden.",HUMANITIES_OPT_3cc6_000C
+"What is the missing part from the popular saying, ... often gives a small thing a big shadow?",HUMANITIES_3c59_0652,Worry,HUMANITIES_OPT_6647_000C
+"What popular proverb does this refer to: A disposition towards inquiry deprived the feline of its vital state?",HUMANITIES_0257_0653,"Curiosity killed the cat",HUMANITIES_OPT_a340_000C
+"What popular saying could this be: There is illumination at the termination of the subterranean excavation?",HUMANITIES_6d7e_0654,"Theres a light at the end of the tunnel",HUMANITIES_OPT_7a2d_000C
+"What popular proverb is hidden behind these words: The stylus is more potent than the claymore?",HUMANITIES_d695_0655,"The pen is mightier than the sword.",HUMANITIES_OPT_5483_000A
+"What proverb could this refer to: Elementary sartorial techniques initially applied obviate the need for repetitive similar actions to the square of three?",HUMANITIES_e600_0656,"A stitch in time saves nine",HUMANITIES_OPT_67ee_000A
+"Which of these popular proverbs means the opposite of Silence is golden?",HUMANITIES_1218_0657,"The squeaky wheel gets the grease",HUMANITIES_OPT_7794_000A
+"Which of these proverbs the reverse of  Wise men think alike?",HUMANITIES_a155_0658,"Fools seldom differ",HUMANITIES_OPT_7a30_000A
+"What saying is the opposite of Good things come in small packages?",HUMANITIES_d423_0659,"The bigger the better",HUMANITIES_OPT_eef5_000A
+"What is the missing word in the popular proverb, If you chase two ____  you will not catch either one?",HUMANITIES_6554_0660,Rabbits,HUMANITIES_OPT_9bf3_000B
+"How does the popular proverb end: When the cats away, the mice ___ ?",HUMANITIES_6f3e_0661,Play,HUMANITIES_OPT_7055_000B
+"What is the missing from the popular saying, One mans trash is another mans ...?",HUMANITIES_0215_0662,Treasure,HUMANITIES_OPT_af40_000D
+"Which were the two authors of the 1955 Broadway play Inherit the Wind?",HUMANITIES_a8c0_0663,"Jerome Lawrence and Robert E. Lee",HUMANITIES_OPT_de41_000A
+"Who wrote the screenplay for the 1960 Hollywood film Inherit the Wind?",HUMANITIES_ac55_0664,"Nathan E. Douglas and Harold Jacob Smith",HUMANITIES_OPT_539e_000B
+"Where does the title of the play Inherit the Wind come from?",HUMANITIES_b1fa_0665,"The Bible, the Book of Proverbs",HUMANITIES_OPT_e18e_000B
+"The story in the 1955 Broadway play Inherit the Wind is a fictionalized version of what famous event in US history?",HUMANITIES_5d26_0666,"The 1925 Scopes trial",HUMANITIES_OPT_7f20_000D
+"Who played Henry Drummond in the 1960 movie Inherit the Wind?",HUMANITIES_e685_0667,"Spencer Tracy",HUMANITIES_OPT_011e_000C
+"In the real-life events on which the 1960 Broadway play Inherit the Wind was based, the defense lawyer was able to take the case pro bono because he made his money defending another client. Who was this rich client?",HUMANITIES_1f3d_0668,"Al Capone",HUMANITIES_OPT_4a4b_000B
+"Who plays Mathew Harrison Brady in the 1960 movie Inherit the Wind?",HUMANITIES_7e98_0669,"Frederick March",HUMANITIES_OPT_72a1_000A
+"Who plays E.K. Hornbeck in the 1960 movie Inherit the Wind?",HUMANITIES_2aae_0670,"Gene Kelly",HUMANITIES_OPT_1208_000B
+"Which actor portrays the defendant Benjamin T. Cates in the 1960 movie Inherit the Wind?",HUMANITIES_36db_0671,"Dick York",HUMANITIES_OPT_9a30_000B
+"Who produced and directed the movie Inherit the Wind?",HUMANITIES_0b26_0672,"Stanley Kramer",HUMANITIES_OPT_442d_000B
+"Who did the color cinematography for the 1960 movie Inherit the Wind?",HUMANITIES_2d60_0673,"No one",HUMANITIES_OPT_455a_000D
+"The real-life defendant, whose story was featured in the 1960 movie Inherit the Wind, spent his whole life in Dayton, Tennessee.",HUMANITIES_8a9a_0674,False,HUMANITIES_OPT_0c49_000A
+"Tony Randall appeared in the 1955 Broadway play Inherit the Wind.",HUMANITIES_3c80_0675,True,HUMANITIES_OPT_25c9_000B
+"Who starred as the defense lawyer in the premiere of the 1955 Broadway play Inherit the Wind?",HUMANITIES_5072_0676,"Paul Muni",HUMANITIES_OPT_8c44_000B
+"In the premiere of the 1955 Broadway play Inherit the Wind, who played the role of the prosecutor?",HUMANITIES_128a_0677,"Ed Begley",HUMANITIES_OPT_f650_000B
+"The play Inherit the Wind was written almost five years before its opening. Why did it take so long to get the play produced?",HUMANITIES_e25f_0678,"Fear of the McCarthy HUAC hearings",HUMANITIES_OPT_97b6_000D
+"Which actor won a 1988 Emmy for his portrayal of the defense lawyer in one of the TV versions of the 1955 play Inherit the Wind?",HUMANITIES_1db4_0679,"Jason Robards, Jr.",HUMANITIES_OPT_1967_000B
+"The word goblin is probably derived from a Latin word which means what?",HUMANITIES_5658_0680,Rogue,HUMANITIES_OPT_1458_000D
+"Goblins are considered to be a type of fairy folk.",HUMANITIES_5c22_0681,True,HUMANITIES_OPT_f8b1_000A
+"It is believed that the goblin legend began in what European country?",HUMANITIES_1670_0682,France,HUMANITIES_OPT_d418_000C
+"Which of these statements about goblins is NOT true according to legend?",HUMANITIES_db88_0683,"Goblins love horse meat.",HUMANITIES_OPT_3c0d_000D
+"It is a very old tradition to portray goblins green.",HUMANITIES_0768_0684,False,HUMANITIES_OPT_6b4a_000B
+"Goblin babies are known as changelings.",HUMANITIES_62e4_0685,True,HUMANITIES_OPT_7955_000A
+"The Green Goblin is the arch enemy of which Marvel Superhero?",HUMANITIES_9ae2_0686,Spider-man,HUMANITIES_OPT_5e85_000D
+"What was Sigmund Freuds major at the University of Vienna?",HUMANITIES_ad5e_0687,Medicine,HUMANITIES_OPT_b674_000D
+"What phobia did Sigmund Freud develop in his forties?",HUMANITIES_2413_0688,"Fear of death",HUMANITIES_OPT_5a79_000B
+"What was the reason for the fallout between Sigmund Freud and Carl Jung, who was initially a supporter of Freud?",HUMANITIES_23ff_0689,"Freud found some of Jungs ideas unscientific.",HUMANITIES_OPT_b349_000D
+"Sigmund Freud, who was a heavy cigar smoker, developed this disease.",HUMANITIES_abc4_0690,"Oral cancer",HUMANITIES_OPT_2827_000A
+"Sigmund Freud used this drug and prescribed it to his patients as an analgesic and antidepressant.",HUMANITIES_c576_0691,Cocaine,HUMANITIES_OPT_d0f2_000A
+"Which of these historical figures was a patient of Sigmund Freud?",HUMANITIES_2633_0692,"All of these",HUMANITIES_OPT_c78c_000B
+"What are the two contradictory desires that drive every human being according to Sigmund Freud?",HUMANITIES_cb4e_0693,"Life and death",HUMANITIES_OPT_1278_000D
+"What part of the human psyche contains the child-like drives and desires according to Sigmund Freud?",HUMANITIES_26ee_0694,Id,HUMANITIES_OPT_6d69_000D
+"Which of these therapies did Sigmund Freud start using to resolve psychological problems?",HUMANITIES_03a6_0695,"Talk therapy",HUMANITIES_OPT_cb04_000A
+"How did Sigmund Freud choose to die, with the assistance of his doctor and friend Max Schur?",HUMANITIES_af9f_0696,"By a lethal dose of morphine",HUMANITIES_OPT_8fc4_000C
+"What name was used to refer to Leonardos famous painting before it was known as Mona Lisa?",HUMANITIES_f946_0697,"A Certain Florentine Lady",HUMANITIES_OPT_7bd5_000D
+"What was the Mona Lisa painting called when it was in the collection at the palace at Fontainebleau?",HUMANITIES_f10d_0698,"A courtesan in a gauze veil",HUMANITIES_OPT_4985_000C
+"The Mona Lisa is not painted on a canvas.",HUMANITIES_38c2_0699,True,HUMANITIES_OPT_2df6_000B
+"Which of these is not among the theories about who is portrayed in the Mona Lisa painting?",HUMANITIES_53e7_0700,"The mistress of Leonardos close friend",HUMANITIES_OPT_74c2_000D
+"Which of these artists is known to have become fascinated with the Mona Lisa painting?",HUMANITIES_891e_0701,Raphael,HUMANITIES_OPT_fc51_000D
+"Who gave the Mona Lisa painting its name?",HUMANITIES_a3f1_0702,"Giorgio Vasari",HUMANITIES_OPT_3967_000C
+"Which King hated the Mona Lisa painting so much, that he had it removed from his palace?",HUMANITIES_cd31_0703,"King Louis XV",HUMANITIES_OPT_c595_000D
+"When Mona Lisa was stolen in 1911, Picasso was among the suspects.",HUMANITIES_5650_0704,True,HUMANITIES_OPT_b7dc_000A
+"What sentence was Vincenzo Perugia given for stealing the Mona Lisa painting in 1911?",HUMANITIES_52af_0705,"7 months",HUMANITIES_OPT_7de1_000D
+"How long did it take Leonardo Da Vinci to finish the Mona Lisa painting?",HUMANITIES_6bd9_0706,"4 years",HUMANITIES_OPT_828c_000D
+"What does the German word Bibliothek mean when translated into English?",HUMANITIES_492f_0707,Library,HUMANITIES_OPT_850a_000A
+"What does the Spanish Word lechuga mean in English?",HUMANITIES_18e5_0708,lettuce,HUMANITIES_OPT_7aec_000A
+"What does the Hebrew word זהב (za-hav) translate to in English?",HUMANITIES_2213_0709,gold,HUMANITIES_OPT_e1f6_000B
+"What does the Danish word fødselsdag mean in English? (foudgshlsdag)",HUMANITIES_1603_0710,"Your Birthday",HUMANITIES_OPT_8503_000D
+"What does the Czech phrase Dobrý den mean in English?",HUMANITIES_5bc2_0711,"Good Day/Hello",HUMANITIES_OPT_2fe4_000A
+"What is the English equivalent of the Russian phrase Добро пожаловать (Dobro požalovat)?",HUMANITIES_7a06_0712,Welcome,HUMANITIES_OPT_a277_000B
+"What does the Greek word Βοήθεια (Voíthia) mean in English?",HUMANITIES_55e7_0713,Help,HUMANITIES_OPT_6ca8_000C
+"What does the Latin phrase Ave Maria mean in English?",HUMANITIES_e7e5_0714,"Hail Mary",HUMANITIES_OPT_35fa_000B
+"What does the Farsi phrase شب بخير  (shab bekheyr) mean in English?",HUMANITIES_7ed7_0715,"Good night",HUMANITIES_OPT_6bac_000B
+"What does the Hebrew phrase להתראות (le-hei-tra-ot) mean in English?",HUMANITIES_37ff_0716,Goodbye,HUMANITIES_OPT_889f_000D
+"Which ancient author wrote Ten Books of Architecture, a work that contained the principles followed by Renaissance architects?",HUMANITIES_cb87_0717,Vitruvius,HUMANITIES_OPT_030c_000A
+"Who wrote Divina Proportione which explored the use of the golden ratio in the Renaissance architecture?",HUMANITIES_45af_0718,"Luca Pacioli",HUMANITIES_OPT_ff22_000B
+"Who was the first architect since antiquity to use the classical orders Doric, Ionic and Corinthian in an appropriate manner?",HUMANITIES_367b_0719,Brunelleschi,HUMANITIES_OPT_d8cd_000A
+"This Renaissance architect, famous as chief architect of the Venetian Republic, wrote the treatise Four Books on Architecture.",HUMANITIES_0a0a_0720,"Andrea Palladio",HUMANITIES_OPT_cb44_000D
+"Italian Mannerism is a term related to the High Renaissance.",HUMANITIES_4461_0721,False,HUMANITIES_OPT_2228_000A
+"In which year was the term photography first used?",HUMANITIES_332f_0722,1839,HUMANITIES_OPT_5bc8_000A
+"In 1945 this man was given the Pulitzer Prize in News Photography for his famous photo of the raising the American flag on the Japanese island Iwo Jima.",HUMANITIES_6e17_0723,"Joe Rosenthal",HUMANITIES_OPT_0e5a_000A
+"When was the first aerial photograph taken?",HUMANITIES_7b0e_0724,1858,HUMANITIES_OPT_da2f_000C
+"When was the first underwater photograph taken?",HUMANITIES_002c_0725,1856,HUMANITIES_OPT_ca5d_000D
+"This famous photojournalist specialized in war photographs. He covered the Spanish Civil War, The Second Sino-Japanese War, World War II (He landed on Omaha Beach!) ,The Israeli War for Independence, and The French-Indochina  War. What was his name?",HUMANITIES_5088_0726,"Robert Capra",HUMANITIES_OPT_38ac_000A
+"When was the first permanently colored photograph taken?",HUMANITIES_a79b_0727,1861,HUMANITIES_OPT_2796_000A
+"One can be amazed at the great detail and lack of distortion in the photographs of Civil War photographer Matthew Brady. What is the major reason for this?",HUMANITIES_1e97_0728,"He used a really big camera.",HUMANITIES_OPT_f492_000B
+"When was the first picture of a university class taken?",HUMANITIES_4aad_0729,1840,HUMANITIES_OPT_868f_000D
+"When was the first digital camera introduced?",HUMANITIES_5dc6_0730,1981,HUMANITIES_OPT_74b3_000A
+"He was a great American photographer and one of the inventors of the Zone System. He is probably best known for his images of Yosemite National Park. What is his name?",HUMANITIES_b18e_0731,"Ansel Adams",HUMANITIES_OPT_879c_000D
+"Which great singer/songwriter wrote the song Photographs and Memories?",HUMANITIES_573c_0732,"Jim Croce",HUMANITIES_OPT_2b1c_000D
+"Which phrase refers to a costly victory that results in losses so high as to make you wonder whether it was worth it?",HUMANITIES_6623_0733,"Pyrrhic victory",HUMANITIES_OPT_a71f_000D
+"What term refers to amyotrophic lateral sclerosis?",HUMANITIES_fbbd_0734,"Lou Gehrigs Disease",HUMANITIES_OPT_4c54_000A
+"In the same year Jesse James was shot and killed, Edward Hopper was born.  What was the year?",HUMANITIES_41ba_0735,1882,HUMANITIES_OPT_f6b0_000A
+"During the four years after he finished college, Edward Hopper made how many trips to Europe?",HUMANITIES_1980_0736,3,HUMANITIES_OPT_01cd_000A
+"In Europe, Edward Hopper visited the Louvre Museum where he saw Degas painting The Cotton Exchange, New Orleans. He called it the most wonderful painting he had ever seen.",HUMANITIES_b61c_0737,False,HUMANITIES_OPT_f5ec_000B
+"What was Edward Hoppers occupation in his forties?",HUMANITIES_1825_0738,"A commercial illustrator",HUMANITIES_OPT_4500_000A
+"At what age did Edward Hopper have his first one-man show of paintings?",HUMANITIES_3e1c_0739,37,HUMANITIES_OPT_51c9_000A
+"After Edward Hopper married painter Josephine Nivison, she became the only model for all of his female figures.",HUMANITIES_63de_0740,True,HUMANITIES_OPT_bc6c_000A
+"Edward Hopper once said, The only real influence Ive ever had was myself.",HUMANITIES_2931_0741,True,HUMANITIES_OPT_38cf_000B
+"Where does Edward Hoppers most famous painting, “Nighthawks”, reside?",HUMANITIES_55ed_0742,"The Art Institute of Chicago",HUMANITIES_OPT_d04c_000C
+"What family member does the Spanish noun ‘abuela’ denote?",HUMANITIES_a34b_0743,Grandmother,HUMANITIES_OPT_e694_000B
+"What is the Spanish word for mirror?",HUMANITIES_4d5f_0744,Espejo,HUMANITIES_OPT_f37a_000B
+"What is the meaning of the Spanish expression ‘tengo sed’?",HUMANITIES_13c9_0745,"I am thirsty",HUMANITIES_OPT_37a8_000C
+"What part of the human body does the Spanish word ‘dedo’ denote?",HUMANITIES_3e34_0746,Finger,HUMANITIES_OPT_89ed_000D
+"What is the meaning of the Spanish phrase ‘Le invito a almorzar’?",HUMANITIES_7c22_0747,"I’m inviting you to lunch",HUMANITIES_OPT_3388_000C
+"What color does the Spanish word ‘verde’ denote?",HUMANITIES_52a0_0748,Green,HUMANITIES_OPT_3abb_000D
+"What is the meaning of the Spanish word ‘ordenador’?",HUMANITIES_f79c_0749,Computer,HUMANITIES_OPT_beea_000C
+"What does the Spanish expression ‘Me he perdido el bolso’ mean?",HUMANITIES_854e_0750,"I lost my bag",HUMANITIES_OPT_90ff_000A
+"Which day of the week does the Spanish word ‘martes’ denote?",HUMANITIES_ee59_0751,Tuesday,HUMANITIES_OPT_e033_000A
+"What number does the Spanish word ‘cien’ denote?",HUMANITIES_2f85_0752,"A hundred",HUMANITIES_OPT_0abd_000D
+"Which Greek god guides the dead to the river Styx to pay their toll to Charon so that they can get into the underworld?",HUMANITIES_7210_0753,Hermes,HUMANITIES_OPT_d158_000D
+"Is it true that according to Greek myths Arachne had great respect for Athena?",HUMANITIES_9a30_0754,No,HUMANITIES_OPT_e847_000A
+"How was Prometheus punished for stealing fire and bringing it to humans?",HUMANITIES_d2cf_0755,"None of these",HUMANITIES_OPT_bdb0_000D
+"Who is the mother of Dionysus?",HUMANITIES_cd82_0756,Semele,HUMANITIES_OPT_172e_000D
+"The Afrikaans language is one of the official languages in this African country.",HUMANITIES_dddf_0757,"South Africa",HUMANITIES_OPT_6433_000B
+"In what Asian country is the Nuosu language, also called Northern Yi, Liangshan Yi, Nosu, and Sichuan Yi, spoken?",HUMANITIES_579a_0758,China,HUMANITIES_OPT_bfea_000D
+"What is the official language of Denmark?",HUMANITIES_2134_0759,Danish,HUMANITIES_OPT_43b9_000B
+"On what continent is the Ga language spoken?",HUMANITIES_efb6_0760,Africa,HUMANITIES_OPT_4cb7_000B
+"What is the official language in Scotland?",HUMANITIES_76c4_0761,"None of these",HUMANITIES_OPT_cc64_000D
+"What type of language is the Tigre language, which is the native language of the Tigre people?",HUMANITIES_5f84_0762,Semitic,HUMANITIES_OPT_b55a_000A
+"In which of these countries is Spanish not an official language?",HUMANITIES_35c7_0763,Brazil,HUMANITIES_OPT_88fe_000A
+"What is the official language of Andorra, a small country in southwestern Europe bordered by Spain and France?",HUMANITIES_dc02_0764,Catalan,HUMANITIES_OPT_a8c2_000D
+"The Greek language has an official status on this Mediterranean island.",HUMANITIES_d083_0765,Cyprus,HUMANITIES_OPT_ff07_000D
+"The Igbo language is one of the official languages in this African country.",HUMANITIES_112a_0766,Nigeria,HUMANITIES_OPT_bb1c_000C
+"In the Western part of the U.S. this word is used to express great enthusiasm.",HUMANITIES_ee2e_0767,wahoo,HUMANITIES_OPT_f6ec_000D
+"Which statement is untrue about Bill Bojangles Robinson who is regarded as the most famous tap dancer of all time?",HUMANITIES_9dbf_0768,"When honored by the King of England as the best dancer in the world, he said Thank you , King-Oh.",HUMANITIES_OPT_f236_000D
+"Which statement is not  true about Bill Robinson?",HUMANITIES_416c_0769,"His younger brother became his agent.",HUMANITIES_OPT_cf90_000C
+"This award winning tap dancer, inspired by Bojangles Robinson, had a unique technique. He danced as if he were on ice.",HUMANITIES_a963_0770,"Jimmy Slyde",HUMANITIES_OPT_ce5f_000B
+"Bill Robinsons style of dance emphasizes clean toe taps. Which tap great developed a style that put emphasis on percussive heel stomps?",HUMANITIES_7c8e_0771,"John W. Bubbles",HUMANITIES_OPT_3b61_000B
+"Clayton Bates was an excellent tap dancer who lived from 1907-1998. What was special about his tap dancing?",HUMANITIES_f3dd_0772,"He had one leg.",HUMANITIES_OPT_deda_000B
+"This tap dancing great was born in Fitzgerald, Georgia in 1919. He became a star and toured  throughout the South as a youngster. He later formed the successful group Chuck and Chuckles. Who was he?",HUMANITIES_0910_0773,"Chuck Green",HUMANITIES_OPT_ceea_000D
+"What was unique about Howard Simms tap dancing style?",HUMANITIES_b5fb_0774,"He danced on a 3 square foot plank.",HUMANITIES_OPT_044b_000A
+"They were a great tap dancing duo. Their names were Harold and Fayard. They received no formal training but  were considered the greatest dancing  duo in history. What was the name of their act?",HUMANITIES_c620_0775,"The Nicholas Brothers",HUMANITIES_OPT_e005_000C
+"He first became famous dancing with Cholly Atkins but later had a single career. He was in  Dirty Dancing and won a Tony Award for My One and Only. Who was he?",HUMANITIES_fba6_0776,"Honi Coles",HUMANITIES_OPT_74d0_000A
+"He was born in 1943 in NYC and began studying dance at five. He teamed with his brother and dad to form a very popular TV and Las Vegas act. He was the first African-American to direct at Radio City Music Hall. Who is he?",HUMANITIES_1777_0777,"Maurice Hines",HUMANITIES_OPT_24fb_000C
+"Sammy Davis, Jr. was a great tap dancer, actor, singer, comic actor, and a member of the Rat Pack.  What was the name of the act that led to his fame?",HUMANITIES_2d0e_0778,"The Will Mastin Trio",HUMANITIES_OPT_46b4_000C
+"What step is defined as a solo tap dance with sharp foot accents, springs, leg flings, and heel clicks.?",HUMANITIES_15a2_0779,"Buck and wing",HUMANITIES_OPT_4f14_000D
+"What does the word hoxter mean?",HUMANITIES_b56d_0780,"the inside pocket on a suit or coat",HUMANITIES_OPT_465f_000A
+"What does a tegestologist do?",HUMANITIES_f12e_0781,"collects beer mugs and beer coasters",HUMANITIES_OPT_92b1_000B
+"Which of these is the meaning of the word quodlibertarian?",HUMANITIES_5117_0782,"a pedantic person who engages in elaborate arguments about minor things",HUMANITIES_OPT_4ad8_000A
+"What is the definition of the word buccula?",HUMANITIES_d446_0783,"a double chin",HUMANITIES_OPT_02b4_000C
+"What is the meaning of the world kalling?",HUMANITIES_19c8_0784,"fortunetelling based on what variety of cabbage a blindfolded person picks",HUMANITIES_OPT_5e8a_000D
+"What does the word tarantism mean?",HUMANITIES_437f_0785,"an urge to overcome melancholy by dancing",HUMANITIES_OPT_824e_000B
+"What is the meaning of estivation?",HUMANITIES_577c_0786,"going somewhere for the summer",HUMANITIES_OPT_d779_000B
+"Tomecide is a word referring to which of the following?",HUMANITIES_26a4_0787,"murdering or destroying a book",HUMANITIES_OPT_854e_000B
+"Which of these is the definition for the word funkify?",HUMANITIES_2934_0788,"to run away in fear",HUMANITIES_OPT_5243_000B
+"What does the word hadeharia refer to?",HUMANITIES_030a_0789,"the practice of constantly using the word hell in speaking",HUMANITIES_OPT_36b4_000C
+"What was the name of the riverboat in the Kern/Hammerstein musical, Showboat?",HUMANITIES_dcf1_0790,"Cotton Blossom",HUMANITIES_OPT_fdec_000D
+"The song Ole Man River from Showboat was written for a notorious basso. Although not in the original production, this basso came on board for the revival in 1932. Who was he?",HUMANITIES_f40f_0791,"Paul Robeson",HUMANITIES_OPT_e096_000D
+"What was the name of Laurie Williams creepy farm-hand stalker in Oklahoma!?",HUMANITIES_82e4_0792,"Jud Fry",HUMANITIES_OPT_8a49_000B
+"In South Pacific what circumstance of Emile de Becque at first repulsed naive nurse, Nellie Forbush and threatened their Enchanted love for one another.",HUMANITIES_3b69_0793,"He had two inter-racial children from a former marriage.",HUMANITIES_OPT_6d1a_000B
+"What was unusual about Luther Billiss performance of Honey Bun in South Pacific?",HUMANITIES_273a_0794,"He performed it in drag.",HUMANITIES_OPT_e408_000A
+"Who composed the music for West Side Story?",HUMANITIES_e3a7_0795,"Leonard Bernstein",HUMANITIES_OPT_41d0_000B
+"Which of the following actors was not a performer in the original Broadway production of Hair?",HUMANITIES_c695_0796,"Matthew Broderick",HUMANITIES_OPT_3dc6_000A
+"I Enjoy Being a Girl is from what Broadway musical?",HUMANITIES_e13f_0797,"Flower Drum Song",HUMANITIES_OPT_d96a_000B
+"Which cat sings Memory in the Andrew Lloyd Weber hit musical, Cats?",HUMANITIES_a5ac_0798,Grizabella,HUMANITIES_OPT_515d_000D
+"The musical Miss Saigon is based on what classical opera?",HUMANITIES_ee35_0799,"Madame Butterfly",HUMANITIES_OPT_c695_000C
+"Where do Christine and Raoul sing their love duet, All I Ask of You in The Phantom of the Opera?",HUMANITIES_b630_0800,"On the roof of the Paris Opera House",HUMANITIES_OPT_08db_000C
+"In Wicked Elfaba puts a spell on the monkeys enabling them to fly. Why did she cast the spell which earned her the loyalty of the monkeys?",HUMANITIES_7b88_0801,"To save them from the clutches of the Wizard",HUMANITIES_OPT_71e5_000C
+"Who was the mother of Zeus?",HUMANITIES_c192_0802,Rhea,HUMANITIES_OPT_ded0_000D
+"In Greek mythology, is Semele the mother of Hermes?",HUMANITIES_569f_0803,No,HUMANITIES_OPT_5dba_000B
+"Is Maia the mother of Dionysus, the Greek god of wine?",HUMANITIES_8c5f_0804,No,HUMANITIES_OPT_15a6_000B
+"Who is the mother of the nine muses in Greek mythology?",HUMANITIES_9471_0805,Mnemosyne,HUMANITIES_OPT_b941_000A
+"Who is the mother of the Greek god Hephaestus?",HUMANITIES_4eb9_0806,Hera,HUMANITIES_OPT_9002_000C
+"Does the Greek goddess of love, Aphrodite, have a mother?",HUMANITIES_a0b0_0807,No,HUMANITIES_OPT_338b_000A
+"Who is the mother of Athena, the goddess of wisdom?",HUMANITIES_29e6_0808,Metis,HUMANITIES_OPT_a1a8_000A
+"The term lesbian is derived from the name of a Greek island.",HUMANITIES_4aa7_0809,True,HUMANITIES_OPT_06eb_000B
+"The first legends about werewolves originated on this continent.",HUMANITIES_cb52_0810,Europe,HUMANITIES_OPT_86bd_000C
+"According to legends, a human can initiate their transformation into a werewolf if they drink rainwater from this source.",HUMANITIES_95c4_0811,"Wolfs footprint",HUMANITIES_OPT_991b_000D
+"What metal are werewolves afraid of according to modern legends and stories?",HUMANITIES_6679_0812,Silver,HUMANITIES_OPT_dd88_000D
+"What method of turning a werewolf back into a normal human being was practiced during the Middle Ages?",HUMANITIES_fc61_0813,"All of these",HUMANITIES_OPT_e714_000C
+"People suffering from this mental disorder believe they are able to turn into wolves or werewolves, or any other animal form.",HUMANITIES_c4c0_0814,"Clinical lycanthropy",HUMANITIES_OPT_e012_000D
+"What physical characteristic was used in the past as an indicator that a werewolf is in their human form?",HUMANITIES_9c7c_0815,"All of these",HUMANITIES_OPT_4a37_000A
+"What type of people turn into werewolves according to Scandinavian mythology?",HUMANITIES_8a9d_0816,"Old women",HUMANITIES_OPT_ab30_000C
+"What accident turns Jack Nicholsons character into a werewolf in the 1994 horror movie Wolf?",HUMANITIES_d75a_0817,"He is bitten by a wolf.",HUMANITIES_OPT_95d0_000A
+"According to Greek mythology, Lycaon, king of Arcadia, was turned into a werewolf-like creature because he served Zeus a dish of which of the following?",HUMANITIES_c048_0818,"Lycaons child",HUMANITIES_OPT_ab2c_000B
+"What does the wolf-like creature called nahual steal from people according to Mexican legends?",HUMANITIES_bf6b_0819,Cheese,HUMANITIES_OPT_1e7e_000D
+"In this passionate and dramatic dance, the man plays the part of a matador and the lady usually represents his cape.",HUMANITIES_b85e_0820,"Paso Doble",HUMANITIES_OPT_15a4_000B
+"Abrazo, ocho, caminada and giro are terms typically associated with this dance that originated in South America.",HUMANITIES_41b7_0821,"Argentinian tango",HUMANITIES_OPT_9dd6_000A
+"What 1995 film, directed by Carlos Saura, features performances by Paco de Lucía, Joaquín Cortés and Manolo Sanlúcar?",HUMANITIES_79c1_0822,Flamenco,HUMANITIES_OPT_93c5_000D
+"Pas de basque, pas de chat, pas de deux are terms related to ballet. What does the French word pas mean in English?",HUMANITIES_08f0_0823,step,HUMANITIES_OPT_a4b1_000C
+"Which Latin dance is not performed in International Style Ballroom competitions?",HUMANITIES_bc77_0824,Merengue,HUMANITIES_OPT_484f_000D
+"Which country is not correctly paired with its national dance?",HUMANITIES_06b9_0825,"Brazil - Salsa",HUMANITIES_OPT_f5ce_000B
+"Who recorded the Academy Award-winning song to which Baby and Johnny performed their final dance in the 1987 movie Dirty Dancing?",HUMANITIES_bbb5_0826,"Bill Medley and Jennifer Warnes",HUMANITIES_OPT_964f_000A
+"Which of the International Ballroom dances is possibly named after a 1930s Mickey Mouse cartoon?",HUMANITIES_80b0_0827,Jive,HUMANITIES_OPT_47a4_000C
+"The classical tutu, worn by ballerinas, is featured in this French artists ballet paintings.",HUMANITIES_9565_0828,"Edgar Degas",HUMANITIES_OPT_2aee_000B
+"What dance style, that evolved in the 1970s in New York City, involves moves known as Toprock and Downrock?",HUMANITIES_ae27_0829,Breakdance,HUMANITIES_OPT_68a9_000D
+"In the time line of art history impressionism was part of which period?",HUMANITIES_371d_0830,"Modern art",HUMANITIES_OPT_6ceb_000C
+"Impressionism took its name from a painting by this artist called Impression, Sunrise.",HUMANITIES_80f8_0831,"Claude Monet",HUMANITIES_OPT_f1bd_000B
+"Who was known as the Father of Impressionism?",HUMANITIES_f13e_0832,"Camille Pissarro",HUMANITIES_OPT_9491_000C
+"Who of the following was not an impressionist?",HUMANITIES_57bb_0833,"Jean-Léon Gérôme",HUMANITIES_OPT_4c07_000D
+"Who was the British artist, born in 1839 in France, who painted Street in Moret and Sand Heaps?",HUMANITIES_cd9a_0834,"Alfred Sisley",HUMANITIES_OPT_cf14_000B
+"This French impressionist, whose most famous works were The Pink Dress and Family Reunion, died in the Franco-Prussian War when he was only 29 years old.",HUMANITIES_0ac2_0835,"Frédéric Bazille",HUMANITIES_OPT_481c_000C
+"Which of these works was not painted by Claude Monet?",HUMANITIES_03fe_0836,"The Luncheon on the Grass",HUMANITIES_OPT_7890_000A
+"In the late 19th century a group of impressionists, writers and art lovers centered around Edouard Manet, gathered at this site in Paris for discussions.",HUMANITIES_5132_0837,"Café Guerbois",HUMANITIES_OPT_17bd_000C
+"This artist, who hated the term impressionist and insisted on being called realist, was famous for painting ballet dancers.",HUMANITIES_8f57_0838,"Edgar Degas",HUMANITIES_OPT_3ce9_000A
+"What American impressionist painted the works Tea, The Boating Party, and Summertime?",HUMANITIES_9c25_0839,"Mary Cassatt",HUMANITIES_OPT_f2f6_000C
+"Which of the following is not one of the siblings of Helen of Troy?",HUMANITIES_53ab_0840,Asclepius,HUMANITIES_OPT_a87a_000A
+"The name of Helen of Troy is derived from the Greek word meaning sun.",HUMANITIES_deb9_0841,False,HUMANITIES_OPT_2347_000B
+"Which one of these is the name of Helen of Troys daughter from Menelaus?",HUMANITIES_d730_0842,Hermione,HUMANITIES_OPT_28d3_000A
+"Helen of Troy was called The Face Who Launched a Thousand Ships as she inherited a huge fleet from her father.",HUMANITIES_31e9_0843,False,HUMANITIES_OPT_267b_000A
+"Was Helen of Troy immortal?",HUMANITIES_d454_0844,Yes,HUMANITIES_OPT_3ee7_000A
+"Some legends state that Helen of Troy’s mother was Nemesis and she threw the egg from which Helen was born. Who did Helen share this egg with?",HUMANITIES_593a_0845,Dioscuri,HUMANITIES_OPT_9e5e_000A
+"What does the most popular hardcore dancing move, two step look like?",HUMANITIES_6f8b_0846,"Placing one foot in front of the other and jumping on it with your arm thrust opposite to the leg that is moving in the front",HUMANITIES_OPT_7b3b_000A
+"The most common hardcore move two step was taken from which dance?",HUMANITIES_e4bc_0847,Skanking,HUMANITIES_OPT_98c8_000D
+"Ska music was born in Jamaica in the 1960s. Which of these names appears very often in ska lyrics?",HUMANITIES_6188_0848,Rudy,HUMANITIES_OPT_cd21_000A
+"Which New York hardcore punk band did parody hardcore dancing in their music video Step Down?",HUMANITIES_5bb9_0849,"Sick of it All",HUMANITIES_OPT_1542_000A
+"What is the name of the act of getting on the stage during a concert and then jumping in the crowd below?",HUMANITIES_af77_0850,"Stage diving",HUMANITIES_OPT_2c14_000D
+"At the 2000 Roskilde festival nine people died while crowd-surfing at the concert of which band?",HUMANITIES_187d_0851,"Pearl Jam",HUMANITIES_OPT_efc0_000D
+"Which hardcore dance involves people jumping around and pushing each other in a circle in front of the stage?",HUMANITIES_0491_0852,Moshing,HUMANITIES_OPT_95a1_000D
+"What is the name of the act of pretending to play the guitar with your hands and moving your body as if you are following the rhythm of the music?",HUMANITIES_0c44_0853,"Air guitar",HUMANITIES_OPT_fca3_000C
+"Which Swedish metal band pretends to play instruments in the video New Millennium Cyanide Christ, while actually only moving their hands and bodies?",HUMANITIES_9b9e_0854,Meshuggah,HUMANITIES_OPT_1130_000D
+"Which is the American metal band, whose frontman Mark Hunter is often called Metal Moses, because on concerts, he often parted the crowd in two parts, just like Moses did at the Red Sea?",HUMANITIES_4378_0855,Chimaira,HUMANITIES_OPT_889f_000B
+"In which of these countries does the Judaeo-Spanish, or Ladino language, have an official status?",HUMANITIES_6224_0856,"None of these",HUMANITIES_OPT_1c06_000D
+"What major language is one of the official languages in New Zealand?",HUMANITIES_319a_0857,English,HUMANITIES_OPT_a605_000B
+"In what country is the Slavey language spoken?",HUMANITIES_8ecb_0858,Canada,HUMANITIES_OPT_7d73_000A
+"On what continent is the Urdu language spoken?",HUMANITIES_e13b_0859,Asia,HUMANITIES_OPT_7edd_000B
+"What other name is used for the language known as Siksika and Pikanii, which is spoken in North America?",HUMANITIES_c6d1_0860,Blackfoot,HUMANITIES_OPT_c2d7_000D
+"What is the official language in Egypt?",HUMANITIES_9bf8_0861,Arabic,HUMANITIES_OPT_74dd_000A
+"What type of language is the Manx language, spoken on the Isle of Man?",HUMANITIES_c308_0862,Celtic,HUMANITIES_OPT_92ee_000B
+"What is the official language in Ukraine?",HUMANITIES_a22c_0863,Ukrainian,HUMANITIES_OPT_0f6f_000B
+"Which of these languages is extinct?",HUMANITIES_5149_0864,"All of these",HUMANITIES_OPT_9494_000C
+"What major official language do Senegal, Monaco, Luxembourg, Haiti and Madagascar share?",HUMANITIES_e09e_0865,French,HUMANITIES_OPT_abd4_000A
+"Which of these mythological figures is not one of the Titanides?",HUMANITIES_ecc6_0866,Selene,HUMANITIES_OPT_1887_000D
+"What does Meter Megale mean?",HUMANITIES_6a68_0867,"Great Mother",HUMANITIES_OPT_6cf3_000D
+"What is Salvador Dalís birth name?",HUMANITIES_5dde_0868,"Salvador Domingo Felipe Jacinto Dalí i Domènech",HUMANITIES_OPT_8f79_000B
+"When was Salvador Dalí born?",HUMANITIES_2a04_0869,"May 11, 1904",HUMANITIES_OPT_488f_000A
+"Salvador Dalis works can be attributed to this art movement.",HUMANITIES_f55d_0870,"All of these",HUMANITIES_OPT_75cb_000A
+"What title did King Juan Carlos of Spain bestow on Salvador Dali in 1982?",HUMANITIES_515e_0871,"Marquis of Pubol",HUMANITIES_OPT_4b1f_000C
+"What was the cause of Salvador Dalis death?",HUMANITIES_be4f_0872,"He died from a heart failure.",HUMANITIES_OPT_e762_000C
+"What was the name of Salvador Dalis wife, who was also his muse?",HUMANITIES_0b6c_0873,Gala,HUMANITIES_OPT_c154_000C
+"Dali collaborated with British poet Edward James on these two notable surrealist art works.",HUMANITIES_5c9e_0874,"Lobster Telephone and the Mae West Lips Sofa",HUMANITIES_OPT_5d14_000D
+"Which one of these art works does not belong to Salvador Dali?",HUMANITIES_662e_0875,"Lady With Ermine",HUMANITIES_OPT_cf6a_000D
+"Dali engages these recurring images in a large number of his paintings.",HUMANITIES_5f68_0876,"All of these",HUMANITIES_OPT_10e8_000A
+"What is the meaning of the name Salvador?",HUMANITIES_845d_0877,Savior,HUMANITIES_OPT_2153_000C
+"The European dragon, which is part of the English mythology, is depicted on the national flag of this country.",HUMANITIES_6de2_0878,Wales,HUMANITIES_OPT_c794_000C
+"The yale, a creature from English and European mythology, resembles this animal.",HUMANITIES_76c6_0879,Goat,HUMANITIES_OPT_4039_000C
+"What kind of creature is the Melusine according to European folklore?",HUMANITIES_5094_0880,"A woman with serpent body",HUMANITIES_OPT_7feb_000D
+"What animal does the English mythological creature Enfield resemble?",HUMANITIES_ecd9_0881,"All of these",HUMANITIES_OPT_5fa7_000B
+"Name the creature from British and European mythology which is shaped like a serpent or dragon and swallows its own tail.",HUMANITIES_48c8_0882,Ouroboros,HUMANITIES_OPT_91c1_000D
+"What head does the mythological creature called manticore have?",HUMANITIES_fb00_0883,"Human head",HUMANITIES_OPT_5133_000B
+"Where does the British mythological creature Afanc live according to legend?",HUMANITIES_bd45_0884,"In lakes",HUMANITIES_OPT_24d4_000D
+"What creature from Arthurian legends has a serpents head, a leopards body and deers feet?",HUMANITIES_ae16_0885,"Questing Beast",HUMANITIES_OPT_2468_000A
+"What kind of creature is the Fuath according to Celtic mythology?",HUMANITIES_6241_0886,"Water spirit",HUMANITIES_OPT_ea44_000A
+"What is the Banshee spirit from Irish mythology associated with?",HUMANITIES_13d0_0887,Death,HUMANITIES_OPT_39a6_000A
+"Giovanni Battista Tiepolo, an Italian painter who became most famous in Europe between 1750 and 1770, is a representative of which art movement?",HUMANITIES_6f61_0888,Rococo,HUMANITIES_OPT_1280_000B
+"What was the nickname of Jacopo Robusti (1518-1594), an Italian artist, often compared to Furioso?",HUMANITIES_91a0_0889,Tintoretto,HUMANITIES_OPT_8c45_000D
+"Sfumato, which means blended in Italian is an art technique, created by which Italian Renaissance artist?",HUMANITIES_858e_0890,"Leonardo da Vinci",HUMANITIES_OPT_dfc8_000C
+"Which of the following works was painted by Titian, one of the most famous painters of the Renaissance and the Vetian school?",HUMANITIES_70b1_0891,"Penitent Mery Magdalen",HUMANITIES_OPT_a6aa_000A
+"The paintings of Italian painter Giorgio Morandi, who was born in Bologna in 1890, were featured in which film by Federico Fellini?",HUMANITIES_c0a7_0892,"La Dolce Vita",HUMANITIES_OPT_023f_000C
+"The movement Pittura Metafisica (metaphysical painting), that presents an alternative and illogical reality, was founded in 1917 by which Italian artists?",HUMANITIES_580e_0893,"Carlo Carra and Giorgio de Chirico",HUMANITIES_OPT_9470_000A
+"Leonardo da Vinci was hired to paint one of the walls of the Palazzo Vecchio in Florence. Who was his rival that painted the opposite wall?",HUMANITIES_d5b1_0894,Michelangello,HUMANITIES_OPT_8e92_000A
+"Which Italian artist made the sculpture Neptune and Triton, displayed in the Victoria and Albert Museum in London?",HUMANITIES_6476_0895,"Gian lorenzo Bernini",HUMANITIES_OPT_85a1_000A
+"It is widely believed that the foxtrot dance got its name from which of the following?",HUMANITIES_40d9_0896,"An actor",HUMANITIES_OPT_a72a_000C
+"In what country did the Bachata dance originate?",HUMANITIES_b36c_0897,"Dominican Republic",HUMANITIES_OPT_df56_000B
+"What dance does Al Pacinos character perform in the 1992 movie Scent of a Woman, when he gets enchanted by the perfume of his dancing partner?",HUMANITIES_d422_0898,Tango,HUMANITIES_OPT_b716_000C
+"What is the popular dance style Charleston named after?",HUMANITIES_f0e4_0899,"A city",HUMANITIES_OPT_f7be_000C
+"Toprock, footwork, power moves, freezes, and suicides are techniques used in this popular dance style.",HUMANITIES_3fb0_0900,B-boying,HUMANITIES_OPT_3689_000A
+"In which country did the Mambo music and dance originate in the 1930s?",HUMANITIES_db60_0901,Cuba,HUMANITIES_OPT_e66f_000C
+"In the 1950s, what name was used for the dance that is nowadays referred to as boogie-woogie?",HUMANITIES_1015_0902,Rocknroll,HUMANITIES_OPT_4745_000A
+"Which is the oldest of the so-called ballroom dances?",HUMANITIES_1507_0903,"Viennese Waltz",HUMANITIES_OPT_f602_000A
+"In what country did the Cha-cha-cha dance originate?",HUMANITIES_1c94_0904,Cuba,HUMANITIES_OPT_7c81_000C
+"Cali, Rueda and Casino are different styles of this popular Latin dance.",HUMANITIES_5d79_0905,Salsa,HUMANITIES_OPT_707e_000B
+"What is the Tagalog word for tree?",HUMANITIES_007e_0906,puno,HUMANITIES_OPT_071e_000D
+"What does the Tagalog word pera mean in English?",HUMANITIES_595b_0907,money,HUMANITIES_OPT_0cae_000D
+"Is it true that the Tagalog word salamin means pencil in English?",HUMANITIES_3d23_0908,False,HUMANITIES_OPT_55a4_000A
+"What does the Tagalog phrase Saan ka nakatira? mean in English?",HUMANITIES_7a93_0909,"Where do you live?",HUMANITIES_OPT_9fa0_000C
+"Beautiful is to the Tagalog word maganda, as fat is to this word.",HUMANITIES_6940_0910,mataba,HUMANITIES_OPT_d19a_000D
+"The Tagalog word tama means correct in English.",HUMANITIES_3965_0911,True,HUMANITIES_OPT_f349_000B
+"One is to the Tagalog word isa as two is to this Tagalog word.",HUMANITIES_6c8d_0912,dalawa,HUMANITIES_OPT_1dd1_000D
+"Does the Tagalog word anim mean six in English?",HUMANITIES_0120_0913,Yes,HUMANITIES_OPT_6a92_000B
+"What Tagalog word means Monday?",HUMANITIES_c4bf_0914,Lunes,HUMANITIES_OPT_f44f_000D
+"What does the Tagalog word Sabado mean in English?",HUMANITIES_f2ba_0915,Saturday,HUMANITIES_OPT_9e97_000B
+"What is the lyrical dance a mix of?",HUMANITIES_3adf_0916,"Jazz and Ballet",HUMANITIES_OPT_741b_000C
+"In dancing, the word foutette means to straighten.",HUMANITIES_5ac7_0917,False,HUMANITIES_OPT_1c04_000B
+"A grand jete is a type of leap in dancing.",HUMANITIES_3feb_0918,Yes,HUMANITIES_OPT_6fa2_000A
+"In dancing, what is Triple Threat?",HUMANITIES_865b_0919,"Singing, Dancing and Acting",HUMANITIES_OPT_cd51_000C
+"Of what origin was painter and etcher Rembrandt?",HUMANITIES_c54e_0920,Dutch,HUMANITIES_OPT_3b2f_000D
+"Rembrandt initially achieved success as a painter of what type of paintings?",HUMANITIES_3d51_0921,Portraits,HUMANITIES_OPT_fc43_000A
+"What personal tragedy did Rembrandt experience after he got married?",HUMANITIES_33bf_0922,"All of these",HUMANITIES_OPT_093d_000D
+"Why did Rembrandt nearly go bankrupt at a certain point of his life?",HUMANITIES_cb1e_0923,"He collected tons of art pieces.",HUMANITIES_OPT_6bcf_000B
+"What common name was given to Rembrandts famous painting, The Company of Frans Banning Cocq and Willem van Ruytenburch?",HUMANITIES_6fbf_0924,"The Night Watch",HUMANITIES_OPT_1a50_000B
+"Rembrandt is believed to have suffered from this medical condition.",HUMANITIES_427b_0925,Stereoblindness,HUMANITIES_OPT_15c1_000C
+"Who is the man whose corpse is depicted in Rembrandts famous painting The Anatomy Lesson of Dr. Nicolaes Tulp?",HUMANITIES_b04f_0926,"A criminal",HUMANITIES_OPT_24ad_000D
+"During what century did painter Rembrandt live and work?",HUMANITIES_c2fc_0927,"Seventeenth century",HUMANITIES_OPT_990c_000B
+"What did Rembrandt seek to achieve in his art according to a statement he made in a letter?",HUMANITIES_24c0_0928,"the greatest and most natural movement",HUMANITIES_OPT_addf_000A
+"Which of these is true about Rembrandts famous painting The Storm on the Sea of Galilee that was stolen in 1990?",HUMANITIES_f066_0929,"It is the only marine painting by Rembrandt.",HUMANITIES_OPT_cfc6_000A
+"What is the missing word from the Chinese proverb: If the wind comes from an empty ..., its not without a reason?",HUMANITIES_719c_0930,Cave,HUMANITIES_OPT_8c3b_000A
+"What is the meaning of the Chinese proverb, Riding a mule while looking for a horse?",HUMANITIES_0e54_0931,"Keeping what you have but looking for better options",HUMANITIES_OPT_8290_000A
+"What word is missing from the Chinese proverb: A ... can start a fire that burns the entire prairie?",HUMANITIES_9872_0932,Spark,HUMANITIES_OPT_6fe2_000C
+"Complete the Chinese proverb, ‘… must be chiseled before it can be considered a gem’.",HUMANITIES_405b_0933,Jade,HUMANITIES_OPT_21f2_000C
+"What is the missing verb from the Chinese proverb originating from the works of Chinese philosopher Confucius, I hear and I ...; I see and I remember; I do and I understand?",HUMANITIES_076a_0934,Forget,HUMANITIES_OPT_7342_000A
+"The name of what animal is missing in the Chinese proverb, A ... father has no canine sons?",HUMANITIES_1596_0935,Tiger,HUMANITIES_OPT_5e7e_000B
+"Complete the Chinese proverb, If you have money you can make ... push your grind stone.",HUMANITIES_3756_0936,"the devil",HUMANITIES_OPT_d005_000A
+"What is the missing word from the following Chinese proverb: To hit a ... with a meat-bun?",HUMANITIES_46f4_0937,Dog,HUMANITIES_OPT_8c9e_000B
+"What is the meaning of the Chinese proverb, A drop of water shall be returned with a burst of spring?",HUMANITIES_c2a8_0938,"You should respond to small favor with a larger one.",HUMANITIES_OPT_4d4b_000B
+"What is the missing phrase from the Chinese proverb, A single day of sub-zero temperature is not enough to create ...?",HUMANITIES_f679_0939,"Three feet of ice",HUMANITIES_OPT_2a8e_000B
+"What does the word wan mean?",HUMANITIES_e3fd_0940,pale,HUMANITIES_OPT_371d_000D
+"What does the word kirk refer to?",HUMANITIES_522d_0941,"A church",HUMANITIES_OPT_1048_000D
+"The following sentence is written in what language: I trädgården låg ett gammalt hus, och i huset bodde Pippi Långstrump?",HUMANITIES_a777_0942,Swedish,HUMANITIES_OPT_8d66_000C
+"In what language is this line: Mariachi me acompaña cuando canto mi canción?",HUMANITIES_1242_0943,Spanish,HUMANITIES_OPT_e484_000C
+"Name the language in which this sentence is written: He otunwahe kin el tuktel owotetipi wanzi han hwo.",HUMANITIES_1122_0944,Lakota,HUMANITIES_OPT_ecc1_000A
+"In what language is the sentence: Kalevala on inspiroinut monia kirjailijoita myös Suomen ulkopuolella?",HUMANITIES_9867_0945,Finnish,HUMANITIES_OPT_52c7_000B
+"Is this the correct usage of the word inferring? By saying that I look good today, are you inferring that I did not look good yesterday?",HUMANITIES_80a2_0946,No,HUMANITIES_OPT_cdd7_000A
+"Is this the correct usage of the word continually? Professor Smith gave a speech yesterday. He spoke continually for 3 hours.",HUMANITIES_4920_0947,No,HUMANITIES_OPT_99c5_000A
+"In the following sentence, which word is incorrect? The schools unprincipled principal understands the principle of the argument.",HUMANITIES_3a64_0948,"None of the words is incorrect; the sentence is correct as is.",HUMANITIES_OPT_3083_000D
+"The main function of this nucleic acid, consisting of a string of covalently-bound nucleotides, is to copy genetic information.",HUMANITIES_7477_0949,RNA,HUMANITIES_OPT_476f_000D
+"In Egyptian mythology this is known as the soul/personality of a person. It is sometimes depicted as a human-headed bird.",HUMANITIES_07b5_0950,Ba,HUMANITIES_OPT_febf_000D
+"Camulatz is the bird that ate the heads of the first men according to this mythology.",HUMANITIES_8cf1_0951,Maya,HUMANITIES_OPT_f2ff_000B
+"Chamrosh is said to rule and protect all avifauna on Earth.",HUMANITIES_f63c_0952,True,HUMANITIES_OPT_045e_000A
+"The griffin is a legendary creature with the body of this animal and the head and wings of an eagle.",HUMANITIES_22ce_0953,Lion,HUMANITIES_OPT_40a4_000A
+"In Greek mythology, the Harpies were beautiful winged women best known for doing this to Phineas (a King of Thrace, son of Agenor who had the gift of prophecy).",HUMANITIES_d763_0954,"Constantly stealing food from him",HUMANITIES_OPT_d96b_000D
+"Hugin and Munin are Odins two companion birds in Norse mythology. They are these bird species.",HUMANITIES_d1a2_0955,Ravens,HUMANITIES_OPT_f345_000D
+"Phoenixes can be only male.",HUMANITIES_8f26_0956,True,HUMANITIES_OPT_1e68_000A
+"The second time Noah sent the dove from the Ark, the bird returned with this.",HUMANITIES_4bb2_0957,"Olive leaf",HUMANITIES_OPT_1847_000C
+"Garuda is one of the main forms of God in Hinduism. He is described as having all of these except one.",HUMANITIES_21f7_0958,"Ravens beak",HUMANITIES_OPT_ac99_000A
+"Raven, the spirit of the raven bird, is a god in the mythology of various native peoples of northwest North America. It is considered to be the god of loyalty and truth.",HUMANITIES_8ae3_0959,False,HUMANITIES_OPT_9531_000B
+"Fill in the blank with the correct word: It would be as well to let it go, ___ too far out. Quote from A New Hope",HUMANITIES_32c5_0960,its,HUMANITIES_OPT_8e37_000A
+"To which language group does English belong?",HUMANITIES_392e_0961,Germanic,HUMANITIES_OPT_4fdd_000B
+"Which Central European language is not a Slavic one?",HUMANITIES_4d3f_0962,Hungarian,HUMANITIES_OPT_2ed8_000C
+"What language is spoken in Austria?",HUMANITIES_3c91_0963,German,HUMANITIES_OPT_4204_000A
+"Many neighbouring European countries have similar languages. The languages of which two countries belong to different language groups?",HUMANITIES_ff6d_0964,"Sweden and Finland",HUMANITIES_OPT_ff04_000A
+"Which country is called Tyskland, Niemcy or Allemagne by some of its neighbors?",HUMANITIES_94e2_0965,Germany,HUMANITIES_OPT_7f9d_000C
+"The people of which Balkan country do not use a Cyrillic alphabet?",HUMANITIES_4d0d_0966,Greece,HUMANITIES_OPT_fdfc_000A
+"Which of these languages is closest to Italian?",HUMANITIES_f4cf_0967,Romanian,HUMANITIES_OPT_4663_000A
+"Esperanto is the official language of which country?",HUMANITIES_b398_0968,"It is not a language of any country.",HUMANITIES_OPT_03a9_000A
+"In which part of Germany will you most likely find people speaking Wendish (also called Sorbian)?",HUMANITIES_ed83_0969,"Saxony and Brandenburg",HUMANITIES_OPT_ecd2_000D
+"What language is spoken by the most people in the European Union as their native language?",HUMANITIES_b990_0970,German,HUMANITIES_OPT_b8f5_000C
+"In which country is Flemish mostly spoken?",HUMANITIES_8afa_0971,Belgium,HUMANITIES_OPT_f0b6_000D
+"The modern unicorn is depicted as a horse with a single horn. Traditionally unicorns were depicted much differently. Which of these features was not depicted as part of the traditional unicorn?",HUMANITIES_fd62_0972,"Snake-like tongue",HUMANITIES_OPT_04a8_000A
+"The spiralled horn of a unicorn was called an Alicorn.",HUMANITIES_a71b_0973,True,HUMANITIES_OPT_5842_000B
+"Was the unicorn part of Greek mythology?",HUMANITIES_49eb_0974,No,HUMANITIES_OPT_161d_000A
+"In ancient times items made of unicorn parts were very valuable for what reason?",HUMANITIES_9e9b_0975,"All of these",HUMANITIES_OPT_70a5_000C
+"Which of these countries has a unicorn on its coat of arms?",HUMANITIES_f98f_0976,Scotland,HUMANITIES_OPT_8e35_000D
+"Portugal has a unicorn on its coat of arms and royal seals.",HUMANITIES_7269_0977,False,HUMANITIES_OPT_7ac6_000B
+"The coat of arms of the Society of Apothecaries in London is adorned with how many unicorns?",HUMANITIES_13e6_0978,2,HUMANITIES_OPT_4cd0_000A
+"A supposed unicorn skeleton was found in a cave in Europe. The skeleton was found to be a hoax but the cave retained the name Unicorn Cave. In which European country is Unicorn Cave located?",HUMANITIES_0bfd_0979,Germany,HUMANITIES_OPT_be6e_000D
+"Many explorers such as Marco Polo may have confused rhinoceros for unicorns.",HUMANITIES_b62f_0980,True,HUMANITIES_OPT_f5c9_000B
+"It was the third of June when Mama announced that Billy Joe McCallister jumped off the Tallahatchie Bridge. Mama also related that Brother Taylor had seen a girl that looked a lot like you upon Choctaw Ridge and she and Billie Joe was throwing something off the Tallahatchie Bridge. What did the narrator and Billie Joe throw off the Tallahatchie Bridge?",HUMANITIES_fe49_0981,"The song never reveals what was thrown off the bridge",HUMANITIES_OPT_a009_000C
+"In 1814 we took a little trip Along with Colonel Jackson down the mighty Mississip. This is the beginning line of what ballad by John Horton?",HUMANITIES_719e_0982,"The Ballad of New Orleans",HUMANITIES_OPT_9626_000A
+"Which term is preferred by more and more female performers of stage and screen?",HUMANITIES_4301_0983,Actor,HUMANITIES_OPT_ba3c_000A
+"Which of the following refers to the female side of the family?",HUMANITIES_8523_0984,Distaff,HUMANITIES_OPT_41d9_000B
+"Grammatically correct gender terminology  includes which of the following?",HUMANITIES_6294_0985,"All of these",HUMANITIES_OPT_55da_000A
+"What is the term for a male sibling?",HUMANITIES_8911_0986,Brother,HUMANITIES_OPT_738c_000A
+"What is a female octopus called?",HUMANITIES_8fb1_0987,Hen,HUMANITIES_OPT_ff48_000B
+"What is the more common term for a male or female ecdysiast?",HUMANITIES_9949_0988,Stripper,HUMANITIES_OPT_5be9_000D
+"The word bachelorette has replaced which offensive term for an unmarried older woman?",HUMANITIES_9eed_0989,Spinster,HUMANITIES_OPT_f807_000C
+"Which of the following terms refers to a female homeless child who roams the streets?",HUMANITIES_576c_0990,Gamine,HUMANITIES_OPT_2bdc_000C
+"Which term applies to a woman who has earned a PhD?",HUMANITIES_e4dd_0991,Doctor,HUMANITIES_OPT_49aa_000B
+"What is the term for a female baby kangaroo?",HUMANITIES_1a26_0992,Joey,HUMANITIES_OPT_8836_000B
+"Where will you most likely hear howdy as a greeting?",HUMANITIES_b0c6_0993,Texas,HUMANITIES_OPT_7681_000C
+"Shalom aleichem and Salam alaikum are common greetings in Hebrew and Arabic, respectively. What is the meaning of both?",HUMANITIES_84ab_0994,"Peace to you",HUMANITIES_OPT_f425_000C
+"In which language is Hola used as a greeting?",HUMANITIES_7426_0995,Spanish,HUMANITIES_OPT_dd7d_000C
+"A Japanese greeting meaning good morning is pronounced like the name of this US state.",HUMANITIES_71ba_0996,Ohio,HUMANITIES_OPT_c432_000D
+"How could you welcome your Italian friend in his/her native language?",HUMANITIES_7187_0997,Salve,HUMANITIES_OPT_4a2b_000C
+"At what time of the day is it proper to use the Dutch greeting goedenavond?",HUMANITIES_6b81_0998,Evening,HUMANITIES_OPT_aefc_000B
+"What is the literal meaning of the French greeting bon jour?",HUMANITIES_f47c_0999,"Good day",HUMANITIES_OPT_ac62_000D
+"The Chinese term Kowtow refers to an act of deep respect. How is it performed?",HUMANITIES_93e4_1000,"By kneeling and bowing so low as to touch the head to the ground",HUMANITIES_OPT_17ba_000D
+"You probably wouldnt be able to pronounce the word cześć, but try to guess in which language is it used as a greeting.",HUMANITIES_5fab_1001,Polish,HUMANITIES_OPT_d2d9_000B
+"In south Germany and Austria, Grüß Gott is commonly used as a greeting. What does it literally mean?",HUMANITIES_a11d_1002,"God bless you",HUMANITIES_OPT_e0e8_000D
+"Sik Jo Fan Mei means have you eaten yet?. In which country it is used as a greeting?",HUMANITIES_3422_1003,China,HUMANITIES_OPT_6e83_000A
+"In which culture is pressing noses used as a greeting?",HUMANITIES_1f35_1004,"Maori (New Zealand)",HUMANITIES_OPT_5c60_000D
+"Two words that can be interchanged in a context are said to be antonyms.",HUMANITIES_41f2_1005,False,HUMANITIES_OPT_5224_000B
+"What word means the same as meager?",HUMANITIES_3c54_1006,paltry,HUMANITIES_OPT_5c96_000D
+"Constant means changing.",HUMANITIES_7e1f_1007,False,HUMANITIES_OPT_5ef6_000B
+"Sick is the same as ill.",HUMANITIES_ac05_1008,True,HUMANITIES_OPT_c626_000B
+"Which of these words is a synonym of research?",HUMANITIES_21ac_1009,investigate,HUMANITIES_OPT_68ba_000D
+"There many words that have the same meaning as low. Which of the following is NOT one of them?",HUMANITIES_fbe3_1010,escape,HUMANITIES_OPT_8fc0_000A
+"The words barbed, biting, nipping or pungent could mean what?",HUMANITIES_583d_1011,sarcastic,HUMANITIES_OPT_b602_000D
+"Whats the name of the singer who was involved with bicyclist Lance Armstrong?",HUMANITIES_5d7d_1012,"Sheryl Crow",HUMANITIES_OPT_b83b_000A
+"This prolific author was also a screenwriter, penning the likes of I Dream of Jeannie, Hart to Hart and The Patty Duke Show.",HUMANITIES_30e2_1013,"Sidney Sheldon",HUMANITIES_OPT_6274_000D
+"The Jeffersons TV series, starring Sherman Hemsley, was a spinoff of All In The Family.",HUMANITIES_1429_1014,True,HUMANITIES_OPT_137d_000A
+"The group S.H.E plays country music in China.",HUMANITIES_3c8c_1015,False,HUMANITIES_OPT_2e17_000B
+"In chemistry SHE stands for Standard Helium Electrode.",HUMANITIES_e3de_1016,False,HUMANITIES_OPT_d7bd_000B
+"This actress is best known for playing Olive Oyl in 1979 and Wendy Torrance in 1980.",HUMANITIES_7ce2_1017,"Shelley Duvall",HUMANITIES_OPT_57f8_000D
+"This influential English political philosopher believed in rule by absolute sovereign and the need for a social contract. His masterwork is Leviathan.",HUMANITIES_dfe2_1018,"Thomas Hobbes",HUMANITIES_OPT_c55f_000A
+"This early scholastic philosopher was a Franciscan friar best known for his principle that opposes multiplying unnecessary entities in making propositions or drawing conclusions.",HUMANITIES_d064_1019,"William of Ockham",HUMANITIES_OPT_a919_000A
+"This Twentieth Century English pacifist was the founder of analytic philosophy. His History of Western Philosophy helped him garner the Nobel Prize for Literature in 1950.",HUMANITIES_1a94_1020,"Bertrand Russell",HUMANITIES_OPT_cb8f_000D
+"This influential philosopher espoused the master-slave theory of morality and believed in the will to power as the motivating force behind animal and human behavior.",HUMANITIES_e0b8_1021,Nietzsche,HUMANITIES_OPT_ccae_000C
+"This Seventeenth Century Dutch rationalist was a pantheist excommunicated from the Jewish Church for heresy. He believed mind and body were of one substance. His greatest contributions were in the field of moral philosophy.",HUMANITIES_4b76_1022,Spinoza,HUMANITIES_OPT_1abf_000A
+"His Categorical Imperative was a concept for moral actions based on the premise that one should act only according to the maxim that such action could or would be made into a universal law.",HUMANITIES_a3eb_1023,Kant,HUMANITIES_OPT_5994_000A
+"He was a Seventeenth Century rationalist who invented calculus, put forth the doctrine of  Windowless Monads, and believed that this universe was the best possible one God could have created.",HUMANITIES_247c_1024,Leibniz,HUMANITIES_OPT_22b8_000D
+"The sailors in South Pacific love a woman whose skin is as tender as DiMaggios glove and is always chewin betel nuts. If anyone has objections,  Well aint that too damn bad. Who is the woman that can speak English as well as any damn marine?",HUMANITIES_0934_1025,"Bloody Mary",HUMANITIES_OPT_368e_000A
+"The Andrew Lloyd Webber song I Dont Know How to Love Him is about what character?",HUMANITIES_19b7_1026,"Jesus Christ",HUMANITIES_OPT_ad2b_000B
+"Which of these songs from the movie Cabaret originated in the Broadway version?",HUMANITIES_12e6_1027,"Tomorrow Belongs to Me",HUMANITIES_OPT_d77a_000D
+"These songs all appear in the original Broadway version of The Sound of Music, but not in the movie version. Which one of them is NOT sung by Max and the Baroness?",HUMANITIES_5cc6_1028,"An Ordinary Couple",HUMANITIES_OPT_33b1_000A
+"This ensemble song was removed just prior to the opening of the musical Show Boat, but its music remained as part of the overture.",HUMANITIES_ad5b_1029,"Misrys Comin Around",HUMANITIES_OPT_5d47_000D
+"The song Send in the Clowns from the musical A Little Night Music was specifically written for which actress?",HUMANITIES_3a3f_1030,"Glynis Johns",HUMANITIES_OPT_2d76_000A
+"Which of these movie musical numbers was NOT nominated for a Best Original Song Oscar?",HUMANITIES_e1fe_1031,"Come What May, Moulin Rouge",HUMANITIES_OPT_2078_000D
+"The song A Little Priest, from Stephen Sondheims 1979 musical Sweeney Todd, is about what?",HUMANITIES_5752_1032,Cannibalism,HUMANITIES_OPT_fba5_000A
+"According to a popular song from the 2003 puppet musical Avenue Q, what is the Internet for?",HUMANITIES_8426_1033,Porn,HUMANITIES_OPT_b8b1_000A
+"One of the best-known tales of Arthurian times is The Sword in the Stone, written by T. H. White.  In the book, the soon-to-be-king, Arthur, is lives with which of these people?",HUMANITIES_1dee_1034,"Sir Ector",HUMANITIES_OPT_c546_000D
+"In the popular childrens animated musical, Quest For Camelot, what well-known female singer provided the singing voice for Lady Juliana?",HUMANITIES_4b80_1035,"Cèline Dion",HUMANITIES_OPT_a85c_000D
+"In 1456, Sir Thomas Mallory completed what is one of the most well-known accounts of the life of King Arthur, called Le Morte DArthur.",HUMANITIES_8964_1036,False,HUMANITIES_OPT_43bc_000B
+"During the reign of King Henry II, what is thought to be the grave of King Arthur, was discovered where in England?",HUMANITIES_f447_1037,Glastonbury,HUMANITIES_OPT_63ae_000B
+"Is it true that in Greek mythology, Medusa, who was a beautiful girl with beautiful hair, became a Gorgon with serpents in her hair because she was arrogant and dared to compare her beauty to that of Athena?",HUMANITIES_2a4c_1038,No,HUMANITIES_OPT_b1f2_000B
+"What does Gigantoleteira mean?",HUMANITIES_62fd_1039,"The giants destroyer",HUMANITIES_OPT_cc41_000A
+"What does the name Ergane mean?",HUMANITIES_132d_1040,Worker,HUMANITIES_OPT_f562_000D
+"What kind of musical instrument did Athena invent?",HUMANITIES_3bc9_1041,Flute,HUMANITIES_OPT_288a_000B
+"What does Korih, one of Athenas names, mean?",HUMANITIES_06e0_1042,Virgin,HUMANITIES_OPT_a095_000D
+"Ancient Greeks believed that this Titan created man.",HUMANITIES_9a20_1043,Prometheus,HUMANITIES_OPT_bfbb_000C
+"This Titan overthrew his father, Ouranos and ruled over the Earth before the gods.",HUMANITIES_c79d_1044,Cronus,HUMANITIES_OPT_b07b_000C
+"These mythological figures were gigantic beings with one hundred hands.",HUMANITIES_3221_1045,Hecatoncheires,HUMANITIES_OPT_176c_000B
+"Which Greek god is known as the Earth-shaker?",HUMANITIES_e566_1046,Poseidon,HUMANITIES_OPT_f600_000C
+"Zeus is the Greek god of the sky and the chief of the gods.",HUMANITIES_ee91_1047,True,HUMANITIES_OPT_d499_000A
+"Name the mythological giant three-headed dog that guarded the gate to the underworld.",HUMANITIES_6166_1048,Cerberus,HUMANITIES_OPT_ab2c_000A
+"What was the home of the gods in Greek mythology?",HUMANITIES_e04b_1049,"Mt. Olympus",HUMANITIES_OPT_e063_000C
+"According to Greek mythology, Pegasus and his brother, Chrysaor were born when Perseus decapitated this monster.",HUMANITIES_8951_1050,Medusa,HUMANITIES_OPT_b055_000A
+"According to Greek mythology, Odysseus and his men landed on the island of the Lotus Eaters following the Trojan War.",HUMANITIES_974a_1051,True,HUMANITIES_OPT_d7e1_000B
+"Polyphemus, the one-eyed son of Poseidon, asked his father not to allow this mythological hero to return home.",HUMANITIES_bdac_1052,Odysseus,HUMANITIES_OPT_9a0d_000D
+"Baroque painters Caravaggio and Rembrandt used chiaroscuro, an art technique, related to the distribution of light and dark in a painting.",HUMANITIES_b834_1053,True,HUMANITIES_OPT_3fb1_000B
+"Diego Velazquez, a Spanish Baroque Era painter, became most famous with what kind of paintings?",HUMANITIES_c805_1054,Portraits,HUMANITIES_OPT_c1b8_000C
+"Boy Blowing a Horn, a sculpture created by Italian Baroque Era sculptor Pietro Tacca, is displayed where?",HUMANITIES_0274_1055,"in the Hermitage Museum, Saint Petersburg, Russia",HUMANITIES_OPT_3fba_000B
+"Works of Pietro Bernini, a Baroque Era sculptor, are displayed in which American museum?",HUMANITIES_8b98_1056,"The Metropolian Museum of Art, New York City",HUMANITIES_OPT_b5ac_000C
+"Ottavio Leoni, an Italian Baroque Era printmaker and painter, painted which of the following drawings?",HUMANITIES_3d06_1057,"Urban III",HUMANITIES_OPT_ad3c_000B
+"Rubens, one of the most famous Flemish Baroque Era painters, was a student of Cornelis de Vos.",HUMANITIES_f195_1058,False,HUMANITIES_OPT_a882_000B
+"Where did Diego Velazquez, a Spanish Baroque Era painter, spend his middle period?",HUMANITIES_b395_1059,Madrid,HUMANITIES_OPT_7605_000A
+"In India dacoit  is a synonym for what word?",HUMANITIES_d103_1060,bandit,HUMANITIES_OPT_04c4_000A
+"Dear Elle:hes a lucky guy-- Im, like, gonna cry-- I got tears coming out of my nose! Mad props!.... are the first lines of lyrics in this song sung by Margot in the musical Legally Blonde.",HUMANITIES_f775_1061,"Omigod You Guys",HUMANITIES_OPT_8483_000D
+"What division is based on the different treatment of the three original velar rows?",HUMANITIES_49e6_1062,"Satem and Centum languages",HUMANITIES_OPT_97a4_000A
+"Venetic is an extinct language from the Indo-European family that was spoken in what country?",HUMANITIES_3e36_1063,Italy,HUMANITIES_OPT_35ba_000C
+"The official language of the Hittite Empire, the Hittite language, is part of what group of extinct Indo-European languages?",HUMANITIES_cc3e_1064,Anatolian,HUMANITIES_OPT_efc7_000C
+"What language of the Baltic group is extinct?",HUMANITIES_4bc6_1065,Selonian,HUMANITIES_OPT_c064_000C
+"English belongs to what group of languages in the Indo-European family?",HUMANITIES_769f_1066,Germanic,HUMANITIES_OPT_6033_000A
+"The Grimms law describes what Proto-Indo-European language?",HUMANITIES_c997_1067,"Proto-Germanic language",HUMANITIES_OPT_df34_000A
+"To what group belongs the Spanish language?",HUMANITIES_c8ae_1068,Italic,HUMANITIES_OPT_df64_000D
+"What language from the South-Slavic branch usees Cyrillic script?",HUMANITIES_32f0_1069,Bulgarian,HUMANITIES_OPT_1a36_000C
+"The Scythians, who dominated the Pontic steppe throughout Classical Antiquity. spoke a language that belongs to what Indo-European group?",HUMANITIES_a746_1070,Indo-Iranian,HUMANITIES_OPT_7f99_000D
+"What is the largest subdivision of Indo-European as regards the largest number of native speakers and of individual languages?",HUMANITIES_9e3e_1071,Indo-Iranian,HUMANITIES_OPT_3f05_000A
+"How is the Echidna described Greek mythology?",HUMANITIES_5994_1072,"Half-woman, half-serpent",HUMANITIES_OPT_8ec4_000B
+"What kind of creature is Pegasus according to Greek legends?",HUMANITIES_62b5_1073,"Winged horse",HUMANITIES_OPT_286e_000C
+"During which century did Italian painter Michelangelo live and work?",HUMANITIES_7438_1074,"15th-16th century",HUMANITIES_OPT_a178_000D
+"According to painter and sculpture Michelangelo, art originated from which of the following?",HUMANITIES_83cc_1075,"Inner inspiration",HUMANITIES_OPT_ae20_000C
+"What was Michelangelos view of nature and its place in art?",HUMANITIES_3a83_1076,"He saw it as an enemy.",HUMANITIES_OPT_6007_000A
+"Which of these statements is true about Michelangelo?",HUMANITIES_6c5c_1077,"He lived in poverty.",HUMANITIES_OPT_b0d7_000C
+"Painter and sculptor Michelangelo is believed to have had homosexual inclinations.",HUMANITIES_3fd0_1078,True,HUMANITIES_OPT_8a3d_000B
+"Which of these phrases is a synonym of limbo?",HUMANITIES_4a00_1079,"Middle ground",HUMANITIES_OPT_3fc6_000D
+"Which of these phrases refers to cemetery?",HUMANITIES_8c7b_1080,"Burying ground",HUMANITIES_OPT_8be1_000D
+"What phrase is a synonym of jungle?",HUMANITIES_8425_1081,"Uncultivated ground",HUMANITIES_OPT_3bfa_000C
+"What does the term swale refer to?",HUMANITIES_ba70_1082,"Low ground",HUMANITIES_OPT_4bb3_000A
+"Which phrase is a synonym of chase?",HUMANITIES_a466_1083,"Hunting ground",HUMANITIES_OPT_7b35_000B
+"What does the word bog mean?",HUMANITIES_bc0e_1084,"Spongy ground",HUMANITIES_OPT_67a0_000B
+"What is the meaning of the word hardpan?",HUMANITIES_1613_1085,"Hard ground",HUMANITIES_OPT_7e82_000C
+"What syntactic element is not part of the predicate?",HUMANITIES_f3af_1086,Subject,HUMANITIES_OPT_6025_000B
+"What category is never marked on Non-Finite Verb Phrases such us to have been studying, being studied, etc?",HUMANITIES_ef0c_1087,Tense,HUMANITIES_OPT_0f0e_000C
+"In the sentence Cristiano Ronaldo was the best player available, what is the syntactic function of the Noun Phrase the best player available?",HUMANITIES_ac92_1088,"Subject Complement",HUMANITIES_OPT_667c_000A
+"What sentence is not in the indicative clause type (or mood)?",HUMANITIES_aae4_1089,"Dont move!",HUMANITIES_OPT_89a3_000B
+"What sentence contains an Obligatory Adjunct, also known as Predicator Complement?",HUMANITIES_892f_1090,"The baby weighs 9 pounds.",HUMANITIES_OPT_27f2_000B
+"Identify the Operator in the sentence: The football match must have been played last Saturday.",HUMANITIES_c4ce_1091,must,HUMANITIES_OPT_765a_000B
+"The nominal clauses are finite dependent clauses that fulfill the functions of Subject, Object and Complement in clause structure. There are four main types: wh-nominal relative, dependent exclamative, wh-interrogative and what other type?",HUMANITIES_f384_1092,"that-clause as in He saw that the bottles were empty.",HUMANITIES_OPT_50c5_000C
+"Where do we have an example of code, one of the NICE constructions (negation, inversion, code and emphasis)?",HUMANITIES_2f75_1093,"I will stay, if you will.",HUMANITIES_OPT_65fc_000C
+"In what sentence is there a modifier in the Adverbial Phrase?",HUMANITIES_c26c_1094,"My shoes are bright red.",HUMANITIES_OPT_d24c_000D
+"Of what kind is the coordination between the clauses in the sentence You should neither ask him for money nor accept it if he offers?",HUMANITIES_a9c7_1095,Alternation,HUMANITIES_OPT_4f55_000D
+"Complete this line from a song, featured in the movie Cannibal! The Musical: The sky is blue and all the leaves are green. The airs as warm as ...",HUMANITIES_e98f_1096,"a baked potato",HUMANITIES_OPT_a00f_000A

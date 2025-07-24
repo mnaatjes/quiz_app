@@ -5,6 +5,7 @@
     require_once("../../../packages/php_http_manager/src/main.php");
     // Enable Errors
     ini_errors_enable();
+    /*----------------------------------------------------------*/
     /**
      * Create UID
      * @param string $category
@@ -12,8 +13,128 @@
      * @param int $length (default = 4)
      * @return string
      */
+    /*----------------------------------------------------------*/
     function create_uid($category, $i, $length=4){
         return strtoupper($category) . "_" . substr(bin2hex(random_bytes(16)), 0, $length) . "_" . str_pad($i, 4, 0, STR_PAD_LEFT);
+    }
+    
+    /*----------------------------------------------------------*/
+    /**
+     * CONSTANTS
+     */
+    /*----------------------------------------------------------*/
+    define('FP_WORKING_DIR', '../src/data/raw/');
+
+    /*----------------------------------------------------------*/
+    /**
+     * Read Text Content
+     * @param string $input_filename Includes extension, e.g. animals.txt
+     * 
+     * @return array $lines array of lines
+     */
+    /*----------------------------------------------------------*/
+    function read_txt($input_filename){
+        /**
+         * @var string $input_filepath Filepath (with working directory and extension) of source text document
+         */
+        $input_filepath = FP_WORKING_DIR . $input_filename;
+
+        /**
+         * Read text document and grab content
+         * - Validate file exists
+         * - Open file
+         * - Grab Contents
+         * - Grab array of content lines
+         */
+        if(!file_exists($input_filepath)){
+            throw new Exception("Error: File '{$input_filepath}' does not exist!");
+        }
+        // Open File
+        $contents = file_get_contents($input_filepath);
+        // Validate Contents
+        if($contents === false){
+            throw new Exception("Error: Could not read '{$input_filename}");
+        }
+        /**
+         * @var array $lines Array of extracted lines from $contents
+         */
+        $lines = explode(PHP_EOL, $contents);
+
+        /**
+         * Validate and return
+         */
+        if(is_array($lines)){
+            return $lines;
+        } else {
+            throw new Exception("Error: Unable to parse data from '{$input_filepath}'");
+        }
+    }
+
+    /*----------------------------------------------------------*/
+    /**
+     * Parse text to array
+     * @param array $lines Array of lines from text document content
+     * @param string $category
+     * 
+     * @return array Assoc array for Questions and Options
+     */
+    /*----------------------------------------------------------*/
+    function txt_contents_to_assoc($lines, $category){
+        
+        // Define Properties
+
+        /**
+         * @var array $data Data array of questions and options arrays
+         */
+        $data = [
+            "questions" => [],
+            "options"   => []
+        ];
+
+        /**
+         * @var array $current Questions and Options current record
+         */
+        $current = [
+            "question"  => null,
+            "options"   => null
+        ];
+
+        /**
+         * @var array $counter Counter for questions, options
+         */
+        $counter = [
+            "question"  => 1,
+            "option"    => 1
+        ];
+
+        /**
+         * @var bool $flag Flag for reaching end of question / options
+         */
+        $flag = false;
+
+        /**
+         * Loop lines
+         */
+        foreach($lines as $line){
+            /**
+             * Trim line and validate
+             */
+            $line = trim($line);
+            if(empty($line)){
+                continue;
+            }
+
+            /**
+             * @var string $QID Define question id
+             */
+            $QID = create_uid($category, $counter["question"]);
+
+            /**
+             * Increment Counters
+             */
+            $counter["question"]++;
+
+        }
     }
     /**
      * Init $app
@@ -21,17 +142,6 @@
     header("Content-Type: application/json");
     $app = new HttpManager();
     $app->get('/', function($req, $res){
-        /**
-         * Grab TXT file and convert to array of objects
-         */
-        $fp_input   = "../src/data/raw/animals.txt";
-        $category   = "animal";
-        // Open
-        $contents = file_get_contents($fp_input);
-        // Compose data
-        $data_q     = [];
-        $data_a     = [];
-        $lines      = explode(PHP_EOL, $contents);
         $current    = null;
         $options    = null;
         $counter_a  = 0;
@@ -149,50 +259,66 @@
                 $options = null;
             }
         }
+        /*----------------------------------------------------------*/
         /**
-         * Create CSV File
-         * - Define Properties
-         * - Create File
-         * - Loop Data
-         * - Write out
+         * Write CSV from Array of Assoc Arrays
+         * @param string $fp_output Filepath output includes filename and extension
+         * @param array $data array of assoc arrays 
+         * 
+         * @return bool failure or success
          */
-        $fp_output  = '../src/data/raw/' . strtolower($category) . "_options" . "_" . substr(bin2hex(random_bytes(16)), 0, 4) . ".csv";
-        $delimiter  = ',';
-        $enclosure  = '"';
-        $escape     = '\\';
-        /**
-         * Open file
-         */
-        $handler = fopen($fp_output, "w");
-        $body    = "Failed";
-        if($handler !== false){
-            // get headers
-            $headers = array_keys($data_a[0]);
-            // write headers to file
-            if(fputcsv($handler, $headers, $delimiter, $enclosure, $escape) === false){
-                // on failure of header write
-                fclose($handler);
-            } else {
-                // Loop data and write
-                $row_number = 0;
-                foreach($data_a as $record){
-                    // get values
-                    $values = array_values($record);
-                    var_dump($values);
-                    // Write to csv
-                    if(fputcsv($handler, $values, $delimiter, $enclosure, $escape) === false){
-                        // Set body for failure
-                        $body = "Failure to write to CSV file on row: " . $row_number;
+        /*----------------------------------------------------------*/
+        function write_csv($fp_output, $data){
+            // set flag
+            $flag = false;
+            // CSV Properties
+            $delimiter  = ',';
+            $enclosure  = '"';
+            $escape     = '\\';
+            // Open File and check handler
+            $handler = fopen($fp_output, "w");
+            // Validate Handler
+            if($handler !== false){
+                // get headers
+                $headers = array_keys($data[0]);
+                // write headers to file
+                if(fputcsv($handler, $headers, $delimiter, $enclosure, $escape) === false){
+                    // on failure of header write
+                    fclose($handler);
+                } else {
+                    // Loop data and write
+                    $row_number = 0;
+                    foreach($data as $record){
+                        // get values
+                        $values = array_values($record);
+                        // Write to csv
+                        if(fputcsv($handler, $values, $delimiter, $enclosure, $escape) === false){
+                            // Set body for failure
+                            $body = "Failure to write to CSV file on row: " . $row_number;
+                        }
+                        // increment row number
+                        $row_number++;
                     }
-                    // increment row number
-                    $row_number++;
+                    // set flag
+                    $flag = true;
+                    // Close file
+                    fclose($handler);
                 }
-                // Set body for success condition
-                $body = $fp_output;
-                // Close file
-                fclose($handler);
             }
+            // return result
+            return $flag;
         }
+        /**
+         * Define Output Properties
+         */
+        $output_filepath    = '../src/data/raw/';
+        $records_q_filename = strtolower($category) . "_" . substr(bin2hex(random_bytes(16)), 0, 4);
+        $records_a_filename = $records_q_filename . "_options_";
+
+        /**
+         * Assign Body Message
+         */
+        $body = $flag ? "Success" : "Failed to Create Document!";
         /**
          * Send Output Response
          */

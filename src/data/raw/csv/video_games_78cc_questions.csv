@@ -1,0 +1,600 @@
+question,QID,answer,answer_OID
+"In what fictional city is the TV show Futurama set?",VIDEO_GAMES_e411_0001,"New New York",VIDEO_GAMES_OPT_f740_000B
+"What is the lowest ranking species in the Covenant hierarchy in the Halo series?",VIDEO_GAMES_9c09_0002,Grunt,VIDEO_GAMES_OPT_4090_000D
+"Who controls the Flood in the Halo series?",VIDEO_GAMES_23eb_0003,Gravemind,VIDEO_GAMES_OPT_30f3_000A
+"What is a SPARTAN in the Halo series?",VIDEO_GAMES_9cc1_0004,"All of these",VIDEO_GAMES_OPT_3477_000D
+"What species is the Didact in the Halo series?",VIDEO_GAMES_4efa_0005,Forerunner,VIDEO_GAMES_OPT_d3be_000A
+"In the Halo series, Zealots use Energy Swords.",VIDEO_GAMES_2d60_0006,True,VIDEO_GAMES_OPT_2a56_000A
+"Which of the following does the UNSC use to transport troops in the halo series?",VIDEO_GAMES_9713_0007,Pelicans,VIDEO_GAMES_OPT_2bea_000D
+"What does UNSC stand for in the Halo series?",VIDEO_GAMES_81ec_0008,"United Nations Space Command",VIDEO_GAMES_OPT_30fe_000C
+"What is the largest UNSC ship in the Halo series?",VIDEO_GAMES_9cc6_0009,"UNSC Infinity",VIDEO_GAMES_OPT_831c_000B
+"What city does Halo 3 ODST take place in?",VIDEO_GAMES_bf1e_0010,"New Mombasa",VIDEO_GAMES_OPT_b3d3_000B
+"What is the largest species of the Covenant in the Halo series?",VIDEO_GAMES_8264_0011,Hunter,VIDEO_GAMES_OPT_aff6_000B
+"Who made the fictional Mother Brain and for what purpose?",VIDEO_GAMES_402a_0012,"The Chozo built her to be a organic Supercomputer.",VIDEO_GAMES_OPT_367d_000D
+"How did the Alimbics become extinct in the Metroid series?",VIDEO_GAMES_ea1c_0013,"The entire species used up their life energy to imprison Gorea.",VIDEO_GAMES_OPT_7c69_000C
+"What creature passes on the X Parasite to Samus in the Metroid series?",VIDEO_GAMES_2c4a_0014,Hornoad,VIDEO_GAMES_OPT_5444_000D
+"Who is the Deleter in the Metroid series?",VIDEO_GAMES_ee42_0015,"James Pierce",VIDEO_GAMES_OPT_55df_000D
+"Kraid is the only one of his species encountered in the Metroid game.",VIDEO_GAMES_fdc0_0016,False,VIDEO_GAMES_OPT_ca4c_000B
+"What do Steamlords keep as pets in the Metroid series of games?",VIDEO_GAMES_0fc1_0017,Vaporwing,VIDEO_GAMES_OPT_febc_000D
+"An ancient Chozo prophecy predicts the coming of Phazon and the Metroid Prime. In this prophecy the Metroid Prime is referred to as which of the following?",VIDEO_GAMES_29a6_0018,Worm,VIDEO_GAMES_OPT_557c_000A
+"King Worm can be fought after Mother Brainin Metroid Zero Mission.",VIDEO_GAMES_b00d_0019,True,VIDEO_GAMES_OPT_cde8_000A
+"What planet are Kihunters from in the Metroid games?",VIDEO_GAMES_abd3_0020,Unknown,VIDEO_GAMES_OPT_3436_000B
+"What planet is Samus from  in the Metorid games?",VIDEO_GAMES_ec13_0021,K-2L,VIDEO_GAMES_OPT_6e53_000B
+"What is the name of the enemy faction in the first N.O.V.A?",VIDEO_GAMES_def4_0022,Xenos,VIDEO_GAMES_OPT_9b49_000A
+"The N.O.V.A 3 Shotgun is both semi and fully automatic.",VIDEO_GAMES_9bfb_0023,True,VIDEO_GAMES_OPT_2405_000B
+"On which planet does the first two missions in N.O.V.A 2 take place?",VIDEO_GAMES_6901_0024,Aquarius,VIDEO_GAMES_OPT_f523_000D
+"Who helps Kal Wardin find the Judger artifact aboard Therrius in N.O.V.A?",VIDEO_GAMES_862b_0025,MazRah,VIDEO_GAMES_OPT_8da5_000C
+"In N.O.V.A, Kal Wardin is rewarded for finding out what happened aboard the Colonial Pride by almost being killed.",VIDEO_GAMES_d58a_0026,True,VIDEO_GAMES_OPT_08bc_000B
+"Who is the leader of the Volterites in N.O.V.A?",VIDEO_GAMES_2616_0027,"The Overseer",VIDEO_GAMES_OPT_24e2_000D
+"Which Xeno is capable of teleporting in N.O.V.A?",VIDEO_GAMES_7b5f_0028,"Heavy Demon",VIDEO_GAMES_OPT_966a_000A
+"In N.O.V.A, President Folson is unarmed.",VIDEO_GAMES_5a93_0029,False,VIDEO_GAMES_OPT_b602_000A
+"Boreas is the only desert planet in the N.O.V.A series.",VIDEO_GAMES_0a81_0030,False,VIDEO_GAMES_OPT_9035_000A
+"What is the name of the damsel you have to save in the classic arcade game Donkey Kong?",VIDEO_GAMES_d728_0031,Pauline,VIDEO_GAMES_OPT_3306_000C
+"Which of these was a name that game character, Mario, was once called?",VIDEO_GAMES_826f_0032,Jumpman,VIDEO_GAMES_OPT_107d_000C
+"Who or what turned Warios treasure into monsters in the game, Wario World?",VIDEO_GAMES_9359_0033,"The black jewel",VIDEO_GAMES_OPT_6d80_000C
+"In the Mario games, what animal is a paratroopa?",VIDEO_GAMES_85b7_0034,"A turtle",VIDEO_GAMES_OPT_843b_000C
+"When first created, Mario game character, Birdo, was what?",VIDEO_GAMES_1e64_0035,"A boy",VIDEO_GAMES_OPT_5bae_000B
+"In the video games of Mario, is Luigi Marios cousin?",VIDEO_GAMES_85fb_0036,No,VIDEO_GAMES_OPT_40f8_000A
+"In the Mario video games, Bowser is the king of what?",VIDEO_GAMES_c9b4_0037,Koopas,VIDEO_GAMES_OPT_c351_000D
+"Who is the last boss in video game Paper Mario 2?",VIDEO_GAMES_07ec_0038,"Shadow Queen",VIDEO_GAMES_OPT_b561_000C
+"Which movie is this Warcraft 3 quote from? Bandit: -What we have here is a failure to communicate.",VIDEO_GAMES_0b63_0039,"Cool Hand Luke",VIDEO_GAMES_OPT_9c32_000C
+"Where does the popular video game character Mario live?",VIDEO_GAMES_0fd1_0040,"The Mushroom Kingdom",VIDEO_GAMES_OPT_9740_000C
+"What is Marios nationality according to Nintendo video games?",VIDEO_GAMES_3726_0041,Italian,VIDEO_GAMES_OPT_9b96_000A
+"Has the video game character Mario ever been in a TV show?",VIDEO_GAMES_74c9_0042,Yes,VIDEO_GAMES_OPT_d8e6_000B
+"What was the first video game in which Mario appeared?",VIDEO_GAMES_afc6_0043,"Donkey Kong",VIDEO_GAMES_OPT_266f_000D
+"Why does Mario wear a red cap in the Mario series of games?",VIDEO_GAMES_ec27_0044,"The creators didnt have the technology to animate his hair.",VIDEO_GAMES_OPT_e3b2_000A
+"Has Nintendo character Mario ever been a bad guy?",VIDEO_GAMES_ea60_0045,Yes,VIDEO_GAMES_OPT_b8a4_000B
+"What does the Fire Flower do to Mario in the Mario video games?",VIDEO_GAMES_fed7_0046,"Allows him to throw fire balls.",VIDEO_GAMES_OPT_9a5a_000D
+"What effect does the Super Mushroom have on Mario in the popular series of video games?",VIDEO_GAMES_174c_0047,"It makes him bigger.",VIDEO_GAMES_OPT_0642_000A
+"In the Mario series of video games, Mario never uses any weapons.",VIDEO_GAMES_f011_0048,False,VIDEO_GAMES_OPT_4577_000A
+"What is Marios occupation in the Mario series of games?",VIDEO_GAMES_6a10_0049,plumber,VIDEO_GAMES_OPT_d5ed_000C
+"What is the name of the land where most of the Legend of Zelda games take place?",VIDEO_GAMES_8a4f_0050,Hyrule,VIDEO_GAMES_OPT_244d_000B
+"Which monster made its first appearance in the game The Legend of Zelda: Majoras Mask?",VIDEO_GAMES_5b28_0051,Chu-Chu,VIDEO_GAMES_OPT_fb71_000A
+"Which one of the Legend of Zelda games does not feature the same Link as the others?",VIDEO_GAMES_11e9_0052,"Wind Waker",VIDEO_GAMES_OPT_027e_000C
+"Which of the following is not an item that Link uses in the Legend of Zelda series of games?",VIDEO_GAMES_328a_0053,"A spear used for immobilizing enemies",VIDEO_GAMES_OPT_e869_000B
+"In the Legend of Zelda series of games Link has not worn a tunic in what colour?",VIDEO_GAMES_1221_0054,yellow,VIDEO_GAMES_OPT_1732_000A
+"Which games were included in the 2003 Legend of Zelda Collectors edition that became available on the Nintendo GameCube?",VIDEO_GAMES_83eb_0055,"The Legend of Zelda, The Adventure of Link, Ocarina of Time, Majoras Mask",VIDEO_GAMES_OPT_d655_000C
+"Which Final Fantasy 3 character is known for blitzes such as Bum Rush, Pummel, and Suplex?",VIDEO_GAMES_dbda_0056,Sabin,VIDEO_GAMES_OPT_64c5_000D
+"What character from the Final Fantasy series used a weapon called the Buster Sword?",VIDEO_GAMES_7610_0057,"Cloud Strife",VIDEO_GAMES_OPT_7b09_000C
+"What was the name of the summoned creatures that aided the characters in the Final Fantasy 8 game?",VIDEO_GAMES_7940_0058,"Guardian Forces",VIDEO_GAMES_OPT_1e74_000D
+"Which character was the main villain in the American Final Fantasy 3 game?",VIDEO_GAMES_45dd_0059,Kefka,VIDEO_GAMES_OPT_8a81_000B
+"Which Final Fantasy game was released in North America on 7 September 1999?",VIDEO_GAMES_a19b_0060,"Final Fantasy 8",VIDEO_GAMES_OPT_b7df_000C
+"Which one of these Final Fantasy characters didnt own an airship?",VIDEO_GAMES_73bd_0061,"Rinoa Heartilly",VIDEO_GAMES_OPT_2fba_000C
+"What year was the first Final Fantasy game released in Japan?",VIDEO_GAMES_765f_0062,1987,VIDEO_GAMES_OPT_17dd_000D
+"This character, who has appeared in nearly every Final Fantasy game, usually provides transportation to the main characters.",VIDEO_GAMES_c19a_0063,Cid,VIDEO_GAMES_OPT_e2a5_000B
+"In this Final Fantasy spin-off every new recruit starts out as a Squire or a Chemist.",VIDEO_GAMES_9737_0064,"Final Fantasy Tactics",VIDEO_GAMES_OPT_d553_000D
+"Final Fantasy X featured which mini-game?",VIDEO_GAMES_9c0b_0065,Blitzball,VIDEO_GAMES_OPT_c01c_000B
+"Which video game is the following quote from? Ive got muscles in places youve never even heard of.",VIDEO_GAMES_d9bc_0066,"Escape from Monkey Island",VIDEO_GAMES_OPT_6cbe_000A
+"Which video game are the following quotes from? A: Come on, comrades! Up to the rooftop! Go! B: Get that flag up! Berlin is ours!",VIDEO_GAMES_db96_0067,"Call of Duty",VIDEO_GAMES_OPT_cc5c_000B
+"What is the cheat for getting 50 000 simoleans in the computer game The Sims 2?",VIDEO_GAMES_d130_0068,motherlode,VIDEO_GAMES_OPT_8fa9_000C
+"What are the expansion packs available for The Sims 2 game?",VIDEO_GAMES_5f54_0069,"University, Night Life, Family Fun, Open for Business",VIDEO_GAMES_OPT_ab7c_000C
+"In the computer game The Sims 2, in order for a Sim to have a baby, you must select the woohoo option on a different Sim.",VIDEO_GAMES_6ecf_0070,False,VIDEO_GAMES_OPT_b844_000A
+"On the cover of the Sims 2 University expansion pack there is a picture of two Sims, one male and one female. What is the male Sim wearing?",VIDEO_GAMES_6955_0071,toga,VIDEO_GAMES_OPT_9794_000B
+"Bella Goth is absent from the family when The Sims 2 begins.",VIDEO_GAMES_0d98_0072,True,VIDEO_GAMES_OPT_e598_000B
+"In Open for Business, the third expansion pack for The Sims 2, Sims may earn 25 business perks.",VIDEO_GAMES_f0e7_0073,True,VIDEO_GAMES_OPT_f51e_000B
+"Was the computer game The Sims 2 made solely by EA games?",VIDEO_GAMES_3c5e_0074,No,VIDEO_GAMES_OPT_3bcd_000A
+"The Sims 2 game is rated E (Everyone).",VIDEO_GAMES_31e0_0075,False,VIDEO_GAMES_OPT_11bf_000A
+"What is the name of the robot in The Sims 2, that fetches take-away food?",VIDEO_GAMES_0776_0076,MunchieBot,VIDEO_GAMES_OPT_19db_000B
+"In Nightlife, the second expansion pack for The Sims 2, Sims can have their own cars.",VIDEO_GAMES_2afc_0077,True,VIDEO_GAMES_OPT_1757_000B
+"Which is not an actual die?",VIDEO_GAMES_f750_0078,d18,VIDEO_GAMES_OPT_e4fc_000D
+"This class has the ability to smite evil.",VIDEO_GAMES_ccdd_0079,Paladin,VIDEO_GAMES_OPT_2ca1_000B
+"This race doesnt sleep, they meditate instead.",VIDEO_GAMES_66e4_0080,Elf,VIDEO_GAMES_OPT_ab96_000B
+"Which of these is not a feat?",VIDEO_GAMES_9636_0081,"Knowledge Arcana",VIDEO_GAMES_OPT_1d7d_000B
+"You roll a d20 for attack rolls (to see if you hit your opponent).",VIDEO_GAMES_fba1_0082,True,VIDEO_GAMES_OPT_5da4_000A
+"Which item costs the most according to the Players Handbook?",VIDEO_GAMES_7e10_0083,"Full Plate Mail",VIDEO_GAMES_OPT_6481_000C
+"How far can a medium sized, unencumbered creature walk in one round?",VIDEO_GAMES_b2bf_0084,"30 feet",VIDEO_GAMES_OPT_bc3f_000C
+"Which class casts arcane magic innately?",VIDEO_GAMES_1cfb_0085,Sorcerer,VIDEO_GAMES_OPT_7392_000D
+"This 9th level wizard spell is sought after by many characters as a reward.  Many wizards also strive to learn this spell.",VIDEO_GAMES_03df_0086,Wish,VIDEO_GAMES_OPT_8185_000B
+"This class must choose 2 weapon fighting or archery as their weapon style at 2nd level.",VIDEO_GAMES_fc99_0087,Ranger,VIDEO_GAMES_OPT_dcde_000C
+"Where is the first warp whistle located in the game Super Mario 3?",VIDEO_GAMES_6a95_0088,"world 1-3",VIDEO_GAMES_OPT_3f1b_000A
+"In Mario Kart: Double Dash, what is the last thing you unlock by getting gold in the all cup tour in mirror mode?",VIDEO_GAMES_8776_0089,"Parade car",VIDEO_GAMES_OPT_9cc8_000A
+"Which of the following characters can bounce off walls in the game Super Smash Brothers Melee?",VIDEO_GAMES_2513_0090,"Young Link",VIDEO_GAMES_OPT_3979_000D
+"In the game Luigis Mansion, which of these in not one of Marios lost items?",VIDEO_GAMES_1f73_0091,"Marios belt",VIDEO_GAMES_OPT_de39_000C
+"Who is the boss at the end of world 5 in the game Super Mario 2?",VIDEO_GAMES_ba69_0092,Clawgrip,VIDEO_GAMES_OPT_5316_000D
+"In the game Super Mario 1, which level in world 7 is a water level?",VIDEO_GAMES_a8ee_0093,7-2,VIDEO_GAMES_OPT_85e8_000B
+"In Super Mario World, you start the game on which island?",VIDEO_GAMES_2c0c_0094,"Yoshis Island",VIDEO_GAMES_OPT_9429_000B
+"Which of these is not a playable character in the video game Mario Party 4?",VIDEO_GAMES_d1ef_0095,Toad,VIDEO_GAMES_OPT_1c6d_000D
+"In the game Super Mario Sunshine, where is Bowser when you fight him at the end?",VIDEO_GAMES_11be_0096,"in a hot tub",VIDEO_GAMES_OPT_0816_000C
+"What does Mario use for his power shot in the game Mario Power Tennis?",VIDEO_GAMES_dc03_0097,"a hammer",VIDEO_GAMES_OPT_51ad_000B
+"What is the God Pokemon called in Pokemon Pearl and Diamond?",VIDEO_GAMES_79bb_0098,Arceus,VIDEO_GAMES_OPT_e3e3_000D
+"The Pokemon creature Snorunt can evolve in which of the following?",VIDEO_GAMES_cc84_0099,"Glalie  Froslass",VIDEO_GAMES_OPT_aae5_000B
+"In what Pokemon version can Palkia be obtained?",VIDEO_GAMES_1347_0100,Pearl,VIDEO_GAMES_OPT_356e_000A
+"What was the first ever ghost Pokemon to appear in a Pokemon episiode?",VIDEO_GAMES_0502_0101,Gengar,VIDEO_GAMES_OPT_7ce3_000B
+"What Pokemon abducted Professor Spencer Haled in the movie Pokemon 3?",VIDEO_GAMES_f5d0_0102,Unknown,VIDEO_GAMES_OPT_1a30_000C
+"How many heroes are alive at the end of Startcraft: Brood War?",VIDEO_GAMES_810d_0103,"6 - Artanis, Arcturus Mengsk, Jim Raynor, Zeratul, Samir Duran, Sarah Kerrigan",VIDEO_GAMES_OPT_e162_000A
+"Edmund Duke leads which group of elite fighters?",VIDEO_GAMES_bd4e_0104,"Alpha Squadron",VIDEO_GAMES_OPT_2fbd_000A
+"What type of unit is Zeratul?",VIDEO_GAMES_90f4_0105,"Dark Templar",VIDEO_GAMES_OPT_ff75_000C
+"What are characteristics of the Archon unit?",VIDEO_GAMES_e18b_0106,"10 hit points and 350 plasma shield",VIDEO_GAMES_OPT_0a33_000C
+"What unit says that in the game?",VIDEO_GAMES_43b1_0107,"Dark Templar",VIDEO_GAMES_OPT_314b_000C
+"What is Alexei Stukovs rank?",VIDEO_GAMES_a605_0108,"Vice Admiral",VIDEO_GAMES_OPT_ff60_000C
+"During which mission do Edmund Duke and Fenix die?",VIDEO_GAMES_20a4_0109,"True colors",VIDEO_GAMES_OPT_36ca_000A
+"Who leads the UED (United Earth Directorate forces)?",VIDEO_GAMES_ae1c_0110,"Gerard DuGalle",VIDEO_GAMES_OPT_6054_000B
+"Who is Kerrigan talking to?",VIDEO_GAMES_ee42_0111,Fenix,VIDEO_GAMES_OPT_d5fe_000C
+"What is the name of the Italian plumber, thats also the mascot of Nintendo?",VIDEO_GAMES_384a_0112,Mario,VIDEO_GAMES_OPT_6e5c_000D
+"What does KOTOR stand for?",VIDEO_GAMES_b8e2_0113,"Knights of the Old Republic",VIDEO_GAMES_OPT_dfaf_000D
+"In the video game Rock Band you can play multiple instruments in the band.",VIDEO_GAMES_8288_0114,True,VIDEO_GAMES_OPT_54a8_000B
+"Which Age of Empires game expansion pack allows you to play as Native Americans?",VIDEO_GAMES_9ccb_0115,"The War Chiefs",VIDEO_GAMES_OPT_4526_000A
+"What is the name of Donkey Kongs tiny sidekick?",VIDEO_GAMES_2585_0116,"Diddy Kong",VIDEO_GAMES_OPT_0739_000C
+"Which GTA game features Tommy Vercetti?",VIDEO_GAMES_91bd_0117,"Vice City",VIDEO_GAMES_OPT_05f4_000D
+"Which game is Luis Sera featured in?",VIDEO_GAMES_c294_0118,"Resident Evil 4",VIDEO_GAMES_OPT_2088_000C
+"Which of these games is not based on a comic book?",VIDEO_GAMES_bc9c_0119,"Kingdom Hearts",VIDEO_GAMES_OPT_d1df_000C
+"Which of these songs is not in Guitar Hero 2?",VIDEO_GAMES_5bf3_0120,"We Will Rock You",VIDEO_GAMES_OPT_2218_000D
+"In 2007, this game was named by IGN the 3rd best GameCube game of all time.",VIDEO_GAMES_1913_0121,"Super Smash Bros Melee",VIDEO_GAMES_OPT_e7d4_000B
+"In the Legend of Zelda: Twilight Princess, what is the name of the first sword you get?",VIDEO_GAMES_3e93_0122,"Wooden sword",VIDEO_GAMES_OPT_488e_000C
+"In The Legend of Zelda: Majoras Mask, how many days do you have until the moon crashes down on Temina?",VIDEO_GAMES_870d_0123,three,VIDEO_GAMES_OPT_1cd6_000C
+"There is at least one game of the Zelda series of games, released from 1986 to 2006, in which Zelda and Link get married.",VIDEO_GAMES_8ff3_0124,False,VIDEO_GAMES_OPT_f806_000A
+"What is the name of the owner of lon-lon ranch in the Zelda series of games?",VIDEO_GAMES_7cf8_0125,Talon,VIDEO_GAMES_OPT_de68_000D
+"In The Legend of Zelda: Twilight Princess, what was the name of the villain that had been fired from a joker at Hyrule Castle?",VIDEO_GAMES_c9b9_0126,"None of these",VIDEO_GAMES_OPT_6006_000A
+"In the Zelda series of games, what is the name of the tribe Gannondorf comes from?",VIDEO_GAMES_b9b3_0127,Gerudo,VIDEO_GAMES_OPT_6cd4_000B
+"Link, one of the main characters in the Zelda series of games, is a member of what race?",VIDEO_GAMES_568d_0128,Hylians,VIDEO_GAMES_OPT_171b_000A
+"What is Links fathers name according to the Zelda series of games?",VIDEO_GAMES_b579_0129,"It has never been revealed.",VIDEO_GAMES_OPT_0130_000A
+"In which Zelda game does Link turn into a bunny when he goes into the dark world without a pearl?",VIDEO_GAMES_295f_0130,"Link to the Past",VIDEO_GAMES_OPT_d3a2_000B
+"Which computer game is this soundtrack from?",VIDEO_GAMES_bc62_0131,"Double Dragon",VIDEO_GAMES_OPT_28dc_000A
+"What island do you start on in the online role-playing game RuneScape?",VIDEO_GAMES_73bb_0132,"Tutorial Island",VIDEO_GAMES_OPT_2726_000D
+"What icon is used to start a low detail RuneScape game?",VIDEO_GAMES_0f5f_0133,"A warrior",VIDEO_GAMES_OPT_b183_000C
+"What is the name of the sword used to defeat the demon in the demon slayer quest of the online role-playing game RuneScape?",VIDEO_GAMES_a02b_0134,Silverlight,VIDEO_GAMES_OPT_db30_000D
+"In the online role-playing game RuneScape, what kind of fruit is grown in Karajama?",VIDEO_GAMES_2872_0135,Bananas,VIDEO_GAMES_OPT_2914_000B
+"Priest robes raise your mage level in the mass online game RuneScape.",VIDEO_GAMES_0ea0_0136,False,VIDEO_GAMES_OPT_2965_000B
+"What is the highest weapon type available to nonmembers in the online role-playing game RuneScape?",VIDEO_GAMES_8feb_0137,Rune,VIDEO_GAMES_OPT_2506_000C
+"What is the name of the fantasy realm in which the RuneScape game is set?",VIDEO_GAMES_ed8f_0138,Gielinor,VIDEO_GAMES_OPT_d56d_000D
+"What does Traiborn call you in the online role-playing game RuneScape?",VIDEO_GAMES_902b_0139,Thingummywut,VIDEO_GAMES_OPT_07b3_000C
+"The action in the survival horror game Resident Evil 4 takes place in what country?",VIDEO_GAMES_c04e_0140,Spain,VIDEO_GAMES_OPT_8a17_000B
+"Which of the guns listed is available before you beat the Resident Evil 4 game?",VIDEO_GAMES_2129_0141,Killer7,VIDEO_GAMES_OPT_ef69_000B
+"What is the merchants real name in the video game Resident Evil 4?",VIDEO_GAMES_75d0_0142,"It is not mentioned",VIDEO_GAMES_OPT_63d8_000C
+"This creature from the game Resident Evil 4 was created by splicing genes from reptiles, insects and a human into one organism.",VIDEO_GAMES_1b77_0143,U3,VIDEO_GAMES_OPT_fb61_000D
+"In the survival video game Resident Evil 4, the handcannon with its exclusive upgrade does 99.9 damage and has infinite ammo.",VIDEO_GAMES_0baa_0144,True,VIDEO_GAMES_OPT_7131_000B
+"Not including the rocket launcher, what is the second most powerful weapon in Resident Evil 4, according to its damage per shot?",VIDEO_GAMES_967a_0145,"Broken butterfly",VIDEO_GAMES_OPT_1e67_000D
+"Whose final speech ends in We shall win through no matter the cost!",VIDEO_GAMES_6962_0146,"Arcturus Mengsk",VIDEO_GAMES_OPT_f7ce_000D
+"Who kills the Matriarch?",VIDEO_GAMES_a230_0147,Zeratul,VIDEO_GAMES_OPT_184a_000A
+"The words Doom to all who threaten the homeworld belong to which unit?",VIDEO_GAMES_54ab_0148,Zealot,VIDEO_GAMES_OPT_0919_000A
+"What were the words of Sarah Kerrigan to Jim Raynor when they first met?",VIDEO_GAMES_e4df_0149,"You pig!",VIDEO_GAMES_OPT_0744_000A
+"How many hit points does the Arclite Siege Tank have?",VIDEO_GAMES_a02b_0150,150,VIDEO_GAMES_OPT_39d1_000C
+"Listen to the dialogue and determine what name is missing at the end",VIDEO_GAMES_e737_0151,Alexei,VIDEO_GAMES_OPT_4e55_000B
+"What hero do these words belong to: I fear no death, I fear no enemy, our strength is eternal",VIDEO_GAMES_eb99_0152,Fenix,VIDEO_GAMES_OPT_b4db_000C
+"What is the official version for the death of Alexei Stukov?",VIDEO_GAMES_7b93_0153,"He dies during the final assault on planet Char",VIDEO_GAMES_OPT_2844_000D
+"Which unit says You called down the Thunder, now reap the Whirlwind.",VIDEO_GAMES_3b45_0154,Ghost,VIDEO_GAMES_OPT_0ccd_000A
+"This sound clip is from what classic Nintendo game?",VIDEO_GAMES_3034_0155,"Super Mario Bros",VIDEO_GAMES_OPT_69c8_000C
+"This sound clip is from what NES game featuring a creature that could eat anything?",VIDEO_GAMES_17b4_0156,"Kirbys Adventure",VIDEO_GAMES_OPT_b2b2_000D
+"This is the theme to what Xbox video game?",VIDEO_GAMES_decb_0157,Halo,VIDEO_GAMES_OPT_3c1e_000D
+"This is the overworld theme to this NES game that introduced the save function because the game took so long to complete.",VIDEO_GAMES_f51d_0158,"Legend of Zelda",VIDEO_GAMES_OPT_e3b5_000C
+"This is the victory theme to what popular video game series?",VIDEO_GAMES_daf8_0159,"Final Fantasy",VIDEO_GAMES_OPT_4b02_000C
+"From which fighting game is this sound clip?",VIDEO_GAMES_998e_0160,"Super Smash Bros. Melee",VIDEO_GAMES_OPT_791f_000B
+"This sound clip is from what Game Boy game that spawned an anime TV show and a collectible card game?",VIDEO_GAMES_f04b_0161,Pokemon,VIDEO_GAMES_OPT_fe69_000B
+"This sound clip is from what PC RTS game?",VIDEO_GAMES_e11b_0162,"Age of Empires II",VIDEO_GAMES_OPT_993e_000A
+"This sound clip is a theme in which of the following Legend of Zelda games?",VIDEO_GAMES_4b72_0163,"The Legend of Zelda: Ocarina of Time",VIDEO_GAMES_OPT_268b_000D
+"This sound clip is from what video game series?",VIDEO_GAMES_b99d_0164,"Star Fox",VIDEO_GAMES_OPT_7ec2_000C
+"Which of these levels is on both Star Wars: Battlefront 1 and 2?",VIDEO_GAMES_f427_0165,Kamino,VIDEO_GAMES_OPT_23e8_000B
+"You can control Jedi on both Star Wars: Battlefront 1 and 2.",VIDEO_GAMES_b605_0166,False,VIDEO_GAMES_OPT_6f35_000B
+"What is the default number of points to destroy a ship in a space battle on Star Wars: Battlefront  2?",VIDEO_GAMES_e180_0167,180,VIDEO_GAMES_OPT_e270_000D
+"Choose the correct order for player points bonuses in Star Wars: Battlefront from least to greatest.",VIDEO_GAMES_bb22_0168,"Endurance, Guardian, War Hero",VIDEO_GAMES_OPT_d8fc_000A
+"The two levels on Kashyyyk on Star Wars: Battlefront 1 are Islands and Docks.",VIDEO_GAMES_940c_0169,True,VIDEO_GAMES_OPT_91a7_000A
+"On the Star Wars: Battlefront game, which of these is among the non-player characters of the game?",VIDEO_GAMES_9595_0170,Jawas,VIDEO_GAMES_OPT_4989_000D
+"Who controls the AT-ATs on Hoth in Star Wars: Battlefront?",VIDEO_GAMES_293f_0171,Empire,VIDEO_GAMES_OPT_4642_000A
+"Warchief Thrall is the leader of which clan?",VIDEO_GAMES_0f9f_0172,Doomhammer,VIDEO_GAMES_OPT_47cc_000D
+"What type of creature is the DeathWing?",VIDEO_GAMES_24bb_0173,"Black Dragon",VIDEO_GAMES_OPT_00ef_000A
+"What unit or hero does the phrase Speak up fool belong to?",VIDEO_GAMES_5ad7_0174,"Prince Arthas as Dead Knight",VIDEO_GAMES_OPT_38d4_000C
+"Who kills Mannoroth?",VIDEO_GAMES_5774_0175,"Grom Hellscream",VIDEO_GAMES_OPT_3bfe_000C
+"What unit or hero does this phrase belong to?",VIDEO_GAMES_bd7a_0176,"Dwarf Rifleman",VIDEO_GAMES_OPT_0bcd_000C
+"Which building makes the Druid of the Claw unit?",VIDEO_GAMES_a7a0_0177,"Ancient of  Lore",VIDEO_GAMES_OPT_e4df_000A
+"Who rides “Nightsabre Panthers”?",VIDEO_GAMES_39bb_0178,Huntresses,VIDEO_GAMES_OPT_2448_000C
+"What unit or hero does the phrase “I can see clearly, now the rain has gone” belong to?",VIDEO_GAMES_39b6_0179,"Grom Hellscream",VIDEO_GAMES_OPT_8793_000C
+"In the Pokemon TV series, Ash saw a Gyarados in the first episode.",VIDEO_GAMES_750e_0180,False,VIDEO_GAMES_OPT_c44d_000B
+"On what other character is Ash Ketchum loosely based in the Pokemon video games?",VIDEO_GAMES_0725_0181,Red,VIDEO_GAMES_OPT_1ac6_000D
+"Is the Pokemon character Raikou included in any of the first ten Pokemon movies?",VIDEO_GAMES_5613_0182,No,VIDEO_GAMES_OPT_332b_000A
+"What is the first season of Johto called in Pokemon series?",VIDEO_GAMES_90bb_0183,"Johto Journeys",VIDEO_GAMES_OPT_0659_000C
+"Was the tenth Pokemon movie released simultaneously in Japan and the USA?",VIDEO_GAMES_cc23_0184,No,VIDEO_GAMES_OPT_deae_000B
+"Where can you find the gym leader Blaine in the video games Pokemon Gold and Silver and Pokemon Crystal?",VIDEO_GAMES_052b_0185,"Seaform Islands",VIDEO_GAMES_OPT_3252_000B
+"What is the very first car you drive in the Need for Speed: Most Wanted game?",VIDEO_GAMES_a4c3_0186,"BMW M3 GTR",VIDEO_GAMES_OPT_452d_000B
+"There are a total of 20 blacklist drivers in the game Need for Speed: Most Wanted.",VIDEO_GAMES_3123_0187,False,VIDEO_GAMES_OPT_b54c_000A
+"In the racing game Need for Speed: Most Wanted, what are the street names of  Blacklist numbers 1, 4, 7, and 15?",VIDEO_GAMES_e459_0188,"Razor, JV, Kaze, Sonny",VIDEO_GAMES_OPT_ee7e_000A
+"How many maximum infractions can you get in a single pursuit in the game Need for Speed: Most Wanted?",VIDEO_GAMES_ee13_0189,8,VIDEO_GAMES_OPT_bd16_000C
+"Do you have a rap sheet in the game Need for Speed: Most Wanted?",VIDEO_GAMES_6887_0190,Yes,VIDEO_GAMES_OPT_1d92_000A
+"Which of the following refers to the ability to win a Blacklist opponents car in the game Need for Speed: Most Wanted?",VIDEO_GAMES_19b8_0191,"pink slip",VIDEO_GAMES_OPT_f97e_000A
+"In the racing game Need for Speed: Most Wanted, where is is Blacklist number one located?",VIDEO_GAMES_0b01_0192,Rockport,VIDEO_GAMES_OPT_62f5_000B
+"Who created the theme song of the Super Mario Brothers game?",VIDEO_GAMES_786f_0193,"Koji Kondo",VIDEO_GAMES_OPT_e6e6_000B
+"Shigeru Miyamoto constructed the arcade game Donkey Kongs music himself, using an Electronic Keyboard.",VIDEO_GAMES_cc4e_0194,True,VIDEO_GAMES_OPT_2f0c_000A
+"The core of this gaming console, released in 1977, was combined with a display and sound chip known as the TIA, for Television Interface Adaptor.  The console was capable of producing 2 channel mono sound.",VIDEO_GAMES_e458_0195,"Atari 2600",VIDEO_GAMES_OPT_a6eb_000C
+"The sound chip of the Commodore 64 home computer, released in 1982, was very advanced for its time.  It had three channels with several different waveforms, which could reach 8 different octaves each (approximately 16 - 4000 Hz).  Name the chip.",VIDEO_GAMES_fdfd_0196,"Sound Interface Device",VIDEO_GAMES_OPT_ecd3_000C
+"My rogue in the game Dungeons and Dragons wants to use a wand of Greater Invisibility. In order to do this he must make a Use Magic Device check at what Difficulty Class?",VIDEO_GAMES_45b9_0197,20,VIDEO_GAMES_OPT_2b5f_000C
+"Which of the listed bonuses in the game Dungeons and Dragons stacks?",VIDEO_GAMES_5e09_0198,Dodge,VIDEO_GAMES_OPT_fe6c_000A
+"Which of these feats does not prevent attacks of opportunity in one form or another in the role-playing game Dungeons and Dragons?",VIDEO_GAMES_9f3e_0199,"Flyby Attack",VIDEO_GAMES_OPT_4e7e_000B
+"Which Knowledge Skill would allow you to determine the type of Giant you are facing in Dungeons and Dragons?",VIDEO_GAMES_c9e6_0200,Nature,VIDEO_GAMES_OPT_76be_000D
+"In the game Dungeons and Dragons, a character with 5 ranks in Bluff gains a +2 synergy bonus to all these skills but one. Which is the odd one?",VIDEO_GAMES_371c_0201,"Gather Information",VIDEO_GAMES_OPT_b65b_000D
+"Which of these is not a correct entrance requirement to join the Assassin Prestige Class in Dungeons and Dragons?",VIDEO_GAMES_a681_0202,"Disguise 8 ranks",VIDEO_GAMES_OPT_49a1_000A
+"In the game Dungeons and Dragons, Aamonks Ki Strike ability evolves in what order?",VIDEO_GAMES_f51e_0203,"Magic, Lawful, Adamantine",VIDEO_GAMES_OPT_a655_000C
+"In Dungeons and Dragons, the Tumble Difficulty Class needed to kip up, according the Complete Adventurer book, is what?",VIDEO_GAMES_0e27_0204,35,VIDEO_GAMES_OPT_34e6_000B
+"Which class in Dungeons and Dragons does not get evasion?",VIDEO_GAMES_26d9_0205,Barbarian,VIDEO_GAMES_OPT_4c53_000D
+"Of the choices for a Rangers favored enemy in Dungeons and Dragons, which number is immune to sneak attacks?",VIDEO_GAMES_f9fe_0206,5,VIDEO_GAMES_OPT_7083_000D
+"How many golden skulltulas could you get as child Link out of the whole game The Legend of Zelda: Ocarina of Time?",VIDEO_GAMES_7bb2_0207,35,VIDEO_GAMES_OPT_8b78_000A
+"How many heart pieces can you get as adult Link in the game The Legend of Zelda: Ocarina of Time?",VIDEO_GAMES_71fa_0208,24,VIDEO_GAMES_OPT_0056_000B
+"In the video game The Legend of Zelda: Ocarina of Time, what are the two places where you can get the hylian shield?",VIDEO_GAMES_ebc7_0209,"Kakariko Graveyard and Hyrule town market.",VIDEO_GAMES_OPT_5d32_000D
+"In The Legend of Zelda: Ocarina of Time, how many items do you get that are improved later in the game?",VIDEO_GAMES_286f_0210,four,VIDEO_GAMES_OPT_bae9_000D
+"In The Legend of Zelda: Ocarina of Time, how many items do you trade to get the Biggorons sword?",VIDEO_GAMES_6b5d_0211,9,VIDEO_GAMES_OPT_ec09_000D
+"In the video game The Legend of Zelda: Ocarina of Time, Link wore tunics in three colors. They were green, red and yellow.",VIDEO_GAMES_e78b_0212,False,VIDEO_GAMES_OPT_7d6d_000A
+"How many hidden fairy fountains are there in the game The Legend of Zelda: Ocarina of Time, not counting the great fairies?",VIDEO_GAMES_086d_0213,6,VIDEO_GAMES_OPT_b82b_000C
+"Which of the following is NOT a character class in World of Warcraft?",VIDEO_GAMES_f72e_0214,Blood-Elf,VIDEO_GAMES_OPT_961d_000C
+"Which of the following races cannot play a Hunter in World of Warcraft?",VIDEO_GAMES_ce75_0215,Gnome,VIDEO_GAMES_OPT_41c8_000B
+"The Horde and the Alliance are the two playable factions in World of Warcraft.",VIDEO_GAMES_4c4a_0216,True,VIDEO_GAMES_OPT_a5e3_000A
+"In World of Warcraft, it is possible to fly from Theramore to Stormwind.",VIDEO_GAMES_3c3f_0217,False,VIDEO_GAMES_OPT_acf3_000B
+"In World of Warcraft, it is sometimes necessary to fight other groups of players inside an instance.",VIDEO_GAMES_8ac8_0218,False,VIDEO_GAMES_OPT_a24e_000A
+"Which of the following is not a realm type in World of Warcraft?",VIDEO_GAMES_5b8c_0219,RP,VIDEO_GAMES_OPT_f3a8_000B
+"What is the Iron Maiden song performed in Guitar Hero 3?",VIDEO_GAMES_a465_0220,"The Number of the Beast",VIDEO_GAMES_OPT_548b_000D
+"Who sings Slow Ride, one of the songs included in Guitar Hero 3?",VIDEO_GAMES_7d55_0221,Foghat,VIDEO_GAMES_OPT_45c9_000A
+"What song by Tenacious D appeared in the video game Guitar Hero 3?",VIDEO_GAMES_7e20_0222,"The Metal",VIDEO_GAMES_OPT_4ba8_000D
+"Tom Morello is a member of the band Sonic Youth.",VIDEO_GAMES_bcd3_0223,False,VIDEO_GAMES_OPT_ee0d_000B
+"What is the first place you get a gig at on Guitar Hero 3?",VIDEO_GAMES_b40d_0224,"Backyard Bash",VIDEO_GAMES_OPT_1138_000B
+"What is the way to evolve the pokemon Tangela to tangrowth in the Diamond and Pearl Pokemon series?",VIDEO_GAMES_45af_0225,"Level it up after learning ancient power.",VIDEO_GAMES_OPT_8328_000A
+"How do you evolve Rhydon into Rhyperior in the Diamond and Pearl Pokemon series?",VIDEO_GAMES_f5aa_0226,"Trade Rhydon up while holding a protector.",VIDEO_GAMES_OPT_b270_000C
+"In what way can you evolve the pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?",VIDEO_GAMES_7be2_0227,"None of these",VIDEO_GAMES_OPT_dcc9_000C
+"How do you evolve an Electabuzz into an Electrivire in the Diamond and Pearl Pokemon series?",VIDEO_GAMES_3350_0228,"Trade it while holding a electrizer.",VIDEO_GAMES_OPT_24a8_000B
+"In Pokemon Diamond and Pearl, in what way do you evolve a Porygon2 into a Porygon-Z?",VIDEO_GAMES_2e7e_0229,"Give it a dubious disc and trade it.",VIDEO_GAMES_OPT_0b9a_000D
+"What is the way to evolve a Yanma into a Yanmega in the Diamond and Pearl Pokemon series for Nintendo DS?",VIDEO_GAMES_1174_0230,"At level 33 let Yanma learn anchient power.",VIDEO_GAMES_OPT_edb6_000D
+"Which of these is the correct way to evolve a Kirlia into a Gallade in Pokemon Diamond and Pearl?",VIDEO_GAMES_62a0_0231,"None of these",VIDEO_GAMES_OPT_4b6c_000D
+"In what way can you evolve the pokemon Snorunt into a Frosslass in the Diamond and Pearl Pokemon series for Nintendo DS?",VIDEO_GAMES_8a6e_0232,"Use a dawn stone on a female Snorunt.",VIDEO_GAMES_OPT_ee1e_000C
+"How do you evolve a Dusclops into a Duskinoir in Pokemon Diamond and Pearl?",VIDEO_GAMES_b319_0233,"Trade a Dusclops that is holding a reapers cloth.",VIDEO_GAMES_OPT_f921_000C
+"At what location does the PS2 role-playing game Final Fantasy X start?",VIDEO_GAMES_778d_0234,Zanarkand,VIDEO_GAMES_OPT_880e_000A
+"Which other team member do you meet first in the PS2 game Final Fantasy X?",VIDEO_GAMES_e23f_0235,Auron,VIDEO_GAMES_OPT_e43d_000C
+"In Final Fantasy X, where does Yuna perform her first Sending?",VIDEO_GAMES_838f_0236,Kilika,VIDEO_GAMES_OPT_bc35_000A
+"In Final Fantasy X, when you enter the Farplane in Guadosalam to talk to Yunas father, Auron stays behind because he is scared of confronting Jecht.",VIDEO_GAMES_fd9a_0237,False,VIDEO_GAMES_OPT_1cce_000B
+"Which of these is not a blitzball team from the PS2 game Final Fantasy X?",VIDEO_GAMES_5129_0238,"Ronso Rovers",VIDEO_GAMES_OPT_ba98_000C
+"In Final Fantasy X, where do you get each of the following aeons respectively: Ifrit, Shiva, Yojimbo, Valefor, Magus Sisters, Ixion?",VIDEO_GAMES_2eee_0239,"Kilika, Macalania, Calm Lands, Besaid, Requiem, Djose",VIDEO_GAMES_OPT_5b7e_000B
+"Where is Maester Seymour the final time you have to fight him in the PS2 role-playing game Final Fantasy X?",VIDEO_GAMES_34f0_0240,"In the Sea of Sorrows inside Sin",VIDEO_GAMES_OPT_a857_000D
+"According to Final Fantasy X, what does this sentence in the Al Bhed language translate to: Xna ehi ayo degurk e wouj?",VIDEO_GAMES_c9f9_0241,"Why are you taking a quiz?",VIDEO_GAMES_OPT_19a3_000D
+"In Yunas speech at the end of Final Fantasy X, what phrase is an almost direct reference to Tidus?",VIDEO_GAMES_0f66_0242,"The dreams that have faded",VIDEO_GAMES_OPT_205d_000C
+"What does Sarias Song do in Legend of Zelda Ocarina of Time?",VIDEO_GAMES_998a_0243,"Enables you to talk to Saria",VIDEO_GAMES_OPT_eade_000D
+"In Legend of Zelda Majoras Mask you are transformed into a Zora by Ganondorf.",VIDEO_GAMES_c33b_0244,False,VIDEO_GAMES_OPT_8ee9_000B
+"Is it true that in Legend of Zelda Twilight Princess, after you get the Master Sword you can transform into a wolf any time you like?",VIDEO_GAMES_b60d_0245,Yes,VIDEO_GAMES_OPT_8241_000B
+"Is it true that in Legend of Zelda and the Wind Waker, after you beat the game you can make a new file and not get Links green clothing?",VIDEO_GAMES_3486_0246,Yes,VIDEO_GAMES_OPT_d16e_000A
+"In Legend of Zelda Ocarina of Time, once you pull out the Master Sword you will become older.",VIDEO_GAMES_5800_0247,True,VIDEO_GAMES_OPT_83d6_000A
+"Is it true that in the whole Legend of Zelda series, the currency is rupees?",VIDEO_GAMES_7d8a_0248,Yes,VIDEO_GAMES_OPT_401f_000A
+"Where can you find the Spiritual Gem of Water in Legend of Zelda and the Ocarina of Time?",VIDEO_GAMES_3aea_0249,"Zoras Domain",VIDEO_GAMES_OPT_7faa_000B
+"What game console is the strategy video game Thrillville available on?",VIDEO_GAMES_559e_0250,Xbox/PSP/PS2,VIDEO_GAMES_OPT_8505_000B
+"In the strategy video game Thrillville, there are 4 categories in the park menu.",VIDEO_GAMES_6cf8_0251,False,VIDEO_GAMES_OPT_1493_000A
+"Can you take control of your staff members in the Thrillville video game strategy?",VIDEO_GAMES_51e9_0252,Yes,VIDEO_GAMES_OPT_a4ad_000B
+"In the simulation and strategy Thrillville, what is the best way to increase your attraction meter?",VIDEO_GAMES_ccf9_0253,"Play the flirt mini-game",VIDEO_GAMES_OPT_fea6_000A
+"The video game Thrillville is rated T by the Entertainment Software Rating Board (ESRB).",VIDEO_GAMES_3b49_0254,False,VIDEO_GAMES_OPT_2e5e_000A
+"In the Thrillville strategy video game you cant make money off of mini-games.",VIDEO_GAMES_1385_0255,False,VIDEO_GAMES_OPT_65d5_000A
+"In the Thrillville video game, can you make money off of playing mini-golf?",VIDEO_GAMES_4c57_0256,Yes,VIDEO_GAMES_OPT_cf7a_000A
+"You suck up trash by using a vacuum gun in the Thrillville video game.",VIDEO_GAMES_6951_0257,True,VIDEO_GAMES_OPT_f18b_000B
+"Who are the people that save the gang from Tabuu in Super Smash Bros. Brawl?",VIDEO_GAMES_60e8_0258,"Ness, King Dedede, Luigi, Kirby",VIDEO_GAMES_OPT_2268_000A
+"How many rooms are there in the Great Maze in Super Smash Bros. Brawl?",VIDEO_GAMES_3485_0259,40,VIDEO_GAMES_OPT_1ae7_000D
+"What character from Super Smash Bros. Brawl was not in Super Smash Bros. Melee?",VIDEO_GAMES_7ec0_0260,Ike,VIDEO_GAMES_OPT_cbb6_000D
+"Including the Melee Pokemon Stadium, how many stadiums in Super Smash Bros. Brawl are related to Pokemon?",VIDEO_GAMES_4e69_0261,3,VIDEO_GAMES_OPT_baa6_000D
+"What is the function of the the Astral Amulet in the computer game Chrono Cross?",VIDEO_GAMES_00dc_0262,"Serves as a key to open  dimension ports to other worlds",VIDEO_GAMES_OPT_543f_000A
+"In the computer game Chrono Cross, the water dragon gives you what ability?",VIDEO_GAMES_e0c5_0263,"Ice Breath",VIDEO_GAMES_OPT_cd88_000A
+"Who made the following statement in the game Chrono Cross: I love you so much... That is why I sometimes desire to smash you to bits!!!?",VIDEO_GAMES_ca1d_0264,Fate,VIDEO_GAMES_OPT_3525_000A
+"Which of these songs from the Chrono Cross soundtrack is on the sound clip?",VIDEO_GAMES_18b3_0265,"Radical Dreamers",VIDEO_GAMES_OPT_6552_000B
+"Which Chrono Cross character delivered the following words: In your eyes, I perceive both the look of a beauty  and the look of a beast.?",VIDEO_GAMES_7dba_0266,"Fortune Teller",VIDEO_GAMES_OPT_a269_000C
+"Listen to the sound clip and name the song from the Chrono Cross soundtrack.",VIDEO_GAMES_17f7_0267,"Dreamwatch of time",VIDEO_GAMES_OPT_ece8_000A
+"Is Gyarados a water and flying type of Pokemon?",VIDEO_GAMES_868e_0268,Yes,VIDEO_GAMES_OPT_085d_000B
+"What type of Pokemon is Sableye?",VIDEO_GAMES_dff7_0269,"Ghost dark",VIDEO_GAMES_OPT_246d_000B
+"What type of Pokemon is Tyranitar?",VIDEO_GAMES_8e83_0270,"Rock dark",VIDEO_GAMES_OPT_e8bc_000A
+"Gengar is a ghost dark type of Pokemon.",VIDEO_GAMES_eef7_0271,False,VIDEO_GAMES_OPT_ee4d_000A
+"Is the Pokemon Togekiss flying and normal type of Pokemon?",VIDEO_GAMES_53b8_0272,Yes,VIDEO_GAMES_OPT_bea7_000B
+"Does the Pokemon Empolean belong only to the water type of Pokemon?",VIDEO_GAMES_5932_0273,No,VIDEO_GAMES_OPT_e932_000B
+"Is Typlosion only a fire type of Pokemon?",VIDEO_GAMES_c4f8_0274,Yes,VIDEO_GAMES_OPT_fc72_000B
+"In the online game RuneScape, you can wear rune platebody without doing the quest Dragonslayer.",VIDEO_GAMES_253e_0275,False,VIDEO_GAMES_OPT_9c7b_000B
+"In the game RuneScape, big bones get your prayer level up higher than dragon bones.",VIDEO_GAMES_fd13_0276,False,VIDEO_GAMES_OPT_beb1_000B
+"Name the RuneScape character who is the duke of Lumberidge.",VIDEO_GAMES_324d_0277,Horacio,VIDEO_GAMES_OPT_6385_000A
+"In the RuneScape game, you have to be level 85 to mine rune.",VIDEO_GAMES_5002_0278,True,VIDEO_GAMES_OPT_9200_000B
+"In RuneScape, green dragonhide is better than black dragonhide.",VIDEO_GAMES_bdc3_0279,False,VIDEO_GAMES_OPT_a772_000B
+"In the game RuneScape, wearing Zamorack armour requires this level.",VIDEO_GAMES_2c26_0280,40,VIDEO_GAMES_OPT_98d2_000B
+"At the start of the RPG game Final Fantasy VIII, which characters are shown in the opening movie?",VIDEO_GAMES_bb41_0281,"Squall, Seifer, Rinoa, Edea",VIDEO_GAMES_OPT_b9db_000A
+"What is inside the lamp given to you by Headmaster Cid before your first official SEED mission in the role-playing game Final Fantasy VIII?",VIDEO_GAMES_d3a0_0282,Diablos,VIDEO_GAMES_OPT_9ba7_000D
+"In Final Fantasy VIII, what is Seifers romantic dream?",VIDEO_GAMES_08b8_0283,"To be Edeas knight",VIDEO_GAMES_OPT_ff11_000A
+"Did Quistis Trepe from Final Fantasy VIII have a group of admirers called the Trepies?",VIDEO_GAMES_292d_0284,Yes,VIDEO_GAMES_OPT_0523_000B
+"What did Squall say to the torturer in D-District Prison about SEED in Final Fantasy VIII?",VIDEO_GAMES_7f99_0285,"They want to plant flowers and then invade the countries.",VIDEO_GAMES_OPT_2e93_000C
+"Which two characters played Rock, Paper, Scissors in the role-playing game Final Fantasy VIII?",VIDEO_GAMES_ffea_0286,"The Brothers",VIDEO_GAMES_OPT_64cc_000C
+"In the last fight of the role-playing game Final Fantasy VIII, who does Ultimecia summon?",VIDEO_GAMES_ec9e_0287,Griever,VIDEO_GAMES_OPT_fe18_000D
+"In the game Animal Crossing, the players must work part-time for the character who gives them their first house.",VIDEO_GAMES_f0d7_0288,False,VIDEO_GAMES_OPT_49b2_000A
+"In the video game Animal Crossing the player can dig up fossils.",VIDEO_GAMES_57c1_0289,True,VIDEO_GAMES_OPT_1908_000B
+"Which of these is not included in the game Animal Crossing?",VIDEO_GAMES_c9e8_0290,"A barbers shop.",VIDEO_GAMES_OPT_dfdd_000D
+"In the game Animal Crossing your character may have horns.",VIDEO_GAMES_ad43_0291,True,VIDEO_GAMES_OPT_b202_000B
+"Can you have pets in the game Animal Crossing?",VIDEO_GAMES_c365_0292,Yes,VIDEO_GAMES_OPT_35e7_000B
+"Can you have two houses in the Nintendo game Animal Crossing?",VIDEO_GAMES_72a4_0293,No,VIDEO_GAMES_OPT_182a_000A
+"What can you have in your house in the game Animal Crossing?",VIDEO_GAMES_1040_0294,"A basement",VIDEO_GAMES_OPT_a08d_000D
+"Can you own a shop in the game Animal Crossing?",VIDEO_GAMES_76ad_0295,No,VIDEO_GAMES_OPT_2fd2_000B
+"The seasons in the game Animal Crossing change as the seasons actually change in real life.",VIDEO_GAMES_cf88_0296,True,VIDEO_GAMES_OPT_0e58_000A
+"In Runescape, what creature lives in the basement of Draynor Manor?",VIDEO_GAMES_b6a9_0297,"a vampire",VIDEO_GAMES_OPT_2187_000A
+"What is the highest level your character can go up to in the Runescape game for non-members?",VIDEO_GAMES_aba9_0298,126,VIDEO_GAMES_OPT_5419_000B
+"In Runescape, you must have level 40 defence to wear adamant armor.",VIDEO_GAMES_e55d_0299,False,VIDEO_GAMES_OPT_bc39_000B
+"What fruit grows on Karmaja in the Runescape video game?",VIDEO_GAMES_a1fe_0300,bananas,VIDEO_GAMES_OPT_8d85_000D
+"What item do you obtain from the 2006 Runescape Christmas Special?",VIDEO_GAMES_1e05_0301,"a reindeer hat",VIDEO_GAMES_OPT_f9b5_000B
+"Can you kill demons in a non-members world of Runescape?",VIDEO_GAMES_a5c4_0302,Yes,VIDEO_GAMES_OPT_ac38_000A
+"Can you wear goblin mail in Runescape?",VIDEO_GAMES_fbfd_0303,No,VIDEO_GAMES_OPT_2662_000B
+"In Runescape, you must have a level of 99 on any skill to get a Skill Cape.",VIDEO_GAMES_631b_0304,True,VIDEO_GAMES_OPT_23f1_000B
+"Sasuke, one of the main characters in the anime series Naruto, is branded with a cursed seal.",VIDEO_GAMES_3d52_0305,True,VIDEO_GAMES_OPT_0265_000A
+"Which of these anime characters can use the technique, known as Rasengan?",VIDEO_GAMES_1dec_0306,Naruto,VIDEO_GAMES_OPT_d778_000D
+"What did anime character Sasuke say when he received the cursed seal?",VIDEO_GAMES_81f6_0307,"Im an avenger.",VIDEO_GAMES_OPT_3e10_000B
+"Fictional character Naruto killed Gaara.",VIDEO_GAMES_558f_0308,False,VIDEO_GAMES_OPT_b407_000A
+"What is Narutos favorite food?",VIDEO_GAMES_6b1e_0309,ramen,VIDEO_GAMES_OPT_2253_000D
+"Who taught Sasuke the Chidori technique in the Naruto series?",VIDEO_GAMES_c4f1_0310,Kakashi,VIDEO_GAMES_OPT_1155_000C
+"What technique in the Naruto series was created by Kakashi?",VIDEO_GAMES_b54d_0311,Chidori,VIDEO_GAMES_OPT_0a39_000D
+"What does Naruto dream of being in the self-titled anime series?",VIDEO_GAMES_ef7a_0312,hokage,VIDEO_GAMES_OPT_0383_000A
+"What Naruto character was initially infatuated with Sasuke?",VIDEO_GAMES_6a33_0313,Sakura,VIDEO_GAMES_OPT_75c4_000C
+"You get the P90 weapon at what level in Call of Duty 4?",VIDEO_GAMES_dc47_0314,40,VIDEO_GAMES_OPT_c4b6_000D
+"How many different weapons are there in Call of Duty 4?",VIDEO_GAMES_a1b7_0315,29,VIDEO_GAMES_OPT_9c76_000B
+"You can go into 15 Prestiges on XBox Livve.",VIDEO_GAMES_47da_0316,False,VIDEO_GAMES_OPT_b121_000A
+"In Call of Duty 4 you can run around with your knife and kill as many people as you want with it.",VIDEO_GAMES_3504_0317,False,VIDEO_GAMES_OPT_4ab5_000A
+"The Barret .50 Caliber is the most powerful sniper rifle in the game Call of Duty 4.",VIDEO_GAMES_5408_0318,True,VIDEO_GAMES_OPT_40ba_000A
+"How many skins for the weapons are there in Call of Duty 4?",VIDEO_GAMES_c622_0319,6,VIDEO_GAMES_OPT_b967_000B
+"If you shoot a person in the head in the game Call of Duty 4, they can survive.",VIDEO_GAMES_76e4_0320,True,VIDEO_GAMES_OPT_39ad_000B
+"Which of these is not a stage in the first game of Banjo and Kazooie for Nintendo 64?",VIDEO_GAMES_c394_0321,"Cloud Cuckooland",VIDEO_GAMES_OPT_d33a_000C
+"In the adventure video game Banjo-Kazooie, how many turtles are in Tiptups choir?",VIDEO_GAMES_8546_0322,6,VIDEO_GAMES_OPT_88c4_000B
+"In Gobis Valley from the Banjo-Kazooie adventure video game, how many notes are there in front of the door that you ride the magic carpet to?",VIDEO_GAMES_6990_0323,5,VIDEO_GAMES_OPT_a118_000B
+"In Mad Monster Mansion from the Banjo-Kazooie video game, what is the time shown on the clock above the church?",VIDEO_GAMES_7b8b_0324,"None of these",VIDEO_GAMES_OPT_33aa_000B
+"In the quiz stage of the adventure video game Banjo-Kazooie, failing a question on a Grunty Space will cause the characters to fall into the lava pit.",VIDEO_GAMES_1910_0325,False,VIDEO_GAMES_OPT_573d_000A
+"Gobi is the name of the camel in Gobis Valley in the Banjo and Kazooie video game.",VIDEO_GAMES_8c71_0326,True,VIDEO_GAMES_OPT_4b90_000A
+"Do you need to talk to somebody in Kurast Docks in order to activate the first quest in Act III of the computer game Diablo II?",VIDEO_GAMES_759c_0327,No,VIDEO_GAMES_OPT_b377_000A
+"Complete the title of the 2nd quest in Act III of the computer game Diablo II:  Blade of the _____ Religion.",VIDEO_GAMES_fea2_0328,Old,VIDEO_GAMES_OPT_dd32_000C
+"In the third quest of Act III in Diablo II, how many items must be retrieved?",VIDEO_GAMES_d99d_0329,4,VIDEO_GAMES_OPT_0656_000A
+"Who must you talk to, in order to activate the Lam Esens Tome quest in the computer game Diablo II?",VIDEO_GAMES_9475_0330,Alkor,VIDEO_GAMES_OPT_c36c_000D
+"The 5th quest in Act III of Diablo II is activated by Ormus, only if you are able to find this place.",VIDEO_GAMES_133b_0331,Travincal,VIDEO_GAMES_OPT_dd1e_000D
+"What boss must be fought in the last quest in Act III of the computer game Diablo II?",VIDEO_GAMES_0313_0332,Mephisto,VIDEO_GAMES_OPT_1573_000D
+"What reward will you receive upon completing the first quest in Act IV of the game Diablo II?",VIDEO_GAMES_2769_0333,"Two skill points",VIDEO_GAMES_OPT_9f42_000B
+"You must talk to this person in order to activate your 2nd quest in Act IV of the computer game Diablo II.",VIDEO_GAMES_84b9_0334,"Deckard Cain",VIDEO_GAMES_OPT_5212_000D
+"What is the title of the last quest in Act IV of the computer game Diablo II?",VIDEO_GAMES_a8b1_0335,"Terrors End",VIDEO_GAMES_OPT_49d2_000C
+"Which one of these songs is NOT in the final section of Guitar Hero III, Lous Inferno?",VIDEO_GAMES_3d92_0336,Stricken,VIDEO_GAMES_OPT_1aeb_000A
+"You must beat Guitar Hero III on Expert to be able to play Through the Fire and Flames.",VIDEO_GAMES_305c_0337,False,VIDEO_GAMES_OPT_bb3a_000A
+"What song is unlocked after beating Tom Morello in a guitar battle in the video game Guitar Hero III?",VIDEO_GAMES_369f_0338,"Bulls on Parade",VIDEO_GAMES_OPT_0f87_000A
+"After you beat Guitar Hero III on Expert, you are informed that you can really test your skill by doing this.",VIDEO_GAMES_bb94_0339,"playing Expert in Precision Mode",VIDEO_GAMES_OPT_a56d_000A
+"On what date was the release of Call of Duty 4: Modern Warfare announced?",VIDEO_GAMES_166a_0340,"April 25, 2007",VIDEO_GAMES_OPT_173e_000A
+"How many times can a player trade in their levels at prestige mode in the first-person shooter Call of Duty 4?",VIDEO_GAMES_cafe_0341,10,VIDEO_GAMES_OPT_65ab_000C
+"In the Xbox 360 version of Call of Duty 4, the achievement war pig is given for killing Khaled Al-Asad.",VIDEO_GAMES_ab14_0342,False,VIDEO_GAMES_OPT_c5e0_000B
+"The AC-140 gunship has 3 different weapons and uses thermal vision in Call of Duty 4.",VIDEO_GAMES_bca4_0343,False,VIDEO_GAMES_OPT_7348_000A
+"Billy Murray lends his voice to Captain Price from Call of Duty 4: Modern Warfare.",VIDEO_GAMES_d391_0344,True,VIDEO_GAMES_OPT_3c8f_000B
+"Who do you have to talk in order to receive your first quest after creating a character in the game Diablo II?",VIDEO_GAMES_f48a_0345,Akara,VIDEO_GAMES_OPT_b6ca_000B
+"What is the 2nd quest in the first chapter of the computer game Diablo II?",VIDEO_GAMES_50e4_0346,"Sisters Burial Grounds",VIDEO_GAMES_OPT_a0c7_000B
+"Who must be rescued in the third quest of the game Diablo II?",VIDEO_GAMES_5e26_0347,"Deckard Cain",VIDEO_GAMES_OPT_5ff6_000A
+"What must be retrieved in the fifth quest of the first act of the computer game Diablo II?",VIDEO_GAMES_1046_0348,"Horadric Malus",VIDEO_GAMES_OPT_0a2b_000D
+"What is the last quest in Chapter I of the computer game Diablo II?",VIDEO_GAMES_e51b_0349,"Sisters to the Slaughter",VIDEO_GAMES_OPT_6967_000A
+"Who must be defeated in the first quest of the second chapter of the computer game Diablo II?",VIDEO_GAMES_716c_0350,Radament,VIDEO_GAMES_OPT_70a0_000A
+"Which item must be formed, to succeed in the second quest of Chapter II of the computer game Diablo II?",VIDEO_GAMES_1887_0351,"Horadric Staff",VIDEO_GAMES_OPT_3fb6_000D
+"What is your objective of the 4th quest of Chapter II in the game Diablo II?",VIDEO_GAMES_865a_0352,"to get the Journal",VIDEO_GAMES_OPT_833b_000D
+"Who must be killed in the 5th quest in Chapter II of  Diablo II?",VIDEO_GAMES_50b0_0353,Summoner,VIDEO_GAMES_OPT_c237_000B
+"Who must be saved in the last quest in Chapter II (The Seven Tombs) of the computer game Diablo II?",VIDEO_GAMES_714c_0354,Tyrael,VIDEO_GAMES_OPT_f17a_000A
+"Name Master Chiefs partners in the video game Halo 1.",VIDEO_GAMES_e588_0355,"Green Horns",VIDEO_GAMES_OPT_343f_000D
+"Name the aliens with the shields in the game Halo 1.",VIDEO_GAMES_0b79_0356,Jackals,VIDEO_GAMES_OPT_e9b8_000B
+"You start out with a weapon in the first level of Halo 1.",VIDEO_GAMES_d8dd_0357,False,VIDEO_GAMES_OPT_1d5d_000B
+"What is the name of the Halo 1 aliens with plasma cannons?",VIDEO_GAMES_2a5e_0358,Hunters,VIDEO_GAMES_OPT_bdb9_000A
+"What are the smallest aliens you face in the video game Halo 1?",VIDEO_GAMES_aec8_0359,Grunts,VIDEO_GAMES_OPT_239d_000D
+"These aliens are the protectors of halo in the video game Halo 1.",VIDEO_GAMES_61e0_0360,Elites,VIDEO_GAMES_OPT_0d11_000C
+"Master Chief is the protagonist of the Halo video game.",VIDEO_GAMES_f8aa_0361,True,VIDEO_GAMES_OPT_df1a_000A
+"What is the name of Samus enemies common to nearly every Metroid video game",VIDEO_GAMES_79c2_0362,"Space Pirates",VIDEO_GAMES_OPT_5852_000A
+"What is the name of the suit Samus starts out with in almost every Metroid video game?",VIDEO_GAMES_4d3f_0363,"Varia Suit",VIDEO_GAMES_OPT_3d7a_000C
+"What word is always attached to the names of the shots that come from Samus arm-mounted gun in the Metroid video game?",VIDEO_GAMES_ea08_0364,Beam,VIDEO_GAMES_OPT_328d_000A
+"What type of character is Samus from the Metroid video game?",VIDEO_GAMES_e145_0365,"Human Female",VIDEO_GAMES_OPT_be84_000D
+"In the Metroid video game, what is Samus profession?",VIDEO_GAMES_a3af_0366,"Bounty Hunter",VIDEO_GAMES_OPT_b321_000D
+"What special abilities are unique to Metroids in the video game series Metroid?",VIDEO_GAMES_1942_0367,"They can suck out your life energy.",VIDEO_GAMES_OPT_e934_000A
+"Which of these is not an upgrade Samus receives in the Metroid game series?",VIDEO_GAMES_ad22_0368,"Grenade Launcher",VIDEO_GAMES_OPT_31fd_000A
+"In the Metroid video game series, what species created the suit and most of the upgrades available to Samus?",VIDEO_GAMES_4735_0369,"The Chozo",VIDEO_GAMES_OPT_69da_000B
+"Which of these is not an ability available to Samus while in Morph Ball Mode of the Metroid video game?",VIDEO_GAMES_678f_0370,"Phazon Bomb",VIDEO_GAMES_OPT_c1dc_000A
+"Naruto was first published in 1999, in this magazine.",VIDEO_GAMES_49ee_0371,"Weekly Shonen Jump",VIDEO_GAMES_OPT_7420_000B
+"Who is the only female Akatsuki member in the Naruto manga series?",VIDEO_GAMES_9717_0372,Konan,VIDEO_GAMES_OPT_028e_000D
+"Who is the first ninja recruited for the fictional team Hawk?",VIDEO_GAMES_6c6d_0373,"Suigetsu Hozuki",VIDEO_GAMES_OPT_2975_000A
+"Namikaze Sateraito is the opening song for the first 22 episodes of which Naruto season?",VIDEO_GAMES_8bc0_0374,1,VIDEO_GAMES_OPT_397e_000A
+"Orochimarus Curse is the title of which volume of the Naruto manga?",VIDEO_GAMES_20e0_0375,7,VIDEO_GAMES_OPT_0ab9_000C
+"Masatoshi Kazikuga is the author of two novelizations of Naruto, published in Japan and America.",VIDEO_GAMES_8f63_0376,False,VIDEO_GAMES_OPT_1e8d_000A
+"What can you wield after the Monkey Madness Quest in RuneScape?",VIDEO_GAMES_948e_0377,"Dragon Scimitar",VIDEO_GAMES_OPT_45fa_000A
+"The RuneScape game was created by Christopher Grower.",VIDEO_GAMES_4890_0378,False,VIDEO_GAMES_OPT_52c0_000B
+"Which of the following RuneScape defence armors is the best?",VIDEO_GAMES_fb8f_0379,"Veracs (full)",VIDEO_GAMES_OPT_28b1_000D
+"When was the first version of RuneScape released to the public?",VIDEO_GAMES_3ede_0380,"January 4th 2001",VIDEO_GAMES_OPT_a2e5_000C
+"RuneScape is set in the fantasy-themed realm of Gielinor.",VIDEO_GAMES_ef7c_0381,True,VIDEO_GAMES_OPT_8a70_000A
+"The creator of RuneScape was helped by his cousin, Joel, in developing the game.",VIDEO_GAMES_a7cf_0382,False,VIDEO_GAMES_OPT_2365_000B
+"What was RuneScape originally named?",VIDEO_GAMES_51d7_0383,DeviousMUD,VIDEO_GAMES_OPT_4ed4_000A
+"What is the name of the evil god in RunesSape whose rival is Saradomin?",VIDEO_GAMES_2c9a_0384,Zamorak,VIDEO_GAMES_OPT_cba9_000D
+"Are there members-only servers for RuneScape Classic?",VIDEO_GAMES_f0fe_0385,Yes,VIDEO_GAMES_OPT_344a_000A
+"What weapon do you wield after the Regicide Quest in RuneScape?",VIDEO_GAMES_943b_0386,"Dragon hally",VIDEO_GAMES_OPT_24a3_000A
+"Ash Ketchum, the main protagonist in the PokÃ©mon anime, is loosely based on what other character?",VIDEO_GAMES_0fc4_0387,Red,VIDEO_GAMES_OPT_7ee4_000C
+"In what way can you evolve the Pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?",VIDEO_GAMES_672c_0388,"none of these",VIDEO_GAMES_OPT_3e32_000A
+"Celebi is a grass type Pokemon that you can find in the sinnow region.",VIDEO_GAMES_839c_0389,False,VIDEO_GAMES_OPT_3373_000B
+"Which of the following is not a game in The Last Half of Darkness series?",VIDEO_GAMES_f3f1_0390,"The Last Half of Darkness: New Ways to Die",VIDEO_GAMES_OPT_32e0_000D
+"Which of these is not the title of an actual PC game?",VIDEO_GAMES_5164_0391,"Last Warrior of Orion",VIDEO_GAMES_OPT_4282_000B
+"Which of the following is part of the game Archon Ultra?",VIDEO_GAMES_1a71_0392,Valkyrie,VIDEO_GAMES_OPT_e41d_000A
+"In the Last Half of Darkness series, there is a Last Half of Darkness III VGA.",VIDEO_GAMES_0b42_0393,False,VIDEO_GAMES_OPT_5c49_000A
+"Which of these horror movie based games isnt a PC game?",VIDEO_GAMES_54ff_0394,Blade,VIDEO_GAMES_OPT_f80f_000C
+"Which of these games was not developed by New World Computing?",VIDEO_GAMES_af33_0395,"X-COM: UFO Defense",VIDEO_GAMES_OPT_f0a5_000D
+"Which of the following is not an adventure game?",VIDEO_GAMES_1d6d_0396,"Raptor: Call of the Shadows",VIDEO_GAMES_OPT_165e_000B
+"What type of game is Power Rangers Time Force?",VIDEO_GAMES_3330_0397,"All of these",VIDEO_GAMES_OPT_0665_000A
+"Who created the game Last Half of Darkness?",VIDEO_GAMES_9ddb_0398,"William R. Fisher III",VIDEO_GAMES_OPT_c27b_000C
+"Which of the following is not a real role-playing game?",VIDEO_GAMES_a73d_0399,"Last Guardian",VIDEO_GAMES_OPT_d7ff_000C
+"What is the name of the evil dragon in RuneScape that players have to kill in the Dragon Slayer quest?",VIDEO_GAMES_ba4e_0400,Elvarg,VIDEO_GAMES_OPT_329d_000A
+"In the RuneScape game, on the Construction Skillcape emote, the character performing the emote does which of the following?",VIDEO_GAMES_15ed_0401,"Builds a small house around himself",VIDEO_GAMES_OPT_9fe2_000A
+"To equip Barrows armour and weapons in RuneScape, you must have an attack and defence level 70.",VIDEO_GAMES_6722_0402,True,VIDEO_GAMES_OPT_d316_000A
+"Is it true that in the RuneScape game, goblins can be found only in Goblin Village and Goblin Cave?",VIDEO_GAMES_fd18_0403,No,VIDEO_GAMES_OPT_3065_000A
+"In the RuneScape game, you need to have 80 defence to use Guthix armor.",VIDEO_GAMES_5683_0404,False,VIDEO_GAMES_OPT_485d_000A
+"What was the reward in RuneScapes 2008 Easter Seasonal Event?",VIDEO_GAMES_b552_0405,"a chocatrice cape that turns you into a wrapped egg",VIDEO_GAMES_OPT_6104_000B
+"In the mime random event in RuneScape, the object is to identify all the mime emotes and get a reward afterwards.",VIDEO_GAMES_59a8_0406,True,VIDEO_GAMES_OPT_b263_000A
+"To start the Demon Slayer Quest in RuneScape, you must talk to which one of these?",VIDEO_GAMES_2229_0407,"The Gypsy",VIDEO_GAMES_OPT_234d_000B
+"In what RuneScape quest do you have to use a friend from the opposite gang?",VIDEO_GAMES_e847_0408,"Shield of Arrav",VIDEO_GAMES_OPT_aaad_000B
+"In the game Super Mario Kart, how many coins do you receive for placing 1st in a single race?",VIDEO_GAMES_2218_0409,9,VIDEO_GAMES_OPT_39d2_000B
+"Do players have lives in the racing game Super Mario Kart?",VIDEO_GAMES_885c_0410,Yes,VIDEO_GAMES_OPT_a585_000A
+"In the game Super Mario Kart, what does the mushroom item do to the racer?",VIDEO_GAMES_ad13_0411,"gives the racer a short burst of speed",VIDEO_GAMES_OPT_4ef3_000B
+"All of the following cups are in the game Super Mario Kart, except which one of these?",VIDEO_GAMES_8457_0412,"Lightning cup",VIDEO_GAMES_OPT_734c_000D
+"The feather item in the game Super Mario Kart helps the racer by jumping.",VIDEO_GAMES_84bd_0413,True,VIDEO_GAMES_OPT_5a5c_000A
+"In the Flower cup, in the game Super Mario Kart, on which track do you start?",VIDEO_GAMES_dc54_0414,"Choco Island",VIDEO_GAMES_OPT_10d2_000B
+"In Super Mario Kart, the green shell is a heat-seeking missile.",VIDEO_GAMES_0cda_0415,False,VIDEO_GAMES_OPT_6a94_000A
+"In the game Super Mario Kart, for the Super Nintendo, it is possible to fall off the track.",VIDEO_GAMES_3c13_0416,True,VIDEO_GAMES_OPT_5d70_000A
+"All of the following are items used in the game Super Mario Kart, for the Super NES, except which one of the following?",VIDEO_GAMES_f69f_0417,"blue shell",VIDEO_GAMES_OPT_522e_000D
+"On the Nintendo 64 version of Mario Kart, Wario replaced which of the following playable characters from the Super NES version?",VIDEO_GAMES_8b47_0418,"Koopa Troopa",VIDEO_GAMES_OPT_f970_000B
+"There is a PC port in the first three Timesplitters games.",VIDEO_GAMES_db21_0419,False,VIDEO_GAMES_OPT_ec31_000A
+"How many of the following Power Rangers games are for PC: Power Rangers; Power Rangers: Lightspeed Rescue; Power Rangers: Super Legends; Power Rangers Zeo Versus the Machine Empire; Power Rangers: Ninja Storm Double Pack?",VIDEO_GAMES_fb2c_0420,5,VIDEO_GAMES_OPT_eb49_000A
+"Excluding collections, how many Might and Magic games were released from 1986 to 2002?",VIDEO_GAMES_ec22_0421,11,VIDEO_GAMES_OPT_7b05_000A
+"In Might and Magic 8, which of these classes are unselectable for the main character?",VIDEO_GAMES_ef2a_0422,Dragon,VIDEO_GAMES_OPT_25ac_000D
+"Joe Satriani was given a special thanks in B.A.T. II.",VIDEO_GAMES_7052_0423,True,VIDEO_GAMES_OPT_73dd_000B
+"In which of these games does the player take the role of Kirt?",VIDEO_GAMES_00c3_0424,Shadowcaster,VIDEO_GAMES_OPT_649b_000D
+"Which of these games is rogue-like?",VIDEO_GAMES_96e5_0425,"Ancient Domains of Mystery",VIDEO_GAMES_OPT_0ec0_000D
+"How many races are there in Star Wars: Galactic Battlegrounds? (With expansion)",VIDEO_GAMES_620e_0426,8,VIDEO_GAMES_OPT_89fa_000C
+"What do you transform into in stage 4 of Altered Beast?",VIDEO_GAMES_58d6_0427,Weretiger,VIDEO_GAMES_OPT_3e57_000D
+"Which of these games isnt an action/adventure hybrid?",VIDEO_GAMES_f5fb_0428,"Grand Theft Auto",VIDEO_GAMES_OPT_55b9_000A
+"Who is the protagonist of the PC game Blood?",VIDEO_GAMES_28bc_0429,Caleb,VIDEO_GAMES_OPT_d97d_000D
+"Which of these isnt a game from the Hugo series?",VIDEO_GAMES_2dd0_0430,"Hugos Castle of Death",VIDEO_GAMES_OPT_c650_000A
+"Name the odd game.",VIDEO_GAMES_0a63_0431,Archon,VIDEO_GAMES_OPT_eb2f_000D
+"Which of these games was not developed by Blizzard?",VIDEO_GAMES_66ac_0432,"Hammer of the Gods",VIDEO_GAMES_OPT_db87_000D
+"Which of these games was developed by New World Computing?",VIDEO_GAMES_8387_0433,"Planets Edge",VIDEO_GAMES_OPT_b447_000B
+"Which of these isnt a Sega collection for PC?",VIDEO_GAMES_a718_0434,"Sega Genesis Collection",VIDEO_GAMES_OPT_7678_000A
+"In the Nancy Drew conputer games, Nancy Drews trusty sidekicks are cousins George Fayne and this slightly plump blonde.",VIDEO_GAMES_8458_0435,Bess,VIDEO_GAMES_OPT_fa46_000C
+"These two detective brothers appear several times in the Nancy Drew computer games to help Nancy solve mysteries.",VIDEO_GAMES_9bac_0436,"Frank and Joe",VIDEO_GAMES_OPT_80a1_000A
+"What was the very first Nancy Drew computer game?",VIDEO_GAMES_0992_0437,"Secrets Can Kill",VIDEO_GAMES_OPT_8051_000B
+"What did Nancy Drew find along with a message in the computer game Message in a Haunted Mansion?",VIDEO_GAMES_aa0e_0438,"A shark tooth",VIDEO_GAMES_OPT_6dc4_000D
+"In which of these computer games did Nancy Drew wake up in the middle of the night because of a nightmare?",VIDEO_GAMES_33bd_0439,"Ghost of Blackmoor Manor",VIDEO_GAMES_OPT_d318_000D
+"Which of these characters appears in the Nancy Drew computer game Lights, Camera, Curses!?",VIDEO_GAMES_a996_0440,"Molly McOwens",VIDEO_GAMES_OPT_c8f9_000C
+"In the computer game Warnings at Waverly Academy, what was pictured on Nancy Drews cabin door?",VIDEO_GAMES_c927_0441,"Mr. Mingles, the cat",VIDEO_GAMES_OPT_c865_000A
+"Rick Arlen is known as an arrogant television star from Stay Tuned for Danger, but his picture appears in what place in another Nancy Drew game?",VIDEO_GAMES_ed6f_0442,"In a briefcase",VIDEO_GAMES_OPT_0b02_000B
+"The wolf in the computer game White Wolf of Icicle Creek was named Isis.",VIDEO_GAMES_609b_0443,True,VIDEO_GAMES_OPT_b329_000B
+"In the computer game The Final Scene, a flashing ring gave Nancy Drew the opportunity to save a friend.",VIDEO_GAMES_26b4_0444,True,VIDEO_GAMES_OPT_6e35_000A
+"In the Nancy Drew computer game Ghost Dogs of Moon Lake, what is the rangers last name?",VIDEO_GAMES_229a_0445,Smith,VIDEO_GAMES_OPT_8e35_000A
+"When you first start Wonderland Online, where do you find yourself?",VIDEO_GAMES_2eac_0446,"On a ship",VIDEO_GAMES_OPT_39c0_000A
+"When your raft gets washed up, what is the place it lands (for the first time) in the game Wonderland Online?",VIDEO_GAMES_a7fc_0447,"Starter Beach",VIDEO_GAMES_OPT_f223_000C
+"Which one of these is not a jelly monster you can find on North Island in the game Wonderland Online?",VIDEO_GAMES_9665_0448,Pear,VIDEO_GAMES_OPT_bb55_000B
+"In Wonderland Online, which of these makes your level go up?",VIDEO_GAMES_8aef_0449,"Killing monsters",VIDEO_GAMES_OPT_1257_000A
+"You can ride beasts that you capture in the game Wonderland Online.",VIDEO_GAMES_9432_0450,True,VIDEO_GAMES_OPT_c171_000A
+"In Wonderland Online it is possible to have a dinosaur as a pet.",VIDEO_GAMES_87d1_0451,True,VIDEO_GAMES_OPT_9089_000B
+"What game starts when you talk to some fierce rabbits at Kelan Village in Wonderland Online?",VIDEO_GAMES_1e04_0452,Reaction,VIDEO_GAMES_OPT_22a9_000D
+"What does a mermaid at North Island ask you to fetch for her as a quest in the game Wonderland Online?",VIDEO_GAMES_61e3_0453,"A shell",VIDEO_GAMES_OPT_5e16_000D
+"How many characters in Super Smash Bros Brawl have the Final Smash Attack of Landmaster?",VIDEO_GAMES_eb1b_0454,3,VIDEO_GAMES_OPT_10d4_000B
+"How many characters are there at the beginning of Super Smash Bros Brawl?",VIDEO_GAMES_214b_0455,20,VIDEO_GAMES_OPT_4466_000D
+"How many Super Smash Bros Brawl characters have 2+ characters in their team?",VIDEO_GAMES_6b50_0456,5,VIDEO_GAMES_OPT_4fa4_000B
+"How many bosses are there in Subspace Emissary in Super Smash Bros Brawl?",VIDEO_GAMES_61c3_0457,8,VIDEO_GAMES_OPT_8cc9_000C
+"What are the bosses in the first Metroid game?",VIDEO_GAMES_bf98_0458,"Ridley, Kraid, Mother Brain",VIDEO_GAMES_OPT_4f15_000C
+"Chronologically what is the last boss Samus has faced in the Metroid series?",VIDEO_GAMES_287b_0459,"Omega Metroid",VIDEO_GAMES_OPT_8cbd_000A
+"In Metroid Prime 3: Corruption Samus fights Meta Ridley while falling down which of the following?",VIDEO_GAMES_03df_0460,"Generator Shaft",VIDEO_GAMES_OPT_c9b3_000B
+"Why is Phatoons eye his weak point in the Metroid series?",VIDEO_GAMES_2910_0461,"His eye is the only thing that connects him to the material world.",VIDEO_GAMES_OPT_2baa_000B
+"The Pinnacle of Project Helix is what kind of Phazon Infused Space Pirate?",VIDEO_GAMES_a546_0462,"Omega Pirate",VIDEO_GAMES_OPT_248e_000C
+"In the Metroid series, the Vorashs weak point is its eyes.",VIDEO_GAMES_18b1_0463,False,VIDEO_GAMES_OPT_c4a4_000B
+"The final boss of Metroid Other M on hard mode is Phantoon.",VIDEO_GAMES_4671_0464,False,VIDEO_GAMES_OPT_2af2_000B
+"What is Nightmares main weapon in the Metroid series?",VIDEO_GAMES_22f6_0465,"Multi-laser system",VIDEO_GAMES_OPT_2af4_000D
+"The Berserker Lord is fought twice in the Metorid series.",VIDEO_GAMES_f209_0466,True,VIDEO_GAMES_OPT_bb4c_000A
+"Where does the first game of the Crysis series take place?",VIDEO_GAMES_9dae_0467,"Lingshan Islands",VIDEO_GAMES_OPT_6915_000C
+"Of the Crysis characters below, who is not a member of Raptor Team?",VIDEO_GAMES_a270_0468,Alcatraz,VIDEO_GAMES_OPT_05ad_000B
+"What Crysis character founded C.E.L.L?",VIDEO_GAMES_b559_0469,"Jacob Hargreave",VIDEO_GAMES_OPT_a050_000A
+"Which city is not a Ceph point of interest in the Crysis game series?",VIDEO_GAMES_b271_0470,Paris,VIDEO_GAMES_OPT_f6ff_000B
+"In the Crysis games Ceph Organisms are nicknamed Stalkers.",VIDEO_GAMES_893d_0471,True,VIDEO_GAMES_OPT_a0c0_000B
+"What is the Typhoons Rate of Fire in the Crysis games?",VIDEO_GAMES_8676_0472,"500 Rounds Per second",VIDEO_GAMES_OPT_939e_000D
+"You can not destroy a round from the Gravity Bomb Launcher in the Crysis games.",VIDEO_GAMES_8f90_0473,False,VIDEO_GAMES_OPT_77da_000B
+"Prophet dies at the beginning of Crysis 2 .",VIDEO_GAMES_84c9_0474,True,VIDEO_GAMES_OPT_d14e_000A
+"In the Crysis games, Pingers do not fire at Alcatraz when he is cloaked.",VIDEO_GAMES_5fc3_0475,False,VIDEO_GAMES_OPT_f94a_000B
+"What year was Crysis character Jacob Hargreave born?",VIDEO_GAMES_ee96_0476,1896,VIDEO_GAMES_OPT_88be_000B
+"Which map is considered as a remake of the much loved Halo 3 map Valhalla?",VIDEO_GAMES_ed7b_0477,Ragnarok,VIDEO_GAMES_OPT_45be_000D
+"The plasma rifle is the first covenant weapon to be unlocked in the multiplayer mode of Halo 4.",VIDEO_GAMES_1702_0478,False,VIDEO_GAMES_OPT_7743_000B
+"What are the only two weapons you can use in Grifball in Halo 4 Multiplayer?",VIDEO_GAMES_e9be_0479,"Gravity Hammer and Energy Sword",VIDEO_GAMES_OPT_3371_000A
+"What is the award you get for infecting every player in Flood mode in Halo 4 Multiplayer?",VIDEO_GAMES_8639_0480,Gravemind,VIDEO_GAMES_OPT_e211_000B
+"Which  Halo 4 Multiplayer map has a Mantis being constructed in the center of the map?",VIDEO_GAMES_3a02_0481,None,VIDEO_GAMES_OPT_d82c_000B
+"You can drop weapons of your choice in Halo 4.",VIDEO_GAMES_8aee_0482,True,VIDEO_GAMES_OPT_d4c4_000B
+"On what ship does the Halo 4 Multiplayer take place?",VIDEO_GAMES_0c5a_0483,"UNSC Infinity",VIDEO_GAMES_OPT_b591_000B
+"The Binary Rifle in Halo 4 can only kill someone with a headshot.",VIDEO_GAMES_3ef5_0484,False,VIDEO_GAMES_OPT_8cfa_000A
+"What is the Promethean pistol called in Halo 4?",VIDEO_GAMES_2005_0485,Boltshot,VIDEO_GAMES_OPT_f2c0_000D
+"Which armor ability allows the user to see through walls in Halo 4?",VIDEO_GAMES_c94e_0486,"Promethean Vision",VIDEO_GAMES_OPT_b943_000B
+"What happens when you die in the 2006 Runescape Halloween Event?",VIDEO_GAMES_8606_0487,"The Grim Reaper comes to claim your body.",VIDEO_GAMES_OPT_3e65_000B
+"Jagex Ltd released RuneScape 3 in 2004.",VIDEO_GAMES_6f2f_0488,False,VIDEO_GAMES_OPT_3245_000B
+"In Runescape a chicken is a level 1 monster.",VIDEO_GAMES_6a27_0489,True,VIDEO_GAMES_OPT_df33_000B
+"Zezima is the name of a Runescape player who was first ranked number 1 in 2003.",VIDEO_GAMES_bd36_0490,False,VIDEO_GAMES_OPT_894e_000A
+"When were Runescape Bots introduced?",VIDEO_GAMES_d717_0491,"January 2001",VIDEO_GAMES_OPT_7f6d_000B
+"How many sub-quests are there in the quest Recipe for Disaster?",VIDEO_GAMES_6fff_0492,10,VIDEO_GAMES_OPT_57fa_000D
+"The King Black Dragon was the highest level monster in Runescape until 7 September 2004, when it was replaced by which of the following?",VIDEO_GAMES_055c_0493,"The Kalphite Queen",VIDEO_GAMES_OPT_0f5e_000D
+"Did any Runescape player manage to kill the Corporal Beast by themselves without abusing a glitch during the first year of the Beasts release?",VIDEO_GAMES_0f1c_0494,No,VIDEO_GAMES_OPT_afa0_000A
+"On Tutorial Island of RuneScape you get runes from a male character.",VIDEO_GAMES_8df0_0495,True,VIDEO_GAMES_OPT_b020_000B
+"Which of these RuneScape weapons is the most powerful?",VIDEO_GAMES_8221_0496,"Ahrims staff",VIDEO_GAMES_OPT_b074_000D
+"Which of these is the best type of RuneScape weapon for non members?",VIDEO_GAMES_9e3b_0497,Dragon,VIDEO_GAMES_OPT_068c_000D
+"Which of these RuneScape quests is the most difficult?",VIDEO_GAMES_d007_0498,"Monkey Madness",VIDEO_GAMES_OPT_860e_000C
+"Christopher Greenfield is the creator of the RuneScape game.",VIDEO_GAMES_de59_0499,False,VIDEO_GAMES_OPT_b2ed_000A
+"The creator of RuneScape was helped by his cousin in developing the game.",VIDEO_GAMES_392b_0500,True,VIDEO_GAMES_OPT_ea54_000B
+"Is is true that in RuneScape, the Corporeal Beast is level 311, the highest level?",VIDEO_GAMES_f483_0501,No,VIDEO_GAMES_OPT_3925_000B
+"Which of the following is not a place in RuneScape?",VIDEO_GAMES_7e60_0502,"Duel Wars",VIDEO_GAMES_OPT_7d0b_000B
+"Name the female character and one of the four survivors in LFD1.",VIDEO_GAMES_c7f0_0503,Zoey,VIDEO_GAMES_OPT_964b_000B
+"What is the main difference between LFD1 and LFD2 in regard to use of weapons?",VIDEO_GAMES_1cd0_0504,"In LFD1 there are no melee weapons like the ax or the machete.",VIDEO_GAMES_OPT_71ae_000B
+"Setting off a car alarm scares off the zombies in LFD.",VIDEO_GAMES_2727_0505,False,VIDEO_GAMES_OPT_7d6d_000B
+"A pipe bomb is an ideal weapon to destroy LFD zombies because it is a silent weapon and they wont hear it when you throw it among a group of them.",VIDEO_GAMES_4cb8_0506,False,VIDEO_GAMES_OPT_7618_000A
+"Unlike in other video or PC games you cannot save a game in LFD and then come back later to play it from where you left off.",VIDEO_GAMES_5d25_0507,True,VIDEO_GAMES_OPT_41bb_000A
+"Name the fictional government agency or organization that was supposed to fight the infection and evacuate people from infected areas in LFD.",VIDEO_GAMES_6484_0508,CEDA,VIDEO_GAMES_OPT_b657_000A
+"In LFD2 the Parish campaign takes place in this city.",VIDEO_GAMES_562a_0509,"New Orleans",VIDEO_GAMES_OPT_06d8_000D
+"What is the name of fictional band featured in LFD2?",VIDEO_GAMES_350b_0510,"The Midnight Riders",VIDEO_GAMES_OPT_5e29_000D
+"What pestilence or disease caused people to turn into zombies and deformed some of them into super mutants in LFD?",VIDEO_GAMES_b116_0511,"The green flu",VIDEO_GAMES_OPT_3e60_000D
+"What is the name of the race car driver encountered in the Dead Center campaign of LFD2?",VIDEO_GAMES_bc20_0512,"Jimmy Gibbs Jr.",VIDEO_GAMES_OPT_8736_000C
+"In LFD1 the achievement known as Do Not Disturb is awarded for which of the following?",VIDEO_GAMES_a743_0513,"Sneaking past all Witches in a campaign without disturbing one",VIDEO_GAMES_OPT_ff49_000D
+"In LFD2 the achievement known as the CHAIN OF COMMAND is awarded for which of the following?",VIDEO_GAMES_01a1_0514,"Killing 100 Common Infected with the chainsaw",VIDEO_GAMES_OPT_9d45_000C
+"You can add more maps and campaigns in LFD1 and LFD2.",VIDEO_GAMES_0756_0515,True,VIDEO_GAMES_OPT_c6c7_000B
+"In both LFD1 and LFD2, accumulating more cash than the other survivors will give you an advantage.",VIDEO_GAMES_c4b1_0516,False,VIDEO_GAMES_OPT_25ed_000B
+"What unique Zord do the Time Force Rangers have?",VIDEO_GAMES_f3a6_0517,"Time Shadow",VIDEO_GAMES_OPT_a3fe_000A
+"Zelda, featured in The Legend of Zelda series of video games, is what kind of character?",VIDEO_GAMES_ac73_0518,"The princess",VIDEO_GAMES_OPT_7541_000C
+"What is the currency used in the Legend of Zelda video game series?",VIDEO_GAMES_a0b2_0519,Rupees,VIDEO_GAMES_OPT_1cc6_000D
+"Which of these is not a race featured in the Legend of Zelda video games?",VIDEO_GAMES_1fe7_0520,Hobbit,VIDEO_GAMES_OPT_0e39_000C
+"Which of these items is always in Links arsenal in the Legend of Zelda games?",VIDEO_GAMES_65d9_0521,Boomerang,VIDEO_GAMES_OPT_1008_000A
+"In The Legend of Zelda series of video games Zelda possesses which piece of the Triforce?",VIDEO_GAMES_a897_0522,Wisdom,VIDEO_GAMES_OPT_2638_000B
+"Is there a game called Super Mario Tennis?",VIDEO_GAMES_14d2_0523,No,VIDEO_GAMES_OPT_653b_000B
+"There are Mario games featuring racing, baseball, soccer, tennis, and golf.",VIDEO_GAMES_1586_0524,True,VIDEO_GAMES_OPT_ed25_000B
+"Which of the following characters is NOT a sidekick in Super Mario Strikers?",VIDEO_GAMES_9a22_0525,Paratroopa,VIDEO_GAMES_OPT_5f60_000A
+"In Mario Superstar Baseball what do you have to you use to unleash your characters super pitch?",VIDEO_GAMES_b420_0526,"A star",VIDEO_GAMES_OPT_586a_000C
+"In Mario Kart, characters are classified as either heavy or light.",VIDEO_GAMES_a523_0527,False,VIDEO_GAMES_OPT_f36d_000B
+"What is Luigis power shot in Mario Power Tennis?",VIDEO_GAMES_54da_0528,"A hammer",VIDEO_GAMES_OPT_a99c_000C
+"In Mario Power Tennis, Bowsers racket has spikes on it.",VIDEO_GAMES_6be6_0529,True,VIDEO_GAMES_OPT_161d_000A
+"What is the most basic court in Mario Power Tennis?",VIDEO_GAMES_4c0f_0530,"Peach Dome",VIDEO_GAMES_OPT_19fd_000C
+"Sonic the Hedgehog is the protagonist of a video game, released by Nintendo.",VIDEO_GAMES_35b7_0531,False,VIDEO_GAMES_OPT_525f_000B
+"Which one of these game systems was released by Nintendo?",VIDEO_GAMES_471b_0532,snes,VIDEO_GAMES_OPT_bfb8_000C
+"Does Nintendos mascot Mario wear a red and black hat?",VIDEO_GAMES_293d_0533,No,VIDEO_GAMES_OPT_a5c1_000A
+"Is it true that Kirby, the protagonist of the Kirby game series, is pink?",VIDEO_GAMES_8745_0534,Yes,VIDEO_GAMES_OPT_7dd6_000B
+"Captain Falcon, from the F-Zero video games, is a pirate.",VIDEO_GAMES_8079_0535,False,VIDEO_GAMES_OPT_9f49_000B
+"Which of these games was not released by Nintendo?",VIDEO_GAMES_e908_0536,"Assassins Creed",VIDEO_GAMES_OPT_c343_000C
+"Which Super Smash Bros. Melee character can be unlocked by defeating the 10-minute melee?",VIDEO_GAMES_a173_0537,Falco,VIDEO_GAMES_OPT_7c8e_000A
+"Which character in Super Smash Bros. Melee can be unlocked by beating the game with every character?",VIDEO_GAMES_7d35_0538,"Mr. Game and Watch",VIDEO_GAMES_OPT_71d0_000C
+"Which character in Super Smash Bros. Melee did not have a grapple ability?",VIDEO_GAMES_293a_0539,Zelda,VIDEO_GAMES_OPT_3a37_000A
+"Which Pokemon character in Super Smash Bros. Melee damages itself by using its B button moves?",VIDEO_GAMES_100a_0540,Pichu,VIDEO_GAMES_OPT_de19_000C
+"Which character in Super Smash Bros. Melee is the final boss of the normal game (Classic Mode)?",VIDEO_GAMES_853d_0541,"Master Hand",VIDEO_GAMES_OPT_ef42_000C
+"Which character in Super Smash Bros. Melee could jump more than once in midair?",VIDEO_GAMES_a1ab_0542,Kirby,VIDEO_GAMES_OPT_1d17_000C
+"Which character in Super Smash Bros. Melee is unlocked by beating the game with a character from the same game?",VIDEO_GAMES_7947_0543,Roy,VIDEO_GAMES_OPT_d796_000C
+"Which character in Super Smash Bros. Melee had the ability to pick up other characters and walk with them?",VIDEO_GAMES_d7e7_0544,"Donkey Kong",VIDEO_GAMES_OPT_09ec_000B
+"Which of the following game series featured the most Super Smash Bros. Melee characters?",VIDEO_GAMES_8149_0545,Mario,VIDEO_GAMES_OPT_4ed2_000B
+"Which character in Super Smash Bros. Melee does not have a saving Up B button move?",VIDEO_GAMES_6780_0546,Yoshi,VIDEO_GAMES_OPT_9412_000A
+"What is the name of the main character in the 2006 third-person shooter Gears of War?",VIDEO_GAMES_58c7_0547,"Marcus Fenix",VIDEO_GAMES_OPT_d5b9_000A
+"In video game Gears of War, these creatures let loose loud piercing shrieks when they attack but are generally easy to kill.",VIDEO_GAMES_4b5d_0548,Wretches,VIDEO_GAMES_OPT_62e5_000A
+"In Gears of War, if you stay in the dark and walk slowly, the mutant race Kryll wont attack you.",VIDEO_GAMES_10a7_0549,False,VIDEO_GAMES_OPT_bd99_000A
+"In Gears of War, which of these creatures is blind, walks upright and hunts by smell?",VIDEO_GAMES_e64c_0550,Berserker,VIDEO_GAMES_OPT_fe6f_000C
+"In the third-person shooter Gears of War, can you kill the Corpser in the Locust tunnels by using the Hammer of Dawn?",VIDEO_GAMES_501d_0551,No,VIDEO_GAMES_OPT_c2d3_000B
+"What is the name of the Colonel who is in command according to the scenarios in Gears of War?",VIDEO_GAMES_b035_0552,Hoffman,VIDEO_GAMES_OPT_af0e_000C
+"In the Gears of War game, which member of Alpha Team is first found fighting in a small courtyard, alone and taunting the Locust?",VIDEO_GAMES_92da_0553,Cole,VIDEO_GAMES_OPT_d831_000A
+"Which difficulty setting can only be unlocked by completing Gears of War once on any difficulty?",VIDEO_GAMES_f1fa_0554,Insane,VIDEO_GAMES_OPT_8d3d_000C
+"General RAAM is protected by the mutant race Kryll when you try to kill him on the train at the end of Gears of War.",VIDEO_GAMES_cbb8_0555,True,VIDEO_GAMES_OPT_756a_000A
+"Which of these dragons is the strongest in the Runescape game?",VIDEO_GAMES_049d_0556,"Black Dragon",VIDEO_GAMES_OPT_b360_000C
+"Which of these Runescape creatures drops a Dragon 2H Sword?",VIDEO_GAMES_e710_0557,"Chaos Elemental",VIDEO_GAMES_OPT_99f2_000C
+"What is the name of the city in Runescape that you unlock after the Lost City Quest?",VIDEO_GAMES_5462_0558,Zanaris,VIDEO_GAMES_OPT_1602_000B
+"Which of these is the postal service in Runescape?",VIDEO_GAMES_fab6_0559,RPDT,VIDEO_GAMES_OPT_679f_000D
+"In the Runescape game you get a fishing skillcape in the Legends Guild.",VIDEO_GAMES_7159_0560,False,VIDEO_GAMES_OPT_abdb_000B
+"How many forms does the Calphite Queen have in the game Runescape?",VIDEO_GAMES_9bd1_0561,2,VIDEO_GAMES_OPT_16e3_000C
+"Which of these pets can you own in Runescape?",VIDEO_GAMES_9b61_0562,Kitten,VIDEO_GAMES_OPT_6714_000B
+"You can own a pet rock in the Runescape game.",VIDEO_GAMES_4678_0563,True,VIDEO_GAMES_OPT_ae69_000A
+"In the action/adventure game Killer7, the name of the assassin who can change between seven deadly personalities is Harman Smith.",VIDEO_GAMES_502d_0564,True,VIDEO_GAMES_OPT_cc10_000B
+"Which persona from the Killer7 game is the one with the Scope on his/her Automatic?",VIDEO_GAMES_d465_0565,Kaede,VIDEO_GAMES_OPT_558f_000D
+"In Killer7, what is the character Con Smithsâ€™ age?",VIDEO_GAMES_6d8a_0566,14,VIDEO_GAMES_OPT_dd0a_000B
+"Which voice-over actress, who has also done voices for Nickelodeon, is the voice of Kaede in Killer7?",VIDEO_GAMES_9021_0567,"Tara Strong",VIDEO_GAMES_OPT_89de_000B
+"What is the name of character Iwazarus ex-wife in the action/adventure game Killer7?",VIDEO_GAMES_c24c_0568,Mizaru,VIDEO_GAMES_OPT_7e78_000A
+"In the game Killer7, what is the name of Harmans maid?",VIDEO_GAMES_bc08_0569,Samantha,VIDEO_GAMES_OPT_92f3_000D
+"The only time you can use the save feature in Killer7 is when character Samantha is in what costume?",VIDEO_GAMES_a2f2_0570,"Maid uniform",VIDEO_GAMES_OPT_2f22_000D
+"What was Mask De Smithâ€™s profession before coming apart of the killersâ€™ team in Killer7?",VIDEO_GAMES_124c_0571,"Professional wrestler",VIDEO_GAMES_OPT_0d57_000D
+"In the action/adventure Killer7, who is the only informant able to contact the Killer7 team?",VIDEO_GAMES_55cb_0572,"Christopher Mills",VIDEO_GAMES_OPT_636c_000B
+"Besides your Avatar, what other characters can you get at the beginning of the game Baldurs Gate II: Shadows of Amn?",VIDEO_GAMES_b77a_0573,"Imoen, Jahiera, Minsc",VIDEO_GAMES_OPT_97e3_000A
+"Where can you get the gauntlets of ogre power in the game Baldurs Gate II: Shadows of Amn?",VIDEO_GAMES_8955_0574,"The Planar Sphere",VIDEO_GAMES_OPT_6b4a_000D
+"What ranger can you save in the game Baldurs Gate II: Shadows of Amn by defeating the Shadow lord in the ruin temple?",VIDEO_GAMES_f51c_0575,Merella,VIDEO_GAMES_OPT_9f43_000A
+"What organization takes Imoen from you, after you escape the first level in the game Baldurs Gate II: Shadows of Amn?",VIDEO_GAMES_9432_0576,"The Cowled Wizards",VIDEO_GAMES_OPT_a9af_000D
+"Who kidnaps Nalia in the game Baldurs Gate II: Shadows of Amn?",VIDEO_GAMES_15b6_0577,"Isaea Roenal",VIDEO_GAMES_OPT_fa66_000A
+"In the 2007 RuneScape Easter special, what item or items do you earn by helping the Easter bunny?",VIDEO_GAMES_68f4_0578,"A chicken suit",VIDEO_GAMES_OPT_9eae_000B
+"What two special benefits do RuneScape members get?",VIDEO_GAMES_1f66_0579,"special tree logs and special locations",VIDEO_GAMES_OPT_f39c_000C
+"In the RuneScape game, it is illegal to use a macroer.",VIDEO_GAMES_4eed_0580,True,VIDEO_GAMES_OPT_98db_000A
+"In the RuneScape game, the woodcutting skillcape lets you save a bird from a tree.",VIDEO_GAMES_b18f_0581,True,VIDEO_GAMES_OPT_df96_000B
+"On a non-member world in RuneScape, how many places can you travel to on the ship in Port Sarim?",VIDEO_GAMES_998d_0582,1,VIDEO_GAMES_OPT_ade9_000C
+"What animal is Santa on the 2005 RuneScape Christmas special?",VIDEO_GAMES_c8fc_0583,wolf,VIDEO_GAMES_OPT_2765_000B
+"What is the name of the dog the main character is trying to save in the Dogs Life video game?",VIDEO_GAMES_6fcb_0584,Daisy,VIDEO_GAMES_OPT_1131_000C
+"What changes on the dog every time you go to a different Poodle Parlour in the video game Dogs Life?",VIDEO_GAMES_79dd_0585,"his collar",VIDEO_GAMES_OPT_edef_000C
+"At what location do you first have to run away from the dog catcher in the Dogs Life video game?",VIDEO_GAMES_90c7_0586,"Village center",VIDEO_GAMES_OPT_fdd2_000C
+"When you pick up scents in the game Dogs Life, which of the following is not part of a competition with another dog?",VIDEO_GAMES_f4d4_0587,"Barking competition",VIDEO_GAMES_OPT_ba9a_000B
+"What are the names of Miss Peaches henchmen in the Dogs Life game?",VIDEO_GAMES_7e63_0588,"Wayne and Dwayne",VIDEO_GAMES_OPT_150e_000A
+"In the Dogs Life video game, what challenge do the purple scents start?",VIDEO_GAMES_1bda_0589,"Collect them all before time runs out",VIDEO_GAMES_OPT_bf18_000C
+"What improves your speed, stamina, and health in the game Dogs Life?",VIDEO_GAMES_f67d_0590,bones,VIDEO_GAMES_OPT_1510_000A
+"Which of the following is NOT found at the grooming parlour in the video game Dogs Life?",VIDEO_GAMES_5b8d_0591,shaver,VIDEO_GAMES_OPT_c7ca_000C
+"How many places can you go to by train in the Dogs Life game?",VIDEO_GAMES_7a5b_0592,3,VIDEO_GAMES_OPT_f51f_000A
+"What is the name of the radio show in the game Dogs Life?",VIDEO_GAMES_fae6_0593,"The Loud Brothers Live",VIDEO_GAMES_OPT_18d6_000D
+"What button do you press to dig in Dogs Life (PS2)?",VIDEO_GAMES_66f4_0594,Circle,VIDEO_GAMES_OPT_1893_000D
+"What color is Miss Peaches hair in the video game Dogs Life?",VIDEO_GAMES_4b2e_0595,Orange,VIDEO_GAMES_OPT_32d2_000A
+"Where is the Lucky 7s Machine located in the game Dogs Life?",VIDEO_GAMES_23e0_0596,"Lake Minniwahwah Cafe",VIDEO_GAMES_OPT_93d9_000D
+"In the Dogs Life video game, what is the name of the group of bandits at Boom City?",VIDEO_GAMES_ca8f_0597,"The Sleeping Bandits",VIDEO_GAMES_OPT_c4db_000A
+"What color is the jacket the girl wants you to get from the ski slopes in the video game Dogs Life?",VIDEO_GAMES_95e9_0598,yellow,VIDEO_GAMES_OPT_d6e7_000C
+"In the Dogs Life video game, what does the girl NOT ask you to bring to make her snowman?",VIDEO_GAMES_a6ff_0599,"a scarf",VIDEO_GAMES_OPT_4373_000A
